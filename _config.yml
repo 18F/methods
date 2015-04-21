@@ -1,0 +1,13 @@
+# Site settings
+title: 18F Method Cards
+email: andrew.maier@gsa.gov
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: ""
+url: "http://method-cards.local" # the base hostname & protocol for your site
+twitter_username: 18f
+github_username:  18f
+collections:
+  - methods

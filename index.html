@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Methods</h1>
+  <ul class="post-list">
+    {% for method in site.methods %}
+      <a class="post-link" href="{{ method.url | prepend: site.baseurl }}">
+      <article class="method h-post">
+        <div class="synopsis">
+          <h1>{{ method.title }}</h1>  
+          <dl>
+            <dt>Goal</dt>
+            <dd>{{ method.goal }}</dd>
+            <dt>What it is</dt>
+            <dd>{{ method.what }}</dd>
+            <dt>Why</dt>
+            <dd>{{ method.why }}</dd>
+            <dt>How</dt>
+            <dd>{{ method.how }}</dd>
+          </dl>
+        </div>
+        <aside>
+          {{ method.content }}
+        </aside>
+        </article>
+      </a>
+    {% endfor %}
+  </ul>
+</div>

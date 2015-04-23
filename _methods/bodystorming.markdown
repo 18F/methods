@@ -1,4 +1,7 @@
 expert: Andrew Maier
+gov-context: No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that bodystorming entails. (1320.3.H.3)
+That means: Storm away, no PRA needed!
+
 ---
 title: Bodystorming
 goal: Discover

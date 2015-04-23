@@ -1,10 +1,8 @@
-expert: Andrew Maier
-gov-context: No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that bodystorming entails. (1320.3.H.3)
-That means: Storm away, no PRA needed!
 
 ---
 title: Bodystorming
 goal: Discover
+expert: Andrew Maier
 
 what: <p>Bodystorming is brainstorming with the body. It’s an improvisational exercise that helps members of the project team transform themselves into members of the community being served, allowing them to better conceive of contextually relevant solutions to complex problems.</p>
 
@@ -19,6 +17,9 @@ how: |
       <li>Review the exercise as a team. Document some of the potential opportunities/challenges that this exercise suggests.</li>
     </ol>
     <p>Tip: If you anticipate discomfort from participants, it may be helpful to assign roles beforehand and start with a basic script.</p>
+
+gov-context: 
+	<p> No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that bodystorming entails. (1320.3.H.3) That means: Storm away, no PRA needed! </p>
 ---
 
 Ancillary info

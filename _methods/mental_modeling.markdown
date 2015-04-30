@@ -1,16 +1,32 @@
 ---
 title: Mental modeling
+
 goal: Discover
 
-why: <p>To identify parts of the interaction that are hurdles. To generate new ideas for solutions that are grounded in the physical experience of the problem. Also, physical interactions generate empathy!</p>
+talk-to: Andrew Maier
+
+what: |
+  <p>Considering how user interfaces affect user behaviors.</p>
+
+why: |
+  <p>To help designers anticipate and triage how particular design decisions might inform or facilitate future behavior.</p>
+
 
 how: |
-    <p>There are three levels of bodystorming, choose the level that’s right for the group and incorporates the right level of discomfort for a new group and new activity:</p>
-    <ul>
-      <li>Level 1: Go to the site you are studying, and do your work as normal. Don’t do any analysis, but be open to environmental cues and information that come from the observation.</li>
-      <li>Level 2: Use role play and props to start thinking through a new idea. Assign roles to people, making them either personas or objects, abstract or physical. It may be helpful for first-timers to assign the roles beforehand and start with a basic script.</li>
-      <li>Level 3:  Reflect on what happens, and why.</li>
-    </ul>
+  <ol>
+    <li>Create one, three-columned table per persona. Label the columns “Past,” “Present behavior,” “Future.”</li>
+    <li>In the middle column (“present behavior”), list the user’s current behaviors and pain points, one per row.</li>
+    <li>In the left-hand column (“past”), list the products, services, features, and/or interfaces that the user encounters as they get things done.</li>
+    <li>In the right-hand column (“future”), list the proposed products, services, features, and/or interface elements that a user might use to get things done.</li>
+    <li>Discuss the spaces between the columns. Think about how various aspects of the product’s interface shape its user’s understanding. Incorporate this information back into the project’s scope.</li>
+  </ol>
+
+resources: |
+  <ul>
+    <li><a href="http://rosenfeldmedia.com/books/mental-models/">http://rosenfeldmedia.com/books/mental-models/</a></li>
+    <li><a href="http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience">http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience</a></li>
+  </ul>
+
 ---
 
 Ancillary info

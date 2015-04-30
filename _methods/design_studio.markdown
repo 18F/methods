@@ -1,16 +1,37 @@
 ---
 title: Design studio
+
 goal: Discover
 
-why: <p>To identify parts of the interaction that are hurdles. To generate new ideas for solutions that are grounded in the physical experience of the problem. Also, physical interactions generate empathy!</p>
+talk-to: Erica Deahl, Andrew Maier, John Yuda
+
+what: |
+  <p>A visual way of facilitating communication (and brainstorming) between a project team and its stakeholders.</p>
+
+why: |
+  <p>To create a shared understanding and appreciation of the design problems confronting the project team.</p>
 
 how: |
-    <p>There are three levels of bodystorming, choose the level that’s right for the group and incorporates the right level of discomfort for a new group and new activity:</p>
-    <ul>
-      <li>Level 1: Go to the site you are studying, and do your work as normal. Don’t do any analysis, but be open to environmental cues and information that come from the observation.</li>
-      <li>Level 2: Use role play and props to start thinking through a new idea. Assign roles to people, making them either personas or objects, abstract or physical. It may be helpful for first-timers to assign the roles beforehand and start with a basic script.</li>
-      <li>Level 3:  Reflect on what happens, and why.</li>
-    </ul>
+  <ol>
+    <li>Invite 6-12 participants: stakeholders, users, and project team members who need to build a shared understanding. Let invitees know ahead of time what design prompt they will be asked to think through. Share any applicable research already conducted. Unless users will be present, share personas summarizing what users are trying to do and why.</li>
+    <li>
+      At the meeting: 
+      <ol>
+        <li>Review the design prompt and research shared.</li>
+        <li>Distribute paper and drawing materials to everyone. Ask participants to individually sketch concepts that address the prompt. Remind them that anyone can draw and artistic accuracy is not the goal of the exercise. 15-20 minutes.</li>
+        <li>In groups of three, have participants present their ideas to one another and solicit critiques.</li>
+        <li>Ask the groups of three to create a design(s) that combines the best aspects of their individual member’s contributions. </li>
+        <li>Regroup as a whole. Have each group of three present their ideas to everyone. Discuss. </li>        
+      </ol>
+    </li>
+    <li>After the meeting, make note of areas that participants consistently agreed or disagreed on. Incorporate areas of contention into the research plan and areas of consensus into design recommendations.</li>
+  </ol>
+
+resources: |
+  <ul>
+    <li><a href="https://vimeo.com/37861987">https://vimeo.com/37861987</a></li>
+  </ul>
+
 ---
 
 Ancillary info

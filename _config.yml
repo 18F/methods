@@ -11,3 +11,6 @@ twitter_username: 18f
 github_username:  18f
 collections:
   - methods
+    output: true
+    permalink: /method/:name/
+    layout: page

@@ -1,16 +1,21 @@
 ---
 title: Wireframing
-goal: Discover
 
-why: <p>To identify parts of the interaction that are hurdles. To generate new ideas for solutions that are grounded in the physical experience of the problem. Also, physical interactions generate empathy!</p>
+goal: Define
+
+talk-to: Andrew Maier
+
+what: |
+  <p>Lightweight, visual representations of a product or service.</p>
+
+why: |
+  <p>Low-fidelity design forces teams to prioritize information (substance) over decoration (style).</p>
 
 how: |
-    <p>There are three levels of bodystorming, choose the level that’s right for the group and incorporates the right level of discomfort for a new group and new activity:</p>
-    <ul>
-      <li>Level 1: Go to the site you are studying, and do your work as normal. Don’t do any analysis, but be open to environmental cues and information that come from the observation.</li>
-      <li>Level 2: Use role play and props to start thinking through a new idea. Assign roles to people, making them either personas or objects, abstract or physical. It may be helpful for first-timers to assign the roles beforehand and start with a basic script.</li>
-      <li>Level 3:  Reflect on what happens, and why.</li>
-    </ul>
+    <p>Wireframes are blueprints. Steer clear of font choices, color, or other style choices. A few helpful tools for building wireframes are OmniGraffle and Balsamiq Mockups, which purposefully keep the wireframe looking like rough sketches. These are conceptually easier to re-configure than a design that looks very polished.</p> 
+    <p>While making wireframes, it is useful to keep personas—and, specifically, their goals—in mind. Can people accomplish their tasks given the design you’re suggesting?</p>
+
+in-context: No <abbr title="paperwork reduction act">PRA</abbr> implications.
 ---
 
 Ancillary info

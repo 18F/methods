@@ -1,9 +1,28 @@
----
-layout: default
----
-<article class="method h-post">
-  <div class="synopsis">
-    <h1>{{ page.title }}</h1>  
-    TEST
-  </div>
-</article>
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <article class="method h-post">
+      <div class="synopsis">
+        <h1>{{ page.title }}</h1>  
+        <dl>
+          <dt>Goal</dt>
+          <dd>{{ page.goal }}</dd>
+          <dt>What it is</dt>
+          <dd>{{ page.what }}</dd>
+          <dt>Why</dt>
+          <dd>{{ page.why }}</dd>
+          <dt>Expert at 18F</dt>
+          <dd>{{ page.expert }}</dd>
+          <dt>How</dt>
+          <dd>{{ page.how }}</dd>
+        </dl>
+      </div>
+    </article>
+    {% include footer.html %}
+
+  </body>
+
+</html>

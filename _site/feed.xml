@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>18F Method Cards</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <description></description>
     <link>http://method-cards.local/</link>
     <atom:link href="http://method-cards.local/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Apr 2015 18:25:49 -0400</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2015 18:25:49 -0400</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2015 18:50:30 -0400</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2015 18:50:30 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

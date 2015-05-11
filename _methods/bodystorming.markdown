@@ -30,6 +30,7 @@ resources: |
   <ul>
     <li><a href="https://www.wickedproblems.com/6_bodystorming.php">https://www.wickedproblems.com/6_bodystorming.php</a></li>
   </ul>
+
 ---
 
-Ancillary info
+ogh

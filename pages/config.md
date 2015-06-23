@@ -1,7 +1,7 @@
 ---
 permalink: /updating-the-config-file/
 layout: default
-title: Updating the Config File
+title: Updating the config file
 ---
 - [Set the base URL and guide name](#set-baseurl-and-name)
 - [Copy the `exclude:` entries](#copy-exclude-entries)
@@ -28,8 +28,8 @@ name: {{site.name}}
 ```
 
 When run locally, the URL for this guide is
-`http://localhost:4000{{site.baseurl}}/`. _Remember to include the trailing
-`/` when serving locally!_ The Jekyll built-in webserver doesn't redirect to
+`http://localhost:4000{{site.baseurl}}/`. **Remember to include the trailing
+`/` when serving locally!** The Jekyll built-in webserver doesn't redirect to
 it automatically.
 
 The URLs of the individual section pages are relative to the `baseurl:`. For

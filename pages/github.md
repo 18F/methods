@@ -1,12 +1,12 @@
 ---
 permalink: /github-setup/
 layout: default
-title: GitHub Setup
+title: GitHub setup
 ---
 - [Create a new local repository](#create-local-repo)
 - [Create a new 18F GitHub repository](#create-18f-repo)
 
-Once you're finished pushing to your new 18F guide repo on GitHub, click the
+Once you've finished the steps below to push to your new 18F guide repo on GitHub, click the
 _Post Your Guide_ entry in the table of contents for the final steps to
 publish your guide.
 
@@ -14,7 +14,7 @@ publish your guide.
 
 Once you've got the `_config.yml` file up-to-date, in the root directory of
 your guide's repository, copy and paste these commands to remove all of the
-pages and images that came with this template (careful not to remove any files
+pages and images that came with this template (be careful not to remove any files
 that you actually intend to keep):
 
 ```

@@ -1,7 +1,7 @@
 ---
 permalink: /post-your-guide/
 layout: default
-title: Post Your Guide
+title: Post your guide
 ---
 - [Create the `18f-pages` branch](#create-18f-pages-branch)
 - [Set the default branch](#set-default-branch)
@@ -32,7 +32,7 @@ This will present you with the **Options** page. In the **Settings** section, se
 <img src="{{site.baseurl}}/images/gh-default-branch.png" alt="GitHub default branch option">
 
 Deleting the original `master` branch, both on GitHub and locally, is left as
-an exercise for the reader. Doing so will help avoid confusion in the long run,
+an exercise for the reader. Doing so will help avoid confusion in the long run
 but is not strictly necessary.
 
 ## <a name="set-webhook"></a>Create the publishing webhook

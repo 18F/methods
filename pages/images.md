@@ -1,7 +1,7 @@
 ---
 permalink: /adding-images/
 layout: default
-title: Adding Images
+title: Adding images
 ---
 To add images to your guide, first create an `images/` directory and place
 your images inside. You may want to use

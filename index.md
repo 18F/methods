@@ -5,7 +5,7 @@ title: Introduction
 ---
 This is the template used for the [Jekyll](http://jekyllrb.com/)-based [18F
 Guides](http://pages.18f.gov/guides/), derived from
-[CFPB/DOCter](https://github.com/CFPB/DOCter). It is structured to act as an
+[CFPB/DOCter](https://github.com/CFPB/DOCter). It's structured to act as an
 18F Guides Guide. The repository for this template is
 [18F/guides-template](https://github.com/18F/guides-template/).
 
@@ -35,7 +35,7 @@ $ guides-template/copy-template MY-EXISTING-GUIDE
 ```
 
 If your repository already has a `gh-pages` branch, you can create an
-`18f-pages` branch from it via:
+`18f-pages` branch from it by running these commands:
 
 ```
 $ git checkout -b 18f-pages gh-pages

@@ -14,7 +14,7 @@ permalink: pretty
 # Author/Organization info to be displayed in the templates
 author:
   name: 18F
-  url: https://18f.gsa.gov/design-methods
+  url: https://18f.gsa.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/18f-logo.png
@@ -51,3 +51,4 @@ repos:
 brand_color: "#1188ff"
 
 google_analytics_ua: UA-48605964-19
+highlighter: rouge

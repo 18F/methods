@@ -1,6 +1,6 @@
-baseurl: /guides-template
+baseurl: /design-methods
 markdown: redcarpet
-name: 18F Guides Template
+name: 18F Design Methods
 exclude:
 - go
 - copy-template
@@ -14,7 +14,7 @@ permalink: pretty
 # Author/Organization info to be displayed in the templates
 author:
   name: 18F
-  url: https://18f.gsa.gov
+  url: https://18f.gsa.gov/design-methods
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/18f-logo.png

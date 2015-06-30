@@ -1,7 +1,7 @@
 ---
 permalink: /decide/
 layout: default
-title: Phase > Decide
+title: Decide
 ---
 
 ## Description

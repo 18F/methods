@@ -1,7 +1,7 @@
 ---
 permalink: /discover/
 layout: default
-title: Phase > Discover
+title: Discover
 ---
 
 ## Description

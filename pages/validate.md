@@ -1,7 +1,7 @@
 ---
 permalink: /validate/
 layout: default
-title: Phase > Validate
+title: Validate
 ---
 
 ## Description

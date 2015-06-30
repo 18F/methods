@@ -1,7 +1,7 @@
 ---
 permalink: /make/
 layout: default
-title: Phase > Make
+title: Make
 ---
 
 ## Description

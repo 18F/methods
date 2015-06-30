@@ -1,6 +1,6 @@
-baseurl: /design-methods
+baseurl: /method-cards
 markdown: redcarpet
-name: 18F Design Methods
+name: 18F Methods
 exclude:
 - go
 - copy-template

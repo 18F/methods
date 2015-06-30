@@ -19,13 +19,13 @@ Lorem ipsum et dolor
 
 ### Team Workshops
 
-- [Design Studio]()
+- [Design Studio](../design-studio/)
 
 ### Research
 
-- [Card Sorting]()
-- [Cognitive Walkthrough]()
-- [Contextual Inquiry]()
+- [Card Sorting](../card-sorting/)
+- [Cognitive Walkthrough](../cognitive-walkthrough/)
+- [Contextual Inquiry](../contextual-inquiry/)
 - [Stakeholder Interviews]()
 - [Recruitment]()
 - [Paper Reduction Act]()

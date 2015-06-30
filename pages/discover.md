@@ -10,14 +10,14 @@ Lorem ipsum et dolor
 
 ## Methods
 
-### Project Plans
+### Project plans
 
 - [Feature Dot Voting]()
 - [KJ Method]()
 - [Operating Practice Audit]()
 - [Metric Definition]()
 
-### Team Workshops
+### Team workshops
 
 - [Design Studio](../design-studio/)
 

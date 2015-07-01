@@ -4,6 +4,8 @@ layout: default
 title: Validate
 ---
 
+Start exploring and testing your focused research.
+
 ## Methods
 
 ### Design validation

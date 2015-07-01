@@ -6,8 +6,6 @@ title: Decide
 
 Use what you’ve learned to start focusing your research on specific areas and groups.
 
-## Methods
-
 ### Analysis
 
 - [Content Audit](../content-audit/)

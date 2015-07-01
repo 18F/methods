@@ -6,8 +6,6 @@ title: Validate
 
 Start exploring and testing your focused research.
 
-## Methods
-
 ### Design validation
 
 - [Visual Preference Testing](../visual-preference-testing/)

@@ -6,8 +6,6 @@ title: Discover
 
 Learn as much as you can about the project and people involved.
 
-## Methods
-
 ### Project plans
 
 - [Feature Dot Voting](../feature-dot-voting/)

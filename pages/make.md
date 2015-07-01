@@ -4,10 +4,6 @@ layout: default
 title: Make
 ---
 
-## Description
-
-Lorem ipsum et dolor
-
 ## Methods
 
 ### Conceptual design

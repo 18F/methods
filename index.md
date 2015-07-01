@@ -4,6 +4,15 @@ layout: default
 title: Method Cards
 ---
 
-These are the 18F method cards. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mi ex, vestibulum ac fringilla ac, porttitor non ante. Sed placerat neque nunc, quis rutrum lacus commodo ut. Duis at faucibus ipsum. Maecenas tincidunt ut tellus eu sodales. Maecenas gravida.
+## Why method cards?
 
-Sed lacinia augue enim, in ullamcorper eros laoreet at. Pellentesque et mauris sit amet nulla dictum rutrum quis in massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur vehicula purus id interdum. Quisque est diam, laoreet nec tortor at, viverra blandit metus. Pellentesque interdum felis sed erat imperdiet mollis.
+A menu of available research methods will add rigor and structure to agile development
+To help 18F and our partner agencies create a shared vocabulary around what each method entails
+To help give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
+
+## We have grouped these methods into four phases
+
+- [Discover](./discover/): learn as much as you can about the project and people involved 
+- [Define](./define/): use what you’ve learned to start focusing your research on specific areas and groups of people 
+- [Develop](./develop/): start exploring and testing your focused research   
+- [Deliver](./deliver/): move towards a final product that’s ready to be launched and tested

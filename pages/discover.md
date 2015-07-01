@@ -4,18 +4,14 @@ layout: default
 title: Discover
 ---
 
-## Description
-
-Lorem ipsum et dolor
-
 ## Methods
 
 ### Project plans
 
-- [Feature Dot Voting]()
-- [KJ Method]()
-- [Operating Practice Audit]()
-- [Metric Definition]()
+- [Feature Dot Voting](../feature-dot-voting/)
+- [KJ Method](../kj-method/)
+- [Operating Practice Audit](../operating-practice-audit/)
+- [Metric Definition](../metric-definition/)
 
 ### Team workshops
 
@@ -26,8 +22,8 @@ Lorem ipsum et dolor
 - [Card Sorting](../card-sorting/)
 - [Cognitive Walkthrough](../cognitive-walkthrough/)
 - [Contextual Inquiry](../contextual-inquiry/)
-- [Stakeholder Interviews]()
-- [Recruitment]()
-- [Paper Reduction Act]()
-- [Heuristic Evaluation]()
-- [Privacy]()
+- [Stakeholder Interviews](../stakeholder-interviews/)
+- [Recruitment](../recruitment/)
+- [Paper Reduction Act](../paperwork-reduction-act/)
+- [Heuristic Evaluation](../heuristic/evaluation/)
+- [Privacy](../privacy/)

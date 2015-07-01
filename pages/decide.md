@@ -4,10 +4,6 @@ layout: default
 title: Decide
 ---
 
-## Description
-
-Lorem ipsum et dolor
-
 ## Methods
 
 ### Analysis

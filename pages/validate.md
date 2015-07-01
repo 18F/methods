@@ -4,10 +4,6 @@ layout: default
 title: Validate
 ---
 
-## Description
-
-Lorem ipsum et dolor
-
 ## Methods
 
 ### Design validation

@@ -6,5 +6,5 @@ title: Foundations
 
 ### Foundations
 
-- [Paper Reduction Act](../paperwork-reduction-act/)
+- [Paperwork Reduction Act](../paperwork-reduction-act/)
 - [Privacy](../privacy/)

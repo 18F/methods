@@ -39,6 +39,9 @@ navigation:
 - text: Validate
   url: validate/
   internal: true
+- text: Foundations
+  url: foundations/
+  internal: true
 
 repos:
 - name: Method Cards

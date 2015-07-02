@@ -8,23 +8,17 @@ Use what you’ve learned to start focusing your research on specific areas and 
 
 ### Analysis
 
-- [Content Audit](../content-audit/)
-- [Task Flow Analysis](../task-flow-analysis/)
 - [Comparitive Analysis](../comparitive-analysis/)
+- [Content Audit](../content-audit/)
 - [Design Principles](../design-principles/)
+- [Task Flow Analysis](../task-flow-analysis/)
 - [User Scenarios](../user-scenarios/)
-- [Personas](../personas/)
-- [Affinity Diagram](../affinity-diagram/)
-- [Storyboards](../storyboards/)
-- [Journey Map](../journey-map/)
-- [Style Tiles](../style-tiles/)
-- [Mental Model](../mental-model/)
 
 ### Models
 
-- [Personas](../personas/)
 - [Affinity Diagram](../affinity-diagram/)
-- [Storyboards](../storyboards/)
 - [Journey Map](../journey-map/)
-- [Style Tiles](../style-tiles/)
 - [Mental Model](../mental-model/)
+- [Personas](../personas/)
+- [Storyboards](../storyboards/)
+- [Style Tiles](../style-tiles/)

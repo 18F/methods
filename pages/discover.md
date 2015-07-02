@@ -10,8 +10,8 @@ Learn as much as you can about the project and people involved.
 
 - [Feature Dot Voting](../feature-dot-voting/)
 - [KJ Method](../kj-method/)
-- [Operating Practice Audit](../operating-practice-audit/)
 - [Metric Definition](../metric-definition/)
+- [Operating Practice Audit](../operating-practice-audit/)
 
 ### Team workshops
 
@@ -22,8 +22,6 @@ Learn as much as you can about the project and people involved.
 - [Card Sorting](../card-sorting/)
 - [Cognitive Walkthrough](../cognitive-walkthrough/)
 - [Contextual Inquiry](../contextual-inquiry/)
-- [Stakeholder Interviews](../stakeholder-interviews/)
-- [Recruitment](../recruitment/)
-- [Paper Reduction Act](../paperwork-reduction-act/)
 - [Heuristic Evaluation](../heuristic/evaluation/)
-- [Privacy](../privacy/)
+- [Recruitment](../recruitment/)
+- [Stakeholder Interviews](../stakeholder-interviews/)

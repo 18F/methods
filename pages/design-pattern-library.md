@@ -28,7 +28,8 @@ To aid in designing a solution that uses ui elements consistently. Maintaining a
 -  No PRA implications. No information is being collected from members of the public.
 
 
-Additional resources: 
--  https://boagworld.com/design/pattern-library/
--  http://alistapart.com/blog/post/getting-started-with-pattern-libraries
--  http://www.slideshare.net/WolfBruening/how-to-build-the-perfect-pattern-libraryy
+## Additional resources
+
+-  [https://boagworld.com/design/pattern-library/](https://boagworld.com/design/pattern-library/)
+-  [http://alistapart.com/blog/post/getting-started-with-pattern-libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
+-  [http://www.slideshare.net/WolfBruening/how-to-build-the-perfect-pattern-libraryy](http://www.slideshare.net/WolfBruening/how-to-build-the-perfect-pattern-libraryy)

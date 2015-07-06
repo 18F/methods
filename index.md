@@ -13,6 +13,6 @@ To help give less experienced or new researchers a gateway into well-documented 
 ## We have grouped these methods into four phases
 
 - [Discover](./discover/): learn as much as you can about the project and people involved 
-- [Decide](./define/): use what you’ve learned to start focusing your research on specific areas and groups of people
+- [Decide](./decide/): use what you’ve learned to start focusing your research on specific areas and groups of people
 - [Make](./make/): move towards a final product that’s ready to be launched and tested
 - [Validate](./validate/): start exploring and testing your focused research

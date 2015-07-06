@@ -16,7 +16,7 @@ Use what you’ve learned to start focusing your research on specific areas and 
 
 ### Models
 
-- [Affinity Diagram](../affinity-diagram/)
+- [Affinity Diagraming](../affinity-diagraming/)
 - [Journey Map](../journey-map/)
 - [Mental Model](../mental-model/)
 - [Personas](../personas/)

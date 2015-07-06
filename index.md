@@ -6,9 +6,9 @@ title: Method Cards
 
 ## Why method cards?
 
-A menu of available research methods will add rigor and structure to agile development
-To help 18F and our partner agencies create a shared vocabulary around what each method entails
-To help give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
+- A menu of available research methods will add rigor and structure to agile development.
+- To help 18F and our partner agencies create a shared vocabulary around what each method entails.
+- To help give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
 
 ## We have grouped these methods into four phases
 

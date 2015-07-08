@@ -1,10 +1,10 @@
 ---
-permalink: /card-sorting/
+permalink: "/card-sorting/"
 layout: default
 title: Cardsorting
+published: true
 ---
 
-Discover
 
 ## What it is
 

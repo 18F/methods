@@ -24,7 +24,7 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: Method cards
   url: index.html
   internal: true
 - text: Discover

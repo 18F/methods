@@ -4,6 +4,39 @@ layout: default
 title: Design pattern library
 ---
 
+<style>
+	.subnav {
+/*		width: 100%;*/
+	}
+	.left {
+		text-align:left;
+		width:33%;
+		float:left;
+	}
+	.middle {
+		text-align: center;
+		width: 33%;
+		float:left;
+	}
+	.right {
+		text-align: right;
+		width: 33%;
+		float:left;
+	}
+</style>
+
+<nav class="subnav">
+	<div class="left">
+		<a href="#">&lt; Previous method</a>
+	</div>
+	<div class="middle">
+		<a href="#">Back to Make</a>
+	</div>
+	<div class="right">
+		<a href="#">Next method &gt;</a>
+	</div>
+</nav>
+
 ## What it is
 
 A collection of ui elements used frequently across a design solution, consisting of the base patterns and helpful information about how to use them examples of the pattern being implemented, and rationale on what the pattern is, how it should be used, and why it’s a good pattern. Sample code snippets can also be included to aid in front end development.

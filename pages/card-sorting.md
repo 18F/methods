@@ -5,7 +5,6 @@ title: Cardsorting
 published: true
 ---
 
-
 ## What it is
 
 A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts. 

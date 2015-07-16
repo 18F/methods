@@ -31,4 +31,4 @@ No PRA implications. First, any given usability test should involve fewer than n
 
 ## Additional resources
 
-http://www.usabilitybok.org/summative-usability-testing
+[http://www.usabilitybok.org/summative-usability-testing](http://www.usabilitybok.org/summative-usability-testing)

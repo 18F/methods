@@ -22,3 +22,8 @@ To align the established branding guidelines and attributes of a solution with t
 
 ## Applied in government research
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5.(h)3. See the methods for Recruiting and Privacy for more tips on taking input from the public.
+
+## Additional resources
+
+* http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php
+* http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design

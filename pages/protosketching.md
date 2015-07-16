@@ -1,7 +1,7 @@
 ---
-permalink: /proto-sketching/
+permalink: /protosketching/
 layout: default
-title: Proto Sketching
+title: Protosketching
 ---
 
 ## What it is

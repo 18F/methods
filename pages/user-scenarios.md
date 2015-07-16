@@ -33,5 +33,5 @@ No PRA implications. No information is collected from the public.
 
 ## Additional resources
 
-http://www.usability.gov/how-to-and-tools/methods/scenarios.html
-http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/
+* http://www.usability.gov/how-to-and-tools/methods/scenarios.html
+* http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/

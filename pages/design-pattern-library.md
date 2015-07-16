@@ -5,12 +5,24 @@ title: Design pattern library
 ---
 
 <style>
-	.subnav {
+	.subnav a {
 /*		width: 100%;*/
+		border: none;
+	}
+	.subnav {
+		width: 66%;
+		padding-bottom: 1.8em;
+	}
+	.left, .middle, .right {
+		padding: 0.5em;
+/*		border-left: 1px solid #CCC;
+		border-top: 1px solid #CCC;
+		border-bottom: 1px solid #CCC;*/
 	}
 	.left {
 		text-align:left;
 		width:33%;
+/*		padding-left: 2em; */
 		float:left;
 	}
 	.middle {
@@ -22,12 +34,14 @@ title: Design pattern library
 		text-align: right;
 		width: 33%;
 		float:left;
+/*		padding-right: 2em;
+		border-right: 1px solid #CCC; */
 	}
 </style>
 
 <nav class="subnav">
 	<div class="left">
-		<a href="#">&lt; Previous method</a>
+		<a href="../wireframing/">&lt; Previous method</a>
 	</div>
 	<div class="middle">
 		<a href="#">Back to Make</a>

@@ -29,5 +29,5 @@ No PRA implications. No information is collected from the public.
 
 ## Additional resources
 
-* http://styletil.es/
-* http://alistapart.com/article/style-tiles-and-how-they-work
+* [http://styletil.es/](http://styletil.es/)
+* [http://alistapart.com/article/style-tiles-and-how-they-work](http://alistapart.com/article/style-tiles-and-how-they-work)

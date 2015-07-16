@@ -1,3 +1,9 @@
+---
+permalink: /visual-preference-testing/
+layout: default
+title: Visual Preference Testing
+---
+
 ## What it is
 A method that allows potential users to review and provide feedback on a solution’s ultimate visual direction.
 

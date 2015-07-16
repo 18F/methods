@@ -30,5 +30,5 @@ No PRA implications. No information is collected from the public.
 
 ## Additional resources:
 
-* http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips
-* http://www.usability.gov/how-to-and-tools/methods/task-analysis.html
+* [http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips](http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips)
+* [http://www.usability.gov/how-to-and-tools/methods/task-analysis.html](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)

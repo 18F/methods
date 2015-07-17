@@ -30,5 +30,9 @@ This method is especially useful if subjects have concerns about the time requir
 
 ## Applied in government research
 
--  No PRA implications, if done properly. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5.(h)3. Contextual interviews may rely on a conversation guide that helps the facilitator get insight into the user’s behavior, goals, and processes, but they should not be survey-like question and answer sessions. 
--  A pair of 18Fers visited two Dept of Labor/Wage Hour Division Investigators as they interviewed home health care workers who were subject to unpaid overtime and other infractions. Since it was a sensitive subject, the 18F team did not question the health care workers directly, but instead asked the investigators clarifying questions in private. 18F staff also made sure that photos did not include faces.
+-  No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5.(h)3. See the methods for Recruiting and Privacy for more tips on taking input from the public.
+-  For internal folk, get permission from the right level of management. If participants could be under union agreements, contact the agency’s labor relations team.
+
+## Example from 18F
+
+A pair of 18F team members visited two Department of Labor/Wage Hour Division investigators as they interviewed home health care workers who were subject to unpaid overtime and other infractions. Since it was a sensitive subject, the 18F team did not question the health care workers directly, but instead asked the investigators clarifying questions in private. 18F staff also made sure that photos did not include faces.

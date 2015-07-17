@@ -37,4 +37,4 @@ To remind participants that interactions are human and physical, to teach stakeh
 
 ## Additional resources
 
-- https://www.wickedproblems.com/6_bodystorming.php
+- [`https://www.wickedproblems.com/6_bodystorming.php`](https://www.wickedproblems.com/6_bodystorming.php)

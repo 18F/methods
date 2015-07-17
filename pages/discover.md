@@ -22,6 +22,6 @@ Learn as much as you can about the project and people involved.
 - [Card Sorting](../card-sorting/)
 - [Cognitive Walkthrough](../cognitive-walkthrough/)
 - [Contextual Inquiry](../contextual-inquiry/)
-- [Heuristic Evaluation](../heuristic/evaluation/)
+- [Heuristic Analysis](../heuristic-analysis/)
 - [Recruitment](../recruitment/)
 - [Stakeholder Interviews](../stakeholder-interviews/)

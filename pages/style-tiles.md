@@ -1,7 +1,7 @@
 ---
 permalink: /style-tiles/
 layout: default
-title: Style Tiles
+title: Style tiles
 ---
 
 ## What it is

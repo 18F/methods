@@ -1,7 +1,7 @@
 ---
 permalink: /cognitive-walkthrough/
 layout: default
-title: Cognitive Walkthrough
+title: Cognitive walkthrough
 ---
 
 ## What it is

@@ -1,7 +1,7 @@
 ---
 permalink: "/card-sorting/"
 layout: default
-title: Cardsorting
+title: Card sorting
 ---
 
 ## What it is

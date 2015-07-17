@@ -1,7 +1,7 @@
 ---
 permalink: /stakeholder-and-user-interviews/
 layout: default
-title: Stakeholder and User Interviews
+title: Stakeholder and user interviews
 ---
 
 ## What it is

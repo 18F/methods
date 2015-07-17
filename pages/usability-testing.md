@@ -1,7 +1,7 @@
 ---
 permalink: /usability-testing/
 layout: default
-title: Usability Testing
+title: Usability testing
 ---
 
 ## What it is

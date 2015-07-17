@@ -1,7 +1,7 @@
 ---
 permalink: /user-scenarios/
 layout: default
-title: User Scenarios
+title: User scenarios
 ---
 
 ## What it is

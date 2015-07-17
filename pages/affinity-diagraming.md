@@ -1,7 +1,7 @@
 ---
 permalink: /affinity-diagraming/
 layout: default
-title: Affinity Diagraming
+title: Affinity diagraming
 ---
 
 ## What it is

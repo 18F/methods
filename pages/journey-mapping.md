@@ -1,7 +1,7 @@
 ---
 permalink: /journey-mapping/
 layout: default
-title: Journey Mapping
+title: Journey mapping
 ---
 
 ## What it is

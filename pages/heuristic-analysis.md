@@ -1,7 +1,7 @@
 ---
 permalink: /heuristic-analysis/
 layout: default
-title: Heuristic Analysis
+title: Heuristic analysis
 ---
 
 ## What it is

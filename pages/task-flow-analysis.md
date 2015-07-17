@@ -1,7 +1,7 @@
 ---
 permalink: /task-flow-analysis/
 layout: default
-title: Task Flow Analysis
+title: Task flow analysis
 ---
 
 ## What it is

@@ -1,7 +1,7 @@
 ---
 permalink: /feature-dot-voting/
 layout: default
-title: Feature Dot Voting
+title: Feature dot voting
 ---
 
 ## What it is

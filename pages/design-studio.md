@@ -31,5 +31,6 @@ To create a shared understanding and appreciation of design problems confronting
 -  No PRA Implications. If conducted with 9 or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 
 
-Additional resources: 
--  https://vimeo.com/37861987 
+## Additional resources
+
+- [`https://vimeo.com/37861987`](https://vimeo.com/37861987 )

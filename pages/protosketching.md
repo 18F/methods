@@ -1,7 +1,7 @@
 ---
-permalink: /proto-sketching/
+permalink: /protosketching/
 layout: default
-title: Proto sketching
+title: Protosketching
 ---
 
 ## What it is
@@ -20,8 +20,8 @@ To stimulate stakeholder imaginations and focus discussion on issues about data,
 
 1. Gather project stakeholders and, most importantly, a small number of end users. This should be few enough that all participants can contribute individually.
 2. While one team member leads a discussion on project goals and possible solutions, another starts “protosketching,” or building a very basic version of an app or a website.
-3. As the protosketch acquires enough features to be usable, share it with the meeting attendees. If possible, let them access it on their own devices. 
-4. Use the prototype to elicit discussion of features and data. As the discussion continues, the protosketcher continues to (roughly) integrate some suggested features. 
+3. As the protosketch acquires enough features to be usable, share it with the meeting attendees. If possible, let them access it on their own devices.
+4. Use the prototype to elicit discussion of features and data. As the discussion continues, the protosketcher continues to (roughly) integrate some suggested features.
 5. As the meeting closes, emphasize that the protosketch isn’t necessarily the start of production-ready software, but a way to improve discussion about project requirements.
 
 ## Applied in government research

@@ -21,7 +21,7 @@ To align the established branding guidelines and attributes of a solution with t
 5. Publish the results to the complete product team and decide which direction will guide future design efforts.
 
 ## Applied in government research
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5.(h)3. See the methods for Recruiting and Privacy for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5.(h)3. See the methods for Recruiting and Privacy for more tips on taking input from members of the public.
 
 ## Additional resources
 

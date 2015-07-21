@@ -6,13 +6,13 @@ title: Contextual inquiry
 
 ## What it is
 
-An observation by all parts of the product team of users in context accompanied by questions to better understand their behavior. 
+An observation by all parts of the product team of users in context accompanied by questions to better understand their behavior.
 
 ## Reasons to use it
 
 To understand how and why users do (and don’t do) what they do in their own environments; to discover needs and attitudes that might not emerge in an interview format; to understand more fully when and how digital workflows touch other workflows; and to build empathy with users.
 
-This method is especially useful if subjects have concerns about the time required for a sit-down interview, or their work involves many or complex interactions with the product or solution that the project focuses on. It’s also useful for hardware/software discovery.[m]
+This method is especially useful if subjects have concerns about the time required for a sit-down interview, or their work involves many or complex interactions with the product or solution that the project focuses on. It’s also useful for hardware/software discovery.
 
 ## Time to conduct
 
@@ -22,11 +22,11 @@ This method is especially useful if subjects have concerns about the time requir
 
 1. Identify users to observe. Get permission (with government users, it is important to respect the supervisory hierarchy), schedule a time, and provide plenty of friendly reminders. Before the meeting, learn the dress code or other requirements to blend in.
 2. Bring a pen, notebook, recording device, and a phone or camera to the user’s work environment.
-3. Assign one researcher per user and ask for permission to record the session. Build rapport with users by telling them the reason for your research. Ask them to explain their work as though they were training a new employee. 
+3. Assign one researcher per user and ask for permission to record the session. Build rapport with users by telling them the reason for your research. Ask them to explain their work as though they were training a new employee.
 4. Ask the user to carry out their tasks as usual. Let them know that you will occasionally interrupt them with questions to better understand what they are doing and why. (Be polite, of course.)
-5. Ask lots of “how” questions, or keep asking “why is that?” to get deeper insights. 
+5. Ask lots of “how” questions, or keep asking “why is that?” to get deeper insights.
 6. At the end of the session, explain what you have learned. Ask users to point out anything that you may have misunderstood.
-7. Immediately after the interview, write up your notes. Use the research to inform other tools like journey mapping, task flow analysis, and personas. 
+7. Immediately after the interview, write up your notes. Use the research to inform other tools like journey mapping, task flow analysis, and personas.
 
 ## Applied in government research
 

@@ -32,12 +32,12 @@ URL
  - Updated date
  - Update frequency
  - Comments: a qualitative assessment — what to add, remove, or revise
-5 For a full site audit, do steps 1 and 4 for all content. Steps 2 and 3 may be useful but not necessary.
+5. For a full site audit, do steps 1 and 4 for all content. Steps 2 and 3 may be useful but not necessary.
 
 ## Applied in government research
 
-No PRA implications. No information is being collected from members of the public.
+No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 - [`http://uxmastery.com/how-to-conduct-a-content-audit/`](http://uxmastery.com/how-to-conduct-a-content-audit/)
--[`http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/`](http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/)
+- [`http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/`](http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/)

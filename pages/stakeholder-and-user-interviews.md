@@ -19,9 +19,9 @@ To build consensus about the problem statement and research objectives.
 ## How to do it
 
 1. Come to the interview with an guide for yourself of some question areas you’d like to ask about, and some specific questions as a back up. Questions will often concern the individual’s role, the organization, the individuals’ needs, and metrics for success of the project. Possible starters:
-   * &ldquo;What did you do yesterday?&rdquo;
-   * Ask lots of &ldquo;why is that&rdquo; and &ldquo;how do you do that&rdquo; questions.
-   * If there are other products they use or your product doesn’t have constraints imposed by prior work, observe the stakeholders using a competing product.
+   - &ldquo;What did you do yesterday?&rdquo;
+   - Ask lots of &ldquo;why is that&rdquo; and &ldquo;how do you do that&rdquo; questions.
+   - If there are other products they use or your product doesn’t have constraints imposed by prior work, observe the stakeholders using a competing product.
 2. Sit down on-on-one with the participant, or two-on-one with a note-taker or joint interviewer, in a focused environment. Introduce yourself. Explain the premise for the interview as far as you can without biasing their responses.
 3. Follow the conversational where the stakeholder takes it. They will focus on their priorities and interests. Be comfortable with silences, which allow the stakeholder to elaborate. To keep from getting entirely off course, use your interview guide to you make sure you cover what you need to.
 

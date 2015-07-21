@@ -6,7 +6,7 @@ title: Storyboarding
 
 ## What it is
 
-A visual sequence of a specific use case or scenario, coupled with a narrative. 
+A visual sequence of a specific use case or scenario, coupled with a narrative.
 
 ## Reasons to use it
 
@@ -26,9 +26,9 @@ To visualize interactions and relationships that might exist between a user and 
 
 ## Applied in government research
 
-No PRA implications. No information is collected from the public.
+No PRA implications. No information is collected from members of the public.
 
-## Additional resources: 
+## Additional resources:
 * [http://www.servicedesigntools.org/tools/13](http://www.servicedesigntools.org/tools/13)
 * [http://uxmag.com/articles/storyboarding-in-the-software-design-process](http://uxmag.com/articles/storyboarding-in-the-software-design-process)
 * [http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard)

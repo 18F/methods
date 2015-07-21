@@ -1,7 +1,7 @@
 ---
-permalink: /affinity-diagraming/
+permalink: /affinity-diagramming/
 layout: default
-title: Affinity diagraming
+title: Affinity diagramming
 ---
 
 ## What it is

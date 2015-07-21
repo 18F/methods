@@ -25,7 +25,7 @@ To establish a common visual language between the design team and stakeholders. 
 
 ## Applied in government research
 
-No PRA implications. No information is collected from the public.
+No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 

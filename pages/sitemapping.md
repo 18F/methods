@@ -23,4 +23,4 @@ To audit an existing website by assessing its structure and content. Site maps a
 
 ## Applied in government research
 
-No PRA implications. No information is collected from the public.
+No PRA implications. No information is collected from members of the public.

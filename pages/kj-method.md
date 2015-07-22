@@ -18,19 +18,25 @@ To reach a consensus on priorities of subjective, qualitative data with a group 
 
 ## How to do it
 
-1. Gather at least four participants for 90 minutes. Provide Post-It notes and markers. 
+1. Gather at least four participants for 90 minutes. Provide Post-It notes and markers.
+
 2. Determine a focus question and assign a facilitator.
+
 3. Give participants five minutes to write at least three responses to the focus question, each on its own note.
-4. Give participants 15 minutes to put their answers on the wall and read everyone’s contributions. Additions are welcome. Have participants cluster similar answers together without discussion. 
-5. Ask participants to write a name for each cluster on their own. Each participant must give each cluster a name. They may also split clusters. 
+
+4. Give participants 15 minutes to put their answers on the wall and read everyone’s contributions. Additions are welcome. Have participants cluster similar answers together without discussion.
+
+5. Ask participants to write a name for each cluster on their own. Each participant must give each cluster a name. They may also split clusters.
+
 6. Put every single name on the wall with its cluster. Exclude only word-for-word duplicates.
+
 7. Remind participants of the original question. Instruct each person to rank their three most important clusters. Visually tally points.
+
 8. Combine duplicate areas and their points if the group unanimously agrees they are identical. At the end, three or four groups usually rank much higher than the rest. Make these the top priorities for the focus question.
 
 ## Applied in government research
 
-Likely no PRA implications: generally any given session will likely have fewer than nine users. 5 CFR 1320.5(c)4. See the methods for Recruiting and Privacy for more tips on taking input from the public. 
-
+Likely no PRA implications: generally any given session will likely have fewer than nine users. 5 CFR 1320.5(c)4. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 
 ## Additional resources
 

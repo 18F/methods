@@ -6,7 +6,7 @@ title: Comparative analysis
 
 ## What it is
 
-A detailed review of either by direct competitors or by related agencies or services.  
+A detailed review of existing experiences provided either by direct competitors or by related agencies or services.
 
 ## Reasons to use it
 
@@ -18,13 +18,16 @@ To identify competitors’ solutions that excel, are lacking, or are missing cri
 
 ## How to do it
 
-1. Identify a list of services or agencies that would be either direct or related competitors to the service or client agency. Pare the list down to four or five competitors.
+1. Identify a list of services or agencies that would be either direct or related competitors to the service or client agency. Pare the list down to four or five.
+
 2. Establish which heuristics you will use to evaluate each service or agency offering.
-3. Break down the analysis into specific focal areas that will be evaluated for each selected service or agencies offering. For example, Search Results
-4. Complete a Google Sheets worksheet to capture the evaluation and determine how the targeted services and agencies perform based on the identified heuristics.
-5. Present the analysis which should showcase any areas of opportunities that can be taken advantage of and design patterns which should be adopted or avoided.
+
+3. Break down the analysis of each selected competitor into specific focal areas for evaluation. For example, how relevant are search results?
+
+4. Use a spreadsheet to capture the evaluation and determine how the targeted services and agencies perform based on the identified heuristics.
+
+5. Present the analysis, which should showcase areas of opportunities that you can take advantage of and design patterns you might adopt or avoid.
 
 ## Applied in government research
 
--  No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that bodystorming entails, 5 CFR 1320.5.(h)3.
--  If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
+No PRA implications. No information is collected from members of the public.

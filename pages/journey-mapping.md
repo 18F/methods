@@ -24,17 +24,19 @@ To provide design teams with a bird’s-eye view of a design system, helping the
  - Information, devices, and services they use (in service of their behaviors);
  - A set of discrete moments or major decisions they make;
  - The emotions associated with these moments or decisions. Emoticons or emoji work well here.
-2. Create a visual map showing the order in which people exhibit behaviors, use information, make decisions, and have emotions. A few different approaches: 
+
+2. Create a visual map showing the order in which people exhibit behaviors, use information, make decisions, and have emotions. A few different approaches:
  - Group elements into a table of “phases” related to the personal narrative of each persona.
  - Create a graphic representation of this data by illustrating the narrative of each persona and where they share contextual components with one another.
- - A combination of the two. 
+ - A combination of the two.
+
 3. Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish design principles. Think about how to collapse or accelerate a customer’s journey through the various phases. Incorporate this information into the project’s scope.
 
-You can also map user journeys as part of a workshop with stakeholders, similar to a design studio.
+You can also map user journeys as part of a workshop with stakeholders, similar to a [design studio](../design-studio/).
 
 ## Applied in government research
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5.(h)3. Any user who participates will lead you through their journey their own way. See the methods for Recruiting and Privacy for more tips on taking input from the public. 
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3. Any user who participates will lead you through their journey their own way. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 
 ## Additional resources
 

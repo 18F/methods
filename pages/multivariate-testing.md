@@ -14,14 +14,18 @@ To incorporate different contexts, channels, or user types into addressing a use
 
 ## Time to conduct
 
-2–5 days of effort, 1–4 weeks including the testing period
+2–5 days of effort, 1–4 weeks elapsed through the testing period
 
 ## How to do it
 
 1. Identify the call to action, content section, or feature that needs to be improved to increase conversion rates or user engagement.
-2. Develop a list of possible issues that may be hurting conversion rates or engagement. Specify in advance what you are optimizing for (possibly through metrics definition).
+
+2. Develop a list of possible issues that may be hurting conversion rates or engagement. Specify in advance what you are optimizing for (possibly through [metrics definition](../metrics-definition/)).
+
 3. Design several solutions that aim to address the issues listed. Each solution should attempt to address every issue by using a unique combination of variants so each solution can be compared fairly.
+
 4. Use a web analytics tool that supports multivariate testing, such as Google Website Optimizer or Visual Website Optimizer, to set up the testing environment. Conduct the test for long enough to produce statistically significant results.
+
 5. Analyze the testing results to determine which solution produced the best conversion or engagement rates. Review the other solutions, as well, to see if there is information worth examining in with future studies.
 
 ## Applied in government research

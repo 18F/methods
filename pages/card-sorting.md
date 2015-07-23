@@ -12,9 +12,9 @@ A categorization exercise in which participants divide concepts into different g
 
 To create content structures that are user-informed and intuitive.
 
-## Time to conduct
+## Time required
 
-15–30 minutes per user
+**Medium:** 15–30 minutes per user
 
 ## How to do it
 

@@ -16,11 +16,11 @@ Method Cards
 
 ## We’ve called out specifics about doing this work in government.
 
-For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at methods for [Recruiting](../recruiting/), [Incentives](../incentives/), [Informed consent](../informed-consent/), [Privacy](../privacy/), and the [Paperwork Reduction Act](../paperwork-reduction-act/). No matter which other methods we work with, these are the [foundations](../foundations/) for all our design research.
+For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at methods for [Recruiting](pages/recruiting/), [Incentives](pages/incentives/), [Informed consent](pages/informed-consent/), [Privacy](pages/privacy/), and the [Paperwork Reduction Act](pages/paperwork-reduction-act/). No matter which other methods we work with, these are the [foundations](pages/foundations/) for all our design research.
 
 ### Public domain
 
-This project is in the worldwide [public domain](./LICENSE.md). As stated in [CONTRIBUTING](/.CONTRIBUTING.md):
+This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
 > This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 >

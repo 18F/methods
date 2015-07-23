@@ -1,4 +1,25 @@
-## 18F Guides Template
+Method Cards
+===============
+
+## Why method cards?
+
+- To add rigor and structure to agile development.
+- To build a shared vocabulary for each method among 18F staff and our partner agencies.
+- To give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
+
+## We’ve grouped these methods into four phases
+
+- **Discover**: Learn as much as you can about the project and people involved.
+- **Decide**: Use what you’ve learned to start focusing your research on specific areas and groups of people.
+- **Make**: Move toward a final product that’s ready to be released and tested.
+- **Validate**: Test your research, design, and product.
+
+## We’ve called out specifics about doing this work in government.
+
+For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at methods for [Recruiting](pages/recruiting/), [Incentives](pages/incentives/), [Informed consent](pages/informed-consent/), [Privacy](pages/privacy/), and the [Paperwork Reduction Act](pages/paperwork-reduction-act/). No matter which other methods we work with, these are the [foundations](pages/foundations/) for all our design research.
+
+
+## This site is built using the 18F Guides Template
 
 This is a skeleton repo containing the
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based

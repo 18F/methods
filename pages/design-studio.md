@@ -18,7 +18,7 @@ To create a shared understanding and appreciation of design problems confronting
 
 ## How to do it
 
-1. Invite between six and 12 participants: stakeholders, users, and project team members who need to build a shared understanding. Provide invitees ahead of time with the design prompt for the session. Share applicable research already conducted. Unless users will be present, share personas summarizing what users are trying to do and why.
+1. Invite between six and 12 participants: stakeholders, users, and project team members who need to build a shared understanding. Provide invitees ahead of time with the design prompt for the session. Share applicable research already conducted. Unless users will be present, share [personas](../personas/) summarizing what users are trying to do and why.
 
 2. Bring drawing materials to the meeting. At the start of the meeting, review the design prompt and research you shared.
 

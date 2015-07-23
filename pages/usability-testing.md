@@ -18,11 +18,11 @@ To learn a given design’s challenges, opportunities, and successes.
 
 ## How to do it
 
-1. [Create a prototype](../prototyping/) that sufficiently conveys the team’s hypothesis based on research. In the absence of a prototype, consider testing a competitor’s product.
+1. [Create a prototype](../prototyping/) that sufficiently conveys the team’s hypothesis based on research. In the absence of a prototype, consider testing a [competitor’s product](../comparative-analysis/).
 
-2. Stage a scenario in which someone who would actually use your product tries to employ the prototype for their own ends. Record their attempt. Optionally: 
+2. Stage a scenario in which someone who would actually use your product tries to employ the prototype for their own ends. Record their attempt. Optionally:
  - Ask users to think out loud as they try.
- - Compensate the participant for their time.
+ - [Compensate the participant](../incentives/) for their time.
 
 3. Avoid asking participants to perform tasks far outside their normal context. This will lead them to reflect on the design rather than their ability to accomplish their goals. (For example, to test a new layout for a “user account” section on a voter registration website, recruit only people who already register to vote online.)
 

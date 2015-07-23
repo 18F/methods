@@ -10,7 +10,7 @@ A detailed review of existing experiences provided either by direct competitors 
 
 ## Reasons to use it
 
-To identify competitors’ solutions that excel, are lacking, or are missing critical design elements. Comparative analysis can  give new solutions a competitive edge by identifying areas of opportunity, gaps in experience offerings, and potential design patterns to adopt or avoid.
+To identify competitors’ solutions that excel, are lacking, or are missing critical design elements. Comparative analysis can give new solutions a competitive edge by identifying areas of opportunity, gaps in experience offerings, and potential design patterns to adopt or avoid.
 
 ## Time required
 

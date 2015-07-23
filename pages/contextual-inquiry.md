@@ -10,7 +10,7 @@ The product team unobtrusively observes participants at work, with their permiss
 
 ## Reasons to use it
 
-To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an interview; to map how tools, digital and otherwise, interact during complex activities.
+To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an [interview](../stakeholder-and-user-interviews/); to map how tools, digital and otherwise, interact during complex activities.
 
 ## Time required
 
@@ -20,7 +20,7 @@ To learn how and why users do what they do; to discover needs and attitudes that
 
 1. With permission from a supervisor and from the participant, schedule a time to watch a typical work activity and record data.
 
-2. While observing, ask the participant to act normally. Pretend you're a student learning how to do the job. Ask questions to help you understand what the person is doing and why.
+2. While observing, ask the participant to act normally. Pretend you’re a student learning how to do the job. Ask questions to help you understand what the person is doing and why.
 
 3. At the end of the session, explain what you have learned and check for errors.
 

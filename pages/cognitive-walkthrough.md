@@ -32,7 +32,7 @@ To understand whether a design solution is easy for a new or infrequent user to 
 
 ## Applied in government research
 
--  No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that [bodystorming](../bodystorming/) entails, 5 CFR 1320.5(h)3.
+-  No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that a cognitive walkthrough entails, 5 CFR 1320.5(h)3.
 -  If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
 
 Additional resources:

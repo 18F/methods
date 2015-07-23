@@ -8,7 +8,7 @@ Use what you’ve learned to start focusing your research on specific areas and 
 
 ### Analysis
 
-- [Comparitive analysis](../comparitive-analysis/)
+- [Comparative analysis](../comparative-analysis/)
 - [Content audit](../content-audit/)
 - [Design principles](../design-principles/)
 - [Task flow analysis](../task-flow-analysis/)

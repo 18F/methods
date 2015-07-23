@@ -12,9 +12,9 @@ A visualization of the major interactions shaping a user’s experience of a pro
 
 To provide design teams with a bird’s-eye view of a design system, helping them see the order, complexity, successes, pain points, and interactions that make up a user’s experience.
 
-## Time to conduct
+## Time required
 
-4–12 hours
+**Medium:** 4–12 hours
 
 ## How to do it
 

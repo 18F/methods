@@ -12,9 +12,9 @@ A collaborative effort to define problems through a focus on goals and the crite
 
 To keep the team vigilant about the user’s perspective and to establish a user-centered framework for passively measuring over time. Research keeps us vigilant about building metrics that emphasize the user’s perspective rather than metrics that make us appear good at our jobs.
 
-## Time to create
+## Time required
 
-1–2 hours
+**Small:** 1–2 hours
 
 ## How to do it
 

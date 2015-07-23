@@ -12,9 +12,9 @@ A prototype built in fewer than three hours to focus the scope of a project.
 
 To stimulate stakeholder imaginations and focus discussion on issues about data, design, and functionality.
 
-## Time to conduct
+## Time required
 
-1–3 hours
+**Small:** 1–3 hours
 
 ## How to do it
 

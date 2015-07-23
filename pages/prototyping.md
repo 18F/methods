@@ -12,9 +12,9 @@ A rudimentary version, either static or functional, of something that exhibits b
 
 To enable direct examination of a design concept’s viability with a number of other methods such as usability testing or a cognitive walkthrough. Static prototypes (often paper) are helpful for gaining feedback on users’ intentions and various design elements. Functional prototypes (often coded) are helpful for observing how users interact with the product.
 
-## Time to create
+## Time required
 
-3 hours or more
+**Medium:** 3 hours or more
 
 ## How to do it
 

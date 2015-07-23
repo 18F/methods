@@ -12,9 +12,9 @@ A step-by-step analysis of a common task a user must perform that diagrams the v
 
 To illustrate in a solution-agnostic way the overall flow that a user progresses through to accomplish a single task. Task flow analysis also demonstrates the relationship between tasks, and how they interconnect across a site.
 
-## Time to conduct
+## Time required
 
-1-2 hours per task
+**Medium:** 1-2 hours per task
 
 ## How to do it
 

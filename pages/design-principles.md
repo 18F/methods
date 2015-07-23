@@ -12,9 +12,9 @@ Written statements, generally in the form of imperatives like “Earn people’s
 
 To give the team and the stakeholders a shared point of reference when negotiating next steps. Good design principles are specific to the project, not general truths, and should help teams say “no” to otherwise interesting proposals, or generate ideas when they are stuck.
 
-## Time to conduct
+## Time required
 
-1 week, plus occasional refresher meetings
+**Large:** 1 week, plus occasional refresher meetings
 
 ## How to do it
 

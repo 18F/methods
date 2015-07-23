@@ -12,7 +12,7 @@ Making sure research participants understand what research activities will requi
 
 Informed consent is the cornerstone of ethical research practice. Always. If you plan to share any data publicly, especially personally identifiable information (often called P.I.I.), you must get participants’ express permission to do so — no exceptions.
 
-## Time to conduct
+## Time required
 
 5 minutes per participant
 

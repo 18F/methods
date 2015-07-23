@@ -12,9 +12,9 @@ A visual sequence of a specific use case or scenario, coupled with a narrative.
 
 To visualize interactions and relationships that might exist between a user and a solution in the context of the user’s full experience.
 
-## Time to conduct
+## Time required
 
-1–2 days depending on the complexity of the scenario(s)
+**Medium:** 1–2 days depending on the complexity of the scenario(s)
 
 ## How to do it
 

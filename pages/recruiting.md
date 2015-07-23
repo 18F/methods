@@ -12,7 +12,7 @@ Identifying and gathering people to interview or who will test your product.
 
 Time spent with the right people using the wrong methods is better than time spent with people who aren’t your core users but follow the right methods. Recruiting people who represent your core user group is a critical and oft-overlooked part of research.
 
-## Time to conduct
+## Time required
 
 1–2 weeks for 5–10 participants from mailing lists or community organizations
 

@@ -12,9 +12,9 @@ A design document that contains various fonts, colors, and UI elements that comm
 
 To establish a common visual language between the design team and stakeholders. It also acts as a collaboration artifact that both the design team and stakeholders can use to contribute to the final design direction.
 
-## Time to conduct
+## Time required
 
-1–2 days depending on how many rounds of feedback the team offers
+**Medium:** 1–2 days depending on how many rounds of feedback the team offers
 
 ## How to do it
 

@@ -34,8 +34,8 @@ To create a shared understanding and appreciation of design problems confronting
 
 ## Applied in government research
 
--  No PRA Implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
+No PRA Implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 
 ## Additional resources
 
-- [`https://vimeo.com/37861987/`](https://vimeo.com/37861987/)
+[`https://vimeo.com/37861987/`](https://vimeo.com/37861987/)

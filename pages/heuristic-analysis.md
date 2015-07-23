@@ -25,7 +25,7 @@ Quickly identify common design problems that make websites hard to use with cond
  - The system should speak the user's language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.
  - Users often choose system functions by mistake and will need a clearly marked “emergency exit” to leave the unwanted state without having to go through an extended dialogue.
 
-3. After individual evaluations, gather evaluators to discuss and prioritize potential problems. 
+3. After individual evaluations, gather evaluators to discuss and prioritize potential problems.
 
 ## Applied in government research
 
@@ -33,5 +33,5 @@ No PRA Implications, as heuristic evaluations usually include a small number of 
 
 ## Additional resources
 
-[`http://www.nngroup.com/articles/ten-usability-heuristics/`](http://www.nngroup.com/articles/ten-usability-heuristics/)
-[`http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/`](http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+- [`http://www.nngroup.com/articles/ten-usability-heuristics/`](http://www.nngroup.com/articles/ten-usability-heuristics/)
+- [`http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/`](http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)

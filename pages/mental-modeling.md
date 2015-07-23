@@ -32,5 +32,5 @@ No PRA Implications. No information is collected from members of the public.
 
 ## Additional resources
 
-[`http://rosenfeldmedia.com/books/mental-models/`](http://rosenfeldmedia.com/books/mental-models/)
-[`http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience`](http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience)
+- [`http://rosenfeldmedia.com/books/mental-models/`](http://rosenfeldmedia.com/books/mental-models/)
+- [`http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience`](http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience)

@@ -32,8 +32,8 @@ To give the team and the stakeholders a shared point of reference when negotiati
 
 ## Applied in government research
 
-- No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.5(h)3. See the methods for Recruiting and Privacy for more tips on taking input from the public.
+No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.5(h)3. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy) for more tips on taking input from the public.
 
 ## Additional resources
 
-- [`http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/`](http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/)
+[`http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/`](http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/)

@@ -34,5 +34,5 @@ No PRA implications. The PRA explicitly exempts direct observation and non-stand
 
 ## Additional resources
 
-* [`http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php`](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php)
-* [`http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design`](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design)
+- [`http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php`](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php)
+- [`http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design`](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design)

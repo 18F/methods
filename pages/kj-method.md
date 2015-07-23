@@ -40,7 +40,7 @@ Likely no PRA implications: generally any given session will likely have fewer t
 
 ## Additional resources
 
-- [`http://www.uie.com/articles/kj_technique/`](http://www.uie.com/articles/kj_technique/)
+[`http://www.uie.com/articles/kj_technique/`](http://www.uie.com/articles/kj_technique/)
 
 ## Example from 18F
 

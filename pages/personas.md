@@ -34,8 +34,8 @@ No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 
-* [`http://www.uie.com/articles/perfecting_personas/`](http://www.uie.com/articles/perfecting_personas/)
-* [`http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101`](http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101)
-* [`http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper`](http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper)
-* [`http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/`](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/)
-* [`http://www.uxbooth.com/articles/focusing-interaction-design-with-design-strategy/`](http://www.uxbooth.com/articles/focusing-interaction-design-with-design-strategy/)
+- [`http://www.uie.com/articles/perfecting_personas/`](http://www.uie.com/articles/perfecting_personas/)
+- [`http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101`](http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101)
+- [`http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper`](http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper)
+- [`http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/`](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/)
+- [`http://www.uxbooth.com/articles/focusing-interaction-design-with-design-strategy/`](http://www.uxbooth.com/articles/focusing-interaction-design-with-design-strategy/)

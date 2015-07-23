@@ -24,7 +24,7 @@ To understand whether a design solution is easy for a new or infrequent user to 
 
 3. Recruit 3–5 users per user group that makes up the user population that are willing to participant in a moderated usability testing session.
 
-4. Facilitate a walkthrough a solution where probing questions focus on what people would initial attempt to do, or how they would learn how to navigate the solution to accomplish the tasks.  
+4. Facilitate a walkthrough a solution where probing questions focus on what people would initially attempt to do, or how they would learn how to navigate the solution to accomplish the tasks.  
  - Encourage the user the stay on task without leading them.
  - Pay attention to expected outcomes and how quickly/easily participants are able to pick up a task.
 

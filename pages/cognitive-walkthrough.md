@@ -12,9 +12,9 @@ An evaluation method in which evaluators or potential users who are unfamiliar w
 
 To understand whether a design solution is easy for a new or infrequent user to learn, and why it is or isn’t easy.
 
-## Time to conduct
+## Time required
 
-30 minutes to one hour per person
+**Medium:** 30 minutes to one hour per person
 
 ## How to do it
 

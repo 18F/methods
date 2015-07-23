@@ -12,9 +12,9 @@ Observation of people attempting to use a product.
 
 To learn a given design’s challenges, opportunities, and successes.
 
-## Time to conduct
+## Time required
 
-30 minutes to 1 hour per person
+**Medium:** 30 minutes to 1 hour per person
 
 ## How to do it
 

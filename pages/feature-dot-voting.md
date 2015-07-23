@@ -12,9 +12,9 @@ A simple voting exercise to identify a group’s collective priorities for poten
 
 To build group consensus quickly from the priorities of individual in the group.
 
-## Time to conduct
+## Time required
 
-15 minutes
+**Small:** 15 minutes
 
 ## How to do it
 

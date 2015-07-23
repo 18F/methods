@@ -12,9 +12,9 @@ A facilitated exercise in which participants list their individual priorities on
 
 To reach a consensus on priorities of subjective, qualitative data with a group of people. This is especially helpful with large groups of stakeholders and groups with high risk of disagreement.
 
-## Time to conduct
+## Time required
 
-1–2 hours
+**Small:** 1–2 hours
 
 ## How to do it
 

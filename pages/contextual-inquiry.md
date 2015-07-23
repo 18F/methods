@@ -12,9 +12,9 @@ The product team unobtrusively observes participants at work, with their permiss
 
 To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an interview; to map how tools, digital and otherwise, interact during complex activities.
 
-## Time to conduct
+## Time required
 
-1-2 hours per user
+**Medium:** 1-2 hours per user
 
 ## How to do it
 

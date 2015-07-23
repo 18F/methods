@@ -12,9 +12,9 @@ A comprehensive rendering of how a website’s pages relate to one another.
 
 To audit an existing website by assessing its structure and content. Site maps also help you plan and organize the contents of a new website prior to [wireframing](../wireframing/) and building it.
 
-## Time to conduct
+## Time required
 
-2–3 hours
+**Small:** 2–3 hours
 
 ## How to do it
 

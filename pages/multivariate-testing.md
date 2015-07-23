@@ -12,9 +12,9 @@ A test of variations to multiple sections or features of a page to see which com
 
 To incorporate different contexts, channels, or user types into addressing a user need. Situating a call to action, content section, or feature set differently can help you build a more effective whole solution from a set of partial solutions.
 
-## Time to conduct
+## Time required
 
-2–5 days of effort, 1–4 weeks elapsed through the testing period
+**Large:** 2–5 days of effort, 1–4 weeks elapsed through the testing period
 
 ## How to do it
 

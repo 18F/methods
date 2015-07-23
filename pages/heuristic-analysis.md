@@ -12,9 +12,9 @@ A quick way to find common, large usability problems on a website.
 
 Quickly identify common design problems that make websites hard to use with conducting more involved user research.
 
-## Time to conduct
+## Time required
 
-1–2 hours
+**Small:** 1–2 hours
 
 ## How to do it
 

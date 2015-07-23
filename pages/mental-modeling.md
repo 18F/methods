@@ -12,9 +12,9 @@ A simple reference model that correlates existing and potential interfaces with 
 
 To help designers anticipate how design decisions might facilitate future behaviors.
 
-## Time to create
+## Time required
 
-1–2 hours
+**Small:** 1–2 hours
 
 ## How to do it
 

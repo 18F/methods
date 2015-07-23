@@ -12,9 +12,9 @@ An illustration-based way to facilitate communication (and brainstorming) betwee
 
 To create a shared understanding and appreciation of design problems confronting the project team.
 
-## Time to conduct
+## Time required
 
-3-4 hours
+**Small:** 3-4 hours
 
 ## How to do it
 

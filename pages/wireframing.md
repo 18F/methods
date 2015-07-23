@@ -12,9 +12,9 @@ A lightweight schematic visual representation of a product or service interface.
 
 To prioritize information (substance and relationships) over decoration (style) as you begin defining the solution by keeping the design light. Wireframing also gives designers a great opportunity to start asking developers early questions about feasibility and structure.
 
-## Time to conduct
+## Time required
 
-1-3 hours
+**Small:** 1-3 hours
 
 ## How to do it
 

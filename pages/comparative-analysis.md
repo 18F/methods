@@ -12,9 +12,9 @@ A detailed review of existing experiences provided either by direct competitors 
 
 To identify competitors’ solutions that excel, are lacking, or are missing critical design elements. Comparative analysis can  give new solutions a competitive edge by identifying areas of opportunity, gaps in experience offerings, and potential design patterns to adopt or avoid.
 
-## Time to conduct
+## Time required
 
-1–2 hours per identified competitor. One hour to analyze each competitor. 4–8 hours total to generate a report.
+**Medium:** 1–2 hours per identified competitor. One hour to analyze each competitor. 4–8 hours total to generate a report.
 
 ## How to do it
 

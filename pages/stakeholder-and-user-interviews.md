@@ -12,9 +12,9 @@ A wide-spanning set of semi-structured interviews with anyone who has an interes
 
 To build consensus about the problem statement and research objectives.
 
-## Time to conduct
+## Time required
 
-1–2 hours per interviewee
+**Small:** 1–2 hours per interviewee
 
 ## How to do it
 

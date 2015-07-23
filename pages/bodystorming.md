@@ -12,9 +12,9 @@ An improvisational brainstorm based on interaction and movement with the body.
 
 To remind participants that interactions are human and physical, to teach stakeholders empathy for users, and to get away from our computers.
 
-## Time to conduct
+## Time required
 
-1-2 hours
+**Small:** 1-2 hours
 
 ## How to do it
 

@@ -12,9 +12,9 @@ A way of finding themes in collections of ideas, quotes, or observations.
 
 Quick and collaborative approach for drawing insights from qualitative data.
 
-## Time to conduct
+## Time required
 
-1 hour
+**Small:** 1 hour
 
 ## How to do it
 

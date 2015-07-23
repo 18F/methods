@@ -12,9 +12,9 @@ Stories and context — focused on identifying the what, who, how, and why — b
 
 To remind a team, during both the design and validation phases, of the overarching goal(s) that users have when interacting with a solution. Scenarios help the team consider the design of the solution as a whole rather than getting caught up by specific pages, elements, or interactions. They note questions and goals and sometimes define the possibilities of how the user(s) can achieve them.
 
-## Time to conduct
+## Time required
 
-1-3 hours
+**Small:** 1-3 hours
 
 ## How to do it
 

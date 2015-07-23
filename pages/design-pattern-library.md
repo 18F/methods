@@ -12,9 +12,9 @@ A collection of UI elements used frequently across a design system, consisting o
 
 To aid in designing a solution that uses UI elements consistently. Maintaining a set of approved, reusable patterns makes it easier to produce new features or make updates to the current solution.
 
-## Time to conduct
+## Time required
 
-Varies. 1–2 hours per pattern for initial documentation, with ongoing maintenance and extension.
+**Large:** 1–2 hours per pattern for initial documentation, with ongoing maintenance and extension.
 
 ## How to do it
 

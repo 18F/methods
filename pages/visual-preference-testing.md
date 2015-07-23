@@ -12,9 +12,9 @@ A method that allows potential users to review and provide feedback on a solutio
 
 To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
 
-## Time to conduct
+## Time required
 
-4-12 hours for mood boards or [style tiles](../style-tiles/). 30 minutes per participant to get feedback.
+**Medium:** 4-12 hours for mood boards or [style tiles](../style-tiles/). 30 minutes per participant to get feedback.
 
 ## How to do it
 

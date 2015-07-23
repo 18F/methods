@@ -12,9 +12,9 @@ A listing and analysis of all the content on an existing website (including page
 
 To identify content that needs to be revised in new versions of a website. Content audits can also help you identify who is responsible for content, how often it should be updated, and what role a particular piece of content plays for users.
 
-## Time to conduct
+## Time required
 
-3-8 hours
+**Medium:** 3-8 hours
 
 ## How to do it
 

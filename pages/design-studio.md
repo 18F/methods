@@ -14,7 +14,7 @@ To create a shared understanding and appreciation of design problems confronting
 
 ## Time required
 
-**Small:** 3-4 hours
+**Small:** 3–4 hours
 
 ## How to do it
 
@@ -22,7 +22,7 @@ To create a shared understanding and appreciation of design problems confronting
 
 2. Bring drawing materials to the meeting. At the start of the meeting, review the design prompt and research you shared.
 
-3. Distribute drawing materials. Ask participants to individually sketch concepts that address the prompt. Remind them that anyone can draw and artistic accuracy is not the goal of the exercise. 15-20 minutes.
+3. Distribute drawing materials. Ask participants to individually sketch concepts that address the prompt. Remind them that anyone can draw and artistic accuracy is not the goal of the exercise. 15–20 minutes.
 
 4. Have participants present their ideas to one another in groups of three and solicit critiques.
 
@@ -34,7 +34,7 @@ To create a shared understanding and appreciation of design problems confronting
 
 ## Applied in government research
 
-No PRA Implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
+No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 
 ## Additional resources
 

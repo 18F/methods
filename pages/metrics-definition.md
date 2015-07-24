@@ -30,7 +30,7 @@ To keep the team vigilant about the user’s perspective and to establish a user
 
 ## Applied in government research
 
-No PRA Implications. No information is collected from members of the public.
+No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 

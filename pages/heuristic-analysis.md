@@ -10,7 +10,7 @@ A quick way to find common, large usability problems on a website.
 
 ## Reasons to use it:
 
-Quickly identify common design problems that make websites hard to use with conducting more involved user research.
+To quickly identify common design problems that make websites hard to use with conducting more involved user research.
 
 ## Time required
 

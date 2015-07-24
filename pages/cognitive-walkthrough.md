@@ -35,6 +35,6 @@ To understand whether a design solution is easy for a new or infrequent user to 
 -  No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that a cognitive walkthrough entails, 5 CFR 1320.5(h)3.
 -  If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
 
-Additional resources:
+## Additional resources
 - [`http://www.usabilitybok.org/cognitive-walkthrough`](http://www.usabilitybok.org/cognitive-walkthrough)
 - [`http://www.usabilityfirst.com/usability-methods/cognitive-walkthroughs/`](http://www.usabilitybok.org/cognitive-walkthrough)

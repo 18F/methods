@@ -28,7 +28,7 @@ To help designers anticipate how design decisions might facilitate future behavi
 
 ## Applied in government research
 
-No PRA Implications. No information is collected from members of the public.
+No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 

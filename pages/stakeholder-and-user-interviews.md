@@ -14,7 +14,7 @@ To build consensus about the problem statement and research objectives.
 
 ## Time required
 
-**Small:** 1–2 hours per interviewee
+**Medium:** 1–2 hours per interviewee
 
 ## How to do it
 

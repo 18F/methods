@@ -20,7 +20,7 @@ To create content structures that are user-informed and intuitive.
 
 There are two types of card sorting: open and closed. Most card sorts are performed with one user at a time, but you can also do the exercise with groups of two to three people.
 
-## Open card sort
+### Open card sort
 
 1. Give users a collection of content represented on cards.
 
@@ -30,7 +30,7 @@ There are two types of card sorting: open and closed. Most card sorts are perfor
 
 4. Ask users to tell you why they grouped the cards and labeled the categories as they did.
 
-## Closed card sort
+### Closed card sort
 
 1. Give users a collection of content represented on cards.
 

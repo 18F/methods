@@ -39,8 +39,8 @@ navigation:
 - text: Validate
   url: validate/
   internal: true
-- text: Foundations
-  url: foundations/
+- text: Fundamentals
+  url: fundamentals/
   internal: true
 
 repos:
@@ -52,4 +52,3 @@ repos:
 brand_color: "#1188ff"
 
 google_analytics_ua: UA-48605964-19
-

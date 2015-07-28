@@ -2,6 +2,7 @@
 permalink: /affinity-diagraming/
 layout: default
 title: Affinity diagraming
+category: Discover
 ---
 
 ## What it is

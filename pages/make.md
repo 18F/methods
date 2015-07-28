@@ -4,14 +4,14 @@ layout: default
 title: Make
 ---
 
-Move towards a final product that’s ready to be launched and tested.
+Move toward a final product that’s ready to be released and tested.
 
 ### Conceptual design
 
-- [Proto Sketching](../proto-sketching/)
+- [Protosketching](../protosketching/)
 - [Wireframing](../wireframing/)
 
 ### Detailed design
 
-- [Design Pattern Library](../design-pattern-library/)
+- [Design pattern library](../design-pattern-library/)
 - [Prototyping](../prototyping/)

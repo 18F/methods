@@ -4,11 +4,11 @@ layout: default
 title: Validate
 ---
 
-Start exploring and testing your focused research.
+Test your research, design, and product.
 
 ### Design validation
 
-- [Visual Preference Testing](../visual-preference-testing/)
-- [Multivariate Testing](../multivariate-testing/)
-- [Usability Testing](../usability-testing/)
-- [Card Sorting](../card-sorting/)
+- [Card sorting](../card-sorting/)
+- [Multivariate testing](../multivariate-testing/)
+- [Usability testing](../usability-testing/)
+- [Visual preference testing](../visual-preference-testing/)

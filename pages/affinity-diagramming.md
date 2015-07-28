@@ -1,5 +1,5 @@
 ---
-permalink: /affinity-diagraming/
+permalink: /affinity-diagramming/
 layout: default
 title: Affinity diagraming
 category: Discover
@@ -13,20 +13,20 @@ A way of finding themes in collections of ideas, quotes, or observations.
 
 Quick and collaborative approach for drawing insights from qualitative data.
 
-## Time to conduct
+## Time required
 
-1 hour
+**Small:** 1 hour
 
 ## How to do it
 
-1. Record ideas, quotes, or observations from interviews, contextual inquiry, or other sources of research on Post-It notespost it notes.
+1. Record ideas, quotes, or observations from [interviews](../stakeholder-and-user-interviews/), [contextual inquiry](../contextual-inquiry/), or other sources of research on Post-It notes.
 
-2. Place the Post-It notespost it notes on a white board (in no particular arrangement).
-Move Post-It notespost it notes into related groups.
+2. Place the Post-It notes on a white board (in no particular arrangement). Move the Post-It notes into related groups.
 
-3. Use larger Post-It notespost it notes (or white board markers, if you are using a white board), to write titles or catch phrases for each group.
+3. Use larger Post-It notes (or white board markers, if you are using a white board), to write titles or catch phrases for each group.
 
 ## Applied in government research
+
 No PRA implications. This method may use data gathered from members of the public, but does not require their involvement.
 
 ## Additional resources

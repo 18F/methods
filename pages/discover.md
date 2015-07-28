@@ -8,19 +8,18 @@ Learn as much as you can about the project and people involved.
 
 ### Project plans
 
-- [Feature Dot Voting](../feature-dot-voting/)
-- [KJ Method](../kj-method/)
-- [Metrics Definition](../metrics-definition/)
+- [Feature dot voting](../feature-dot-voting/)
+- [KJ method](../kj-method/)
+- [Metrics definition](../metrics-definition/)
 
 ### Team workshops
 
-- [Design Studio](../design-studio/)
+- [Design studio](../design-studio/)
 
 ### Research
 
-- [Card Sorting](../card-sorting/)
-- [Cognitive Walkthrough](../cognitive-walkthrough/)
-- [Contextual Inquiry](../contextual-inquiry/)
-- [Heuristic Analysis](../heuristic-analysis/)
-- [Recruiting](../recruiting/)
-- [Stakeholder and User Interviews](../stakeholder-and-user-interviews/)
+- [Bodystorming](../bodystorming/)
+- [Cognitive walkthrough](../cognitive-walkthrough/)
+- [Contextual inquiry](../contextual-inquiry/)
+- [Heuristic analysis](../heuristic-analysis/)
+- [Stakeholder and user interviews](../stakeholder-and-user-interviews/)

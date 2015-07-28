@@ -19,4 +19,4 @@ title: Method Cards
 
 ## We’ve called out specifics about doing this work in government
 
-For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at methods for [Recruiting](./recruiting/), [Incentives](./incentives/), [Informed consent](./informed-consent/), [Privacy](./privacy/), and the [Paperwork Reduction Act](./paperwork-reduction-act/). No matter which other methods we work with, these are the [foundations](./foundations/) for all our design research.
+For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](./recruiting/), [Incentives](./incentives/), [Informed consent](./informed-consent/), [Privacy](./privacy/), and the [Paperwork Reduction Act](./paperwork-reduction-act/). No matter which methods we work with, these are the [fundamentals](./fundamentals/) of our design research.

@@ -1,10 +1,10 @@
 ---
-permalink: /foundations/
+permalink: /fundamentals/
 layout: default
-title: Foundations
+title: Fundamentals
 ---
 
-### Foundations
+### Fundamentals
 
 - [Incentives](../incentives/)
 - [Informed consent](../informed-consent/)

@@ -16,7 +16,7 @@ Method Cards
 
 ## We’ve called out specifics about doing this work in government.
 
-For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at methods for [Recruiting](pages/recruiting/), [Incentives](pages/incentives/), [Informed consent](pages/informed-consent/), [Privacy](pages/privacy/), and the [Paperwork Reduction Act](pages/paperwork-reduction-act/). No matter which other methods we work with, these are the [foundations](pages/foundations/) for all our design research.
+For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](pages/recruiting/), [Incentives](pages/incentives/), [Informed consent](pages/informed-consent/), [Privacy](pages/privacy/), and the [Paperwork Reduction Act](pages/paperwork-reduction-act/). No matter which methods we work with, these are the [fundamentals](pages/fundamentals/) of our design research.
 
 
 ## This site is built using the 18F Guides Template
@@ -65,7 +65,7 @@ commands. The `serve` command is the most common for routine development.
 
 You'll need to create a new Github repository for your new guide. To do this, go to github.com/18f and click the "New Repository" button. Enter the title and description for your new guide and then click "Create Repository".
 
-After the repository is created, you'll see the repo URL at the top. Copy this url by hitting the handy "Copy to Clipboard" button next to the text box. 
+After the repository is created, you'll see the repo URL at the top. Copy this url by hitting the handy "Copy to Clipboard" button next to the text box.
 
 Go back to the directory where you cloned the guides-template repository. We're going to change this repo to point to the one you just created (which is empty) and push the template to it.
 ```
@@ -73,7 +73,7 @@ git remote set-url origin https://github.com/18F/MY-NEW-GUIDE.git
 git push origin 18f-pages
 ```
 
-Now you can edit the template freely, and push up changes as you need. 
+Now you can edit the template freely, and push up changes as you need.
 
 ### Public domain
 

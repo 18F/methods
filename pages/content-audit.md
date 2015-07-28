@@ -19,10 +19,10 @@ To identify content that needs to be revised in new versions of a website. Conte
 ## How to do it
 
 1. Start with an inventory. Navigate through the site from the home page and note the following about every piece of content. (For repeated items like blog posts, consider capturing just a sample.)
- - The title used in the site’s navigation for that page
- - The title used on the page or item itself
+ - Title used in the site’s navigation for that page
+ - Title displayed on the page or item itself
  - URL
- - Parent page, or for static files, what page it is linked from
+ - Parent page
 
 2. Identify the main entry points for the user need you’re addressing. This could be external marketing, the homepage, a microsite, or another page. (If you're auditing a full website instead of specific needs, you may be able to skip this step and step 3.)
 
@@ -30,10 +30,10 @@ To identify content that needs to be revised in new versions of a website. Conte
 
 4. For every piece of content they might come across on that task flow, note:
  - Author(s): who wrote or created the page
- - Content owner(s): who is responsible for the substance
+ - Content owner(s): who ensures its credibility
  - Updated date
  - Update frequency
- - Comments: qualitative assessment of what to add, remove, or revise
+ - Comments: qualitative assessment of what to change
 
 ## Applied in government research
 

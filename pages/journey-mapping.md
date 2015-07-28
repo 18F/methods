@@ -19,16 +19,13 @@ To provide design teams with a bird’s-eye view of a design system, helping the
 ## How to do it
 
 1. Document the elements of the project’s design context. This includes:
- - People involved and their related goals;
- - Behaviors they exhibit (actions in pursuit of their goals);
- - Information, devices, and services they use (in service of their behaviors);
- - A set of discrete moments or major decisions they make;
- - The emotions associated with these moments or decisions. Emoticons or emoji work well here.
+ - People involved and their related goals
+ - Their behaviors in pursuit of their goals
+ - Information, devices, and services that support their behaviors
+ - Discrete moments or major decisions they make
+ - The emotions associated with these moments or decisions
 
-2. Create a visual map showing the order in which people exhibit behaviors, use information, make decisions, and have emotions. A few different approaches:
- - Group elements into a table of “phases” related to the personal narrative of each [persona](../personas/).
- - Create a graphic representation of this data by illustrating the narrative of each persona and where they share contextual components with one another.
- - A combination of the two.
+2. Visualize the order in which people exhibit behaviors, use information, make decisions, and feel emotions. Group elements into a table of “phases” related to the personal narrative of each [persona](../personas/). Identify where personas share contextual components.
 
 3. Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish [design principles](../design-principles/). Think about how to collapse or accelerate a customer’s journey through the various phases. Incorporate this information into the project’s scope.
 
@@ -36,7 +33,7 @@ You can also map user journeys as part of a workshop with stakeholders, similar 
 
 ## Applied in government research
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3. Any user who participates will lead you through their journey their own way. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 
 ## Additional resources
 

@@ -1,8 +1,8 @@
 ---
 permalink: /decide/
-layout: default
+layout: category
 title: Decide
-category: decide
+category: Decide-parent
 ---
 
 Use what you’ve learned to start focusing your research on specific areas and groups of people.

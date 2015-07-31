@@ -2,7 +2,7 @@
 permalink: /affinity-diagramming/
 layout: default
 title: Affinity diagramming
-category: decide
+category: Decide
 ---
 
 ## What it is

@@ -2,7 +2,7 @@
 permalink: /wireframing/
 layout: default
 title: Wireframing
-category: make
+category: Make
 ---
 
 ## What it is

@@ -2,7 +2,7 @@
 permalink: /prototyping/
 layout: default
 title: Prototyping
-category: make
+category: Make
 ---
 
 ## What it is

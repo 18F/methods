@@ -2,7 +2,7 @@
 permalink: /user-scenarios/
 layout: default
 title: User scenarios
-category: decide
+category: Decide
 ---
 
 ## What it is

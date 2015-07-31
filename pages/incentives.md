@@ -2,7 +2,7 @@
 permalink: /incentives/
 layout: default
 title: Incentives
-category: fundamentals
+category: Fundamentals
 ---
 
 ## What it is

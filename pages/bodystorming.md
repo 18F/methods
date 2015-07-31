@@ -2,7 +2,7 @@
 permalink: /bodystorming/
 layout: default
 title: Bodystorming
-category: discover
+category: Discover
 ---
 
 ## What it is

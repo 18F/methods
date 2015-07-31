@@ -2,7 +2,7 @@
 permalink: /paperwork-reduction-act/
 layout: default
 title: Paperwork Reduction Act
-category: fundamentals
+category: Fundamentals
 ---
 
 ## What it is

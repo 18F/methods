@@ -2,7 +2,7 @@
 permalink: /multivariate-testing/
 layout: default
 title: Multivariate testing
-category: validate
+category: Validate
 ---
 
 ## What it is

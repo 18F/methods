@@ -2,7 +2,7 @@
 permalink: /contextual-inquiry/
 layout: default
 title: Contextual inquiry
-category: discover
+category: Discover
 ---
 
 ## What it is

@@ -2,7 +2,7 @@
 permalink: /design-studio/
 layout: default
 title: Design studio
-category: discover
+category: Discover
 ---
 
 ## What it is

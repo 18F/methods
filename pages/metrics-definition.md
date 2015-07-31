@@ -2,7 +2,7 @@
 permalink: /metrics-definition/
 layout: default
 title: Metrics definition
-category: discover
+category: Discover
 ---
 
 ## What it is

@@ -2,7 +2,7 @@
 permalink: /storyboarding/
 layout: default
 title: Storyboarding
-category: decide
+category: Decide
 ---
 
 ## What it is

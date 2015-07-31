@@ -2,7 +2,7 @@
 permalink: /personas/
 layout: default
 title: Personas
-category: decide
+category: Decide
 ---
 
 ## What it is

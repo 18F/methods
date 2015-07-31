@@ -2,7 +2,7 @@
 permalink: /comparative-analysis/
 layout: default
 title: Comparative analysis
-category: decide
+category: Decide
 ---
 
 ## What it is

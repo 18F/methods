@@ -2,7 +2,7 @@
 permalink: /site-mapping/
 layout: default
 title: Site mapping
-category: decide
+category: Decide
 ---
 
 ## What it is

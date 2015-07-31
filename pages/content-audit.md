@@ -2,7 +2,7 @@
 permalink: /content-audit/
 layout: default
 title: Content audit
-category: decide
+category: Decide
 ---
 
 ## What it is

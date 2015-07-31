@@ -2,7 +2,7 @@
 permalink: /usability-testing/
 layout: default
 title: Usability testing
-category: validate
+category: Validate
 ---
 
 ## What it is

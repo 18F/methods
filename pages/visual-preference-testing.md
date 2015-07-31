@@ -2,7 +2,7 @@
 permalink: /visual-preference-testing/
 layout: default
 title: Visual preference testing
-category: validate
+category: Validate
 ---
 
 ## What it is

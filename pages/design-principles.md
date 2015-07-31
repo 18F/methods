@@ -2,7 +2,7 @@
 permalink: /design-principles/
 layout: default
 title: Design principles
-category: decide
+category: Decide
 ---
 
 ## What it is

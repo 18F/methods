@@ -2,7 +2,7 @@
 permalink: /recruiting/
 layout: default
 title: Recruiting
-category: fundamentals
+category: Fundamentals
 ---
 
 ## What it is

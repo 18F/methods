@@ -2,6 +2,7 @@
 permalink: /fundamentals/
 layout: default
 title: Fundamentals
+category: fundamentals
 ---
 
 ### Fundamentals

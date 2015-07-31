@@ -2,6 +2,7 @@
 permalink: /mental-modeling/
 layout: default
 title: Mental modeling
+category: decide
 ---
 
 ## What it is

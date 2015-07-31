@@ -2,6 +2,7 @@
 permalink: "/card-sorting/"
 layout: default
 title: Card sorting
+category: validate
 ---
 
 ## What it is

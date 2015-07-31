@@ -1,8 +1,8 @@
 ---
 permalink: /affinity-diagramming/
 layout: default
-title: Affinity diagraming
-category: Discover
+title: Affinity diagramming
+category: decide
 ---
 
 ## What it is

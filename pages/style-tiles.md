@@ -2,6 +2,7 @@
 permalink: /style-tiles/
 layout: default
 title: Style tiles
+category: decide
 ---
 
 ## What it is

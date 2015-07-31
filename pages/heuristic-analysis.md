@@ -2,6 +2,7 @@
 permalink: /heuristic-analysis/
 layout: default
 title: Heuristic analysis
+category: discover
 ---
 
 ## What it is

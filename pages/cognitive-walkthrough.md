@@ -2,6 +2,7 @@
 permalink: /cognitive-walkthrough/
 layout: default
 title: Cognitive walkthrough
+category: discover
 ---
 
 ## What it is

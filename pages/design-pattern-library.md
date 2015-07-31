@@ -2,6 +2,7 @@
 permalink: /design-pattern-library/
 layout: default
 title: Design pattern library
+category: make
 ---
 
 ## What it is

@@ -2,6 +2,7 @@
 permalink: /informed-consent/
 layout: default
 title: Informed consent
+category: fundamentals
 ---
 
 ## What it is

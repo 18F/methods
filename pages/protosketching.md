@@ -2,6 +2,7 @@
 permalink: /protosketching/
 layout: default
 title: Protosketching
+category: make
 ---
 
 ## What it is

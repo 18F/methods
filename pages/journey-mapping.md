@@ -2,6 +2,7 @@
 permalink: /journey-mapping/
 layout: default
 title: Journey mapping
+category: decide
 ---
 
 ## What it is

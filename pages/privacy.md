@@ -2,6 +2,7 @@
 permalink: /privacy/
 layout: default
 title: Privacy
+category: fundamentals
 ---
 
 ## What it is

@@ -2,6 +2,7 @@
 permalink: /feature-dot-voting/
 layout: default
 title: Feature dot voting
+category: discover
 ---
 
 ## What it is

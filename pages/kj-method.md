@@ -2,6 +2,7 @@
 permalink: /kj-method/
 layout: default
 title: KJ method
+category: discover
 ---
 
 ## What it is

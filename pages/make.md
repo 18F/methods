@@ -1,8 +1,8 @@
 ---
 permalink: /make/
-layout: category
+layout: default
 title: Make
-category: Make-parent
+category: Make
 ---
 
 Move toward a final product that’s ready to be released and tested.

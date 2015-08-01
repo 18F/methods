@@ -1,8 +1,8 @@
 ---
 permalink: /validate/
-layout: category
+layout: default
 title: Validate
-category: Validate-parent
+category: Validate
 ---
 
 Test your research, design, and product.

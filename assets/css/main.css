@@ -233,7 +233,7 @@ section:before {
     padding-right: 20px;
 }
 
-header {
+.container > header {
     width: 100%;
     border-bottom: 4px solid {{ site.brand_color }};
     background-color: #fff;

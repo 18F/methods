@@ -1,8 +1,8 @@
 ---
 permalink: /discover/
-layout: category
+layout: default
 title: Discover
-category: Discover-parent
+category: Discover
 ---
 
 Learn as much as you can about the project and people involved.

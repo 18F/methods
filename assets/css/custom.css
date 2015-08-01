@@ -64,5 +64,10 @@ H1 { font-size: 2em }
 }
 
 .parent header h1 {
-	padding: 0.3em;
+	padding-bottom: 0.2em;
+	margin-bottom: 0.8em;
+	float: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
 }

@@ -1,4 +1,4 @@
-baseurl: /method-cards
+baseurl: /methods
 markdown: redcarpet
 name: 18F Methods
 exclude:

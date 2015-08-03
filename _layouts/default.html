@@ -22,23 +22,14 @@
 
         {% include sidebar.html %}
 
-        <section id="main" class="main-content method
-          {% if page.category != page.title %}
-             {{ page.category | prepend:'category' }}
-          {% elsif page.title == page.category %}
-             parent parent{{page.category}}
-           {% endif %}" role="main">
-          <header>
-            <h1>{{ page.title }}</h1>
-            {% if page.category != page.title %}<h2><a href="{{ site.baseurl }}/{{ page.category | downcase }}">{{ page.category }}</a></h2>{% endif %}
-          <div style="clear:both"></div>
-          </header>
+        <section id="main" class="main-content" role="main">
+          <h1>{{ page.title }}</h1>
           {{ content }}
         </section>
 
       </div><!-- /.wrap content -->
 
-      {% include footer.html %}
+      {% include footer.html%}
 
     </div> <!-- /.container -->
 

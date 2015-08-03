@@ -43,24 +43,27 @@ EOF
   exit 1
 end
 
-def exec_cmd(cmd)
-  exit $?.exitstatus unless system(cmd)
-end
+require_relative '_go/go'
+require_relative '_go/navigation'
+require_relative '_go/repository'
+require_relative '_go/theme'
+
+BASEDIR = File.dirname(__FILE__)
 
 def init
   begin
     require 'bundler'
   rescue LoadError
     puts "Installing Bundler gem..."
-    exec_cmd 'gem install bundler'
+    GoScript.exec_cmd 'gem install bundler'
     puts "Bundler installed; installing gems"
   end
-  exec_cmd 'bundle install'
+  GoScript.exec_cmd 'bundle install'
 end
 
 def update_gems
-  exec_cmd 'bundle update'
-  exec_cmd 'git add Gemfile.lock'
+  GoScript.exec_cmd 'bundle update'
+  GoScript.exec_cmd 'git add Gemfile.lock'
 end
 
 JEKYLL_BUILD_CMD = "exec jekyll build --trace"
@@ -71,71 +74,38 @@ def serve
 end
 
 def build
-  exec_cmd "bundle #{JEKYLL_BUILD_CMD}"
+  GoScript.exec_cmd "bundle #{JEKYLL_BUILD_CMD}"
 end
 
-# Groups a set of commands by common function.
-class CommandGroup
-  attr_accessor :description, :commands
-  private_class_method :new
-  @@groups = Array.new
-
-  # @param description [String] short description of the group
-  # @param commands [Hash<Symbol,String>] mapping from command function name
-  #   to a brief description; each key must be the name of a function in this
-  #   script
-  def initialize(description, commands)
-    @description = description
-    @commands = commands
-  end
-
-  def to_s
-    padding = @commands.keys.max_by {|i| i.size}.size + 2
-    ["\n#{@description}"].concat(
-      @commands.map {|name, desc| "  %-#{padding}s#{desc}" % name}).join("\n")
-  end
-
-  def self.add_group(description, commands)
-    @@groups << new(description, commands)
-  end
-
-  def self.groups
-    @@groups
-  end
-
-  def self.check_command_exists(command_symbol)
-    all_commands = @@groups.map {|i| i.commands.keys}.flatten
-    unless all_commands.member? command_symbol
-      puts "Unknown option or command: #{command_symbol}"
-      usage(exitstatus: 1)
-    end
-  end
+def update_nav
+  GuidesTemplate.update_navigation_configuration BASEDIR
 end
 
-CommandGroup.add_group(
+def create_repo
+  GuidesTemplate.remove_template_files BASEDIR
+  GuidesTemplate.create_new_git_repository BASEDIR
+end
+
+def update_theme
+  GuidesTemplate.update_theme_from_guides_template BASEDIR
+end
+
+GoScript::CommandGroup.add_group(
   'Development commands',
   {
     :init => 'Set up the dev environment',
+    :create_repo => 'Remove template files and create a new Git repository',
+    :update_nav => 'Update the \'navigation:\' data in _config.yml',
+    :update_theme => 'Import theme updates from 18F/guides-template',
     :update_gems => 'Execute Bundler to update gem set',
-    :serve => 'Serves the site at localhost:4000',
-    :build => 'Builds the site',
+    :serve => 'Serve the site at localhost:4000',
+    :build => 'Build the site',
   })
 
-def usage(exitstatus: 0)
-  puts <<EOF
-Usage: #{$0} [options] [command]
-
-options:
-  -h,--help  Show this help
-EOF
-  CommandGroup.groups.each {|s| puts s}
-  exit exitstatus
-end
-
-usage(exitstatus: 1) unless ARGV.size == 1
+GoScript::CommandGroup.usage(exitstatus: 1) unless ARGV.size == 1
 command = ARGV.shift
-usage if ['-h', '--help'].include? command
+GoScript::CommandGroup.usage if ['-h', '--help'].include? command
 
 command = command.to_sym
-CommandGroup.check_command_exists command
+GoScript::CommandGroup.check_command_exists command
 send command

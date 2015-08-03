@@ -71,7 +71,8 @@ H1 { font-size: 2em }
 }
 
 @media screen and (max-width: 40.5em) {
-	.method header h2 {;
+	.method header h2 {
+		clear: both;
 		float:left;
 		margin-left: 0;
 		padding: 0.5em;

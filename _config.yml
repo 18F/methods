@@ -1,6 +1,6 @@
 baseurl: /methods
 markdown: redcarpet
-name: 18F Methods
+name: Methods
 exclude:
 - go
 - copy-template

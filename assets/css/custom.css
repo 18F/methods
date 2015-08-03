@@ -54,15 +54,30 @@ H1 { font-size: 2em }
 	float: left;
 }
 .method header h2 {
-	position: absolute;
-	right: 1em;
+/*	position: absolute;*/
+/*	right: 1em;*/
 	margin: 0;
-/*	float:right;*/
+	margin-left: 1em;
+	float:right;
 	font-weight: normal;
 	font-size: 1.2em;
 	padding: 0.5em;
+	text-align: center;
 }
 
+.method header h2 a {
+	border-bottom: none;
+	color: #000;
+}
+
+@media screen and (max-width: 40.5em) {
+	.method header h2 {;
+		float:left;
+		margin-left: 0;
+		padding: 0.5em;
+		margin-top: 0.5em;
+	}
+}
 .parent header h1 {
 	padding-bottom: 0.46em;
 	margin-bottom: 0.9em;

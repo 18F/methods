@@ -23,5 +23,6 @@ For the most part, the processes are the same as anywhere. However, to stay on t
 
 ## Printable cards
 
-* <a href="#" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'PDF Cards'});">PDF</a>
-* <a href="#" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: ‘IND Cards'});">InDesign</a>
+* <a href="./assets/downloads/18F-Method-Cards-beta-Preview.pdf" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'View the cards'});">View the cards (PDF, 500KB) </a>
+* <a href="./assets/downloads/18F-Method-Cards-beta_Print.zip" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: ‘Print your own deck'});">Print your own deck (Printable PDF's and Instructions, 700KB)</a>
+* <a href="./assets/downloads/18F-Method-Cards-Template.zip" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: ‘Customize our template'});">Customize our template (InDesign, 3MB)</a>

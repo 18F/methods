@@ -21,7 +21,10 @@ title: Method Cards
 
 For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](./recruiting/), [Incentives](./incentives/), [Informed consent](./informed-consent/), [Privacy](./privacy/), and the [Paperwork Reduction Act](./paperwork-reduction-act/). No matter which methods we work with, these are the [fundamentals](./fundamentals/) of our design research.
 
-## Printable cards
+## You can print a card deck of these design methods
 
-* <a href="#" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'PDF Cards'});">PDF</a>
-* <a href="#" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: ‘IND Cards'});">InDesign</a>
+We’ve created a deck of full-color cards for these methods that we will be distributing to our team. You're welcome to print or create your own deck, too. Use the files below to save, print, or use our designs to fit your needs.
+
+* <a href="./assets/downloads/18F-Method-Cards-beta-Preview.pdf" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'View or save all the cards to your desktop'});">View or save all the cards to your desktop (PDF) </a>
+* <a href="./assets/downloads/18F-Method-Cards-beta_Print.zip" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: ‘Print the cards, at home or professionally'});">Print the cards, at home or professionally — complete with instructions (ZIP)</a>
+* <a href="./assets/downloads/18F-Method-Cards-Template.zip" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: ‘Customize our Adobe InDesign template to fit your needs'});">Customize our Adobe InDesign template to fit your needs (INDD)</a>

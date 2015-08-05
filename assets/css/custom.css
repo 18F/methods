@@ -61,7 +61,7 @@ H1 { font-size: 2em }
 	float:right;
 	font-weight: normal;
 	font-size: 1em;
-	padding: 0.5em;
+	padding: 0.5em 1.5em;
 	text-align: center;
 }
 
@@ -79,7 +79,7 @@ H1 { font-size: 2em }
 		clear: both;
 		float:left;
 		margin-left: 0;
-		padding: 0.5em;
+		padding: 0.3em 1.5em;
 		margin-top: 0.5em;
 	}
 }

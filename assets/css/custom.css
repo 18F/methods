@@ -40,14 +40,19 @@ li.active > a{
 	background-color: #317ab9;
 }
 
-H1 { font-size: 2em }
+h1 { font-size: 2em }
 
-.categoryDiscover header h2,     .parentDiscover header h1     { border: 2px solid #4980BE }
-.categoryDecide header h2,       .parentDecide header h1       { border: 2px solid #51AC4F }
-.categoryMake header h2,         .parentMake header h1         { border: 2px solid #EDA734 }
-.categoryValidate header h2,     .parentValidate header h1     { border: 2px solid #CE5D30 }
-.categoryFundamentals header h2, .parentFundamentals header h1 { border: 2px solid #123B5B }
+.categoryDiscover header h2		{ border: 2px solid #4980BE }
+.categoryDecide header h2		{ border: 2px solid #51AC4F }
+.categoryMake header h2			{ border: 2px solid #EDA734 }
+.categoryValidate header h2		{ border: 2px solid #CE5D30 }
+.categoryFundamentals header h2 { border: 2px solid #123B5B }
 
+.parentDiscover header h1     	{ border: 3px solid #4980BE }
+.parentDecide header h1       	{ border: 3px solid #51AC4F }
+.parentMake header h1         	{ border: 3px solid #EDA734 }
+.parentValidate header h1     	{ border: 3px solid #CE5D30 }
+.parentFundamentals header h1 	{ border: 3px solid #123B5B }
 
 .method header h1 {
 	margin: 0;
@@ -64,12 +69,10 @@ H1 { font-size: 2em }
 	padding: 0.5em 1.5em;
 	text-align: center;
 }
-
 .method header a {
 	border-bottom: none;
 	color: #000;
 }
-
 .method header a:hover {
 	color: #0072ce;
 }
@@ -84,7 +87,7 @@ H1 { font-size: 2em }
 	}
 }
 .parent header h1 {
-	padding-bottom: 0.46em;
+	padding-bottom: 0.45em;
 	margin-bottom: 0.9em;
 	float: none;
 	border-top: none;

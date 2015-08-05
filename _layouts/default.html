@@ -30,7 +30,7 @@
            {% endif %}" role="main">
           <header>
             <h1>{{ page.title }}</h1>
-            {% if page.category != page.title %}<h2><a href="{{ site.baseurl }}/{{ page.category | downcase }}">{{ page.category }}</a></h2>{% endif %}
+            {% if page.category != page.title and page.title != 'Method Cards' %}<a href="{{ site.baseurl }}/{{ page.category | downcase }}"><h2>{{ page.category }}</h2></a>{% endif %}
           <div style="clear:both"></div>
           </header>
           {{ content }}

@@ -60,14 +60,18 @@ H1 { font-size: 2em }
 	margin-left: 1em;
 	float:right;
 	font-weight: normal;
-	font-size: 1.2em;
+	font-size: 1em;
 	padding: 0.5em;
 	text-align: center;
 }
 
-.method header h2 a {
+.method header a {
 	border-bottom: none;
 	color: #000;
+}
+
+.method header a:hover {
+	color: #0072ce;
 }
 
 @media screen and (max-width: 40.5em) {

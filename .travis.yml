@@ -17,4 +17,4 @@ deploy:
     branch: 18f-pages
 branches:
   only:
-    - 18f-pages
+    - production

@@ -1,0 +1,20 @@
+sudo: true
+language: ruby
+rvm:
+- 2.1
+script: jekyll build --config _config.yml,_config-production.yml ./_site
+deploy:
+  provider: cloudfoundry
+  edge: true
+  api: https://api.18f.gov
+  organization: 18f
+  space: methods
+  username: deploy-18f
+  password:
+    secure: a/rj9TMgm8W+ez6SSb9wv+EVvtILI5tGRzjcY/Ntk1Ty9JchHZU95OfM9i1K0EbSHdGWRWj0wVx5/O8g2Rpaiebn5HHLnP8jwVMS27ZNq5KGXeku/ewp$
+  on:
+    repo: 18F/methods
+    branch: 18f-pages
+branches:
+  only:
+    - 18f-pages

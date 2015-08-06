@@ -2,7 +2,7 @@ sudo: true
 language: ruby
 rvm:
 - 2.1
-script: jekyll build --config _config.yml,_config-production.yml ./_site
+script: bundle exec jekyll --config _config.yml,_config-production.yml ./_site
 deploy:
   provider: cloudfoundry
   edge: true

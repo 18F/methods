@@ -1,0 +1,6 @@
+---
+applications:
+- name: notalone
+buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git 
+memory: 64M
+instances: 1

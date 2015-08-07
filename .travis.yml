@@ -14,7 +14,7 @@ deploy:
     secure: a/rj9TMgm8W+ez6SSb9wv+EVvtILI5tGRzjcY/Ntk1Ty9JchHZU95OfM9i1K0EbSHdGWRWj0wVx5/O8g2Rpaiebn5HHLnP8jwVMS27ZNq5KGXeku/ewp$
   on:
     repo: 18F/methods
-    branch: 18f-pages
+    branch: master
 branches:
   only:
     - master

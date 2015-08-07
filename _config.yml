@@ -8,6 +8,7 @@ exclude:
 - Gemfile.lock
 - README.md
 - LICENSE.md
+- [vendor]
 
 permalink: pretty
 highlighter: rouge

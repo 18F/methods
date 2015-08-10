@@ -35,7 +35,7 @@ To build group consensus quickly from the priorities of individual in the group.
 
 ## Applied in government research
 
-Likely no PRA implications: generally participants are stakeholders and government employees. If participants are employees, the PRA does not apply. If they are members of the public, any given session will likely have fewer than nine users, in which case the PRA does not apply, 5 CFR 1320.5(c)4. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
+No PRA implications: feature dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 
 ## Additional resources
 

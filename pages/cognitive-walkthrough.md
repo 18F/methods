@@ -23,7 +23,7 @@ To understand whether a design solution is easy for a new or infrequent user to 
 
 2. Develop a set of representative tasks that emphasize new use or infrequent use.
 
-3. Recruit three to five users for each of the traits you’ve identified to participant in a moderated usability testing session. (The traits can overlap.)
+3. Recruit three to five users for each of the traits you’ve identified to participate in a moderated usability testing session. (The traits can overlap.)
 
 4. Ask the user to accomplish their goal using a printed or interactive design. As they go, ask what they would attempt to do next or how they would learn.
  - Don't lead the user through the task, but encourage them to stay focused on what they’re trying to accomplish.

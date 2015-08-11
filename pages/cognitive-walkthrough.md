@@ -21,7 +21,7 @@ To understand whether a design solution is easy for a new or infrequent user to 
 
 1. Identify specific traits for new or infrequent users of a design solution.
 
-2. Develop a set of representative tasks that emphasis new use or infrequent use.
+2. Develop a set of representative tasks that emphasize new use or infrequent use.
 
 3. Recruit three to five users for each of the traits you’ve identified to participant in a moderated usability testing session. (The traits can overlap.)
 

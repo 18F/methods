@@ -12,9 +12,9 @@ Use what you’ve learned to start focusing your research on specific areas and 
 - [Comparative analysis](../comparative-analysis/)
 - [Content audit](../content-audit/)
 - [Design principles](../design-principles/)
+- [Site mapping](../site-mapping/)
 - [Task flow analysis](../task-flow-analysis/)
 - [User scenarios](../user-scenarios/)
-- [Site mapping](../site-mapping/)
 
 ### Models
 

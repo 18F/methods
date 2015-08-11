@@ -19,17 +19,17 @@ To understand whether a design solution is easy for a new or infrequent user to 
 
 ## How to do it
 
-1. Determine the representative users that would be new users or infrequent users of a design solution.
+1. Identify specific traits for new or infrequent users of a design solution.
 
-2. Develop representative tasks a user would attempt that emphasis new use or infrequent use.
+2. Develop a set of representative tasks that emphasis new use or infrequent use.
 
-3. Recruit 3–5 users per user group that makes up the user population that are willing to participant in a moderated usability testing session.
+3. Recruit three to five users for each of the traits you’ve identified to participant in a moderated usability testing session. (The traits can overlap.)
 
-4. Facilitate a walkthrough a solution where probing questions focus on what people would initially attempt to do, or how they would learn how to navigate the solution to accomplish the tasks.  
- - Encourage the user the stay on task without leading them.
+4. Ask the user to accomplish their goal using a printed or interactive design. As they go, ask what they would attempt to do next or how they would learn.
+ - Don't lead the user through the task, but encourage them to stay focused on what they’re trying to accomplish.
  - Pay attention to expected outcomes and how quickly/easily participants are able to pick up a task.
 
-5. Present the analysis of the cognitive walkthrough that highlights the finding for how learnable the solution is and where areas of improvement can be made.
+5. Analyze the walkthrough results to highlight what users learned easily and what needs improvement.
 
 ## Applied in government research
 

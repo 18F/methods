@@ -35,4 +35,4 @@ No PRA implications. The PRA explicitly exempts direct observation and non-stand
 
 ## Additional resources
 
-[`https://18f.gsa.gov/2015/01/06/protosketch/`]([https://18f.gsa.gov/2015/01/06/protosketch/])
+[`https://18f.gsa.gov/2015/01/06/protosketch/`](https://18f.gsa.gov/2015/01/06/protosketch/)

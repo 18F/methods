@@ -37,7 +37,7 @@ To reach a consensus on priorities of subjective, qualitative data with a group 
 
 ## Applied in government research
 
-Likely no PRA implications: generally any given session will likely have fewer than nine users. 5 CFR 1320.5(c)4. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
+Likely no PRA implications: generally any given session will likely have nine or fewer users. 5 CFR 1320.5(c)4. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 
 ## Additional resources
 

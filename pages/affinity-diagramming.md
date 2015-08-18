@@ -1,6 +1,5 @@
 ---
 permalink: /affinity-diagramming/
-layout: default
 title: Affinity diagramming
 category: Decide
 ---

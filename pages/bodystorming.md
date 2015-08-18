@@ -1,6 +1,5 @@
 ---
 permalink: /bodystorming/
-layout: default
 title: Bodystorming
 category: Discover
 ---

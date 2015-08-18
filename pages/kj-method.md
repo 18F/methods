@@ -1,6 +1,5 @@
 ---
 permalink: /kj-method/
-layout: default
 title: KJ method
 category: Discover
 ---

@@ -1,6 +1,5 @@
 ---
 permalink: /decide/
-layout: default
 title: Decide
 category: Decide
 ---

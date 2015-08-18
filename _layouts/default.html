@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='en'>
 
-  {% include header.html %}
+  {% guides_style_18f_include header.html %}
 
   <body>
 
@@ -11,16 +11,15 @@
 
         <div class="wrap">
           {% if site.logourl != null %}
-            <img class="logo" src="{{ site.baseurl }}{{ site.logourl }}" alt="{{ site.logoalt }}" width="75px">
+            <a href="{{ site.author.url }}"><img class="logo" src="{{ site.baseurl }}{{ site.logourl }}" alt="{{ site.logoalt }}" width="75px"></a>
           {% endif %}
-          <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>{% if site.back_link %}
+          <div class="back-link"><a href="{{ site.back_link.url }}">&laquo; {{ site.back_link.text }}</a></div>{% endif %}
         </div>
         
       </header>
 
       <div class="wrap content">
-
-        {% include sidebar.html %}
 
         <section id="main" class="main-content method
           {% if page.category != page.title %}
@@ -36,14 +35,16 @@
           {{ content }}
         </section>
 
+        {% guides_style_18f_include sidebar.html %}
+
       </div><!-- /.wrap content -->
 
       {% include footer.html %}
 
     </div> <!-- /.container -->
     {% include ethnio.html %}
-    {% include analytics.html %}
-    {% include scripts.html %}
+    {% guides_style_18f_include analytics.html %}
+    {% guides_style_18f_include scripts.html %}
 
   </body>
 

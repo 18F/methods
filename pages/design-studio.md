@@ -1,6 +1,5 @@
 ---
 permalink: /design-studio/
-layout: default
 title: Design studio
 category: Discover
 ---

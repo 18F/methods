@@ -1,6 +1,5 @@
 ---
 permalink: /content-audit/
-layout: default
 title: Content audit
 category: Decide
 ---

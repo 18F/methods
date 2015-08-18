@@ -1,6 +1,5 @@
 ---
 permalink: /site-mapping/
-layout: default
 title: Site mapping
 category: Decide
 ---

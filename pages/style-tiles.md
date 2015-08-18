@@ -1,6 +1,5 @@
 ---
 permalink: /style-tiles/
-layout: default
 title: Style tiles
 category: Decide
 ---

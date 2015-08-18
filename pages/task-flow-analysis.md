@@ -1,6 +1,5 @@
 ---
 permalink: /task-flow-analysis/
-layout: default
 title: Task flow analysis
 category: Decide
 ---

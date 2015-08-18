@@ -1,6 +1,5 @@
 ---
 permalink: /wireframing/
-layout: default
 title: Wireframing
 category: Make
 ---

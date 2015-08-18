@@ -1,6 +1,5 @@
 ---
 permalink: /prototyping/
-layout: default
 title: Prototyping
 category: Make
 ---

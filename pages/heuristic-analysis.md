@@ -1,6 +1,5 @@
 ---
 permalink: /heuristic-analysis/
-layout: default
 title: Heuristic analysis
 category: Discover
 ---

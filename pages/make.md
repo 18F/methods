@@ -1,6 +1,5 @@
 ---
 permalink: /make/
-layout: default
 title: Make
 category: Make
 ---

@@ -1,6 +1,5 @@
 ---
 permalink: /privacy/
-layout: default
 title: Privacy
 category: Fundamentals
 ---

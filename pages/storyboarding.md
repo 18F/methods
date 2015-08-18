@@ -1,6 +1,5 @@
 ---
 permalink: /storyboarding/
-layout: default
 title: Storyboarding
 category: Decide
 ---

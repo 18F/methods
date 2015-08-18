@@ -1,6 +1,5 @@
 ---
 permalink: /usability-testing/
-layout: default
 title: Usability testing
 category: Validate
 ---

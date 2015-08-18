@@ -1,6 +1,5 @@
 ---
 permalink: /personas/
-layout: default
 title: Personas
 category: Decide
 ---

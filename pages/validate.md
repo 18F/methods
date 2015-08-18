@@ -1,6 +1,5 @@
 ---
 permalink: /validate/
-layout: default
 title: Validate
 category: Validate
 ---

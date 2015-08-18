@@ -1,6 +1,5 @@
 ---
 permalink: /discover/
-layout: default
 title: Discover
 category: Discover
 ---

@@ -1,6 +1,5 @@
 ---
 permalink: /comparative-analysis/
-layout: default
 title: Comparative analysis
 category: Decide
 ---

@@ -1,6 +1,5 @@
 ---
 permalink: /journey-mapping/
-layout: default
 title: Journey mapping
 category: Decide
 ---

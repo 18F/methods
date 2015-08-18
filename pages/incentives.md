@@ -1,6 +1,5 @@
 ---
 permalink: /incentives/
-layout: default
 title: Incentives
 category: Fundamentals
 ---

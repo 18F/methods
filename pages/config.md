@@ -1,6 +1,5 @@
 ---
 permalink: /updating-the-config-file/
-layout: default
 title: Updating the config file
 ---
 - [Set the base URL and guide name](#set-baseurl-and-name)

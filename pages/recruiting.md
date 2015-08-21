@@ -34,7 +34,7 @@ Time spent with the right people using the wrong methods is better than time spe
 
 ## Applied in government research
 
-When you recruit users who are not government employees, complying with the Anti-Deficiency Act requires you to either:  
+If you recruit users who participate for free and aren’t government employees, the Anti-Deficiency Act requires you to either:
 
 - Give all members of the public an opportunity to participate (by posting the opportunity to participate somewhere everyone can see it, like your website or Github), or
 - Get participants to agree, in writing, to the statement: “I understand that I will receive no compensation and waive all claims for compensation from the U.S. government in exchange for my participation in this research.”

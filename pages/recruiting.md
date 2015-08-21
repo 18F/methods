@@ -40,3 +40,6 @@ If you recruit users who participate for free and aren’t government employees,
 - Get participants to agree, in writing, to the statement: “I understand that I will receive no compensation and waive all claims for compensation from the U.S. government in exchange for my participation in this research.”
 
 If you do not ask potential participants to respond to a “screener survey,” the PRA does not apply to your recruiting efforts.
+
+## Additional resources
+* [18F's participant consent form](./assets/downloads/18FResearchParticipantConsentForm.docx), which offers Anti-Deficiency Act-compliant language

@@ -42,4 +42,4 @@ When you recruit users who are not government employees, complying with the Anti
 If you do not ask potential participants to respond to a “screener survey,” the PRA does not apply to your recruiting efforts.
 
 ## Additional resources
-* [18F's participant consent form](./assets/downloads/18FResearchParticipantConsentForm.docx), which offers Anti-Defiency Act-compliant language
+* [18F's participant consent form](./assets/downloads/18FResearchParticipantConsentForm.docx), which offers Anti-Deficiency Act-compliant language

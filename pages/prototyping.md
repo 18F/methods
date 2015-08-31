@@ -1,7 +1,7 @@
 ---
 permalink: /prototyping/
 title: Prototyping
-category: Make
+parent: Make
 ---
 
 ## What it is

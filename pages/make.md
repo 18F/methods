@@ -1,7 +1,6 @@
 ---
 permalink: /make/
 title: Make
-category: Make
 ---
 
 Move toward a final product that’s ready to be released and tested.

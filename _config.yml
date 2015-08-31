@@ -32,18 +32,125 @@ navigation:
 - text: Discover
   url: discover/
   internal: true
+  children:
+  - text: Bodystorming
+    url: ../bodystorming/
+    internal: true
+  - text: Cognitive walkthrough
+    url: ../cognitive-walkthrough/
+    internal: true
+  - text: Contextual inquiry
+    url: ../contextual-inquiry/
+    internal: true
+  - text: Design studio
+    url: ../design-studio/
+    internal: true
+  - text: Feature dot voting
+    url: ../feature-dot-voting/
+    internal: true
+  - text: Heuristic analysis
+    url: ../heuristic-analysis/
+    internal: true
+  - text: KJ method
+    url: ../kj-method/
+    internal: true
+  - text: Metrics definition
+    url: ../metrics-definition/
+    internal: true
+  - text: Stakeholder and user interviews
+    url: ../stakeholder-and-user-interviews/
+    internal: true
 - text: Decide
   url: decide/
   internal: true
+  children:
+  - text: Affinity diagramming
+    url: ../affinity-diagramming/
+    internal: true
+  - text: Comparative analysis
+    url: ../comparative-analysis/
+    internal: true
+  - text: Content audit
+    url: ../content-audit/
+    internal: true
+  - text: Design principles
+    url: ../design-principles/
+    internal: true
+  - text: Journey mapping
+    url: ../journey-mapping/
+    internal: true
+  - text: Mental modeling
+    url: ../mental-modeling/
+    internal: true
+  - text: Personas
+    url: ../personas/
+    internal: true
+  - text: Site mapping
+    url: ../site-mapping/
+    internal: true
+  - text: Storyboarding
+    url: ../storyboarding/
+    internal: true
+  - text: Style tiles
+    url: ../style-tiles/
+    internal: true
+  - text: Task flow analysis
+    url: ../task-flow-analysis/
+    internal: true
+  - text: User scenarios
+    url: ../user-scenarios/
+    internal: true
 - text: Make
   url: make/
   internal: true
+  children:
+  - text: Design pattern library
+    url: ../design-pattern-library/
+    internal: true
+  - text: Protosketching
+    url: ../protosketching/
+    internal: true
+  - text: Prototyping
+    url: ../prototyping/
+    internal: true
+  - text: Wireframing
+    url: ../wireframing/
+    internal: true
 - text: Validate
   url: validate/
   internal: true
+  children:
+  - text: Card sorting
+    url: ../card-sorting/
+    internal: true
+  - text: Multivariate testing
+    url: ../multivariate-testing/
+    internal: true
+  - text: Usability testing
+    url: ../usability-testing/
+    internal: true
+  - text: Visual preference testing
+    url: ../visual-preference-testing/
+    internal: true
 - text: Fundamentals
   url: fundamentals/
   internal: true
+  children:
+  - text: Incentives
+    url: ../incentives/
+    internal: true
+  - text: Informed consent
+    url: ../informed-consent/
+    internal: true
+  - text: Paperwork Reduction Act
+    url: ../paperwork-reduction-act/
+    internal: true
+  - text: Privacy
+    url: ../privacy/
+    internal: true
+  - text: Recruiting
+    url: ../recruiting/
+    internal: true
 
 repos:
 - name: Methods

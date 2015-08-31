@@ -1,7 +1,7 @@
 ---
 permalink: /usability-testing/
 title: Usability testing
-category: Validate
+parent: Validate
 ---
 
 ## What it is

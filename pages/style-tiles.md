@@ -1,7 +1,7 @@
 ---
 permalink: /style-tiles/
 title: Style tiles
-category: Decide
+parent: Decide
 ---
 
 ## What it is

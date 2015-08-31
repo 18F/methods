@@ -1,7 +1,7 @@
 ---
 permalink: /kj-method/
 title: KJ method
-category: Discover
+parent: Discover
 ---
 
 ## What it is

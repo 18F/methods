@@ -1,7 +1,7 @@
 ---
 permalink: /storyboarding/
 title: Storyboarding
-category: Decide
+parent: Decide
 ---
 
 ## What it is

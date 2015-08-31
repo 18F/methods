@@ -1,7 +1,7 @@
 ---
 permalink: /heuristic-analysis/
 title: Heuristic analysis
-category: Discover
+parent: Discover
 ---
 
 ## What it is

@@ -1,7 +1,7 @@
 ---
 permalink: /site-mapping/
 title: Site mapping
-category: Decide
+parent: Decide
 ---
 
 ## What it is

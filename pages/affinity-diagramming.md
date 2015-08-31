@@ -1,7 +1,7 @@
 ---
 permalink: /affinity-diagramming/
 title: Affinity diagramming
-category: Decide
+parent: Decide
 ---
 
 ## What it is

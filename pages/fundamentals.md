@@ -1,10 +1,7 @@
 ---
 permalink: /fundamentals/
 title: Fundamentals
-category: Fundamentals
 ---
-
-### Fundamentals
 
 - [Incentives](../incentives/)
 - [Informed consent](../informed-consent/)

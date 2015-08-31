@@ -1,7 +1,7 @@
 ---
 permalink: /bodystorming/
 title: Bodystorming
-category: Discover
+parent: Discover
 ---
 
 ## What it is

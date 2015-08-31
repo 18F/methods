@@ -1,7 +1,7 @@
 ---
 permalink: /personas/
 title: Personas
-category: Decide
+parent: Decide
 ---
 
 ## What it is

@@ -1,7 +1,7 @@
 ---
 permalink: /multivariate-testing/
 title: Multivariate testing
-category: Validate
+parent: Validate
 ---
 
 ## What it is

@@ -1,7 +1,7 @@
 ---
 permalink: /mental-modeling/
 title: Mental modeling
-category: Decide
+parent: Decide
 ---
 
 ## What it is

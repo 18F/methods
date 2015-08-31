@@ -1,7 +1,7 @@
 ---
 permalink: /protosketching/
 title: Protosketching
-category: Make
+parent: Make
 ---
 
 ## What it is

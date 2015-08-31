@@ -1,7 +1,7 @@
 ---
 permalink: /task-flow-analysis/
 title: Task flow analysis
-category: Decide
+parent: Decide
 ---
 
 ## What it is

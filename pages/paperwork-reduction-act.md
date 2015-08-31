@@ -1,7 +1,7 @@
 ---
 permalink: /paperwork-reduction-act/
 title: Paperwork Reduction Act
-category: Fundamentals
+parent: Fundamentals
 ---
 
 ## What it is

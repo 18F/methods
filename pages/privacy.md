@@ -1,7 +1,7 @@
 ---
 permalink: /privacy/
 title: Privacy
-category: Fundamentals
+parent: Fundamentals
 ---
 
 ## What it is

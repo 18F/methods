@@ -1,7 +1,7 @@
 ---
 permalink: /informed-consent/
 title: Informed consent
-category: Fundamentals
+parent: Fundamentals
 ---
 
 ## What it is

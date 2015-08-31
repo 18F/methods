@@ -1,7 +1,7 @@
 ---
 permalink: /incentives/
 title: Incentives
-category: Fundamentals
+parent: Fundamentals
 ---
 
 ## What it is

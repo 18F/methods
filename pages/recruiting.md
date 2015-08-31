@@ -1,7 +1,7 @@
 ---
 permalink: /recruiting/
 title: Recruiting
-category: Fundamentals
+parent: Fundamentals
 ---
 
 ## What it is

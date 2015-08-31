@@ -1,7 +1,7 @@
 ---
 permalink: /user-scenarios/
 title: User scenarios
-category: Decide
+parent: Decide
 ---
 
 ## What it is

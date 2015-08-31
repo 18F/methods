@@ -1,7 +1,7 @@
 ---
 permalink: /feature-dot-voting/
 title: Feature dot voting
-category: Discover
+parent: Discover
 ---
 
 ## What it is

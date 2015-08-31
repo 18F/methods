@@ -1,7 +1,7 @@
 ---
 permalink: "/card-sorting/"
 title: Card sorting
-category: Validate
+parent: Validate
 ---
 
 ## What it is

@@ -21,15 +21,10 @@
 
       <div class="wrap content">
 
-        <section id="main" class="main-content method
-          {% if page.category != page.title %}
-             {{ page.category | prepend:'category' }}
-          {% elsif page.title == page.category %}
-             parent parent{{page.category}}
-           {% endif %}" role="main">
+        <section id="main" class="main-content method {% if page.parent %}{{ page.parent | prepend:'category' }}{% elsif page.title != 'Method Cards' %}parent parent{{page.title}}{% endif %}" role="main">
           <header>
             <h1>{{ page.title }}</h1>
-            {% if page.category != page.title and page.title != 'Method Cards' %}<a href="{{ site.baseurl }}/{{ page.category | downcase }}"><h2>{{ page.category }}</h2></a>{% endif %}
+            {% if page.parent %}<a href="{{ site.baseurl }}/{{ page.parent | downcase }}"><h2>{{ page.parent }}</h2></a>{% endif %}
           <div style="clear:both"></div>
           </header>
           {{ content }}

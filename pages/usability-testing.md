@@ -30,7 +30,7 @@ To learn a given design’s challenges, opportunities, and successes.
 
 ## Applied in government research
 
-No PRA implications. First, any given usability test should involve fewer than nine users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.5(h)7, which is essentially what a usability test tests. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
+No PRA implications. First, any given usability test should involve nine or fewer users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.5(h)7, which is essentially what a usability test tests. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 
 ## Additional resources
 

@@ -11,7 +11,7 @@ A way of finding themes in collections of ideas, quotes, or observations.
 
 ## Reasons to use it
 
-Quick and collaborative approach for drawing insights from qualitative data.
+To draw out insights from qualitative data quickly and collaboratively.
 
 ## Time required
 

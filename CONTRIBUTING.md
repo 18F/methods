@@ -12,7 +12,7 @@ If you have any questions or want to read more, check out the [18F Open Source P
 
 ### Where to submit a pull request
 
-Submit pull requests to the `staging` branch. This is the main branch of Methods. If you’re not sure how to submit a pull request, feel free to submit an issue and we will try to address it ourselves.
+Submit pull requests to the `18f-pages-staging` branch. This is the main branch of Methods. If you’re not sure how to submit a pull request, feel free to submit an issue and we will try to address it ourselves.
 
 ### What to include in a pull request
 
@@ -46,9 +46,9 @@ Please review the Methods [content editing checklist](https://github.com/18F/met
 
 ## What we do with contributions
 
-We regularly review all pull requests and issues.  We merge pull requests into `staging` as soon as we can.
+We regularly review all pull requests and issues.  We merge pull requests into `18f-pages-staging` as soon as we can.
 
-Once a week, we incorporate any staged copy edits into the files for the printed cards, also on `staging`. We then merge all changes from `staging` into `master` — code and copy, digital and print. You’ll see your change reflected on [methods.18f.gov](https://methods.18f.gov/) after that pull into `master`.
+Once a week, we incorporate any staged copy edits into the files for the printed cards, also on `18f-pages-staging`. We then merge all changes from `18f-pages-staging` into `master` — code and copy, digital and print. You’ll see your change reflected on [methods.18f.gov](https://methods.18f.gov/) after that pull into `master`.
 
 We leave issues and pull requests open until we have decided what to do and then actually done it. Any time we close an issue, you’ll see something that explains why we’re closing it (such as a comment, a merged pull request, or a reference to another issue).
 

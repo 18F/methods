@@ -75,7 +75,7 @@ After the repository is created, you’ll see the repository URL at the top. Cop
 Go back to the directory where you cloned the repository. We’re going to change this repo to point to the one you just created (which is empty), instead of back to 18F’s, and push to it.
 ```
 git remote set-url origin https://github.com/MY-USER-NAME/METHODS.git
-git push origin staging
+git push origin 18f-pages-staging
 ```
 
 Now you can edit your own fork of Methods freely, and push up changes as you need.

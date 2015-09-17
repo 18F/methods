@@ -22,6 +22,24 @@ Including these will help us be faster and better at responding.
 - **Notes:** anything that might help us understand the change, like why you’re doing it or alternative approaches you tried
 - **Screenshots:** if your pull request will affect layout or interaction, to show us what you’re fixing or changing
 
+### Issues and labels
+
+If there’s anything you’d like to understand about Methods, submit an issue about it. If you see something that should be fixed but don’t want to do so yourself, submit an issue. If you have an idea for an improvement... well, you get the idea.
+
+This is the list of labels we currently use for different types of issues. It should give you some idea of the sorts of issues we expect. (You can also apply these labels to pull requests.) But if you want to raise something else, go for it.
+
+- `bug` tells us that Methods is doing something it probably should not. Try to keep this to interactive, layout, or visual design issues for the digital version. Print design issues should go under `print cards`.
+- `copy edit` denotes changes to language, which tells us we need to make the change twice: in the digital version and on the printable method cards. Even if the issue only exists in one place, we want to check it in both.
+- `duplicate` suggests that this issue might be the same as another issue. If you tell us what issue that is, we will look into it and decide whether to combine them.
+- `enhancement` means you’re suggesting a way to make Methods better. This is different from `bug` because it’s not suggesting there’s something wrong with the current state.
+- `help wanted` is a request for assistance, usually by 18F to the world, but if you just can’t figure something out about something you’re trying to do with Methods, feel free to use this label.
+- `invalid` comes after the fact to say the issue is either inaccurate or misplaced.
+- `new method` tells us you are submitting a design research method that we don’t currently describe.
+- `print cards` is for design changes to the printable cards that may require a bit more time from an 18F visual designer to address.
+- `question` raises any kind of question at all you have about Methods.
+- `wontfix` should come from 18F staffers. It acknowledges the issue — usually a bug or enhancement — but says we are not going to do something with it. You should expect an explanation if we apply this label.
+- `work in progress` means we are in the process of addressing this issue.
+
 ### What to include in an issue
 
 Not all of these will apply to all issues. But when they do, it’s very helpful to see them (special thanks to @ondrae for [the suggestion of this list](https://github.com/18F/open-source-guide/issues/15#issuecomment-129552978)).
@@ -32,13 +50,6 @@ Not all of these will apply to all issues. But when they do, it’s very helpful
 - **Files:** anything with helpful information about the issue
 - **To dos:** if your issue is an enhancement, a list of improvements or steps to help us meet the goal of the enhancement
 
-### Labels
-
-In addition to standard labels (`bug`, `question`, etc.) we have created a few labels unique to Methods. Use them on both pull requests and issues.
-
-- `copy edit` denotes changes to language, which tells us we need to make the change twice: in the digital version and on the printable method cards.
-- `new method` tells us you are submitting a design research method that we don’t currently describe.
-- `print cards` is for design changes to the printable cards that may require a bit more time from an 18F visual designer to address.
 
 ### Before you submit content edits
 

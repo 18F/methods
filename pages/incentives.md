@@ -15,7 +15,7 @@ Incentives often result in a more diverse, representative set of participants. W
 
 ## How to do it
 
-1. **Identify an appropriate incentive.** The best incentives are large enough to encourage participation, but not so large that they seem inappropriate. In industry, cash incentives are usually comparable to the hourly rate of the people recruited. 
+1. **Identify an appropriate incentive.** The best incentives are large enough to encourage participation, but not so large that they seem inappropriate. In industry, cash incentives are usually comparable to the hourly rate of the people recruited. In government, contractors or recruiting tools (like <a href="http://ethn.io">ethn.io</a>) can often pay incentives.
 
 2. **Clearly communicate when and how participants will receive incentives.** In the emails, postings or other materials you use to recruit your participants, describe the incentive and how participants will receive it (via mail, pick up at an office, etc.). This is particularly important for “remote” research.
 

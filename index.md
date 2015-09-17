@@ -3,6 +3,7 @@ permalink: /
 layout: default
 title: Method Cards
 ---
+<img src="{{ site.baseurl }}/assets/img/method-cards.jpg" />
 
 ## Why method cards?
 

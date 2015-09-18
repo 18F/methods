@@ -21,17 +21,16 @@ For the most part, the processes are the same as anywhere. However, to stay on t
 
 ## This site is built using the 18F Guides Template
 
-This is a skeleton repo containing the
-[CFPB/DOCter](https://github.com/CFPB/DOCter)-based
-[Jekyll](http://jekyllrb.com/) template for
-[18F Guides](http://18f.github.io/guides/).
+See the [guides template repo](https://github.com/18f/guides-template) for more information.
 
-### Generating the site/hosting locally
+## Generating the Methods site/hosting locally
+
+### Cloning and running 18F/methods
 
 You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). You may
 consider using a Ruby version manager such as
 [rbenv](https://github.com/sstephenson/rbenv) or [rvm](https://rvm.io/) to
-help ensure that Ruby version upgrades don't mean all your
+help ensure that Ruby version upgrades don’t mean all your
 [gems](https://rubygems.org/) will need to be rebuilt.
 
 On OS X, you can use [Homebrew](http://brew.sh/) to install Ruby in
@@ -43,12 +42,11 @@ $ brew update
 $ brew install ruby
 ```
 
-To create a new guide and serve it locally, where `MY-NEW-GUIDE` is the name
-of your new repository:
+To serve 18F Design Methods locally, using `METHODS` as the name of your new repository:
 
 ```shell
-$ git clone git@github.com:18F/guides-template.git MY-NEW-GUIDE
-$ cd MY-NEW-GUIDE
+$ git clone https://github.com/18F/methods.git METHODS
+$ cd METHODS
 $ ./go init
 $ ./go serve
 ```
@@ -56,26 +54,33 @@ $ ./go serve
 This will check that your Ruby version is supported, install the [Bundler
 gem](http://bundler.io/) if it is not yet installed, install all the gems
 needed by the template, and launch a running instance on
-`http://localhost:4000/guides-template/`. (Make sure to include the trailing slash! The built-in
-Jekyll webserver doesn't redirect to it.) That page contains further
-instructions on how to adapt the template to a new guide repository.
+`http://localhost:4000/methods/`. (Make sure to include the trailing slash! The built-in
+Jekyll webserver doesn’t redirect to it.) You can see how your local copy of Methods renders
+at any time by going to that URL. To stop serving locally, simply type `Ctrl+C`
+into the terminal again.
 
 After going through these steps, run `./go` to see a list of available
 commands. The `serve` command is the most common for routine development.
 
-You'll need to create a new Github repository for your new guide. To do this, go to github.com/18f and click the "New Repository" button. Enter the title and description for your new guide and then click "Create Repository".
+### Forking into your own repository
 
-After the repository is created, you'll see the repo URL at the top. Copy this url by hitting the handy "Copy to Clipboard" button next to the text box.
+If you haven’t already followed the cloning instructions above, the easiest way to do this is simply to go to https://github.com/18F/methods and click `Fork`, then set up the repository under your own username. Then follow the instructions above to clone locally, subbing in MY-USER-NAME for 18F’s in the URL that follows `git clone`.
 
-Go back to the directory where you cloned the guides-template repository. We're going to change this repo to point to the one you just created (which is empty) and push the template to it.
+If you _have_ already cloned locally from 18F and want to maintain your own Methods repository, do the following.
+
+You’ll need to create a new repository on Github. To do this, go to github.com/MY-USER-NAME and click the "New Repository" button. Enter the title and description for your new guide and then click `Create Repository`. It’s easiest if you use `methods` as the name, as it will match back to the 18F Methods you’re building from.
+
+After the repository is created, you’ll see the repository URL at the top. Copy this url by hitting the handy `Copy to Clipboard` button next to the text box.
+
+Go back to the directory where you cloned the repository. We’re going to change this repo to point to the one you just created (which is empty), instead of back to 18F’s, and push to it.
 ```
-git remote set-url origin https://github.com/18F/MY-NEW-GUIDE.git
-git push origin 18f-pages
+git remote set-url origin https://github.com/MY-USER-NAME/METHODS.git
+git push origin 18f-pages-staging
 ```
 
-Now you can edit the template freely, and push up changes as you need.
+Now you can edit your own fork of Methods freely, and push up changes as you need.
 
-### Public domain
+## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 

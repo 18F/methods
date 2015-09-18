@@ -63,3 +63,8 @@ header {
 .container > header {
   border-bottom: 4px solid {{ site.brand_color }};
 }
+
+.img__full img {
+  max-width:800px;
+  width: 100%;
+}

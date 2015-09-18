@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: default
 title: Method Cards
 ---
 <div class="img__full"><img src="{{site.baseurl}}/assets/img/18f-method-cards-intro.jpg" alt="Display of a few method cards."></div>

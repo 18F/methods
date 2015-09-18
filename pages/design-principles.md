@@ -1,8 +1,7 @@
 ---
 permalink: /design-principles/
-layout: default
 title: Design principles
-category: Decide
+parent: Decide
 ---
 
 ## What it is

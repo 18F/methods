@@ -1,8 +1,7 @@
 ---
 permalink: /protosketching/
-layout: default
 title: Protosketching
-category: Make
+parent: Make
 ---
 
 ## What it is

@@ -1,8 +1,7 @@
 ---
 permalink: /contextual-inquiry/
-layout: default
 title: Contextual inquiry
-category: Discover
+parent: Discover
 ---
 
 ## What it is

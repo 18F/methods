@@ -1,8 +1,7 @@
 ---
 permalink: /bodystorming/
-layout: default
 title: Bodystorming
-category: Discover
+parent: Discover
 ---
 
 ## What it is

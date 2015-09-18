@@ -1,8 +1,7 @@
 ---
 permalink: /style-tiles/
-layout: default
 title: Style tiles
-category: Decide
+parent: Decide
 ---
 
 ## What it is

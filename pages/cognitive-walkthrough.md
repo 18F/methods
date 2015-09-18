@@ -1,8 +1,7 @@
 ---
 permalink: /cognitive-walkthrough/
-layout: default
 title: Cognitive walkthrough
-category: Discover
+parent: Discover
 ---
 
 ## What it is

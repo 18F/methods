@@ -1,8 +1,7 @@
 ---
 permalink: /stakeholder-and-user-interviews/
-layout: default
 title: Stakeholder and user interviews
-category: Discover
+parent: Discover
 ---
 
 ## What it is

@@ -1,8 +1,7 @@
 ---
 permalink: /design-pattern-library/
-layout: default
 title: Design pattern library
-category: Make
+parent: Make
 ---
 
 ## What it is

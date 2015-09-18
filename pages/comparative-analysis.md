@@ -1,8 +1,7 @@
 ---
 permalink: /comparative-analysis/
-layout: default
 title: Comparative analysis
-category: Decide
+parent: Decide
 ---
 
 ## What it is

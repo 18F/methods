@@ -1,8 +1,7 @@
 ---
 permalink: /visual-preference-testing/
-layout: default
 title: Visual preference testing
-category: Validate
+parent: Validate
 ---
 
 ## What it is

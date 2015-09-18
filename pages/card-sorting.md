@@ -1,8 +1,7 @@
 ---
 permalink: "/card-sorting/"
-layout: default
 title: Card sorting
-category: Validate
+parent: Validate
 ---
 
 ## What it is

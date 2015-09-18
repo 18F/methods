@@ -1,8 +1,7 @@
 ---
 permalink: /metrics-definition/
-layout: default
 title: Metrics definition
-category: Discover
+parent: Discover
 ---
 
 ## What it is

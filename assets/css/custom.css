@@ -86,6 +86,11 @@ h1 { font-size: 2em }
 		margin-top: 0.5em;
 	}
 }
+.img__full img {
+	max-width:800px;
+	width: 100%;
+}
+
 .parent header h1 {
 	padding-bottom: 0.45em;
 	margin-bottom: 0.9em;

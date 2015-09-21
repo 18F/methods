@@ -1,8 +1,7 @@
 ---
 permalink: /personas/
-layout: default
 title: Personas
-category: Decide
+parent: Decide
 ---
 
 ## What it is

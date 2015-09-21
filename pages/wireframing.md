@@ -1,8 +1,7 @@
 ---
 permalink: /wireframing/
-layout: default
 title: Wireframing
-category: Make
+parent: Make
 ---
 
 ## What it is

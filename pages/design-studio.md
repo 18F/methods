@@ -1,8 +1,7 @@
 ---
 permalink: /design-studio/
-layout: default
 title: Design studio
-category: Discover
+parent: Discover
 ---
 
 ## What it is

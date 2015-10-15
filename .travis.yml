@@ -6,7 +6,7 @@ script: bundle exec jekyll build --config _config.yml,_config-production.yml ./_
 deploy:
   provider: cloudfoundry
   edge: true
-  api: https://api.18f.gov
+  api: https://api.cloud.gov
   organization: 18f
   space: methods
   username: deploy-18f

@@ -17,6 +17,10 @@ h1 { font-size: 2em }
 .parentValidate header h1       { border: 3px solid #CE5D30 }
 .parentFundamentals header h1   { border: 3px solid #123B5B }
 
+.method header {
+  padding-bottom: 0;
+}
+
 .method header h1 {
   margin: 0;
   float: left;
@@ -64,4 +68,9 @@ header {
 
 .container > header {
   border-bottom: 4px solid {{ site.brand_color }};
+}
+
+.img__full img {
+  max-width:800px;
+  width: 100%;
 }

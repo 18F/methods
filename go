@@ -36,19 +36,19 @@ def_command :update_nav, 'Update the \'navigation:\' data in _config.yml' do
 end
 
 def_command :update_theme, 'Update the guides_style_18f gem' do
-  exec({ 'RUBYOPT' => nil }, 'bundle', *%w(update --source guides_style_18f))
+  GuidesStyle18F.update_theme
 end
 
 def_command :update_gems, 'Update Ruby gems' do |gems|
   update_gems gems
 end
 
-def_command :serve, 'Serve the site at localhost:4000' do
-  serve_jekyll
+def_command :serve, 'Serve the site at localhost:4000' do |args|
+  serve_jekyll args
 end
 
-def_command :build, 'Build the site' do
-  build_jekyll
+def_command :build, 'Build the site' do |args|
+  build_jekyll args
 end
 
 execute_command ARGV

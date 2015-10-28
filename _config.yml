@@ -166,7 +166,6 @@ back_link:
   text: Read more 18F Guides
 
 styles:
-- assets/css/custom.css
 
 defaults:
   -

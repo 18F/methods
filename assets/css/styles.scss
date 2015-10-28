@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "guides_style_18f";
+@import 'guides_style_18f';
 
 h1 { font-size: 2em }
 
@@ -16,6 +16,10 @@ h1 { font-size: 2em }
 .parentMake header h1           { border: 3px solid #EDA734 }
 .parentValidate header h1       { border: 3px solid #CE5D30 }
 .parentFundamentals header h1   { border: 3px solid #123B5B }
+
+.method header {
+  padding-bottom: 0;
+}
 
 .method header h1 {
   margin: 0;
@@ -64,4 +68,9 @@ header {
 
 .container > header {
   border-bottom: 4px solid {{ site.brand_color }};
+}
+
+.img__full img {
+  max-width:800px;
+  width: 100%;
 }

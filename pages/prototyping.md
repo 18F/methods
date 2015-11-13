@@ -34,5 +34,4 @@ No PRA implications. The PRA explicitly exempts direct observation and non-stand
 
 ## Additional resources:
 
-- [`http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371`](http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371)
-- [`http://www.uxbooth.com/articles/considering-prototypes/`](http://www.uxbooth.com/articles/considering-prototypes/)
+- [*Sketching User Experiences: Getting the Design Right and the Right Design.*](http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371) Bill Buxton.

@@ -32,5 +32,5 @@ No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 
-- [`http://rosenfeldmedia.com/books/mental-models/`](http://rosenfeldmedia.com/books/mental-models/)
-- [`http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience`](http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience)
+- [*Mental Models: Aligning Design Strategy with Human Behavior.*](http://rosenfeldmedia.com/books/mental-models/) Indi Young. 
+- [“The Secret to Designing an Intuitive UX : Match the Mental Model to the Conceptual Model.”](http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience) Susan Weinschenk, UX Magazine. 

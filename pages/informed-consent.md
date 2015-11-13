@@ -30,4 +30,5 @@ Informed consent is the cornerstone of ethical research practice. Always. If you
 No PRA implications. The PRA specifically exempts consents, 5 CFR 1320.3(h)1.
 
 ## Additional resources
-* [18F's participant consent form](../assets/downloads/18FResearchParticipantConsentForm.docx)
+
+- [18F's participant consent form](../assets/downloads/18FResearchParticipantConsentForm.docx)

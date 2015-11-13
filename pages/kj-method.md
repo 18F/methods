@@ -40,7 +40,7 @@ Likely no PRA implications: generally any given session is likely to have nine o
 
 ## Additional resources
 
-[`http://www.uie.com/articles/kj_technique/`](http://www.uie.com/articles/kj_technique/)
+- [“The KJ-Technique: A Group Process for Establishing Priorities.”](http://www.uie.com/articles/kj_technique/) Jared M. Spool. 
 
 ## Example from 18F
 

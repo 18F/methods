@@ -34,8 +34,8 @@ No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 
-- [`http://www.uxmatters.com/mt/archives/2009/12/needs-resources-location-schedule-budget-scope.php`](http://www.uxmatters.com/mt/archives/2009/12/needs-resources-location-schedule-budget-scope.php)
-- [`http://alistapart.com/article/no-one-nos-learning-to-say-no-to-bad-ideas`](http://alistapart.com/article/no-one-nos-learning-to-say-no-to-bad-ideas)
-- [`https://www.youtube.com/watch?v=oAU0c7ocZKs`](https://www.youtube.com/watch?v=oAU0c7ocZKs)
-- [`https://civicquarterly.com/article/two-way-streets/`](https://civicquarterly.com/article/two-way-streets/)
-- [`http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407`](http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407)
+- [“Needs + Resources + Location + Schedule + Budget = Scope.”](http://www.uxmatters.com/mt/archives/2009/12/needs-resources-location-schedule-budget-scope.php). Whitney Hess.
+- [“No One Nos: Learning to Say No to Bad Ideas.”](http://alistapart.com/article/no-one-nos-learning-to-say-no-to-bad-ideas). Whitney Hess.
+- Video: [Understanding Impact: The mySociety agenda.](https://www.youtube.com/watch?v=oAU0c7ocZKs). Dr. Rebecca Rumbul.
+- [“How not to say the wrong thing”](http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407). Susan Silk and Barry Goldman.
+

@@ -33,5 +33,5 @@ No PRA Implications, as heuristic evaluations usually include a small number of 
 
 ## Additional resources
 
-- [`http://www.nngroup.com/articles/ten-usability-heuristics/`](http://www.nngroup.com/articles/ten-usability-heuristics/)
-- [`http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/`](http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+- [“10 Usability Heuristics for User Interface Design.”](http://www.nngroup.com/articles/ten-usability-heuristics/) Jakob Nielsen.
+- [“How to Conduct a Heuristic Evaluation.”](http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) Jakob Nielsen.

@@ -30,5 +30,5 @@ No PRA implications. This method may use data gathered from members of the publi
 
 ## Additional resources
 
-- [An explanation of what affinity diagramming is and how to do it.](http://www.usabilitybok.org/affinity-diagram). The Usability Body of Knowledge, a product of the User Experience Professionals’ Association.
-- [An explanation of affinity diagramming.](http://infodesign.com.au/usabilityresources/affinitydiagramming/). Information and Design.
+- [An explanation of what affinity diagramming is and how to do it.](http://www.usabilitybok.org/affinity-diagram) The Usability Body of Knowledge, a product of the User Experience Professionals’ Association.
+- [An explanation of affinity diagramming.](http://infodesign.com.au/usabilityresources/affinitydiagramming/) Information and Design.

@@ -36,4 +36,4 @@ To understand whether a design solution is easy for a new or infrequent user to 
 -  If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
 
 ## Additional resources
-- [An explanation of cognitive walkthroughs and how to conduct one.](http://www.usabilitybok.org/cognitive-walkthrough) The Usability Body of Knowledge, a product of the User Experience Professionals’ Association.
+[An explanation of cognitive walkthroughs and how to conduct one.](http://www.usabilitybok.org/cognitive-walkthrough) The Usability Body of Knowledge, a product of the User Experience Professionals’ Association.

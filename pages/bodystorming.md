@@ -35,4 +35,4 @@ To remind participants that interactions are human and physical, to teach stakeh
 
 ## Additional resources
 
-- [An explanation of bodystorming on Wicked Problems Worth Solving.](https://www.wickedproblems.com/6_bodystorming.php) Austin Center for Design.
+[An explanation of bodystorming on Wicked Problems Worth Solving.](https://www.wickedproblems.com/6_bodystorming.php) Austin Center for Design.

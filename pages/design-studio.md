@@ -38,4 +38,5 @@ No PRA implications. If conducted with nine or fewer members of the public, the 
 
 ## Additional resources
 
-[`https://vimeo.com/37861987/`](https://vimeo.com/37861987/)
+A [presentation by Todd Zaki Warfel.](https://vimeo.com/37861987/)
+ explaining what Design Studio is. Todd Zaki Warfel.

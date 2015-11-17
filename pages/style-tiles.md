@@ -32,5 +32,5 @@ No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 
-- [`http://styletil.es/`](http://styletil.es/)
-- [`http://alistapart.com/article/style-tiles-and-how-they-work`](http://alistapart.com/article/style-tiles-and-how-they-work)
+- Tool: [Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.](http://styletil.es/) Style Tiles. 
+- [“Style Tiles and How They Work.”](http://alistapart.com/article/style-tiles-and-how-they-work) Samantha Warren. 

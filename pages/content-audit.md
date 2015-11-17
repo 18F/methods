@@ -40,5 +40,5 @@ To identify content that needs to be revised in new versions of a website. Conte
 No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
-- [“How to Conduct a Content Audit.”](http://uxmastery.com/how-to-conduct-a-content-audit/). UX Mastery.
-- [“Auditing Big Sites Doesn’t Have to Be Taxing.”](http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/). Christine Anameier.
+- [“How to Conduct a Content Audit.”](http://uxmastery.com/how-to-conduct-a-content-audit/) UX Mastery.
+- [“Auditing Big Sites Doesn’t Have to Be Taxing.”](http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/) Christine Anameier.

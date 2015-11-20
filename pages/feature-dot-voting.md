@@ -36,6 +36,3 @@ To build group consensus quickly from the priorities of individual in the group.
 
 No PRA implications: feature dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 
-## Additional resources
-
-[`http://www.nadeemullakhan.com/prioritize-using-dot-voting-agile-innovation-game/`](http://www.nadeemullakhan.com/prioritize-using-dot-voting-agile-innovation-game/)

@@ -34,4 +34,4 @@ No PRA implications. First, any given usability test should involve nine or fewe
 
 ## Additional resources
 
-[`http://www.usabilitybok.org/summative-usability-testing`](http://www.usabilitybok.org/summative-usability-testing)
+[An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals’ Association.

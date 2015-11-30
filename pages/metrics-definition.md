@@ -37,4 +37,4 @@ No PRA implications. No information is collected from members of the public.
 - [“Needs + Resources + Location + Schedule + Budget = Scope.”](http://www.uxmatters.com/mt/archives/2009/12/needs-resources-location-schedule-budget-scope.php) Whitney Hess.
 - [“No One Nos: Learning to Say No to Bad Ideas.”](http://alistapart.com/article/no-one-nos-learning-to-say-no-to-bad-ideas) Whitney Hess.
 - Video: [Understanding Impact: The mySociety agenda.](https://www.youtube.com/watch?v=oAU0c7ocZKs) Dr. Rebecca Rumbul.
-- [“How not to say the wrong thing”](http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407) Susan Silk and Barry Goldman.
+- [“How not to say the wrong thing.”](http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407) Susan Silk and Barry Goldman.

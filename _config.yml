@@ -33,6 +33,18 @@ navigation:
   url: discover/
   internal: true
   children:
+  - text: Feature dot voting
+    url: ../feature-dot-voting/
+    internal: true
+  - text: KJ method
+    url: ../kj-method/
+    internal: true
+  - text: Metrics definition
+    url: ../metrics-definition/
+    internal: true
+  - text: Design studio
+    url: ../design-studio/
+    internal: true    
   - text: Bodystorming
     url: ../bodystorming/
     internal: true
@@ -42,20 +54,8 @@ navigation:
   - text: Contextual inquiry
     url: ../contextual-inquiry/
     internal: true
-  - text: Design studio
-    url: ../design-studio/
-    internal: true
-  - text: Feature dot voting
-    url: ../feature-dot-voting/
-    internal: true
   - text: Heuristic analysis
     url: ../heuristic-analysis/
-    internal: true
-  - text: KJ method
-    url: ../kj-method/
-    internal: true
-  - text: Metrics definition
-    url: ../metrics-definition/
     internal: true
   - text: Stakeholder and user interviews
     url: ../stakeholder-and-user-interviews/
@@ -64,9 +64,6 @@ navigation:
   url: decide/
   internal: true
   children:
-  - text: Affinity diagramming
-    url: ../affinity-diagramming/
-    internal: true
   - text: Comparative analysis
     url: ../comparative-analysis/
     internal: true
@@ -75,6 +72,18 @@ navigation:
     internal: true
   - text: Design principles
     url: ../design-principles/
+    internal: true
+  - text: Site mapping
+    url: ../site-mapping/
+    internal: true
+  - text: Task flow analysis
+    url: ../task-flow-analysis/
+    internal: true
+  - text: User scenarios
+    url: ../user-scenarios/
+    internal: true     
+  - text: Affinity diagramming
+    url: ../affinity-diagramming/
     internal: true
   - text: Journey mapping
     url: ../journey-mapping/
@@ -85,36 +94,27 @@ navigation:
   - text: Personas
     url: ../personas/
     internal: true
-  - text: Site mapping
-    url: ../site-mapping/
-    internal: true
   - text: Storyboarding
     url: ../storyboarding/
     internal: true
   - text: Style tiles
     url: ../style-tiles/
     internal: true
-  - text: Task flow analysis
-    url: ../task-flow-analysis/
-    internal: true
-  - text: User scenarios
-    url: ../user-scenarios/
-    internal: true
 - text: Make
   url: make/
   internal: true
   children:
-  - text: Design pattern library
-    url: ../design-pattern-library/
-    internal: true
   - text: Protosketching
     url: ../protosketching/
     internal: true
-  - text: Prototyping
-    url: ../prototyping/
-    internal: true
   - text: Wireframing
     url: ../wireframing/
+    internal: true
+  - text: Design pattern library
+    url: ../design-pattern-library/
+    internal: true
+  - text: Prototyping
+    url: ../prototyping/
     internal: true
 - text: Validate
   url: validate/

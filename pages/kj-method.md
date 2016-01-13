@@ -36,7 +36,7 @@ To reach a consensus on priorities of subjective, qualitative data with a group 
 
 ## Applied in government research
 
-At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are *not* federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agencies’ Office of General Counsel, and perhaps OIRA desk officers also can ensure you are following the laws and regulations applicable to federal agencies. 
+At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are *not* federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agencies’ Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies. 
 
 ## Additional resources
 

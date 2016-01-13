@@ -10,35 +10,30 @@ Identifying and gathering people to interview or who will test your product.
 
 ## Why it is important
 
-Time spent with the right people using the wrong methods is better than time spent with people who aren’t your core users but follow the right methods. Recruiting people who represent your core user group is a critical and oft-overlooked part of research.
+Recruiting people who represent your core user group is a critical and oft-overlooked part of research. Time spent with the right people using the wrong methods is better than time spent with people who aren’t your core users while using the right methods.
 
 ## Time required
 
 1–2 weeks for 5–10 participants from mailing lists or community organizations
 
-## Who you should seek
+## Seek out people who:
 
-- People who are trying to use the thing you are working on right at that very moment.
-- People who have recently tried to use the thing you are working on.
-- People who have used the thing you are working on less recently.
-- People who have used a thing like the thing you are working on and are likely to use the thing you are working on.
+- Are trying to use the thing you are working on right at that very moment.
+- Recently tried to use the thing you are working on.
+- Used the thing you are working on less recently.
+- Have used something like what you are working on, and are likely to use what you are working on.
 
-## How you can reach them
+## Reach them through
 
-- Through relevant community organizations.
-- Using guerrilla intercepts near where people do the thing you are working on.
-- In your personal and professional network.
-- Via the new or existing website.
-- Via existing mailing lists.
+- Relevant community organizations.
+- Impromptu requests in or near the relevant environment.
+- Your personal and professional network.
+- The new or existing website.
+- Existing mailing lists.
 
 ## Applied in government research
 
-If you recruit users who participate for free and aren’t government employees, the Anti-Deficiency Act requires you to either:
-
-- Give all members of the public an opportunity to participate (by posting the opportunity to participate somewhere everyone can see it, like your website or Github), or
-- Get participants to agree, in writing, to the statement: “I understand that I will receive no compensation and waive all claims for compensation from the U.S. government in exchange for my participation in this research.”
-
-If you do not ask potential participants to respond to a “screener survey,” the PRA does not apply to your recruiting efforts.
+Check with your agency's legal counsel (or privacy officer or OIRA desk officer) before collecting any personally identifiable information or receiving services from the general public. For more on this, see OMB guidance on the Paperwork Reduction Act and the Privacy Act.
 
 ## Additional resources
 

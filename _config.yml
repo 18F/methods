@@ -139,12 +139,6 @@ navigation:
   - text: Incentives
     url: ../incentives/
     internal: true
-  - text: Informed consent
-    url: ../informed-consent/
-    internal: true
-  - text: Paperwork Reduction Act
-    url: ../paperwork-reduction-act/
-    internal: true
   - text: Privacy
     url: ../privacy/
     internal: true

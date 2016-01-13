@@ -10,7 +10,7 @@ A facilitated exercise in which participants list their individual priorities on
 
 ## Reasons to use it
 
-To reach a consensus on priorities of subjective, qualitative data with a group of people. This is especially helpful with large groups of stakeholders and groups with high risk of disagreement.
+To reach a consensus on priorities of subjective, qualitative data with a group of people. This is especially helpful with larger groups of stakeholders and groups with high risk of disagreement.
 
 ## Time required
 
@@ -36,7 +36,7 @@ To reach a consensus on priorities of subjective, qualitative data with a group 
 
 ## Applied in government research
 
-Likely no PRA implications: generally any given session is likely to have nine or fewer users. 5 CFR 1320.5(c)4. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
+At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are *not* federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agencies’ Office of General Counsel, and perhaps OIRA desk officers also can ensure you are following the laws and regulations applicable to federal agencies. 
 
 ## Additional resources
 

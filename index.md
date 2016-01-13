@@ -19,12 +19,10 @@ title: Method Cards
 
 ## We’ve called out specifics about doing this work in government
 
-For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](./recruiting/), [Incentives](./incentives/), [Informed consent](./informed-consent/), [Privacy](./privacy/), and the [Paperwork Reduction Act](./paperwork-reduction-act/). No matter which methods we work with, these are the [fundamentals](./fundamentals/) of our design research.
+For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](./recruiting/), [Incentives](./incentives/), and [Privacy](./privacy/). No matter which methods we work with, these are the [fundamentals](./fundamentals/) of our design research.
 
-## You can print a card deck of these design methods
+## You will soon be able to print a card deck of these design methods
 
-We’ve created a deck of full-color cards for these methods that we will be distributing to our team. You're welcome to print or create your own deck, too. Use the files below to save, print, or use our designs to fit your needs.
+We are updating our card templates, and these files will be available again soon.
 
-* <a href="./assets/downloads/18F-Method-Cards-beta-Preview.pdf" onClick="ga('send', 'event', { eventCategory: 'Download', eventAction: 'Download PDF for viewing', eventLabel: 'View or save all the cards to your desktop'});">View or save all the cards to your desktop (PDF) </a>
-* <a href="./assets/downloads/18F-Method-Cards-beta_Print.zip" onClick="ga('send', 'event', { eventCategory: 'Download', eventAction: 'Download PDF for printing', eventLabel: ‘Print the cards, at home or professionally'});">Print the cards, at home or professionally — complete with instructions (ZIP)</a>
-* <a href="./assets/downloads/18F-Method-Cards-beta-Template.zip" onClick="ga('send', 'event', { eventCategory: 'Download', eventAction: 'Download IND file', eventLabel: ‘Customize our Adobe InDesign template to fit your needs'});">Customize our Adobe InDesign template to fit your needs (INDD)</a>
+

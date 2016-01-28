@@ -1,0 +1,21 @@
+project: "Design Methods"
+name: methods
+github:
+- 18F/methods
+description: A collection of design and research methods, including general descriptions and how-tos, to share how we work and build a common design vocabulary.
+stage: beta
+milestones:
+- "April 2015: Conducted one-on-one interviews with design leads across roughly 10 projects."
+- "May 2015: Built prototype sets of alpha method cards to get some quick feedback on our concept. Conducted a few more formal usability tests of the card decks, which led to some changes in the beta version."
+- "June 2015: Ran randomized, controlled experiment to measure how method cards affected our 18F teammates’ knowledge and comfort with our design methods. People who received cards were slightly more knowledgeable and comfortable with methods than a control group whose members didn’t receive cards."
+- "August 2015: Launched online, beta version of the methods at methods.18f.gov, including files and instructions for printed cards."
+contact:
+- 18f/methods/issues
+team: jthibault, colin, jeremy, esgoodman, andrewmaier, brad, victor, jhunter, jameshupp, russu
+licenses:
+  methods: Public Domain (CC0)
+links:
+- https://methods.18f.gov/
+blog:
+
+status:

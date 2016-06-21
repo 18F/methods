@@ -18,25 +18,25 @@ To reach a consensus on priorities of subjective, qualitative data with a group 
 
 ## How to do it
 
-1. Gather at least four participants for 90 minutes. Provide Post-It notes and markers.
+1. Gather four or more participants for 90 minutes. Provide sticky notes and markers.
 
-2. Determine a focus question and assign a facilitator.
+2. Create a focus question and select a facilitator.
 
 3. Give participants five minutes to write at least three responses to the focus question, each on its own note.
 
-4. Give participants 15 minutes to put their answers on the wall and read everyone’s contributions. Additions are welcome. Have participants cluster similar answers together without discussion.
+4. Give participants 15 minutes to put their answers on the wall, read everyone else’s, and make additions. Have participants cluster similar answers without discussion.
 
-5. Ask participants to write a name for each cluster on their own. Each participant must give each cluster a name. They may also split clusters.
+5. Ask participants to write names for each cluster on their own — this is mandatory. They may also split clusters.
 
-6. Put every single name on the wall with its cluster. Exclude only word-for-word duplicates.
+6. Put each name on the wall by its cluster. Exclude word-for-word duplicates.
 
-7. Remind participants of the original question. Instruct each person to rank their three most important clusters. Visually tally points.
+7. Reiterate the focus question and have each person rank their three most important clusters. Visually tally points.
 
-8. Combine duplicate areas and their points if the group unanimously agrees they are identical. At the end, three or four groups usually rank much higher than the rest. Make these the top priorities for the focus question.
+8. Combine duplicates and their points if the entire group agrees they’re identical. Three or four groups usually rank higher than the rest — these are the priorities for the focus question.
 
 ## Applied in government research
 
-At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are *not* federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agencies’ Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies. 
+At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agencies’ Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies. 
 
 ## Additional resources
 

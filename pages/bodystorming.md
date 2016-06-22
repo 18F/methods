@@ -30,7 +30,7 @@ To remind participants that interactions are human and physical, to teach stakeh
 
 ## Applied in government research:
 
-- No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3.
+- No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
 - If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
 
 ## Additional resources

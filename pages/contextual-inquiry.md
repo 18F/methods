@@ -28,7 +28,7 @@ To learn how and why users do what they do; to discover needs and attitudes that
 
 ## Applied in government research
 
-- No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
+- No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy/) for more tips on taking input from the public.
 - For internal folks, get permission from the right level of management. If participants could be under union agreements, contact the agency’s labor relations team.
 
 ## Example from 18F

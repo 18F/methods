@@ -30,7 +30,7 @@ To stimulate stakeholder imaginations and focus discussion on issues about data,
 
 ## Applied in government research
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.5(h)3.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
 
 ## Additional resources
 

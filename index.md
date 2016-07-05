@@ -21,8 +21,11 @@ title: Method Cards
 
 For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](./fundamentals/recruiting/), [Incentives](./fundamentals/incentives/), and [Privacy](./fundamentals/privacy/). No matter which methods we work with, these are the [fundamentals](./fundamentals/) of our design research.
 
-## You will soon be able to print a card deck of these design methods
+## Print your own card deck of these design methods
 
-We are updating our card templates, and these files will be available again soon.
+
+[Download a PDF of the method cards to print at home](./assets/downloads/18F-Method-Cards-Print-at-Home.pdf)
+
+[Download a PDF of the instructions for printing](./assets/downloads/18F-Method-Cards-Print-Instructions.pdf)
 
 

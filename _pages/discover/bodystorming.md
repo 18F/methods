@@ -21,7 +21,7 @@ To remind participants that interactions are human and physical, to teach stakeh
 
 2. Bring the project team to the user’s environment. If that’s not practical, model the user’s environment in a conference room.
 
-3. Assign each member of the project team to a role, interface, or “touchpoint” that you have identified in a [journey map](../journey-mapping/). If users are present, ask them to pretend to accomplish their goals as usual. Otherwise, assign a [persona](../personas/) to each member of the product team who isn’t serving as a touchpoint. If you anticipate discomfort, assign roles in advance and start with a basic script.
+3. Assign each member of the project team to a role, interface, or “touchpoint” that you have identified in a [journey map](../journey-mapping/). If users are present, ask them to pretend to accomplish their goals as usual. Otherwise, assign a [persona](/../decide/personas/) to each member of the product team who isn’t serving as a touchpoint. If you anticipate discomfort, assign roles in advance and start with a basic script.
 
 4. Use props to role play how users accomplish their goals. “Speak the interface” to one another. For example, one of the touchpoints might say “Submit all of your required forms,” and the user might respond “Arg! I don’t know what forms are required!”
 

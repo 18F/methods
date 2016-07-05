@@ -21,7 +21,7 @@ To prioritize information (substance and relationships) over decoration (style) 
 
 2. Use this opportunity to start listing what UX/UI patterns you will need.
 
-3. Review your wireframes with specific [user scenarios](../user-scenarios/) and [personas](../personas/) in mind. Can users accomplish their task with the wireframe you are sketching out?
+3. Review your wireframes with specific [user scenarios](../user-scenarios/) and [personas](/../decide/personas/) in mind. Can users accomplish their task with the wireframe you are sketching out?
 
 4. Use the wireframes to get the team’s feedback on feasibility and structure.
 

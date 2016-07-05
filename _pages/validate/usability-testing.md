@@ -17,7 +17,7 @@ To learn a given design’s challenges, opportunities, and successes.
 
 ## How to do it
 
-1. [Create a prototype](../prototyping/) that sufficiently conveys the team’s hypothesis based on research. In the absence of a prototype, consider testing a [competitor’s product](/../decide/comparative-analysis/).
+1. [Create a prototype](/../make/prototyping/) that sufficiently conveys the team’s hypothesis based on research. In the absence of a prototype, consider testing a [competitor’s product](/../decide/comparative-analysis/).
 
 2. Stage a scenario in which someone who would actually use your product tries to employ the prototype for their own ends. Record their attempt. Optionally:
  - Ask users to think out loud as they try.

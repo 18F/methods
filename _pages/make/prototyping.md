@@ -17,7 +17,7 @@ To enable direct examination of a design concept’s viability with a number of 
 
 ## How to do it
 
-1. Create a rudimentary version of your product. It can be static or functional. Think in the same way you would about a [wireframe](../wireframing/): demonstrate structure and relationships among different elements, but don’t worry about stylized elements.
+1. Create a rudimentary version of your product. It can be static or functional. Think in the same way you would about a [wireframe](/../make/wireframing/): demonstrate structure and relationships among different elements, but don’t worry about stylized elements.
 
 2. Give the prototype to the user and observe their interactions without instruction.
 

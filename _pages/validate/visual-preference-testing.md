@@ -13,7 +13,7 @@ To align the established branding guidelines and attributes of a solution with t
 
 ## Time required
 
-**Medium:** 4-12 hours for mood boards or [style tiles](../style-tiles/). 30 minutes per participant to get feedback.
+**Medium:** 4-12 hours for mood boards or [style tiles](/../decide/style-tiles/). 30 minutes per participant to get feedback.
 
 ## How to do it
 

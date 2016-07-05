@@ -29,7 +29,7 @@ To incorporate different contexts, channels, or user types into addressing a use
 
 ## Applied in government research
 
-No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for [Recruiting](../recruiting/) and [Privacy](../privacy) for more tips on taking input from the public.
+No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for [Recruiting](/../fundamentals/recruiting/) and [Privacy](../privacy) for more tips on taking input from the public.
 
 ## Additional resources
 

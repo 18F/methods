@@ -21,7 +21,7 @@ To learn a given design’s challenges, opportunities, and successes.
 
 2. Stage a scenario in which someone who would actually use your product tries to employ the prototype for their own ends. Record their attempt. Optionally:
  - Ask users to think out loud as they try.
- - [Compensate the participant](../incentives/) for their time.
+ - [Compensate the participant](/../fundamentals/incentives/) for their time.
 
 3. Avoid asking participants to perform tasks far outside their normal context. This will lead them to reflect on the design rather than their ability to accomplish their goals. (For example, to test a new layout for a “user account” section on a voter registration website, recruit only people who already register to vote online.)
 

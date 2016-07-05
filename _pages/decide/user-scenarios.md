@@ -28,7 +28,7 @@ To remind a team, during both the design and validation phases, of the overarchi
 
 4. Share with the full team for feedback and refinement.
 
-5. If you want to use the scenarios for [usability testing](../usability-testing/), write them so they do not lead the participant to the correct outcome.
+5. If you want to use the scenarios for [usability testing](/../validate/usability-testing/), write them so they do not lead the participant to the correct outcome.
 
 ## Applied in government research
 

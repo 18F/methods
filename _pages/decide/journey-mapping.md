@@ -28,7 +28,7 @@ To provide design teams with a bird’s-eye view of a design system, helping the
 
 3. Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish [design principles](/../decide/design-principles/). Think about how to collapse or accelerate a customer’s journey through the various phases. Incorporate this information into the project’s scope.
 
-You can also map user journeys as part of a workshop with stakeholders, similar to a [design studio](../design-studio/).
+You can also map user journeys as part of a workshop with stakeholders, similar to a [design studio](/../discover/design-studio/).
 
 ## Applied in government research
 

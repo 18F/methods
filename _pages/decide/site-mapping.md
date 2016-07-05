@@ -9,7 +9,7 @@ A comprehensive rendering of how a website’s pages relate to one another.
 
 ## Reasons to use it
 
-To audit an existing website by assessing its structure and content. Site maps also help you plan and organize the contents of a new website prior to [wireframing](/../make/wireframing/) and building it.
+To audit an existing website by assessing its structure and content. Site maps also help you plan and organize the contents of a new website prior to [wireframing]({{ '/make/wireframing/' | prepend: site.baseurl }}) and building it.
 
 ## Time required
 

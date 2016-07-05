@@ -17,7 +17,7 @@ To enable direct examination of a design concept’s viability with a number of 
 
 ## How to do it
 
-1. Create a rudimentary version of your product. It can be static or functional. Think in the same way you would about a [wireframe](/../make/wireframing/): demonstrate structure and relationships among different elements, but don’t worry about stylized elements.
+1. Create a rudimentary version of your product. It can be static or functional. Think in the same way you would about a [wireframe]({{ '/make/wireframing/' | prepend: site.baseurl }}): demonstrate structure and relationships among different elements, but don’t worry about stylized elements.
 
 2. Give the prototype to the user and observe their interactions without instruction.
 
@@ -29,7 +29,7 @@ To enable direct examination of a design concept’s viability with a number of 
 
 ## Applied in government research
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/../fundamentals/recruiting/) and [Privacy](/../fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
 
 ## Additional resources:
 

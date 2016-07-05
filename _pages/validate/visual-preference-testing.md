@@ -13,7 +13,7 @@ To align the established branding guidelines and attributes of a solution with t
 
 ## Time required
 
-**Medium:** 4-12 hours for mood boards or [style tiles](/../decide/style-tiles/). 30 minutes per participant to get feedback.
+**Medium:** 4-12 hours for mood boards or [style tiles]({{ '/decide/style-tiles/' | prepend: site.baseurl }}). 30 minutes per participant to get feedback.
 
 ## How to do it
 
@@ -29,7 +29,7 @@ To align the established branding guidelines and attributes of a solution with t
 
 ## Applied in government research
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/../fundamentals/recruiting/) and [Privacy](/../fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
 
 ## Additional resources
 

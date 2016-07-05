@@ -17,7 +17,7 @@ To draw out insights from qualitative data quickly and collaboratively.
 
 ## How to do it
 
-1. Record ideas, quotes, or observations from [interviews](/../discover/stakeholder-and-user-interviews/), [contextual inquiry](/../discover/contextual-inquiry/), or other sources of research on Post-It notes.
+1. Record ideas, quotes, or observations from [interviews]({{ '/discover/stakeholder-and-user-interviews/' | prepend: site.baseurl }}), [contextual inquiry]({{ '/discover/contextual-inquiry/' | prepend: site.baseurl }}), or other sources of research on Post-It notes.
 
 2. Place the Post-It notes on a white board (in no particular arrangement). Move the Post-It notes into related groups.
 

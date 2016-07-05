@@ -24,15 +24,15 @@ To provide design teams with a bird’s-eye view of a design system, helping the
  - Discrete moments or major decisions they make
  - The emotions associated with these moments or decisions
 
-2. Visualize the order in which people exhibit behaviors, use information, make decisions, and feel emotions. Group elements into a table of “phases” related to the personal narrative of each [persona](/../decide/personas/). Identify where personas share contextual components.
+2. Visualize the order in which people exhibit behaviors, use information, make decisions, and feel emotions. Group elements into a table of “phases” related to the personal narrative of each [persona]({{ '/decide/personas/' | prepend: site.baseurl }}). Identify where personas share contextual components.
 
-3. Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish [design principles](/../decide/design-principles/). Think about how to collapse or accelerate a customer’s journey through the various phases. Incorporate this information into the project’s scope.
+3. Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish [design principles]({{ '/decide/design-principles/' | prepend: site.baseurl }}). Think about how to collapse or accelerate a customer’s journey through the various phases. Incorporate this information into the project’s scope.
 
-You can also map user journeys as part of a workshop with stakeholders, similar to a [design studio](/../discover/design-studio/).
+You can also map user journeys as part of a workshop with stakeholders, similar to a [design studio]({{ '/discover/design-studio/' | prepend: site.baseurl }}).
 
 ## Applied in government research
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/../fundamentals/recruiting/) and [Privacy](/../fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
 
 ## Additional resources
 

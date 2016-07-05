@@ -19,7 +19,7 @@ To incorporate different contexts, channels, or user types into addressing a use
 
 1. Identify the call to action, content section, or feature that needs to be improved to increase conversion rates or user engagement.
 
-2. Develop a list of possible issues that may be hurting conversion rates or engagement. Specify in advance what you are optimizing for (possibly through [metrics definition](/../discover/metrics-definition/)).
+2. Develop a list of possible issues that may be hurting conversion rates or engagement. Specify in advance what you are optimizing for (possibly through [metrics definition]({{ '/discover/metrics-definition/' | prepend: site.baseurl }})).
 
 3. Design several solutions that aim to address the issues listed. Each solution should attempt to address every issue by using a unique combination of variants so each solution can be compared fairly.
 
@@ -29,7 +29,7 @@ To incorporate different contexts, channels, or user types into addressing a use
 
 ## Applied in government research
 
-No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for [Recruiting](/../fundamentals/recruiting/) and [Privacy](../privacy) for more tips on taking input from the public.
+No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy](../privacy) for more tips on taking input from the public.
 
 ## Additional resources
 

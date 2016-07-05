@@ -31,7 +31,7 @@ To give the team and the stakeholders a shared point of reference when negotiati
 
 ## Applied in government research
 
-No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for [Recruiting](/../fundamentals/recruiting/) and [Privacy](/../fundamentals/privacy) for more tips on taking input from the public.
+No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy](/../fundamentals/privacy) for more tips on taking input from the public.
 
 ## Additional resources
 

@@ -17,7 +17,7 @@ To visualize interactions and relationships that might exist between a user and 
 
 ## How to do it
 
-1. Gather any documents that describe the different use cases or [scenarios](/../decide/user-scenarios/) in which users will interact with the solution.
+1. Gather any documents that describe the different use cases or [scenarios]({{ '/decide/user-scenarios/' | prepend: site.baseurl }}) in which users will interact with the solution.
 
 2. Sketch scenes that visually depict a user interacting with a solution, including as much context as possible. For example: Are they on the move? Where are they? What else is in their environment?
 

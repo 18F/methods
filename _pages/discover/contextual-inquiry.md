@@ -9,7 +9,7 @@ The product team unobtrusively observes participants at work, with their permiss
 
 ## Reasons to use it
 
-To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an [interview](/../discover/stakeholder-and-user-interviews/); to map how tools, digital and otherwise, interact during complex activities.
+To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an [interview]({{ '/discover/stakeholder-and-user-interviews/' | prepend: site.baseurl }}); to map how tools, digital and otherwise, interact during complex activities.
 
 ## Time required
 
@@ -27,7 +27,7 @@ To learn how and why users do what they do; to discover needs and attitudes that
 
 ## Applied in government research
 
-- No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/../fundamentals/recruiting/) and [Privacy](/../fundamentals/privacy/) for more tips on taking input from the public.
+- No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
 - For internal folks, get permission from the right level of management. If participants could be under union agreements, contact the agency’s labor relations team.
 
 ## Example from 18F

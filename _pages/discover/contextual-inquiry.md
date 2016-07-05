@@ -9,7 +9,7 @@ The product team unobtrusively observes participants at work, with their permiss
 
 ## Reasons to use it
 
-To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an [interview](../stakeholder-and-user-interviews/); to map how tools, digital and otherwise, interact during complex activities.
+To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an [interview](/../discover/stakeholder-and-user-interviews/); to map how tools, digital and otherwise, interact during complex activities.
 
 ## Time required
 

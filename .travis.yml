@@ -8,9 +8,9 @@ deploy:
   api: https://api.cloud.gov
   organization: 18f
   space: methods
-  username: deploy-18f
+  username: 18f-methods_deployer
   password:
-    secure: AnJqFN5TZS9QBhpO0ULqIZKJ7zsmuBqCv/D7HcWt/j0ZySBGyflcxYUZ8fkf0hejf9rCGv9WZDzg6KrJbVqMVONEBoC7ygSuc+SMFIEaa9WmNvs0JSWxo/apyleX0TSFbXiUJgd62TFavo2yyOKFGydKQfxs+w8VrsbgkiWzAnk=
+    secure: Oy3ypxrykXF3Kw5hrtYAfPgYnt3VLB2EcKCfMVpprfBDyNVu1LlbWgONSijdY2F55Ja1igaCEIE0lwncPYDflHXxghw7FeG2n7Bt3A3LR2u4SGBzecVLl6wvdz+mQuDEgZs7Ygft4nIJvt8ZzkvNKYah1hEEvbsVysmC33QfVpo=
   on:
     repo: 18F/methods
     branch: master

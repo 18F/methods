@@ -10,7 +10,7 @@ deploy:
   space: methods
   username: 18f-methods_deployer
   password:
-    secure: Oy3ypxrykXF3Kw5hrtYAfPgYnt3VLB2EcKCfMVpprfBDyNVu1LlbWgONSijdY2F55Ja1igaCEIE0lwncPYDflHXxghw7FeG2n7Bt3A3LR2u4SGBzecVLl6wvdz+mQuDEgZs7Ygft4nIJvt8ZzkvNKYah1hEEvbsVysmC33QfVpo=
+    secure: ZuX5eljwlotWWq+68vzO9yDBObPPf9kv8TN4c/BwNxTONCAhOYNnhrJPvGk7WIdQ1FNd8kYsBmRJeOgf6TZa4W/8yTHqkKAgGMTk5t19A7zU1WUHa+KXgsSOlQT+/00LSMZVvdNtpc1k1Mk5N0a0GJSVVLIWpFscXsN2O5LZTuc=
   on:
     repo: 18F/methods
     branch: master

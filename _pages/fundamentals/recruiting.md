@@ -36,4 +36,4 @@ Check with your agency's legal counsel (or privacy officer or OIRA desk officer)
 
 ## Additional resources
 
-- [18F's participant consent form](../assets/downloads/18FResearchParticipantConsentForm.docx), which offers Anti-Deficiency Act-compliant language.
+- [18F's participant consent form]({{ '/assets/downloads/18FResearchParticipantConsentForm.docx' | prepend: site.baseurl }}), which offers Anti-Deficiency Act-compliant language.

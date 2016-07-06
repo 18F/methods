@@ -17,7 +17,7 @@ To ground design in reality by forcing us to consider the goals, behaviors, and 
 
 ## How to do it
 
-1. Gather research from earlier activities like [contextual inquiry]({{ '/discover/contextual-inquiry/' | prepend: site.baseurl }}) or [stakeholder interviews](../stakeholder-and-user-interviews) in a way that’s easy to review. You can create placeholder personas without research to teach user-centered thinking about users. But because they are effectively stereotypes, avoid using them for implementable design decisions.
+1. Gather research from earlier activities like [contextual inquiry]({{ '/discover/contextual-inquiry/' | prepend: site.baseurl }}) or [stakeholder interviews]({{ '/discover/stakeholder-and-user-interviews' | prepend: site.baseurl }}) in a way that’s easy to review. You can create placeholder personas without research to teach user-centered thinking about users. But because they are effectively stereotypes, avoid using them for implementable design decisions.
 
 2. Create a set of user archetypes based on how you believe people will use your solution. These typically get titles (for example, “data administrators” rather than “those who submit data”).
 

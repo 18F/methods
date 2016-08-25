@@ -1,6 +1,7 @@
 ---
 title: Recruiting
 parent: Fundamentals
+redirect_from: /recruiting/
 ---
 
 ## What it is

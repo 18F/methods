@@ -1,6 +1,7 @@
 ---
 title: Multivariate testing
 parent: Validate
+redirect_from: /multivariate-sorting/
 ---
 
 ## What it is
@@ -33,6 +34,5 @@ No PRA implications. No one asks the users questions, so the PRA does not apply.
 
 ## Additional resources
 
-- [Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates.](http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/) Paras Chopra. 
-- [Multivariate Testing 101: A Scientific Method of Optimizing Design.](http://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/) Paras Chopra. 
-
+- [Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates.](http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/) Paras Chopra.
+- [Multivariate Testing 101: A Scientific Method of Optimizing Design.](http://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/) Paras Chopra.

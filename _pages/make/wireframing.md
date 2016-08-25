@@ -1,6 +1,7 @@
 ---
 title: Wireframing
 parent: Make
+redirect_from: /wireframing/
 ---
 
 ## What it is

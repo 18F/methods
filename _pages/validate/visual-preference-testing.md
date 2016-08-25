@@ -1,6 +1,7 @@
 ---
 title: Visual preference testing
 parent: Validate
+redirect_from: /visual-preference-testing/
 ---
 
 ## What it is
@@ -33,5 +34,5 @@ No PRA implications. The PRA explicitly exempts direct observation and non-stand
 
 ## Additional resources
 
-- [Rapid Desirability Testing: A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley. 
-- [Preference and Desirability Testing: Measuring Emotional Response to Guide Design.](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design) Michael Hawley and Paul Doncaster. 
+- [Rapid Desirability Testing: A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley.
+- [Preference and Desirability Testing: Measuring Emotional Response to Guide Design.](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design) Michael Hawley and Paul Doncaster.

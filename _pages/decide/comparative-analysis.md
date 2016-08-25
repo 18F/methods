@@ -1,6 +1,7 @@
 ---
 title: Comparative analysis
 parent: Decide
+redirect_from: /comparative-analysis/
 ---
 
 ## What it is

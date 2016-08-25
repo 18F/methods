@@ -1,6 +1,7 @@
 ---
 title: Affinity diagramming
 parent: Decide
+redirect_from: /affinity-diagramming/
 ---
 
 ## What it is

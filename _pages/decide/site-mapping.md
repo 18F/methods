@@ -1,6 +1,7 @@
 ---
 title: Site mapping
 parent: Decide
+redirect_from: /site-mapping/
 ---
 
 ## What it is
@@ -21,7 +22,7 @@ To audit an existing website by assessing its structure and content. Site maps a
 
 2. Visually represent each page as a single thumbnail.
 
-3. Arrange the page thumbnails into a hierarchical diagram. Focus on the logical relationships between pages. If you are evaluating an existing website, focus more on these relationships than on the URL structure. If some pages function as sub-pages to another, the site map should reflect that. 
+3. Arrange the page thumbnails into a hierarchical diagram. Focus on the logical relationships between pages. If you are evaluating an existing website, focus more on these relationships than on the URL structure. If some pages function as sub-pages to another, the site map should reflect that.
 
 4. Use the diagram to guide choices about things like information architecture and URL structures.
 

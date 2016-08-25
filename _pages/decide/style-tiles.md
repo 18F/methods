@@ -1,6 +1,7 @@
 ---
 title: Style tiles
 parent: Decide
+redirect_from: /style-tiles/
 ---
 
 ## What it is
@@ -31,5 +32,5 @@ No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 
-- Tool: [Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.](http://styletil.es/) Style Tiles. 
-- [“Style Tiles and How They Work.”](http://alistapart.com/article/style-tiles-and-how-they-work) Samantha Warren. 
+- Tool: [Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.](http://styletil.es/) Style Tiles.
+- [“Style Tiles and How They Work.”](http://alistapart.com/article/style-tiles-and-how-they-work) Samantha Warren.

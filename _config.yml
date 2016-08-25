@@ -8,6 +8,9 @@ exclude:
 - README.md
 - go
 
+gems:
+  - jekyll-redirect-from
+
 permalink: pretty
 highlighter: rouge
 

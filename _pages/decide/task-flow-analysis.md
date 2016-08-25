@@ -1,6 +1,7 @@
 ---
 title: Task flow analysis
 parent: Decide
+redirect_from: /task-flow-analysis/
 ---
 
 ## What it is
@@ -33,5 +34,5 @@ No PRA implications. No information is collected from members of the public.
 
 ## Additional resources:
 
-- [“Task Analysis: The Key UX Design Step Everyone Skips.”](http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips) Larry Maine. 
-- Tool: [Task Analysis.](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html) Usability.gov. 
+- [“Task Analysis: The Key UX Design Step Everyone Skips.”](http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips) Larry Maine.
+- Tool: [Task Analysis.](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html) Usability.gov.

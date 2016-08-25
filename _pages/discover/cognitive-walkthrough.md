@@ -1,6 +1,7 @@
 ---
 title: Cognitive walkthrough
 parent: Discover
+redirect_from: /cognitive-walkthrough/
 ---
 
 ## What it is

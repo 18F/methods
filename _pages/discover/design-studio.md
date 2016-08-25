@@ -1,6 +1,7 @@
 ---
 title: Design studio
 parent: Discover
+redirect_from: /design-studio/
 ---
 
 ## What it is

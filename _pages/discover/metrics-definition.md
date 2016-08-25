@@ -1,6 +1,7 @@
 ---
 title: Metrics definition
 parent: Discover
+redirect_from: /metrics-definition/
 ---
 
 ## What it is

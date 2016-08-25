@@ -1,6 +1,7 @@
 ---
 title: Stakeholder and user interviews
 parent: Discover
+redirect_from: /stakeholder-and-user-interviews/
 ---
 
 ## What it is

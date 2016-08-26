@@ -1,6 +1,7 @@
 ---
 title: Design pattern library
 parent: Make
+redirect_from: /design-pattern-library/
 ---
 
 ## What it is
@@ -34,5 +35,5 @@ No PRA implications. No information is collected from members of the public.
 ## Additional resources
 
 -  [“How and Why to Create a Pattern Library.”](https://boagworld.com/design/pattern-library/) Paul Boag.
-- [“Getting Started With Pattern Libraries.”](http://alistapart.com/blog/post/getting-started-with-pattern-libraries) Anna Debenham. 
-- [“How to Build the Perfect Pattern Library.”](http://www.slideshare.net/WolfBruening/how-to-build-the-perfect-pattern-libraryy) Wolf Brün. 
+- [“Getting Started With Pattern Libraries.”](http://alistapart.com/blog/post/getting-started-with-pattern-libraries) Anna Debenham.
+- [“How to Build the Perfect Pattern Library.”](http://www.slideshare.net/WolfBruening/how-to-build-the-perfect-pattern-libraryy) Wolf Brün.

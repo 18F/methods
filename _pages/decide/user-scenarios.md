@@ -1,6 +1,7 @@
 ---
 title: User scenarios
 parent: Decide
+redirect_from: /user-scenarios/
 ---
 
 ## What it is
@@ -36,5 +37,5 @@ No PRA implications. No information is collected from members of the public.
 
 ## Additional resources
 
-- Tool: [Scenarios.](http://www.usability.gov/how-to-and-tools/methods/scenarios.html) Usability.gov. 
+- Tool: [Scenarios.](http://www.usability.gov/how-to-and-tools/methods/scenarios.html) Usability.gov.
 - [“How User Scenarios Help To Improve Your UX.”](http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/) Sabina Idler.

@@ -1,6 +1,7 @@
 ---
 title: Heuristic analysis
 parent: Discover
+redirect_from: /heuristic-analysis/
 ---
 
 ## What it is

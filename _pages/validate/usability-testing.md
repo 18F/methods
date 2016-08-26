@@ -1,6 +1,7 @@
 ---
 title: Usability testing
 parent: Validate
+redirect_from: /usability-testing/
 ---
 
 ## What it is

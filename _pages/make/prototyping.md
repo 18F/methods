@@ -1,6 +1,7 @@
 ---
 title: Prototyping
 parent: Make
+redirect_from: /prototyping/
 ---
 
 ## What it is

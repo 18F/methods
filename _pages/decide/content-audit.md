@@ -1,6 +1,7 @@
 ---
 title: Content audit
 parent: Decide
+redirect_from: /content-audit/
 ---
 
 ## What it is

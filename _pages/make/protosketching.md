@@ -1,6 +1,7 @@
 ---
 title: Protosketching
 parent: Make
+redirect_from: /protosketching/
 ---
 
 ## What it is
@@ -33,4 +34,4 @@ No PRA implications. The PRA explicitly exempts direct observation and non-stand
 
 ## Additional resources
 
-[“Sketching with code: protosketching.”](https://18f.gsa.gov/2015/01/06/protosketch/) Alan Delevie. 
+[“Sketching with code: protosketching.”](https://18f.gsa.gov/2015/01/06/protosketch/) Alan Delevie.

@@ -1,6 +1,7 @@
 ---
 title: Contextual inquiry
 parent: Discover
+redirect_from: /contextual-inquiry/
 ---
 
 ## What it is

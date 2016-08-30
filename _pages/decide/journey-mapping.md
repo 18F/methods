@@ -1,6 +1,7 @@
 ---
 title: Journey mapping
 parent: Decide
+redirect_from: /journey-mapping/
 ---
 
 ## What it is

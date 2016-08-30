@@ -1,6 +1,7 @@
 ---
 title: Card sorting
 parent: Validate
+redirect_from: /card-sorting/
 ---
 
 ## What it is

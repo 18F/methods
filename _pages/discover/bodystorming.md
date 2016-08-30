@@ -1,6 +1,7 @@
 ---
 title: Bodystorming
 parent: Discover
+redirect_from: /bodystorming/
 ---
 
 ## What it is

@@ -1,6 +1,7 @@
 ---
 title: Design principles
 parent: Decide
+redirect_from: /design-principles/
 ---
 
 ## What it is
@@ -35,4 +36,4 @@ No PRA implications. Generally, no information is collected from members of the 
 
 ## Additional resources
 
-[“Design Principles: Dominance, Focal Points And Hierarchy.”](http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/) Steven Bradley. 
+[“Design Principles: Dominance, Focal Points And Hierarchy.”](http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/) Steven Bradley.

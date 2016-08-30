@@ -1,6 +1,7 @@
 ---
 title: Privacy
 parent: Fundamentals
+redirect_from: /privacy/
 ---
 
 ## What it is

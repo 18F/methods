@@ -1,6 +1,7 @@
 ---
 title: Storyboarding
 parent: Decide
+redirect_from: /storyboarding/
 ---
 
 ## What it is
@@ -32,6 +33,6 @@ To visualize interactions and relationships that might exist between a user and 
 No PRA implications. No information is collected from members of the public.
 
 ## Additional resources:
-- Tool: [Communication Methods Supporting Design Processes.](http://www.servicedesigntools.org/tools/13) Service Design Tools. 
-- [“Storyboarding in the Software Design Process.”](http://uxmag.com/articles/storyboarding-in-the-software-design-process) Ambrose Little. 
-- [“The 8 Steps to Creating a Great Storyboard.”](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard) Jake Knapp. 
+- Tool: [Communication Methods Supporting Design Processes.](http://www.servicedesigntools.org/tools/13) Service Design Tools.
+- [“Storyboarding in the Software Design Process.”](http://uxmag.com/articles/storyboarding-in-the-software-design-process) Ambrose Little.
+- [“The 8 Steps to Creating a Great Storyboard.”](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard) Jake Knapp.

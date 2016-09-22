@@ -7,6 +7,7 @@ exclude:
 - LICENSE.md
 - README.md
 - go
+- vendor
 
 gems:
   - jekyll-redirect-from

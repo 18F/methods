@@ -30,3 +30,7 @@ To build consensus about the problem statement and research objectives.
 ## Applied in government research
 
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
+
+## Additional resources
+
+ - [&ldquo;Build empathy with stakeholder interviews, part 1: Preparation.&rdquo;](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/) Andrew Maier.

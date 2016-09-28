@@ -33,4 +33,4 @@ No PRA implications. The PRA explicitly exempts direct observation and non-stand
 
 ## Additional resources
 
- - [&ldquo;Build empathy with stakeholder interviews, part 1: Preparation&rdquo; by Andrew Maier](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/)
+ - [&ldquo;Build empathy with stakeholder interviews, part 1: Preparation.&rdquo;](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/) Andrew Maier.

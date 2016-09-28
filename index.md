@@ -19,10 +19,12 @@ title: Method Cards
 
 ## We’ve called out specifics about doing this work in government
 
-For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](./recruiting/), [Incentives](./incentives/), and [Privacy](./privacy/). No matter which methods we work with, these are the [fundamentals](./fundamentals/) of our design research.
+For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](./fundamentals/recruiting/), [Incentives](./fundamentals/incentives/), and [Privacy](./fundamentals/privacy/). No matter which methods we work with, these are the [fundamentals](./fundamentals/) of our design research.
 
-## You will soon be able to print a card deck of these design methods
+## Print your own card deck of these design methods
 
-We are updating our card templates, and these files will be available again soon.
 
+<a href="{{ '/assets/downloads/18F-Method-Cards-Print-at-Home.pdf' | prepend: site.baseurl }}" onclick="ga('send', 'event', 'Downloads', 'Click download link on homepage','Print-at-home PDF method cards');">Download a PDF of the method cards to print at home</a>
+
+<a href="{{ '/assets/downloads/18F-Method-Cards-Print-Instructions.pdf' | prepend: site.baseurl }}" onclick="ga('send', 'event', 'Downloads', 'Click download link on homepage','Print-at-home PDF instructions');">Download a PDF of the instructions for printing</a>
 

@@ -8,11 +8,19 @@ exclude:
 - README.md
 - go
 
+gems:
+  - jekyll-redirect-from
+
 permalink: pretty
 highlighter: rouge
 
 sass:
   style: :compressed
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -34,116 +42,116 @@ navigation:
   internal: true
   children:
   - text: Feature dot voting
-    url: ../feature-dot-voting/
+    url: feature-dot-voting/
     internal: true
   - text: KJ method
-    url: ../kj-method/
+    url: kj-method/
     internal: true
   - text: Metrics definition
-    url: ../metrics-definition/
+    url: metrics-definition/
     internal: true
   - text: Design studio
-    url: ../design-studio/
-    internal: true    
+    url: design-studio/
+    internal: true
   - text: Bodystorming
-    url: ../bodystorming/
+    url: bodystorming/
     internal: true
   - text: Cognitive walkthrough
-    url: ../cognitive-walkthrough/
+    url: cognitive-walkthrough/
     internal: true
   - text: Contextual inquiry
-    url: ../contextual-inquiry/
+    url: contextual-inquiry/
     internal: true
   - text: Heuristic analysis
-    url: ../heuristic-analysis/
+    url: heuristic-analysis/
     internal: true
   - text: Stakeholder and user interviews
-    url: ../stakeholder-and-user-interviews/
+    url: stakeholder-and-user-interviews/
     internal: true
 - text: Decide
   url: decide/
   internal: true
   children:
   - text: Comparative analysis
-    url: ../comparative-analysis/
+    url: comparative-analysis/
     internal: true
   - text: Content audit
-    url: ../content-audit/
+    url: content-audit/
     internal: true
   - text: Design principles
-    url: ../design-principles/
+    url: design-principles/
     internal: true
   - text: Site mapping
-    url: ../site-mapping/
+    url: site-mapping/
     internal: true
   - text: Task flow analysis
-    url: ../task-flow-analysis/
+    url: task-flow-analysis/
     internal: true
   - text: User scenarios
-    url: ../user-scenarios/
-    internal: true     
+    url: user-scenarios/
+    internal: true
   - text: Affinity diagramming
-    url: ../affinity-diagramming/
+    url: affinity-diagramming/
     internal: true
   - text: Journey mapping
-    url: ../journey-mapping/
+    url: journey-mapping/
     internal: true
   - text: Mental modeling
-    url: ../mental-modeling/
+    url: mental-modeling/
     internal: true
   - text: Personas
-    url: ../personas/
+    url: personas/
     internal: true
   - text: Storyboarding
-    url: ../storyboarding/
+    url: storyboarding/
     internal: true
   - text: Style tiles
-    url: ../style-tiles/
+    url: style-tiles/
     internal: true
 - text: Make
   url: make/
   internal: true
   children:
   - text: Protosketching
-    url: ../protosketching/
+    url: protosketching/
     internal: true
   - text: Wireframing
-    url: ../wireframing/
+    url: wireframing/
     internal: true
   - text: Design pattern library
-    url: ../design-pattern-library/
+    url: design-pattern-library/
     internal: true
   - text: Prototyping
-    url: ../prototyping/
+    url: prototyping/
     internal: true
 - text: Validate
   url: validate/
   internal: true
   children:
   - text: Card sorting
-    url: ../card-sorting/
+    url: card-sorting/
     internal: true
   - text: Multivariate testing
-    url: ../multivariate-testing/
+    url: multivariate-testing/
     internal: true
   - text: Usability testing
-    url: ../usability-testing/
+    url: usability-testing/
     internal: true
   - text: Visual preference testing
-    url: ../visual-preference-testing/
+    url: visual-preference-testing/
     internal: true
 - text: Fundamentals
   url: fundamentals/
   internal: true
   children:
   - text: Incentives
-    url: ../incentives/
+    url: incentives/
     internal: true
   - text: Privacy
-    url: ../privacy/
+    url: privacy/
     internal: true
   - text: Recruiting
-    url: ../recruiting/
+    url: recruiting/
     internal: true
 
 repos:

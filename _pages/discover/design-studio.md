@@ -36,7 +36,12 @@ To create a shared understanding and appreciation of design problems confronting
 
 No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 
+## Examples from 18F
+ - [Blog post | User-centered design at 18F: a design studio for natural resource revenues] (https://18f.gsa.gov/2014/09/25/design-studio-onrr/)
+
+
+
 ## Additional resources
 
-A [presentation by Todd Zaki Warfel](https://vimeo.com/37861987/)
+ - A [presentation by Todd Zaki Warfel](https://vimeo.com/37861987/)
  explaining what a design studio is. Todd Zaki Warfel.

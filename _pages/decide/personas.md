@@ -32,6 +32,10 @@ To ground design in reality by forcing us to consider the goals, behaviors, and 
 
 No PRA implications. No information is collected from members of the public.
 
+## Examples from 18F
+
+- [Personas for Federalist] (https://github.com/18F/federalist-design/wiki/Personas) 
+
 ## Additional resources
 
 - [“Perfecting Your Personas.”](http://www.uie.com/articles/perfecting_personas/) Kim Goodwin.

@@ -32,6 +32,10 @@ To learn a given design’s challenges, opportunities, and successes.
 
 No PRA implications. First, any given usability test should involve nine or fewer users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a usability test tests. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
 
+## Examples from 18F
+- (Usability testing plans from 18F's Extractive Industries Transparency Initative project with Department of the Interior)[https://github.com/18F/doi-extractives-data/tree/research/research]
+- ("Tips for capturing the best data from user interviews" from 18F's blog)[https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/]
+
 ## Additional resources
 
 [An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals’ Association.

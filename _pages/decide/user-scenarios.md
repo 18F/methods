@@ -36,7 +36,7 @@ To remind a team, during both the design and validation phases, of the overarchi
 No PRA implications. No information is collected from members of the public.
 
 ## Examples from 18F
-- ["Choose design over architecture"] (https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Kane Baccigalupi.
+- [Choose design over architecture] (https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Kane Baccigalupi.
 
 ## Additional resources
 

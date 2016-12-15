@@ -33,4 +33,4 @@ To identify competitors’ solutions that excel, are lacking, or are missing cri
 No PRA implications. No information is collected from members of the public.
 
 ## Examples from 18F
- - [Draft Web Design Standards Comparative Analysis] (https://github.com/18F/web-design-standards/wiki/Comparative-Analysis)
+ - [Draft U.S. Web Design Standards Comparative Analysis] (https://github.com/18F/web-design-standards/wiki/Comparative-Analysis)

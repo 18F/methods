@@ -35,6 +35,4 @@ No PRA implications. No information is collected from members of the public.
 ## Additional resources
 
 - [“Perfecting Your Personas.”](http://www.uie.com/articles/perfecting_personas/) Kim Goodwin.
-- Book available for purchase: [*Designing for the Digital Age: How to Create Human-Centered Products and Services.*](http://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101) Kim Goodwin.
 - [“Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper.”](http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper) Caroline Kraus.
-- Book available for purchase: [*The Design of Everyday Things.*](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/) Don Norman.

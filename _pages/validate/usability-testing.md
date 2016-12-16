@@ -34,7 +34,7 @@ No PRA implications. First, any given usability test should involve nine or fewe
 
 ## Examples from 18F
 - (Usability testing plans from 18F's Extractive Industries Transparency Initative project with Department of the Interior)[https://github.com/18F/doi-extractives-data/tree/research/research]
-- ("Tips for capturing the best data from user interviews" from 18F's blog)[https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/]
+- ("Tips for capturing the best data from user interviews") Ryan Sibley.[https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/]
 
 ## Additional resources
 

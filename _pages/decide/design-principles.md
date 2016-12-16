@@ -37,7 +37,7 @@ No PRA implications. Generally, no information is collected from members of the 
 ## Examples from 18F
 
  - [18F Guides | Design Principles] (https://pages.18f.gov/design-principles-guide/)
- - [Making more consistent decisions with design principles: A new 18F guide] (https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/) Elizabeth Goodman and Brad Nunnally.
+ - ["Making more consistent decisions with design principles: A new 18F guide"] (https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/) Elizabeth Goodman and Brad Nunnally.
 
 ## Additional resources
 

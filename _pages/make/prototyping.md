@@ -32,6 +32,3 @@ To enable direct examination of a design concept’s viability with a number of 
 
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
 
-## Additional resources:
-
-- Book available for purchase:[*Sketching User Experiences: Getting the Design Right and the Right Design.*](http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371) Bill Buxton.

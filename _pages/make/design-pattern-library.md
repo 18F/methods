@@ -32,6 +32,11 @@ To aid in designing a solution that uses UI elements consistently. Maintaining a
 
 No PRA implications. No information is collected from members of the public.
 
+## Examples
+- [The Draft U.S. Web Design Standards, a pattern library for the federal government from 18F](https://standards.usa.gov/)
+- [Blog posts from 18F about the process of creating the U.S. Web Design Standards](https://18f.gsa.gov/tags/web-design-standards/)
+- [Open FEC's pattern library from 18F](https://github.com/18F/fec-pattern-library)
+
 ## Additional resources
 
 -  [“How and Why to Create a Pattern Library.”](https://boagworld.com/design/pattern-library/) Paul Boag.

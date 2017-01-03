@@ -29,7 +29,7 @@ To stimulate stakeholder imaginations and focus discussion on issues about data,
 5. As the meeting closes, emphasize that the protosketch isn’t necessarily the start of production-ready software, but a way to improve discussion about project requirements.
 
 ## Examples from 18F
-- ["How to prototosketch"](https://18f.gsa.gov/2015/03/13/how-to-protosketch/) Alan deLevie , Dr. Robert L. Read.
+- ["How to prototosketch."](https://18f.gsa.gov/2015/03/13/how-to-protosketch/) Alan deLevie , Dr. Robert L. Read.
 - [Example protosketch Github repository](https://github.com/18F/protosketch-demo)
 - [“Sketching with code: protosketching.”](https://18f.gsa.gov/2015/01/06/protosketch/) Alan Delevie.
 

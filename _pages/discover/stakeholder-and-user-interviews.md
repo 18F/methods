@@ -34,7 +34,3 @@ No PRA implications. The PRA explicitly exempts direct observation and non-stand
 ## Examples from 18F
  - ["Tips for capturing the best data from user interviews"] (https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/) Ryan Sibley.
  - [&ldquo;Build empathy with stakeholder interviews, part 1: Preparation.&rdquo;](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/) Andrew Maier.
-
-## Additional resources
-
- - 

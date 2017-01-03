@@ -29,13 +29,13 @@ To stimulate stakeholder imaginations and focus discussion on issues about data,
 5. As the meeting closes, emphasize that the protosketch isn’t necessarily the start of production-ready software, but a way to improve discussion about project requirements.
 
 ## Examples from 18F
-- ["How to prototosketch" from 18F's blog](https://18f.gsa.gov/2015/03/13/how-to-protosketch/)
+- ["How to prototosketch."](https://18f.gsa.gov/2015/03/13/how-to-protosketch/) Alan deLevie , Dr. Robert L. Read.
 - [Example protosketch Github repository](https://github.com/18F/protosketch-demo)
+- [“Sketching with code: protosketching.”](https://18f.gsa.gov/2015/01/06/protosketch/) Alan Delevie.
+
 
 ## Applied in government research
 
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
 
-## Additional resources
 
-[“Sketching with code: protosketching.”](https://18f.gsa.gov/2015/01/06/protosketch/) Alan Delevie.

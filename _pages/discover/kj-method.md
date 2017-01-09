@@ -20,9 +20,9 @@ To reach a consensus on priorities of subjective, qualitative data with a group 
 
 1. Gather four or more participants for 90 minutes. Provide sticky notes and markers.
 
-2. Create a focus question and select a facilitator.
+2. Create a focused question about the project's needs and select a facilitator to run the exercise.
 
-3. Give participants five minutes to write at least three responses to the focus question, each on its own note.
+3. Give participants five minutes to write at least three responses to the question, each on its own note.
 
 4. Give participants 15 minutes to put their answers on the wall, read everyone else’s, and make additions. Have participants cluster similar answers without discussion.
 
@@ -30,9 +30,9 @@ To reach a consensus on priorities of subjective, qualitative data with a group 
 
 6. Put each name on the wall by its cluster. Exclude word-for-word duplicates.
 
-7. Reiterate the focus question and have each person rank their three most important clusters. Visually tally points.
+7. Reiterate the question and have each person rank their three most important clusters. Visually tally points.
 
-8. Combine duplicates and their points if the entire group agrees they’re identical. Three or four groups usually rank higher than the rest — these are the priorities for the focus question.
+8. Combine duplicates and their points if the entire group agrees they’re identical. Three or four groups usually rank higher than the rest — these are the priorities for the question.
 
 ## Applied in government research
 
@@ -45,5 +45,3 @@ At 18F, KJ participants are almost always federal employees. If there is any cha
 ## Additional resources
 
 [“The KJ-Technique: A Group Process for Establishing Priorities.”](http://www.uie.com/articles/kj_technique/) Jared M. Spool.
-
-

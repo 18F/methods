@@ -15,3 +15,7 @@ You have a moral, legal, and ethical obligation to protect people’s privacy. A
 ## How to do it:
 
 When you do have to collect or store personally identifiable information, comply with all the legal requirements. Those planning usability testing should consult with their agencies’ Office of General Counsel to ensure that the usability testing is carried out consistent with applicable laws and regulations.
+
+## Additional resources
+
+- [18F Guides | Before you ship: Personally Identifiable Information] (https://pages.18f.gov/before-you-ship/security/pii/)

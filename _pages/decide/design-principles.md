@@ -34,6 +34,11 @@ To give the team and the stakeholders a shared point of reference when negotiati
 
 No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy](/../fundamentals/privacy) for more tips on taking input from the public.
 
+## Examples from 18F
+
+ - [18F Design Principles Guide] (https://pages.18f.gov/design-principles-guide/)
+ - ["Making more consistent decisions with design principles: A new 18F guide"] (https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/) Elizabeth Goodman and Brad Nunnally.
+
 ## Additional resources
 
 [“Design Principles: Dominance, Focal Points And Hierarchy.”](http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/) Steven Bradley.

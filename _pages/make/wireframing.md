@@ -26,6 +26,11 @@ To prioritize information (substance and relationships) over decoration (style) 
 
 4. Use the wireframes to get the team’s feedback on feasibility and structure.
 
+## Examples from 18F
+
+- [Wireframes from 18F' "Federalist" project](https://github.com/18F/federalist/issues/40)
+- [Wireframes from the early stages of 18F's Open FEC project](https://github.com/18F/openFEC-web-app/issues/1004)
+
 ## Applied in government research
 
 No PRA implications. No information is collected from members of the public.

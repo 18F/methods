@@ -6,11 +6,11 @@ redirect_from: /cognitive-walkthrough/
 
 ## What it is
 
-An evaluation method in which evaluators or potential users who are unfamiliar with a design work through a set of representative tasks and ask questions about the task as they go.
+An evaluation method where users who are unfamiliar with a product work through a set of tasks and ask questions about the tasks as they go.
 
 ## Reasons to use it
 
-To understand whether a design solution is easy for a new or infrequent user to learn, and why it is or isn’t easy.
+To understand whether a design solution is easy for a new or infrequent user to learn, and why it's easy or difficult to learn.
 
 ## Time required
 
@@ -18,15 +18,15 @@ To understand whether a design solution is easy for a new or infrequent user to 
 
 ## How to do it
 
-1. Identify specific traits for new or infrequent users of a design solution.
+1. Using [personas]({{ '/decide/personas/' | prepend: site.baseurl }}), pick a couple pieces of specific knowledge that new or infrequent users might have.
 
-2. Develop a set of representative tasks that emphasize new use or infrequent use.
+2. Recruit three to five users for each of the identified pieces of knowledge to participate in a moderated usability testing session.
 
-3. Recruit three to five users for each of the traits you’ve identified to participate in a moderated usability testing session. (The traits can overlap.)
+3. Based on user research, write down a set of tasks you can expect a new user to complete.
 
 4. Ask the user to accomplish their goal using a printed or interactive design. As they go, ask what they would attempt to do next or how they would learn.
  - Don't lead the user through the task, but encourage them to stay focused on what they’re trying to accomplish.
- - Pay attention to expected outcomes and how quickly/easily participants are able to pick up a task.
+ - Pay attention to expected outcomes and how quickly and easily participants are able to pick up a task.
 
 5. Analyze the walkthrough results to highlight what users learned easily and what needs improvement.
 

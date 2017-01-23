@@ -18,14 +18,16 @@ To quickly identify common design problems that make websites hard to use withou
 
 ## How to do it
 
-1. Recruit a group of three to five “evaluators.” These people are not necessarily designers, but are familiar with common usability best practices. They are usually not users.
+1. Recruit a group of three to five people familiar with evaluation methods. These people are not necessarily designers, but are familiar with common usability best practices. They are usually not users.
 
-2. Ask each evaluator to individually use a list of “heuristics” or general usability best practices to generate a list of possible problems with the website. Examples of heuristics from Nielsen’s “10 Usability Heuristics for User Interface Design” include:
+2. Ask each person to individually create a list of “heuristics” or general usability best practices. Examples of heuristics from Nielsen’s “10 Usability Heuristics for User Interface Design” include:
  - The website should keep users informed about what is going on, through appropriate feedback within reasonable time.
  - The system should speak the user's language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.
  - Users often choose system functions by mistake and will need a clearly marked “emergency exit” to leave the unwanted state without having to go through an extended dialogue.
 
-3. After individual evaluations, gather evaluators to discuss and prioritize potential problems.
+3. Ask each person to evaluate the website against their list and write down possible problems.
+
+4. After individual evaluations, gather people to discuss what they found and prioritize potential problems.
 
 ## Applied in government research
 

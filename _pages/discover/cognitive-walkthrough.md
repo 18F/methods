@@ -6,11 +6,11 @@ redirect_from: /cognitive-walkthrough/
 
 ## What it is
 
-An evaluation method in which evaluators or potential users who are unfamiliar with a design work through a set of representative tasks and ask questions about the task as they go.
+An evaluation method in which evaluators work through a set of representative tasks and ask questions about the task as they go.
 
 ## Reasons to use it
 
-To understand whether a design solution is easy for a new or infrequent user to learn, and why it is or isn’t easy.
+To get quick and early feedback on whether a design solution is easy for a new or infrequent user to learn, and why it is or isn’t easy.  This method i useful for catching big issues at any stage in the design process when you don't have access to real users, but it is not a substitute for user evaluation. 
 
 ## Time required
 
@@ -22,13 +22,13 @@ To understand whether a design solution is easy for a new or infrequent user to 
 
 2. Develop a set of representative tasks that emphasize new use or infrequent use.
 
-3. Recruit three to five users for each of the traits you’ve identified to participate in a moderated usability testing session. (The traits can overlap.)
+3. Designate a member of the design team to play the role of a user who has the traits you’ve identified to participate in a moderated usability testing session. (The traits can overlap.)
 
 4. Ask the user to accomplish their goal using a printed or interactive design. As they go, ask what they would attempt to do next or how they would learn.
  - Don't lead the user through the task, but encourage them to stay focused on what they’re trying to accomplish.
  - Pay attention to expected outcomes and how quickly/easily participants are able to pick up a task.
 
-5. Analyze the walkthrough results to highlight what users learned easily and what needs improvement.
+5. Analyze the walkthrough results to highlight where the user struggled and what needs improvement.
 
 ## Applied in government research
 

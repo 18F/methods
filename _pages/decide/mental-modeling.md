@@ -24,7 +24,7 @@ To help designers anticipate how design decisions might facilitate future behavi
 
 3. In the left-hand column (Past), list the products, services, features, and/or interfaces that the user encounters as they go about what’s listed in the Present Behavior column.
 
-4. In the right-hand column (Future), list possible products, services, features, and/or interface elements that in the future might changes behaviors and pain points in the Present Behavior column.
+4. In the right-hand column (Future), list possible products, services, features, and/or interface elements that in the future might change behaviors and pain points in the Present Behavior column.
 
 ## Applied in government research
 

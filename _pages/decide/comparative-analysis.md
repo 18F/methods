@@ -10,7 +10,7 @@ A detailed review of existing experiences provided either by direct competitors 
 
 ## Reasons to use it
 
-To identify competitors’ solutions that excel, are lacking, or are missing critical design elements. Comparative analysis can give you a competitive edge by identifying opportunities, gaps in other services, and potential design decisions to adopt or avoid.
+To identify competitors’ solutions that excel, are lacking, or are missing critical design elements. Comparative analysis can give you a competitive edge by identifying opportunities, gaps in other services, and potential design patterns to adopt or avoid.
 
 ## Time required
 
@@ -26,7 +26,7 @@ To identify competitors’ solutions that excel, are lacking, or are missing cri
 
 4. Use a spreadsheet to capture the evaluation and determine how the targeted services perform based on the identified heuristics.
 
-5. Present the analysis, which should showcase opportunities that you can take advantage of and design decisions you might adopt or avoid.
+5. Present the analysis, which should showcase opportunities that you can take advantage of and design patterns you might adopt or avoid.
 
 ## Applied in government research
 

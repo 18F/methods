@@ -24,6 +24,7 @@ For the most part, the processes are the same as anywhere. However, to stay on t
 
 ### What's new?
 
+- We've edited a few cards in the decide section to make them easier to understand. _February 2017_
 - We've edited a few cards in the discovery section to make them easier to understand. _January 2017_
 - We've added new links to examples of how we have used these methods at 18F. _December 2016_
 

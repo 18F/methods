@@ -26,7 +26,7 @@ To validate a design team's understanding of users' goals, common scenarios, and
 
 2. For each goal, identify common scenarios and the tasks and decisions that the user or system will perform in each scenario. Don’t make assumptions about which steps are understood.
 
-3. Produce a taskflow diagram that includes each task and decision point that a user might encounter on their way toward their goal. The diagram should cover the common scenarios identified in step 2.  
+3. Produce a diagram that includes each task and decision point that a user might encounter on their way toward their goal. While there are several [diagrammatic languages](http://www.bpmn.org/) that can be used to produce task flow diagrams, the basic look is a flow chart of boxes for tasks and decision points and arrows showing directionality and dependencies among tasks. The diagram should cover the common scenarios identified in step 2.  
 
 4. Present the diagram to a subject matter expert who knows the task(s) well enough to check for accuracy.
 

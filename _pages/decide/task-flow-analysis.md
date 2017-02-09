@@ -6,15 +6,15 @@ redirect_from: /task-flow-analysis/
 
 ## What it is
 
-A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
+A step-by-step analysis of steps a user must take in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The if reaching the goal requires that the user interact with a system, tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
 
 ## Reasons to use it
 
-To validate a design team's understanding of users' goals, common scenarios, and tasks, and to illustrate in a solution-agnostic way the overall flow of tasks through which a user progresses to accomplish a goal.  Task flow diagrams also help surface obstacles in the way of users achieving their goal. 
+To validate a design team's understanding of users' goals, common scenarios, and process, and to illustrate in a solution-agnostic way the overall flow of tasks through which a user progresses to accomplish a goal.  Task flow diagrams also help surface obstacles in the way of users achieving their goal. 
 
 ## Prerequisites
 
-**User research.** Task flow analysis requires that you have a baseline understanding of your users' knowledge, goals, and behaviors. 
+**User research** Task flow analysis requires that you have a baseline understanding of your users' knowledge, goals, and behaviors. 
 
 ## Time required
 

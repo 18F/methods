@@ -24,7 +24,7 @@ To validate a design team's understanding of users' goals, common scenarios, and
 
 1. Based on user research, identify target users' goals that need to be analyzed.
 
-2. For each goal, identify common scenarios and the tasks and decisions that the user or system will perform in each scenario. Don’t make assumptions about which steps are understood.
+2. For each goal, identify common scenarios and the tasks and decisions that the user or system will perform in each scenario. Don't assume you and your stakeholders share the same understanding of the tasks. The idea is to make the flow of tasks explicit in the diagram, so that you can check your understanding by walking through the diagram with users (steps 4 & 5). 
 
 3. Produce a diagram that includes each task and decision point that a user might encounter on their way toward their goal. While there are several [diagrammatic languages](http://www.bpmn.org/) that can be used to produce task flow diagrams, the basic look is a flow chart of boxes for tasks and decision points and arrows showing directionality and dependencies among tasks. The diagram should cover the common scenarios identified in step 2.  
 

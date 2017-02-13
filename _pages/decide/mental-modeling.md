@@ -18,13 +18,13 @@ To help designers anticipate how design decisions might facilitate future behavi
 
 ## How to do it
 
-1. Create one three-columned table per persona. Label the columns “Past,” “Present Behavior,”  and “Future.”
+1. Create one three-columned table per persona. Label the columns “Past,” “Present Behavior,” and “Future.”
 
-2. In the middle column (“Present Behavior”), list current user behaviors and pain points broadly related to the project, one per row.
+2. In the middle column (Present Behavior), list current user behaviors and pain points broadly related to the project, one per row.
 
-3. In the left-hand column (“Past”), list the products, services, features, and/or interfaces that the user encounters as they go about what’s listed in the present behaviors column.
+3. In the left-hand column (Past), list the products, services, features, and/or interfaces that the user encounters as they go about what’s listed in the Present Behavior column.
 
-4. In the right-hand column (“Future”), list possible products, services, features, and/or interface elements that might changes behaviors and pain points in the “present behavior” column in the future.
+4. In the right-hand column (Future), list possible products, services, features, and/or interface elements that in the future might change behaviors and pain points in the Present Behavior column.
 
 ## Applied in government research
 

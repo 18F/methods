@@ -27,9 +27,6 @@ repos:
 
 google_analytics_ua: UA-48605964-19
 
-
-styles:
-
 defaults:
   -
     scope:

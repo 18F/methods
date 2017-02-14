@@ -9,9 +9,6 @@ exclude:
 - go
 - vendor
 
-gems:
-  - jekyll-redirect-from
-
 permalink: pretty
 highlighter: rouge
 

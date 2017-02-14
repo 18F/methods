@@ -1,0 +1,174 @@
+/* @override http://localhost:4000/stylesheets/screen.css */
+
+/* @override http://localhost:4000/stylesheets/screen.css */
+
+/* @group bootstrap */
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body{
+  background: #eee;
+  padding: 1em;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+  color: #205493;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+.wrapper{
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* @end */
+
+.site-header{
+  margin-top: 1em;
+}
+
+.site-header h1 a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-header h1 img{
+	vertical-align: middle;
+	width: 60px;
+	border-radius: 3px;
+	position: relative;
+	top: -3px;
+	margin-right: 2px;
+}
+
+.site-header h1{
+	font-size: 36px;
+	vertical-align: middle;  
+	margin-bottom: 0.4em;
+	font-family: PT Sans Narrow;
+	font-weight: 300;
+}
+
+.site-header p{
+	font-size: 24px;
+	max-width: 33em;
+	font-family: PT Sans;
+	line-height: 1.4em;
+	font-weight: 400;
+	color: #333;
+	margin-bottom: 2em;  
+}
+
+.method{
+  background: white;
+  padding: 1em;
+  padding-bottom: 30px;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  border-bottom: none;
+  position: relative;
+	font-family: Karma, Georgia, Serif;
+	font-weight: 400;
+	border: 1px solid #ddd;
+}
+
+.method::before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 10px;
+	background: #eee;
+}
+
+.method--discover::before{
+	background: #006fbe;
+}
+
+
+.method .method--panel--front,
+.method .method--panel--back{
+	float: left;
+	width: 50%;	
+}
+
+.method .method--panel--back{
+	background: #fafafa;
+	padding: 10px 20px;
+	margin: -10px -10px -10px 0;
+	position: relative;
+	left: 10px;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.method .method--section--pra h1{
+	font-size: 16px;
+	margin-bottom: 0.4em;
+	color: #333;
+}
+.method .method--section--pra p{
+	font-size: 14px;
+	font-family: PT Sans;
+}
+
+.method .method--panel--back p,
+.method .method--panel--back li{
+	line-height: 1.33em;
+	margin-bottom: 0.6em;
+}
+
+.method .method--section--how h1{
+  margin-top: 0.4em;
+}
+
+
+.method .method--name{
+	font-size: 42px;
+	font-weight: 600;
+	font-family: PT Sans Narrow;
+	margin-top: 0;
+	letter-spacing: -0.02em;
+	margin-bottom: 0.4em;
+}
+
+.method h1{
+	margin-top: 1.2em;
+	margin-bottom: 0.6em;
+	font-size: 20px;
+	font-family: PT Sans;
+	font-weight: 700;
+}
+
+.method p,
+.method li{
+	line-height: 1.4em;
+	margin-bottom: 0.6em;
+}
+
+.method ol{
+  margin-left: 1.4em;
+}
+.method ol li{
+	list-style-type: decimal;
+}
+
+.method::after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+

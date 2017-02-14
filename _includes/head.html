@@ -1,0 +1,23 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>18F Micropurchase - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+<link href="https://fonts.googleapis.com/css?family=Karma:400,500|PT+Sans:400,700|PT+Sans+Narrow:400,700" rel="stylesheet">
+
+  <script src="{{site.baseurl}}/javascripts/jquery-2.1.4.min.js"></script>
+  <script src="{{site.baseurl}}/javascripts/application.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/reset.css">
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/screen.css">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+</head>

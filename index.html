@@ -1,0 +1,136 @@
+---
+permalink: /
+title: Method Cards
+layout: none
+---
+<!DOCTYPE html>
+<html lang='en'>
+  {% include head.html %}
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <h1 class="logo">
+          <a href="{{site.baseurl}}/">
+            <img src="{{site.baseurl}}/images/18F.svg" width="72">
+            Methods
+          </a>
+        </h1>
+        <p>18F&rsquo;s methods describe how our organization puts human-centered design into practice. Learn more <a href="#">about the project itself</a>, <a href="#">explore the fundamentals</a>, or <a href="#">print your own deck</a>.</p>
+      </div>
+    </header>
+
+    {% assign discover_methods = (site.methods | where: "category", "Discover" ) %}
+    {% assign decide_methods   = (site.methods | where: "category", "Decide" )   %}
+    {% assign make_methods     = (site.methods | where: "category", "Make" )     %}
+    {% assign validate_methods = (site.methods | where: "category", "Validate" ) %}
+
+    <main id="main" role="main">
+      <div class="wrapper">
+        <section class="category category--discover">
+          <header class="category--header">
+            <h1 class="category--title">Discover</h1>
+            <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
+          </header>
+          {% for method in discover_methods %}
+            <article class="method" id="#{{ method.permalink }}">
+              <div class="method--panel method--panel--front">
+                <h1 class="method--title"><a href="{{ method.url }}">{{ method.title }}</a></h1>
+                <section class="method--section method--section--what">
+                  <h1>What</h1>
+                  <p>{{ method.what }}</p>
+                </section>
+                <section class="method--section method--section--why">
+                  <h1>Why</h1>
+                  <p>{{ method.why }}</p>
+                </section>
+                <section class="method-section method--section--time-required">
+                  <h1>Time required</h1>
+                  <p>15 minutes</p>
+                </section>
+              </div>
+              <div class="method--panel method--panel--back">
+                <section class="method--section method--section--how">
+                  <h1>How to do it</h1>
+                  <ol>
+                    {% for item in method.how %}
+                    <li>
+                      {{ item }}
+                      {% for item in method.nestedHow %}
+                        <ul>
+                          <li> {{ item }}</li>
+                        </ul>
+                      {% endfor %}
+                    </li>
+                    {% endfor %}
+                  </ol>
+                </section>
+                <section class="method--section method--section--government-considerations">
+                  <h1>Applied in government research</h1>
+                  <p>{{ method.governmentConsiderations }}</p>
+                </section>
+              </div>
+              </article>
+            {% endfor %}
+        </section>
+        <section class="category category--decide">
+          <header class="category--header">
+            <h1 class="category--title">Decide</h1>
+            <p class="category--subtitle">Methods for focusing the design effort.</p>
+          </header>
+          {% for method in decide_methods %}
+            <article class="method" id="#{{ method.permalink }}">
+              <div class="method--panel method--panel--front">
+                <h1 class="method--title"><a href="{{ method.url }}">{{ method.title }}</a></h1>
+                <section class="method--section method--section--what">
+                  <h1>What</h1>
+                  <p>{{ method.what }}</p>
+                </section>
+                <section class="method--section method--section--why">
+                  <h1>Why</h1>
+                  <p>{{ method.why }}</p>
+                </section>
+                <section class="method-section method--section--time-required">
+                  <h1>Time required</h1>
+                  <p>15 minutes</p>
+                </section>
+              </div>
+              <div class="method--panel method--panel--back">
+                <section class="method--section method--section--how">
+                  <h1>How to do it</h1>
+                  <ol>
+                    {% for item in method.how %}
+                    <li>
+                      {{ item }}
+                      {% for item in method.nestedHow %}
+                        <ul>
+                          <li> {{ item }}</li>
+                        </ul>
+                      {% endfor %}
+                    </li>
+                    {% endfor %}
+                  </ol>
+                </section>
+                <section class="method--section method--section--government-considerations">
+                  <h1>Applied in government research</h1>
+                  <p>{{ method.governmentConsiderations }}</p>
+                </section>
+              </div>
+            </article>
+          {% endfor %}
+        </section>
+        <section class="category category--make">
+          <header class="category--header">
+            <h1 class="category--title">Make</h1>
+            <p class="category--subtitle">Methods for moving towards a testable solution.</p>
+          </header>
+        </section>
+        <section class="category category--validate">
+          <header class="category--header">
+            <h1 class="category--title">Validate</h1>
+            <p class="category--subtitle">Methods for testing a design hypothesis.</p>
+          </header>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

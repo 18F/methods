@@ -1,0 +1,109 @@
+/* @override http://localhost:4000/stylesheets/print.css */
+
+/* @group bootstrap */
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body{
+  background: #eee;
+  padding: 1em;
+  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+  color: #205493;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+.wrapper{
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+@page { 
+	size: landscape; 
+	margin: 0;
+}
+
+/* @end */
+
+/* @group site-header */
+
+.site-header{ display: none; }
+
+/* @end */
+
+/* @group category */
+
+.category--header{
+	background: #205493;
+	color: white;
+	padding: 20px;
+	border-radius: 3px;
+	margin-bottom: 1em;
+	margin-top: 3em;
+}
+
+
+.category--decide .category--header{ background: #29863c; }
+.category--make .category--header{ background: #fac72f; color: #222;}
+.category--validate .category--header{ background: #8b1625; }
+
+
+
+.category--title{
+	font-size: 21px;
+	font-weight: 700;
+	margin-bottom: 0.2em;
+}
+
+.category--subtitle{
+	display: inline;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+	font-size: 16px;
+}
+
+
+
+/* @end */
+
+/* @group method */
+
+.method {
+	width: 10in;
+	height: 7.5in;
+	page-break-before: always;
+	margin-top: 0.5in;
+	border: 1px dashed;
+}
+
+.method .method--panel--front,
+.method .method--panel--back{
+	float: left;
+	width: 50%;
+	height: 7.5in;	
+}
+
+.method .method--panel--front{
+  padding: 0.25in 0.5in;
+}
+
+.method .method--panel--back{
+	padding: 10px 20px;
+	border: none;
+	border-left: 1px dashed #eee;
+}  
+
+/* @end */
+
+

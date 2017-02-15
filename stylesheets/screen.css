@@ -87,9 +87,42 @@ a:hover{
   font-weight: 400;
   border: 1px solid #ddd;
   border-radius: 3px;
+	height: 42rem;
 }
 
-.method .method--panel{ padding: 20px; }
+.method .method--panel{ 
+	padding: 20px; 
+	height: 41.89rem;
+}
+
+.method .method--section--category h1,
+.method .method--section--time-required h1{
+	font-size: 0.67rem;
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 1;
+	margin-bottom: 0.4em;
+}
+
+.method .method--section--category p,
+.method .method--section--time-required p{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.method .method--section--category,
+.method .method--section--time-required{
+	position: absolute; 
+	bottom: 1em;
+	left: 20%;
+	width: 14em;
+	border-top: 1px solid #ccc;
+}
+
+.method .method--section--category{
+	left: 2rem;
+}
 
 .method .method--panel--back{
 	font-size: 0.85em;
@@ -111,7 +144,8 @@ a:hover{
 
 -webkit-hyphens: auto;
    -moz-hyphens: auto;
-        hyphens: auto;}
+        hyphens: auto;
+}
 
 .method .method--panel--back p,
 .method .method--panel--back li{

@@ -13,4 +13,6 @@ how:
   - After five minutes, ask participants to put their stickies on a board. If there are many sticky notes, ask participants to put their features next to similar ones. Remove exact duplicates.
   - Give participants three to five colored stickers and instruct them to place their stickers on features they feel are most important to meeting the project's goals and user needs.
   - Identify the features with the largest number of stickers (votes).
+governmentConsiderations:
+  No PRA implications: feature dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for Recruiting and Privacy for more tips on taking input from the public.
 ---

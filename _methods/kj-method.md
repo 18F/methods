@@ -14,4 +14,7 @@ how:
 - Put each name on the wall by its cluster. Exclude word-for-word duplicates.
 - Reiterate the question and have each person rank their three most important clusters. Visually tally points.
 - Combine duplicates and their points if the entire group agrees they’re identical. Three or four groups usually rank higher than the rest — these are the priorities for the question.
+governmentConsiderations:
+  At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agencies’ Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies.
+
 ---

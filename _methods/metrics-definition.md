@@ -12,4 +12,6 @@ how:
 - Craft a problem statement<br>
 
   <em>We have observed that [product/service/organization] isn’t meeting [these goals/needs], which is causing [this adverse effect]. How might we improve so that our team/organization is more successful based on [these measurable criteria]?</em>
+governmentConsiderations:
+  No PRA implications. No information is collected from members of the public.
 ---

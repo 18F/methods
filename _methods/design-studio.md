@@ -13,4 +13,6 @@ how:
 - Ask the groups to create a design that combines the best aspects of members’ individual contributions.
 - Regroup as a whole. Have each group of three present their ideas to everyone. Discuss.
 - After the meeting, note areas of consistent agreement or disagreement. Incorporate areas of consensus into design recommendations and areas of contention into a research plan.
+governmentConsiderations:
+  No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 ---

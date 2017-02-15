@@ -2,6 +2,8 @@
 
 /* @override http://localhost:4000/stylesheets/screen.css */
 
+/* @override http://localhost:4000/stylesheets/screen.css */
+
 /* @group bootstrap */
 
 html {
@@ -76,40 +78,6 @@ a:hover{
 
 /* @end */
 
-/* @group category */
-
-.category--header{
-	background: #205493;
-	color: white;
-	padding: 20px;
-	border-radius: 3px;
-	margin-bottom: 1em;
-	margin-top: 3em;
-}
-
-
-.category--decide .category--header{ background: #29863c; }
-.category--make .category--header{ background: #fac72f; color: #222;}
-.category--validate .category--header{ background: #8b1625; }
-
-
-
-.category--title{
-	font-size: 21px;
-	font-weight: 700;
-	margin-bottom: 0.2em;
-}
-
-.category--subtitle{
-	display: inline;
-    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-	font-size: 16px;
-}
-
-
-
-/* @end */
-
 /* @group method */
 
 .method{
@@ -123,24 +91,21 @@ a:hover{
   border-radius: 3px;
 }
 
-.method .method--panel--front{
-	padding: 10px;
-}
+.method .method--panel{ padding: 10px; }
 
 .method .method--panel--back{
 	font-size: 16px;
 	font-weight: 500;
 	border: 1px solid #ccc;
-	padding: 10px;
 }
 
-.method .method--section--pra h1{
+.method .method--section--government-considerations h1{
 	font-size: 14px;
 	padding-top: 0.4em;
 	margin-bottom: 0.5em;
 	color: #333;
 }
-.method .method--section--pra p{
+.method .method--section--government-considerations p{
 	font-size: 13px;
     font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
 }
@@ -161,6 +126,8 @@ a:hover{
 	letter-spacing: -0.02em;
 	margin-bottom: 0.4em;
 }
+
+.method .method--title a{ color: inherit;}
 
 .method h1{
 	margin-top: 1.2em;
@@ -195,6 +162,7 @@ a:hover{
 	.method .method--panel--back{
 		float: left;
 		width: 50%;	
+		min-height: 560px;
 	}
 	.method .method--panel--front{
   		padding: 20px 30px;
@@ -206,6 +174,42 @@ a:hover{
 		border: none;
 		border-radius: 0 2px 2px 0;
 	}  
+}
+
+
+
+/* @end */
+
+/* @group category */
+
+.category--header{
+	background: #205493;
+	color: white;
+	padding: 20px;
+	border-radius: 3px;
+	margin-bottom: 1em;
+	margin-top: 3em;
+}
+
+.category--discover .method h1.method--title{ color: #205493;}
+
+.category--decide .category--header{ background: #29863c; }
+
+.category--decide .method h1.method--title{ color: #29863c;}
+
+.category--make .category--header{ background: #fac72f; color: #222;}
+.category--validate .category--header{ background: #8b1625; }
+
+.category--title{
+	font-size: 21px;
+	font-weight: 700;
+	margin-bottom: 0.2em;
+}
+
+.category--subtitle{
+	display: inline;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+	font-size: 16px;
 }
 
 

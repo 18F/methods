@@ -11,4 +11,8 @@ how:
   - Assign each member of the project team to a role, interface, or “touchpoint” that you have identified in a <a href="https://methods.18f.gov/decide/journey-mapping/">journey map</a>. If users are present, ask them to pretend to accomplish their goals as usual. Otherwise, assign a <a href="https://methods.18f.gov/decide/personas/">persona</a> to each member of the product team who isn’t serving as a touchpoint. If you anticipate discomfort, assign roles in advance and start with a basic script.
   - Use props to role play how users accomplish their goals. “Speak the interface” to one another. For example, one of the touchpoints might say “Submit all of your required forms,” and the user might respond “Arg! I don’t know what forms are required!”
   - Review the exercise as a team and document the opportunities/challenges that this exercise suggests.
+governmentConsiderations:
+  - No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
+  - If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
+
 ---

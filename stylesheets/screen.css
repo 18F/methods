@@ -96,12 +96,22 @@ a:hover{
 	font-weight: 500;
 	border: 1px solid #ccc;
 }
+
+.method .method--panel--back h1{
+	color: #000;
+}
 .method .method--panel--back .method--section--government-considerations p{
 	font-size: 0.85em;
 	line-height: 1.25em;
     font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
     max-width: none !important;
-}
+	text-align: justify;
+	word-break: break-all;
+    word-break: break-word;
+
+-webkit-hyphens: auto;
+   -moz-hyphens: auto;
+        hyphens: auto;}
 
 .method .method--panel--back p,
 .method .method--panel--back li{
@@ -125,6 +135,7 @@ a:hover{
 	font-size: 1.1em;
 	font-family: PT Sans;
 	font-weight: 700;
+	color: #333;
 }
 
 .method .method--section--how h1{ 

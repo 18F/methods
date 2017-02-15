@@ -14,7 +14,7 @@ html {
 body{
   background: #eee;
   padding: 1em;
-	font-family: PT Sans, Verdana, sans-serif;
+  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
   font-size: 18px;
 }
 
@@ -33,6 +33,8 @@ a:hover{
 }
 
 /* @end */
+
+/* @group site-header */
 
 .site-header{
   margin-top: 1em;
@@ -56,20 +58,25 @@ a:hover{
 	font-size: 36px;
 	vertical-align: middle;  
 	margin-bottom: 0.4em;
-	font-family: PT Sans Narrow;
+	font-family: PT Sans Narrow, Trebuchet MS, Verdana, sans-serif;
 	font-weight: 300;
 }
 
 .site-header p{
 	font-size: 24px;
 	max-width: 33em;
-	font-family: PT Sans;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
 	line-height: 1.4em;
 	font-weight: 400;
 	color: #333;
 	margin-bottom: 2em;  
 }
 
+
+
+/* @end */
+
+/* @group category */
 
 .category--header{
 	background: #205493;
@@ -81,9 +88,11 @@ a:hover{
 }
 
 
-.category--decide .category--header{
-	background: #2e8540;
-}
+.category--decide .category--header{ background: #29863c; }
+.category--make .category--header{ background: #fac72f; color: #222;}
+.category--validate .category--header{ background: #8b1625; }
+
+
 
 .category--title{
 	font-size: 21px;
@@ -93,47 +102,36 @@ a:hover{
 
 .category--subtitle{
 	display: inline;
-	font-family: PT Sans;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
 	font-size: 16px;
 }
 
 
+
+/* @end */
+
+/* @group method */
+
 .method{
   background: white;
-  padding: 1em;
   margin-bottom: 1em;
   border-bottom: none;
   position: relative;
-	font-family: Karma, Georgia, Serif;
-	font-weight: 400;
-	border: 1px solid #ddd;
-	border-radius: 3px;
+  font-family: Karma, Georgia, serif;
+  font-weight: 400;
+  border: 1px solid #ddd;
+  border-radius: 3px;
 }
 
+.method .method--panel--front{
+	padding: 10px;
+}
 
 .method .method--panel--back{
 	font-size: 16px;
 	font-weight: 500;
 	border: 1px solid #ccc;
 	padding: 10px;
-}
-
-@media screen and (min-width:853.333px){
-
-	.method .method--panel--front,
-	.method .method--panel--back{
-		float: left;
-		width: 50%;	
-	}
-
-	.method .method--panel--back{
-		background: #fafafa;
-		padding: 10px 20px;
-		margin: -10px -10px -10px 0;
-		position: relative;
-		left: 10px;
-		border: none;
-	}  
 }
 
 .method .method--section--pra h1{
@@ -144,7 +142,7 @@ a:hover{
 }
 .method .method--section--pra p{
 	font-size: 13px;
-	font-family: PT Sans;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
 }
 
 .method .method--panel--back p,
@@ -153,10 +151,7 @@ a:hover{
 	margin-bottom: 0.6em;
 }
 
-.method .method--section--how h1{
-  margin-top: 0.4em;
-}
-
+.method .method--section--how h1{ margin-top: 0.4em; }
 
 .method .method--name{
 	font-size: 42px;
@@ -193,5 +188,28 @@ a:hover{
 	display: table;
 	clear: both;
 }
+
+@media screen and (min-width:853.333px){
+
+	.method .method--panel--front,
+	.method .method--panel--back{
+		float: left;
+		width: 50%;	
+	}
+	.method .method--panel--front{
+  		padding: 20px 30px;
+	}
+
+	.method .method--panel--back{
+		background: #fafafa;
+		padding: 10px 20px;
+		border: none;
+		border-radius: 0 2px 2px 0;
+	}  
+}
+
+
+
+/* @end */
 
 

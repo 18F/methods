@@ -74,8 +74,6 @@ a:hover{
 	margin-bottom: 2em;  
 }
 
-
-
 /* @end */
 
 /* @group method */
@@ -91,32 +89,33 @@ a:hover{
   border-radius: 3px;
 }
 
-.method .method--panel{ padding: 10px; }
+.method .method--panel{ padding: 20px; }
 
 .method .method--panel--back{
-	font-size: 16px;
+	font-size: 0.85em;
 	font-weight: 500;
 	border: 1px solid #ccc;
 }
 
 .method .method--section--government-considerations h1{
-	font-size: 14px;
+	font-size: 0.9em;
 	padding-top: 0.4em;
 	margin-bottom: 0.5em;
 	color: #333;
 }
-.method .method--section--government-considerations p{
-	font-size: 13px;
+.method .method--panel--back .method--section--government-considerations p{
+	font-size: 0.85em;
+	line-height: 1.25em;
     font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+    max-width: none !important;
 }
 
 .method .method--panel--back p,
 .method .method--panel--back li{
 	line-height: 1.33em;
 	margin-bottom: 0.6em;
+	max-width: 25em;
 }
-
-.method .method--section--how h1{ margin-top: 0.4em; }
 
 .method .method--title{
 	font-size: 42px;
@@ -127,20 +126,24 @@ a:hover{
 	margin-bottom: 0.4em;
 }
 
-.method .method--title a{ color: inherit;}
-
 .method h1{
 	margin-top: 1.2em;
 	margin-bottom: 0.6em;
-	font-size: 20px;
+	font-size: 1.1em;
 	font-family: PT Sans;
 	font-weight: 700;
+}
+
+.method .method--section--how h1{ 
+	margin-top: 1em; 
+	margin-bottom: 0.8em;
 }
 
 .method p,
 .method li{
 	line-height: 1.4em;
 	margin-bottom: 0.6em;
+	max-width: 30em;
 }
 
 .method ol{
@@ -149,6 +152,8 @@ a:hover{
 .method ol li{
 	list-style-type: decimal;
 }
+
+.method .method--title a{ color: inherit;}
 
 .method::after{
 	content: "";
@@ -170,7 +175,7 @@ a:hover{
 
 	.method .method--panel--back{
 		background: #fafafa;
-		padding: 10px 20px;
+		padding: 25px 40px;
 		border: none;
 		border-radius: 0 2px 2px 0;
 	}  

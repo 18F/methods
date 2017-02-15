@@ -23,7 +23,7 @@ layout: none
     {% assign decide_methods   = (site.methods | where: "category", "Decide" )   %}
     {% assign make_methods     = (site.methods | where: "category", "Make" )     %}
     {% assign validate_methods = (site.methods | where: "category", "Validate" ) %}
-  
+
     <main id="main" role="main">
       <div class="wrapper">
         <section class="category category--discover">
@@ -34,7 +34,7 @@ layout: none
           {% for method in discover_methods %}
             <article class="method" id="#{{ method.permalink }}">
               <div class="method--panel method--panel--front">
-                <h1 class="method--title"><a href="{{ method.permalink }}">{{ method.title }}</a></h1>
+                <h1 class="method--title"><a href="{{ method.url }}">{{ method.title }}</a></h1>
                 <section class="method--section method--section--what">
                   <h1>What</h1>
                   <p>{{ method.what }}</p>
@@ -53,7 +53,7 @@ layout: none
                   <h1>How to do it</h1>
                   <ol>
                     {% for item in method.how %}
-                    <li> 
+                    <li>
                       {{ item }}
                       {% for item in method.nestedHow %}
                         <ul>
@@ -80,7 +80,7 @@ layout: none
           {% for method in decide_methods %}
             <article class="method" id="#{{ method.permalink }}">
               <div class="method--panel method--panel--front">
-                <h1 class="method--title"><a href="{{ method.permalink }}">{{ method.title }}</a></h1>
+                <h1 class="method--title"><a href="{{ method.url }}">{{ method.title }}</a></h1>
                 <section class="method--section method--section--what">
                   <h1>What</h1>
                   <p>{{ method.what }}</p>
@@ -99,7 +99,7 @@ layout: none
                   <h1>How to do it</h1>
                   <ol>
                     {% for item in method.how %}
-                    <li> 
+                    <li>
                       {{ item }}
                       {% for item in method.nestedHow %}
                         <ul>

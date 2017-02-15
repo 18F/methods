@@ -1,0 +1,76 @@
+---
+---
+
+@import 'guides_style_18f';
+
+h1 { font-size: 2em }
+
+.categoryDiscover header h2   { border: 2px solid #19B5FE }
+.categoryDecide header h2   { border: 2px solid #32CD32 }
+.categoryMake header h2     { border: 2px solid #F7CA18 }
+.categoryValidate header h2   { border: 2px solid #F27927 }
+.categoryFundamentals header h2 { border: 2px solid #0F385D }
+
+.parentDiscover header h1       { border: 3px solid #19B5FE }
+.parentDecide header h1         { border: 3px solid #32CD32 }
+.parentMake header h1           { border: 3px solid #F7CA18 }
+.parentValidate header h1       { border: 3px solid #F27927 }
+.parentFundamentals header h1   { border: 3px solid #0F385D }
+
+.method header {
+  padding-bottom: 0;
+}
+
+.method header h1 {
+  margin: 0;
+  float: left;
+}
+.method header h2 {
+/*  position: absolute;*/
+/*  right: 1em;*/
+  margin: 0;
+  margin-left: 1em;
+  float:right;
+  font-weight: normal;
+  font-size: 1em;
+  padding: 0.5em 1.5em;
+  text-align: center;
+}
+.method header a {
+  border-bottom: none;
+  color: #000;
+}
+.method header a:hover {
+  color: #0072ce;
+}
+
+@media screen and (max-width: 40.5em) {
+  .method header h2 {
+    clear: both;
+    float:left;
+    margin-left: 0;
+    padding: 0.3em 1.5em;
+    margin-top: 0.5em;
+  }
+}
+.parent header h1 {
+  padding-bottom: 0.45em;
+  margin-bottom: 0.9em;
+  float: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+header {
+  border: none;
+}
+
+.container > header {
+  border-bottom: 4px solid {{ site.brand_color }};
+}
+
+.img__full img {
+  max-width:800px;
+  width: 100%;
+}

@@ -12,6 +12,9 @@ exclude:
 permalink: pretty
 highlighter: rouge
 
+sass:
+  style: compressed
+
 collections:
   pages:
     output: true

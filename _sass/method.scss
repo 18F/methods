@@ -1,0 +1,105 @@
+
+.method {
+  background: white;
+  margin-bottom: 1em;
+  border-bottom: none;
+  position: relative;
+  font-family: Karma, Georgia, serif;
+  font-weight: 400;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+
+  .method--panel {
+    padding: 10px;
+  }
+
+  .method--panel--back {
+    font-size: 16px;
+    font-weight: 500;
+    border: 1px solid #ccc;
+  }
+
+  .method--section--government-considerations h1 {
+    font-size: 14px;
+    padding-top: .4em;
+    margin-bottom: .5em;
+    color: #333;
+  }
+
+  .method--section--government-considerations p {
+    font-size: 13px;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+  }
+
+  .method--panel--back li,
+  .method--panel--back p {
+    line-height: 1.33em;
+    margin-bottom: .6em;
+  }
+
+  .method--section--how h1 {
+    margin-top: .4em;
+  }
+
+  .method--title {
+    font-size: 42px;
+    font-weight: 600;
+    font-family: PT Sans Narrow;
+    margin-top: .4em;
+    letter-spacing: -0.02em;
+    margin-bottom: .4em;
+
+    a {
+      color: inherit;
+    }
+  }
+
+  h1 {
+    margin-top: 1.2em;
+    margin-bottom: .6em;
+    font-size: 20px;
+    font-family: PT Sans;
+    font-weight: 700;
+  }
+
+  li,
+  p {
+    line-height: 1.4em;
+    margin-bottom: .6em;
+  }
+
+  ol {
+    margin-left: 1.2em;
+
+    li {
+      list-style-type: decimal;
+    }
+  }
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@media screen and (min-width:853.333px) {
+  .method {
+    .method--panel--back,
+    .method--panel--front {
+      float: left;
+      min-height: 560px;
+      width: 50%;
+    }
+
+    .method--panel--front {
+      padding: 20px 30px;
+    }
+
+    .method--panel--back {
+      background: #fafafa;
+      border: 0;
+      border-radius: 0 2px 2px 0;
+      padding: 10px 20px;
+    }
+  }
+}

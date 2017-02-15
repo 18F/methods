@@ -85,7 +85,7 @@ a:hover{
   page-break-before: always;
   margin-top: 1.25in;
   margin-left: 1in;
-  border: 1px dashed #ddd;
+  border: 1px dashed #ccc;
   position: relative;
   border-radius: 0;
 }

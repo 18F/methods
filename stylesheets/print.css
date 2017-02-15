@@ -103,7 +103,7 @@ a:hover{
 }
 
 .method::before {
-  content: url(/images/fold.svg) "Fold";
+  content: url(../images/fold.svg) "Fold";
   left: 50%;
   bottom: 100%;
   margin-bottom: 0.5in;
@@ -111,7 +111,7 @@ a:hover{
 }
 
 .method::after {
-  content: "Cut" url(/images/scissors.svg);
+  content: url(../images/scissors.svg) "Cut";
   right: 100%;
   top: 50%;
   margin-top: -0.25in;

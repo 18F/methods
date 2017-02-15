@@ -80,7 +80,7 @@ layout: none
           {% for method in decide_methods %}
             <article class="method" id="#{{ method.permalink }}">
               <div class="method--panel method--panel--front">
-                <h1 class="method--title"><a href="{{ method.url }}">{{ method.title }}</a></h1>
+                <h1 class="method--title"><a href="{{ sitebase.url }}{{ method.url }}">{{ method.title }}</a></h1>
                 <section class="method--section method--section--what">
                   <h1>What</h1>
                   <p>{{ method.what }}</p>

@@ -3,16 +3,6 @@ GEM
   specs:
     colorator (0.1)
     ffi (1.9.10)
-    go_script (0.1.9)
-      bundler (~> 1.10)
-      safe_yaml (~> 1.0)
-    guides_style_18f (0.4.8)
-      jekyll
-      jekyll_pages_api
-      jekyll_pages_api_search
-      rouge
-      sass
-    htmlentities (4.3.4)
     jekyll (3.1.6)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -22,18 +12,10 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-redirect-from (0.11.0)
-      jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
-    jekyll_pages_api (0.1.6)
-      htmlentities (~> 4.3)
-      jekyll (>= 2.0, < 4.0)
-    jekyll_pages_api_search (0.4.4)
-      jekyll_pages_api (~> 0.1.4)
-      sass (~> 3.4)
     kramdown (1.11.1)
     liquid (3.0.6)
     listen (3.0.8)
@@ -52,9 +34,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  go_script
-  guides_style_18f
   jekyll
-  jekyll-redirect-from
   redcarpet
   rouge
+
+BUNDLED WITH
+   1.12.5

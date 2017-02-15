@@ -16,7 +16,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
-
+  methods:
+    output: true
 site:
   title: Methods
 

@@ -38,16 +38,14 @@ a:hover{
 
 /* @group site-header */
 
-.site-header{
-  margin-top: 1em;
-}
+.site-header{ margin-top: 1em; }
 
-.site-header h1 a{
+.site-header .logo a{
   text-decoration: none;
   color: inherit;
 }
 
-.site-header h1 img{
+.site-header .logo img{
 	vertical-align: middle;
 	width: 60px;
 	border-radius: 3px;
@@ -56,7 +54,7 @@ a:hover{
 	margin-right: 2px;
 }
 
-.site-header h1{
+.site-header .logo{
 	font-size: 36px;
 	vertical-align: middle;  
 	margin-bottom: 0.4em;
@@ -64,7 +62,7 @@ a:hover{
 	font-weight: 300;
 }
 
-.site-header p{
+.site-header .wrapper p{
 	font-size: 24px;
 	max-width: 33em;
     font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
@@ -73,6 +71,83 @@ a:hover{
 	color: #333;
 	margin-bottom: 2em;  
 }
+
+.site-header .footer{
+  font-family: Karma, Georgia, serif;
+  font-weight: 400;
+	font-size: 0.85em;
+	line-height: 1.33em;
+	font-weight: 500;
+	display: none;
+}
+
+.site-header .footer ul{
+	list-style-type: disc;
+	margin-left: 1.2em;
+}
+
+.site-header .footer h1{
+	margin-top: 1.2em;
+	margin-bottom: 0.6em;
+	font-size: 1.1em;
+	font-family: PT Sans;
+	font-weight: 700;
+	color: #333;
+}
+
+/* @end */
+
+/* @group category */
+
+.category--header{
+	background: #205493;
+	color: white;
+	padding: 20px;
+	border-radius: 3px;
+	margin-bottom: 1em;
+	margin-top: 3em;
+	font-size: 14px;
+}
+
+.category--header ul{
+  margin-top: 0.4em;
+  list-style-type: disc;
+  margin-left: 1.4em;
+}
+
+.category--header ul li{
+	margin-bottom: 0.4em;
+}
+
+.category--header a{
+	color: white;
+	text-decoration: underline;
+}
+
+.category--header a:hover{ text-decoration: none; }
+
+.category--discover .method h1.method--title{ color: #205493;}
+
+.category--decide .category--header{ background: #29863c; }
+
+.category--decide .method h1.method--title{ color: #29863c;}
+
+.category--make .category--header{ background: #fac72f; color: #222;}
+.category--validate .category--header{ background: #8b1625; }
+
+.category--title{
+	font-size: 21px;
+	font-weight: 700;
+	margin-bottom: 0.2em;
+}
+
+.category--subtitle{
+	display: inline;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+	font-size: 16px;
+}
+
+
 
 /* @end */
 
@@ -88,6 +163,11 @@ a:hover{
   border: 1px solid #ddd;
   border-radius: 3px;
 	height: 42rem;
+}
+
+.method:target{
+	border-color: #aaa;
+	box-shadow: 2px 2px 0 0 #e3e3e3;
 }
 
 .method .method--panel{ 
@@ -213,42 +293,6 @@ a:hover{
 		border: none;
 		border-radius: 0 2px 2px 0;
 	}  
-}
-
-
-
-/* @end */
-
-/* @group category */
-
-.category--header{
-	background: #205493;
-	color: white;
-	padding: 20px;
-	border-radius: 3px;
-	margin-bottom: 1em;
-	margin-top: 3em;
-}
-
-.category--discover .method h1.method--title{ color: #205493;}
-
-.category--decide .category--header{ background: #29863c; }
-
-.category--decide .method h1.method--title{ color: #29863c;}
-
-.category--make .category--header{ background: #fac72f; color: #222;}
-.category--validate .category--header{ background: #8b1625; }
-
-.category--title{
-	font-size: 21px;
-	font-weight: 700;
-	margin-bottom: 0.2em;
-}
-
-.category--subtitle{
-	display: inline;
-    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-	font-size: 16px;
 }
 
 

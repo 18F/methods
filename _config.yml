@@ -12,8 +12,8 @@ exclude:
 permalink: pretty
 highlighter: rouge
 
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
 collections:
   pages:

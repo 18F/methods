@@ -12,10 +12,31 @@ layout: none
         <h1 class="logo">
           <a href="{{site.baseurl}}/">
             <img src="{{site.baseurl}}/images/18F.svg" width="72">
-            Methods
+            Method Cards
           </a>
         </h1>
-        <p>18F&rsquo;s methods describe how our organization puts human-centered design into practice. Learn more <a href="#">about the project itself</a>, <a href="#">explore the fundamentals</a>, or <a href="#">print your own deck</a>.</p>
+        <p>18F&rsquo;s method cards describe how our organization puts human-centered design into practice. Learn more <a href="#">about the project itself</a>, <a href="#">explore the fundamentals</a>, or <a href="#">print your own deck</a>.</p>
+      </div>
+      <div class="footer">
+        <h1>Why method cards?</h1>
+        <ul>
+          <li>To add rigor and structure to agile development.</li>
+          <li>To build a shared vocabulary for each method among 18F staff and our partner agencies.</li>
+          <li>To give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.</li>  
+        </ul>        
+        <h1>We’ve grouped these methods into four phases</h1>
+        <dl>
+          <dt class="category--discover">Discover</dt>
+          <dd>Build empathy for the project and people involved.</dd>
+          <dt class="category--discover">Decide</dt>
+          <dd>Focus the design effort.</dd>
+          <dt class="category--make">Make</dt>
+          <dd>Build empathy for the project and people involved.</dd>
+          <dt class="category--validate">Validate</dt>
+          <dd>Build empathy for the project and people involved.</dd>
+        </dl>
+        <h1>We&rsquo;ve called out specifics about doing this work in government</h1>
+        <p>For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at the cards for Recruiting, Incentives, and Privacy. No matter which methods we work with, these are the fundamentals of our design research.
       </div>
     </header>
 
@@ -30,9 +51,14 @@ layout: none
           <header class="category--header">
             <h1 class="category--title">Discover</h1>
             <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
+            <ul>
+              {% for method in discover_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
           </header>
           {% for method in discover_methods %}
-            <article class="method" id="#{{ method.permalink }}">
+            <article class="method" id="{{ method.title | slugify }}">
               <div class="method--panel method--panel--front">
                 <h1 class="method--title"><a href="{{ method.url }}">{{ method.title }}</a></h1>
                 <section class="method--section method--section--what">

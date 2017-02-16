@@ -1,5 +1,6 @@
 ---
 layout: card
+<<<<<<< HEAD
 title: Usability testing
 category: Validate
 what: Observation of people attempting to use a product.
@@ -19,3 +20,13 @@ governmentConsiderations:
 3. Avoid asking participants to perform tasks far outside their normal context. This will lead them to reflect on the design rather than their ability to accomplish their goals. (For example, to test a new layout for a “user account” section on a voter registration website, recruit only people who already register to vote online.)
 
 4. Analyze the user’s attempt to employ your prototype, looking especially for areas where they struggled or questions they asked to inform design changes.
+=======
+title: 
+category: 
+what: 
+why: 
+timeRequired: 
+how:
+governmentConsiderations:
+---
+>>>>>>> origin/design

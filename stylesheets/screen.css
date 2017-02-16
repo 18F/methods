@@ -154,8 +154,9 @@ a:hover{ text-decoration: underline; }
 
 .category--validate h1.method--title{ color: #8b1625; }
 
- /*Testing out an underline for the titles 
-.category--validate .method h1.method--title{ border-bottom: 8px solid #8b1625;line-height: 3.5rem;}*/
+
+.category--fundamentals .category--header{ background: #333; }
+
 
 .category--title{
 	font-size: 21px;

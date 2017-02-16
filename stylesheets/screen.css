@@ -2,18 +2,10 @@
 
 /* @override http://localhost:4000/stylesheets/screen.css */
 
-/* @override http://localhost:4000/stylesheets/screen.css */
-
-/* @override http://localhost:4000/stylesheets/screen.css */
-
 /* @group bootstrap */
 
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
+html { box-sizing: border-box; }
+*, *:before, *:after {  box-sizing: inherit; }
 
 body{
   background: #eee;
@@ -27,9 +19,7 @@ a{
   color: #205493;
 }
 
-a:hover{
-	text-decoration: underline;
-}
+a:hover{ text-decoration: underline; }
 
 .wrapper{
   max-width: 960px;
@@ -164,7 +154,6 @@ a:hover{
 
 .category--validate h1.method--title{ color: #8b1625; }
 
-
  /*Testing out an underline for the titles 
 .category--validate .method h1.method--title{ border-bottom: 8px solid #8b1625;line-height: 3.5rem;}*/
 
@@ -248,21 +237,30 @@ a:hover{
 .method .method--panel--back h1{
 	color: #000;
 }
-.method .method--panel--back .method--section--government-considerations p{
+
+.method h2,
+.method em,
+.method .method--panel--back .method--section--government-considerations p,
+.method .method--panel--back .method--section--government-considerations li{
 	font-size: 0.85em;
 	line-height: 1.3em;
     font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
     max-width: none !important;
-	text-align: justify;
-	word-break: break-all;
-    word-break: break-word;
-
--webkit-hyphens: auto;
-   -moz-hyphens: auto;
-        hyphens: auto;
+    display: block;
 }
 
 .method .method--panel--back .method--section--government-considerations p:last-child{ margin-bottom: 0; }
+
+
+.method h2{
+	font-size: 0.67rem;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	font-weight: 700;
+	line-height: 1;
+	margin-top: 2.4em;
+	margin-bottom: 1.2em;
+}
 
 .method .method--panel--back p,
 .method .method--panel--back li{
@@ -274,7 +272,7 @@ a:hover{
 .method .method--title{
 	font-size: 42px;
 	font-weight: 600;
-	font-family: PT Sans Narrow;
+	font-family: PT Sans Narrow, Trebuchet MS, Verdana, sans-serif;
 	margin-top: 0.4em;
 	letter-spacing: -0.02em;
 	margin-bottom: 0.4em;
@@ -284,7 +282,7 @@ a:hover{
 	margin-top: 1.2em;
 	margin-bottom: 0.6em;
 	font-size: 1.1em;
-	font-family: PT Sans;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
 	font-weight: 700;
 	color: #333;
 }
@@ -300,10 +298,10 @@ a:hover{
 	margin-bottom: 0.6em;
 	max-width: 30em;
 }
-.method ol li{
-	list-style-type: decimal;
-}
 
+
+.method ol li{ list-style-type: decimal; }
+.method ul li{ list-style-type: disc; }
 
 .method li ol,
 .method li ul{
@@ -311,9 +309,6 @@ a:hover{
   margin-left: 1.4em;
 }
 
-.method ul li{
-	list-style-type: disc;
-}
 
 .method .method--title a{ color: inherit;}
 
@@ -342,7 +337,5 @@ a:hover{
 		border-radius: 0 2px 2px 0;
 	}
 }
-
-
 
 /* @end */

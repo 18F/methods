@@ -21,6 +21,7 @@ collections:
     permalink: /:path/
   methods:
     output: true
+    permalink: /:path/
 site:
   title: Methods
 

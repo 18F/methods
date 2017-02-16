@@ -6,11 +6,9 @@ redirect_from: /recruiting/
 
 ## What it is
 
-Identifying and gathering people to interview or who will test your product.
 
 ## Why it is important
 
-Recruiting people who represent your core user group is a critical and oft-overlooked part of research. Time spent with the right people using the wrong methods is better than time spent with people who aren’t your core users while using the right methods.
 
 ## Time required
 

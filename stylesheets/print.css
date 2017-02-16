@@ -1,5 +1,7 @@
 /* @override http://localhost:4000/stylesheets/print.css */
 
+/* @override http://localhost:4000/stylesheets/print.css */
+
 /* @group bootstrap */
 
 body{
@@ -85,9 +87,7 @@ a{ color: inherit; }
 
 /* @group site-header */
 
-.site-header{
-  position: relative;
-}
+.site-header{ position: relative; }
 
 .site-header .wrapper{
   background-color: #08375d;
@@ -249,6 +249,12 @@ dt.category--validate,
 	right: 0.4in;
 	width: 3.125in;
 }
+
+/* @end */
+
+/* @group layouts */
+
+.layout--card .site-header{ display: none; }
 
 /* @end */
 

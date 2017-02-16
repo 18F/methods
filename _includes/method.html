@@ -21,23 +21,11 @@
   <div class="method--panel method--panel--back">
     <section class="method--section method--section--how">
       <h1>How to do it</h1>
-      {{ method.content }}
-      <ol>
-        {% for item in method.how %}
-        <li>
-          {{ item }}
-          {% for item in method.nestedHow %}
-            <ul>
-              <li> {{ item }}</li>
-            </ul>
-          {% endfor %}
-        </li>
-        {% endfor %}
-      </ol>
+      {{ method.how }}
     </section>
     <section class="method--section method--section--government-considerations">
       <h1>Applied in government research</h1>
-      <p>{{ method.governmentConsiderations }}</p>
+      {{ method.governmentConsiderations }}
     </section>
   </div>
 </article>

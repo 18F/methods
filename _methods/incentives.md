@@ -1,9 +1,9 @@
 ---
 layout: card
-title: Bodystorming
-category: Discover
-what: An improvisational brainstorm based on interaction and movement with the body.
-why: To remind participants that interactions are human and physical, to teach stakeholders empathy for users, and to get away from our computers.
+title: Incentives
+category: Fundamentals
+what: Offering usability test or user research participants gifts to encourage participation and to thank them for their time.
+why: Incentives often result in a more diverse, representative set of participants. Without incentives, you often end up recruiting people with a strong intrinsic interest in your website. These people may not have the same needs and experiences as a less interested but larger pool of users. With incentives, you can encourage less interested, more representative people to participate.
 timeRequired: 1-2 hours
 how:
   <ol>

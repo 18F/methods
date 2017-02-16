@@ -166,8 +166,8 @@ a:hover{
 }
 
 .method:target{
-	border-color: #aaa;
-	box-shadow: 2px 2px 0 0 #e3e3e3;
+  border-color: #aaa; 
+  box-shadow: 2px 2px 0 0 #e3e3e3;
 }
 
 .method .method--panel{ 

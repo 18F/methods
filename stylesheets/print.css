@@ -185,6 +185,12 @@ a{ color: inherit; }
   clear: both;
 }
 
+.method:target{
+  border-color: inherit; 
+  box-shadow: none;
+}
+
+
 .method .method--panel--front,
 .method .method--panel--back{
   float: left;

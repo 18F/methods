@@ -1,6 +1,5 @@
 ---
 layout: card
-<<<<<<< HEAD
 title: Visual preference testing
 category: Validate
 what: A method that allows potential users to review and provide feedback on a solution’s ultimate visual direction.
@@ -20,13 +19,3 @@ governmentConsiderations:
 4. Compare the results with the published branding guidelines and attributes that an agency has already put in place.
 
 5. Publish the results to the complete product team and decide which direction will guide future design efforts.
-=======
-title: 
-category: 
-what: 
-why: 
-timeRequired: 
-how:
-governmentConsiderations:
----
->>>>>>> origin/design

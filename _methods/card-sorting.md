@@ -29,6 +29,3 @@ There are two types of card sorting: open and closed. Most card sorts are perfor
 2. Ask users to parse the content into a list of categories you have predefined.
 
 3. Ask users to tell you why they assigned cards to the categories they did.
-
-## Examples from 18F
-- [Research plan including card sorting from 18F's C2 project](https://github.com/18F/C2/wiki/Sprint-5:-Interaction-model-June-2016)

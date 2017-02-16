@@ -161,6 +161,8 @@ a:hover{
   border: 1px solid #ddd;
   border-radius: 3px;
 	height: 42rem;
+  display:table;
+  width:100%;
 }
 
 .method:target{
@@ -170,7 +172,7 @@ a:hover{
 
 .method .method--panel{
 	padding: 20px;
-	height: 41.89rem;
+	/*height: 41.89rem;*/
 }
 
 .method .method--section--category h1,
@@ -277,9 +279,10 @@ a:hover{
 
 	.method .method--panel--front,
 	.method .method--panel--back{
-		float: left;
+		/*float: left;*/
 		width: 50%;
-		min-height: 560px;
+		/* min-height: 560px;*/
+    display: table-cell;
 	}
 	.method .method--panel--front{
   		padding: 20px 30px;

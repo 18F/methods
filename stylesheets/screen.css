@@ -81,11 +81,6 @@ a:hover{
 	display: none;
 }
 
-.site-header .footer ul{
-	list-style-type: disc;
-	margin-left: 1.2em;
-}
-
 .site-header .footer h1{
 	margin-top: 1.2em;
 	margin-bottom: 0.6em;

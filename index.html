@@ -24,16 +24,16 @@ layout: none
           <li>To build a shared vocabulary for each method among 18F staff and our partner agencies.</li>
           <li>To give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.</li>  
         </ul>        
-        <h1>We’ve grouped these methods into four phases</h1>
+        <h1>We&rsquo;ve grouped these methods into four phases</h1>
         <dl>
           <dt class="category--discover">Discover</dt>
           <dd>Build empathy for the project and people involved.</dd>
-          <dt class="category--discover">Decide</dt>
-          <dd>Focus the design effort.</dd>
+          <dt class="category--decide">Decide</dt>
+          <dd>Focus the effort around a design hypothesis.</dd>
           <dt class="category--make">Make</dt>
-          <dd>Build empathy for the project and people involved.</dd>
+          <dd>Create a testable solution.</dd>
           <dt class="category--validate">Validate</dt>
-          <dd>Build empathy for the project and people involved.</dd>
+          <dd>Test a design hypothesis.</dd>
         </dl>
         <h1>We&rsquo;ve called out specifics about doing this work in government</h1>
         <p>For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at the cards for Recruiting, Incentives, and Privacy. No matter which methods we work with, these are the fundamentals of our design research.
@@ -60,7 +60,7 @@ layout: none
           {% for method in discover_methods %}
             <article class="method" id="{{ method.title | slugify }}">
               <div class="method--panel method--panel--front">
-                <h1 class="method--title"><a href="{{ method.url }}">{{ method.title }}</a></h1>
+                <h1 class="method--title"><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></h1>
                 <section class="method--section method--section--what">
                   <h1>What</h1>
                   <p>{{ method.what }}</p>
@@ -77,7 +77,6 @@ layout: none
                   <h1>Phase</h1>
                   <p>{{ method.category }}</p>
                 </section>
-
               </div>
               <div class="method--panel method--panel--back">
                 <section class="method--section method--section--how">
@@ -100,18 +99,23 @@ layout: none
                   <p>{{ method.governmentConsiderations }}</p>
                 </section>
               </div>
-              </article>
-            {% endfor %}
+            </article>
+          {% endfor %}
         </section>
         <section class="category category--decide">
           <header class="category--header">
             <h1 class="category--title">Decide</h1>
             <p class="category--subtitle">Methods for focusing the design effort.</p>
+            <ul>
+              {% for method in decide_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
           </header>
           {% for method in decide_methods %}
-            <article class="method" id="#{{ method.permalink }}">
+            <article class="method" id="{{ method.title | slugify }}">
               <div class="method--panel method--panel--front">
-                <h1 class="method--title"><a href="{{ sitebase.url }}{{ method.url }}">{{ method.title }}</a></h1>
+                <h1 class="method--title"><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></h1>
                 <section class="method--section method--section--what">
                   <h1>What</h1>
                   <p>{{ method.what }}</p>
@@ -122,7 +126,11 @@ layout: none
                 </section>
                 <section class="method-section method--section--time-required">
                   <h1>Time required</h1>
-                  <p>15 minutes</p>
+                  <p>{{ method.timeRequired }}</p>
+                </section>
+                <section class="method-section method--section--category">
+                  <h1>Phase</h1>
+                  <p>{{ method.category }}</p>
                 </section>
               </div>
               <div class="method--panel method--panel--back">
@@ -152,14 +160,112 @@ layout: none
         <section class="category category--make">
           <header class="category--header">
             <h1 class="category--title">Make</h1>
-            <p class="category--subtitle">Methods for moving towards a testable solution.</p>
+            <p class="category--subtitle">Methods for creating a testable solution.</p>
+            <ul>
+              {% for method in make_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
           </header>
+          {% for method in make_methods %}
+            <article class="method" id="{{ method.title | slugify }}">
+              <div class="method--panel method--panel--front">
+                <h1 class="method--title"><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></h1>
+                <section class="method--section method--section--what">
+                  <h1>What</h1>
+                  <p>{{ method.what }}</p>
+                </section>
+                <section class="method--section method--section--why">
+                  <h1>Why</h1>
+                  <p>{{ method.why }}</p>
+                </section>
+                <section class="method-section method--section--time-required">
+                  <h1>Time required</h1>
+                  <p>{{ method.timeRequired }}</p>
+                </section>
+                <section class="method-section method--section--category">
+                  <h1>Phase</h1>
+                  <p>{{ method.category }}</p>
+                </section>
+              </div>
+              <div class="method--panel method--panel--back">
+                <section class="method--section method--section--how">
+                  <h1>How to do it</h1>
+                  <ol>
+                    {% for item in method.how %}
+                    <li>
+                      {{ item }}
+                      {% for item in method.nestedHow %}
+                        <ul>
+                          <li> {{ item }}</li>
+                        </ul>
+                      {% endfor %}
+                    </li>
+                    {% endfor %}
+                  </ol>
+                </section>
+                <section class="method--section method--section--government-considerations">
+                  <h1>Applied in government research</h1>
+                  <p>{{ method.governmentConsiderations }}</p>
+                </section>
+              </div>
+            </article>
+          {% endfor %}        
         </section>
         <section class="category category--validate">
           <header class="category--header">
             <h1 class="category--title">Validate</h1>
             <p class="category--subtitle">Methods for testing a design hypothesis.</p>
+            <ul>
+              {% for method in validate_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
           </header>
+          {% for method in validate_methods %}
+            <article class="method" id="{{ method.title | slugify }}">
+              <div class="method--panel method--panel--front">
+                <h1 class="method--title"><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></h1>
+                <section class="method--section method--section--what">
+                  <h1>What</h1>
+                  <p>{{ method.what }}</p>
+                </section>
+                <section class="method--section method--section--why">
+                  <h1>Why</h1>
+                  <p>{{ method.why }}</p>
+                </section>
+                <section class="method-section method--section--time-required">
+                  <h1>Time required</h1>
+                  <p>{{ method.timeRequired }}</p>
+                </section>
+                <section class="method-section method--section--category">
+                  <h1>Phase</h1>
+                  <p>{{ method.category }}</p>
+                </section>
+              </div>
+              <div class="method--panel method--panel--back">
+                <section class="method--section method--section--how">
+                  <h1>How to do it</h1>
+                  <ol>
+                    {% for item in method.how %}
+                    <li>
+                      {{ item }}
+                      {% for item in method.nestedHow %}
+                        <ul>
+                          <li> {{ item }}</li>
+                        </ul>
+                      {% endfor %}
+                    </li>
+                    {% endfor %}
+                  </ol>
+                </section>
+                <section class="method--section method--section--government-considerations">
+                  <h1>Applied in government research</h1>
+                  <p>{{ method.governmentConsiderations }}</p>
+                </section>
+              </div>
+            </article>
+          {% endfor %}        
         </section>
       </div>
     </main>

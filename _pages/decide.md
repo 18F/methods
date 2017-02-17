@@ -1,5 +1,4 @@
 ---
-permalink: /decide
 title: Decide
 layout: category
 category: decide

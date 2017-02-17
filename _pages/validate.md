@@ -1,5 +1,4 @@
 ---
-permalink: /validate
 title: Validate
 layout: category
 category: validate

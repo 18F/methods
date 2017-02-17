@@ -1,5 +1,4 @@
 ---
-permalink: /make
 title: Make
 layout: category
 category: Make

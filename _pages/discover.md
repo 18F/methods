@@ -1,5 +1,4 @@
 ---
-permalink: /discover
 title: Discover
 layout: category
 category: discover

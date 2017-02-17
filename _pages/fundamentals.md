@@ -1,5 +1,4 @@
 ---
-permalink: /fundamentals
 title: Fundamentals
 layout: category
 category: Fundamentals

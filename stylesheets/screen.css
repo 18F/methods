@@ -258,7 +258,7 @@ a:hover{ text-decoration: underline; }
 
 .method .method--section--category h1,
 .method .method--section--time-required h1{
-	font-size: 12px;
+	font-size: 13px;
 	text-transform: uppercase;
 	letter-spacing: 0.02em;
 	font-weight: 700;
@@ -272,7 +272,6 @@ a:hover{ text-decoration: underline; }
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
-
 
 /* @end */
 
@@ -291,7 +290,7 @@ a:hover{ text-decoration: underline; }
 .method .method--panel--back em,
 .method .method--panel--back .method--section--government-considerations p,
 .method .method--panel--back .method--section--government-considerations li{
-	font-size: 12px;
+	font-size: 13px;
 	line-height: 1.3em;
     font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
     max-width: none !important;
@@ -347,7 +346,6 @@ a:hover{ text-decoration: underline; }
 
 	.method h1.method--title{ font-size: 42px; }
 	
-
 	.method .method--section--category,
 	.method .method--section--time-required{
 		position: absolute;

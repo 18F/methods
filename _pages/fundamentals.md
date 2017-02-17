@@ -1,6 +1,7 @@
 ---
 title: Fundamentals
-layout: card
+layout: category
+category: Fundamentals
 ---
 
 - [Incentives](incentives/)

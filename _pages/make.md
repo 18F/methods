@@ -1,6 +1,7 @@
 ---
 title: Make
-layout: card
+layout: category
+category: Make
 ---
 
 Move toward a final product that’s ready to be released and tested.

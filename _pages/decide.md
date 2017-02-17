@@ -1,6 +1,7 @@
 ---
 title: Decide
-layout: card
+layout: category
+category: decide
 ---
 
 Use what you’ve learned to start focusing your research on specific areas and groups of people.

@@ -1,6 +1,8 @@
 ---
+permalink: /validate
 title: Validate
-layout: card
+layout: category
+category: validate
 ---
 
 Test your research, design, and product.

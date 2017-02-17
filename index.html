@@ -15,7 +15,7 @@ layout: none
             Method Cards
           </a>
         </h1>
-        <p>18F&rsquo;s method cards describe how our organization puts human-centered design into practice. Learn more <a href="#">about the project itself</a>, <a href="#">explore the fundamentals</a>, or <a href="#">print your own deck</a>.</p>
+        <p>18F&rsquo;s method cards describe how our organization puts human-centered design into practice. Learn more <a href="https://github.com/18F/methods">about the project itself</a>, <a href="#fundamentals">explore the fundamentals</a>, or <a href="javascript:window.print()">print your own deck</a>.</p>
       </div>
       <div class="footer">
         <h1>Why method cards?</h1>
@@ -40,14 +40,15 @@ layout: none
       </div>
     </header>
 
-    {% assign discover_methods = (site.methods | where: "category", "Discover" ) %}
-    {% assign decide_methods   = (site.methods | where: "category", "Decide" )   %}
-    {% assign make_methods     = (site.methods | where: "category", "Make" )     %}
-    {% assign validate_methods = (site.methods | where: "category", "Validate" ) %}
+    {% assign discover_methods     = (site.methods | where: "category", "Discover" ) %}
+    {% assign decide_methods       = (site.methods | where: "category", "Decide" )   %}
+    {% assign make_methods         = (site.methods | where: "category", "Make" )     %}
+    {% assign validate_methods     = (site.methods | where: "category", "Validate" ) %}
+    {% assign fundamentals_methods = (site.methods | where: "category", "Fundamentals" ) %}
 
     <main id="main" role="main">
       <div class="wrapper">
-        <section class="category category--discover">
+        <section class="category category--discover" id="discover">
           <header class="category--header">
             <h1 class="category--title">Discover</h1>
             <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
@@ -61,7 +62,7 @@ layout: none
             {% include method.html %}
           {% endfor %}
         </section>
-        <section class="category category--decide">
+        <section class="category category--decide" id="decide">
           <header class="category--header">
             <h1 class="category--title">Decide</h1>
             <p class="category--subtitle">Methods for focusing the design effort.</p>
@@ -75,7 +76,7 @@ layout: none
             {% include method.html %}
           {% endfor %}
         </section>
-        <section class="category category--make">
+        <section class="category category--make" id="make">
           <header class="category--header">
             <h1 class="category--title">Make</h1>
             <p class="category--subtitle">Methods for creating a testable solution.</p>
@@ -89,7 +90,7 @@ layout: none
             {% include method.html %}
           {% endfor %}
         </section>
-        <section class="category category--validate">
+        <section class="category category--validate" id="validate">
           <header class="category--header">
             <h1 class="category--title">Validate</h1>
             <p class="category--subtitle">Methods for testing a design hypothesis.</p>
@@ -100,6 +101,20 @@ layout: none
             </ul>
           </header>
           {% for method in validate_methods %}
+            {% include method.html %}
+          {% endfor %}
+        </section>
+        <section class="category category--fundamentals" id="fundamentals">
+          <header class="category--header">
+            <h1 class="category--title">Fundamentals</h1>
+            <p class="category--subtitle">Foundational methods for practicing design research.</p>
+            <ul>
+              {% for method in fundamentals_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </header>
+          {% for method in fundamentals_methods %}
             {% include method.html %}
           {% endfor %}
         </section>

@@ -81,6 +81,7 @@ a{ color: inherit; }
   margin-right: 0.375in;
 }
 
+.no-print{ display: none; }
 
 
 /* @end */
@@ -169,41 +170,6 @@ a{ color: inherit; }
 	margin: 0;
 	letter-spacing: -0.02em;
 	word-spacing: 9999em;
-}
-
-
-
-/* @end */
-
-/* @group category */
-
-.category--header{
-  background: #205493;
-  color: white;
-  border-radius: 3px;
-}
-
-dt.category--discover{ background: #205493; }
-
-dt.category--decide,
-.category--decide .category--header{ background: #29863c; }
-
-dt.category--make,
-.category--make .category--header{ background: #fac72f; color: #222;}
-
-dt.category--validate,
-.category--validate .category--header{ background: #8b1625; }
-
-.category--title{
-  font-size: 21px;
-  font-weight: 700;
-  margin-bottom: 0.2em;
-}
-
-.category--subtitle{
-  display: inline;
-  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-  font-size: 16px;
 }
 
 

@@ -69,37 +69,75 @@ a:hover{ text-decoration: underline; }
 	.site-header .wrapper p{ font-size: 24px; }
 }
 
-.site-header nav{
-  background: #ddd;
-  padding: 0.5em 1em;
-  border-radius: 99em;
-  float: right;
-  font-weight: 700;
-  position: absolute;
-  right: 0;
-  top: 0.5em;
+
+.site-header nav li{
+	background: #333;
+	color: white;
+	display: block;
+	float: left;
+	width: 20%;
+	font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+	padding: 1em;
+	font-size: 12px;
+	line-height: 1.2;
+	min-height: 6.5em;
+}
+
+.site-header nav li strong{
+	display: block;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 1.1;
+	margin-bottom: 0.4em;
 }
 
 .site-header nav a{ 
 	color: inherit; 
-	font-size: 1rem;
+	display: block;
 }
 
-.site-header nav a img{
-	position: relative;
-	top: 2px;
-	margin-right: 4px;
-}
-
-.site-header nav a:first-child{
+.layout-card .site-header nav a:first-child{
 	margin-right: 1em;
 }
 
 .site-header .footer{
   font-family: PT Serif, Georgia, serif;
-  font-size: 10pt;
+  font-size: 15px;
   line-height: 1.33em;
-  display: none;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.site-header dl{
+	padding-left: 1in;
+	margin-bottom: 1em;
+}
+
+.site-header dl::after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.site-header dd,
+.site-header dt{
+	float: left;
+	width: 100%;
+	margin-bottom: 0.6em;
+}
+
+.site-header dt{
+  width: 0.75in;
+  margin-left: -1in;
+  clear: both;
+  background: #333;
+  color: white;
+  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.03125in 0.0625in;
+  text-align: center;
+  border-radius: 2px;
 }
 
 .site-header .footer h1{
@@ -144,15 +182,26 @@ a:hover{ text-decoration: underline; }
 
 .category--discover h1.method--title{ color: #205493;}
 
+dt.category--discover{ background: #205493; }
+
+
+.category--make .category--header{ background: #fac72f; color: #222;}
+
+dt.category--validate,
+.category--validate .category--header{ background: #8b1625; }
+
+dt.category--decide,
 .category--decide .category--header{ background: #29863c; }
 
 .category--decide h1.method--title{ color: #29863c;}
 
+dt.category--make,
 .category--make .category--header{ background: #fac72f; color: #222;}
 
 .category--make h1.method--title{ color: #aa5d00; }
 
-.category--validate .category--header,
+.category--validate .category--header{ background: #8b1625; }
+
 .category--validate h1.method--title{ color: #8b1625; }
 
 .category--fundamentals .category--header{ background: #333; }
@@ -258,7 +307,7 @@ a:hover{ text-decoration: underline; }
 
 .method .method--section--category h1,
 .method .method--section--time-required h1{
-	font-size: 13px;
+	font-size: 12px;
 	text-transform: uppercase;
 	letter-spacing: 0.02em;
 	font-weight: 700;
@@ -286,11 +335,16 @@ a:hover{ text-decoration: underline; }
 	background: #fafafa;
 }
 
-.method .method--panel--back h2,
+.method .method--panel--back h2{ 
+	font-size: 12px; 
+	line-height: 1.3em;
+    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+}
+
 .method .method--panel--back em,
 .method .method--panel--back .method--section--government-considerations p,
 .method .method--panel--back .method--section--government-considerations li{
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 1.3em;
     font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
     max-width: none !important;
@@ -381,5 +435,31 @@ a:hover{ text-decoration: underline; }
 		color: #000;
 	}
 }
+
+/* @end */
+
+/* @group layouts */
+
+.layout--card .site-header nav{
+  background: #ddd;
+  padding: 0.5em 1em 0.45em;
+  border-radius: 99em;
+  float: right;
+  font-weight: 700;
+  position: absolute;
+  right: 0;
+  top: 0.5em;
+}
+
+.layout--card .site-header nav li,
+.layout--card .site-header nav a{ display: inline; }
+.layout--card .site-header nav img{ 
+	margin-right: 0.2em; 
+	vertical-align: middle;
+	position: relative;
+	top: -1px;
+}
+.layout--card .site-header nav a:first-child{ margin-right: 1.2em; }
+
 
 /* @end */

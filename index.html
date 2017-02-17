@@ -40,11 +40,7 @@ layout: none
       </div>
     </header>
 
-    {% assign discover_methods     = (site.methods | where: "category", "Discover" ) %}
-    {% assign decide_methods       = (site.methods | where: "category", "Decide" )   %}
-    {% assign make_methods         = (site.methods | where: "category", "Make" )     %}
-    {% assign validate_methods     = (site.methods | where: "category", "Validate" ) %}
-    {% assign fundamentals_methods = (site.methods | where: "category", "Fundamentals" ) %}
+    {% include category-setup.html %}
 
     <main id="main" role="main">
       <div class="wrapper">

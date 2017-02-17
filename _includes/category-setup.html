@@ -1,0 +1,8 @@
+{% assign discover_methods     = (site.methods | where: "category", "Discover" ) %}
+{% assign decide_methods       = (site.methods | where: "category", "Decide" )   %}
+{% assign make_methods         = (site.methods | where: "category", "Make" )     %}
+{% assign validate_methods     = (site.methods | where: "category", "Validate" ) %}
+{% assign fundamentals_methods = (site.methods | where: "category", "Fundamentals" ) %}
+
+<! -- This is used for setting category variables -->
+{% capture var-category-name %}{{ page.category | downcase }}_methods{% endcapture %}

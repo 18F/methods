@@ -1,5 +1,6 @@
 ---
 title: Validate
+layout: card
 ---
 
 Test your research, design, and product.

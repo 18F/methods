@@ -1,5 +1,6 @@
 ---
 title: Make
+layout: card
 ---
 
 Move toward a final product that’s ready to be released and tested.

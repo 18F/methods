@@ -1,5 +1,6 @@
 ---
 title: Discover
+layout: card
 ---
 
 Learn as much as you can about the project and people involved.

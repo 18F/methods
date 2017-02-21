@@ -6,11 +6,11 @@ redirect_from: /design-pattern-library/
 
 ## What it is
 
-A collection of UI elements used frequently across a design system, consisting of the base patterns and helpful information about how to use them.
+A collection of user interface elements (for example colors, icons, and buttons) used frequently across a design system, consisting of the base patterns and helpful information about how to use them.
 
 ## Reasons to use it
 
-To aid in designing a solution that uses UI elements consistently. Maintaining a set of approved, reusable patterns makes it easier to produce new features or make updates to the current solution.
+To aid in designing a solution that uses user interface elements consistently. Maintaining a set of approved, reusable patterns makes it easier to produce new features or make updates to existing products or services.
 
 ## Time required
 
@@ -18,9 +18,9 @@ To aid in designing a solution that uses UI elements consistently. Maintaining a
 
 ## How to do it
 
-1. Start identifying common components as early as possible, ideally while you and the team are creating new design elements. These common pieces form the patterns that you will create guidelines for. Specify the components that make up each UI pattern and note possible constraints or restrictions.
+1. Start identifying common components as early as possible, ideally while you and the team are creating new design elements. These common pieces form the patterns that you will create guidelines for. Specify the components that make up each user interface pattern and note possible constraints or restrictions.
 
-2. Describe or visualize how someone will use the pattern and how it should respond to the user. (For example: how a button renders on load, hover, and click.) Provide any data as to why it is good for the end user.
+2. Describe or visualize how someone will use the pattern and how it should respond to the user. (For example: how a button renders on load, hover, and click.) Provide any data as to why it's good for the end user.
 
 3. Include any code or snippets that front end developers can use to implement the pattern.
 
@@ -34,7 +34,7 @@ No PRA implications. No information is collected from members of the public.
 
 ## Examples
 - [The Draft U.S. Web Design Standards, a pattern library for the federal government from 18F](https://standards.usa.gov/)
-- [Blog posts from 18F about the process of creating the U.S. Web Design Standards](https://18f.gsa.gov/tags/web-design-standards/)
+- [Blog posts from 18F about the process of creating the Draft U.S. Web Design Standards](https://18f.gsa.gov/tags/web-design-standards/)
 - [Open FEC's pattern library from 18F](https://github.com/18F/fec-pattern-library)
 
 ## Additional resources

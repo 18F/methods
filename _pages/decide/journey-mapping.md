@@ -10,7 +10,7 @@ A visualization of the major interactions shaping a user’s experience of a pro
 
 ## Reasons to use it
 
-To provide design teams with a bird’s-eye view of a service that helps them see the order of interactions that make up a user’s experience including the complexity, successes, pain points, and emotions users experience along the way.
+To provide design teams with a bird’s-eye view of a service that helps them see the sequence of interactions that make up a user’s experience including the complexity, successes, pain points, and emotions users experience along the way.
 
 ## Time required
 

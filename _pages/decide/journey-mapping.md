@@ -22,7 +22,7 @@ To provide design teams with a bird’s-eye view of a service that helps them se
  - People involved and their related goals
  - Their behaviors in pursuit of their goals
  - Information, devices, and services that support their behaviors
- - Important moments in their service experience or major decisions they make
+ - Important moments in how they experience a service or major decisions they make
  - The emotions associated with these moments or decisions
 
 2. Visualize the order in which people exhibit behaviors, use information, make decisions, and feel emotions. Group elements into a table of “phases” related to the personal narrative of each [persona]({{ '/decide/personas/' | prepend: site.baseurl }}). Identify where personas share contextual components.

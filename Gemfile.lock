@@ -37,3 +37,6 @@ DEPENDENCIES
   jekyll
   redcarpet
   rouge
+
+BUNDLED WITH
+   1.14.2

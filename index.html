@@ -7,17 +7,145 @@ layout: none
 <html lang='en'>
   {% include head.html %}
   <body>
-    <header class="site-header">
-      <div class="wrapper">
-        <h1 class="logo">
-          <a href="{{site.baseurl}}/">
-            <img src="{{site.baseurl}}/images/18F.svg" width="72">
-            Method Cards
-          </a>
-        </h1>
-        <p>18F&rsquo;s method cards describe how our organization puts human-centered design into practice. Learn more <a href="https://github.com/18F/methods">about the project itself</a>, <a href="#fundamentals">explore the fundamentals</a>, or <a href="javascript:window.print()">print your own deck</a>.</p>
+{% include category-setup.html %}
+
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+  <header class="usa-header usa-header-extended" role="banner">
+    <!-- Gov banner BEGIN -->
+    <div class="usa-banner">
+      <div class="usa-accordion">
+        <header class="usa-banner-header">
+          <div class="usa-grid usa-banner-inner">
+          <img src="/uswds-0.14.0/img/favicons/favicon-57.png" alt="U.S. flag">
+          <p>An official website of the United States government</p>
+          <button class="usa-accordion-button usa-banner-button"
+            aria-expanded="false" aria-controls="gov-banner">
+            <span class="usa-banner-button-text">Here's how you know</span>
+          </button>
+          </div>
+        </header>
+        <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
+          <div class="usa-banner-guidance-gov usa-width-one-half">
+            <img class="usa-banner-icon usa-media_block-img" src="/uswds-0.14.0/img/icon-dot-gov.svg" alt="Dot gov">
+            <div class="usa-media_block-body">
+              <p>
+                <strong>The .gov means it’s official.</strong>
+                <br>
+                Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or “location”) bar.
+              </p>
+            </div>
+          </div>
+          <div class="usa-banner-guidance-ssl usa-width-one-half">
+            <img class="usa-banner-icon usa-media_block-img" src="/uswds-0.14.0/img/icon-https.svg" alt="SSL">
+            <div class="usa-media_block-body">
+              <p>This site is also protected by an SSL (Secure Sockets Layer) certificate that’s been signed by the U.S. government. The <strong>https://</strong> means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely.</p>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="footer">
+    </div>
+    <!-- Gov banner END -->
+    <div class="usa-navbar">
+      <button class="usa-menu-btn">Menu</button>
+      <div class="usa-logo" id="logo">
+        <em class="usa-logo-text">
+          <a href="{{site.baseurl}}/" accesskey="1" title="Home" aria-label="Home">  <!--<img src="{{site.baseurl}}/images/18F.svg" width="72">-->  18F Method Cards</a>
+
+        </em>
+      </div>
+    </div>
+    <nav role="navigation" class="usa-nav">
+      <div class="usa-nav-inner">
+        <button class="usa-nav-close">
+          <img src="/uswds-0.14.0/img/close.svg" alt="close">
+        </button>
+        <ul class="usa-nav-primary usa-accordion">
+          <li>
+            <button class="
+            usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="side-nav-1">
+              <span>  <strong>Discover</strong>
+            </button>
+          </span>
+
+            <ul id="side-nav-1" class="usa-nav-submenu">
+              <li>
+                <p>Methods to build empathy for the project and people involved.</p>
+              </li>
+              {% for method in discover_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+              <span>Decide</span>
+            </button>
+            <ul id="sidenav-2" class="usa-nav-submenu">
+              <li>Focus the effort around a design hypothesis.</li>
+              {% for method in decide_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+              <span>Make</span>
+            </button>
+            <ul id="sidenav-3" class="usa-nav-submenu">
+              <li>Create a testable solution.</li>
+              {% for method in make_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
+              <span>Validate</span>
+            </button>
+            <ul id="sidenav-4" class="usa-nav-submenu">
+              <li>Test a design hypothesis.</li>
+              {% for method in validate_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-5">
+              <span>Fundamentals</span>
+            </button>
+            <ul id="sidenav-5" class="usa-nav-submenu">
+              <li>Test a design hypothesis.</li>
+              {% for method in fundamentals_methods %}
+                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+        </ul>
+        <div class="usa-nav-secondary">
+
+          <ul class="usa-unstyled-list usa-nav-secondary-links">
+
+            <li>
+              <a href="#">About</a>
+            </li>
+            <li>
+              <a href="#">Secondary link</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div class="usa-overlay"></div>
+  <main id="main-content"></main>
+
+
+
+    <header class="site-header">
+      <div class="usa-grid">
+        <p class="usa-font-lead">18F&rsquo;s method cards describe how our organization puts human-centered design into practice. Learn more <a href="https://github.com/18F/methods">about the project itself</a>, <a href="#fundamentals">explore the fundamentals</a>, or <a href="javascript:window.print()">print your own deck</a>.</p>
+      </div>
+      <div class="usa-grid footer">
         <h1>Why method cards?</h1>
         <ul>
           <li>To add rigor and structure to agile development.</li>
@@ -29,31 +157,31 @@ layout: none
           <ol>
             <li>
               <a href="/discover" class="category--discover">
-                <strong>Discover</strong> 
-                Build empathy for the project and people involved.
+                <strong>Discover</strong>
+Methods to build empathy for the project and people involved.
               </a>
             </li>
             <li>
               <a href="/decide" class="category--decide">
-                <strong>Decide</strong> 
+                <strong>Decide</strong>
                 Focus the effort around a design hypothesis.
               </a>
             </li>
             <li>
               <a href="/make" class="category--make">
-                <strong>Make</strong> 
+                <strong>Make</strong>
                 Create a testable solution.
               </a>
             </li>
             <li>
               <a href="/validate" class="category--validate">
-                <strong>Validate</strong> 
+                <strong>Validate</strong>
                 Test a design hypothesis.
               </a>
             </li>
             <li>
               <a href="/fundamentals" class="category--fundamentals">
-                <strong>Fundamentals</strong> 
+                <strong>Fundamentals</strong>
                 Foundational methods for practicing design research
               </a>
             </li>
@@ -64,18 +192,16 @@ layout: none
       </div>
     </header>
 
-    {% include category-setup.html %}
+
 
     <main id="main" role="main">
-      <div class="wrapper">
+      <div class="usa-grid">
         <section class="category category--discover" id="discover">
           <header class="category--header">
             <h1 class="category--title">Discover</h1>
             <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
             <ul>
-              {% for method in discover_methods %}
-                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
-              {% endfor %}
+
             </ul>
           </header>
           {% for method in discover_methods %}

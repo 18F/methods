@@ -1,10 +1,11 @@
+.list-unstyled {padding-left:0;}
+
 
 .method {
   background: white;
   margin-bottom: 1em;
   border-bottom: none;
   position: relative;
-  font-family: Karma, Georgia, serif;
   font-weight: 400;
   border: 1px solid #ddd;
   border-radius: 3px;
@@ -26,9 +27,13 @@
     color: #333;
   }
 
-  .method--section--government-considerations p {
-    font-size: 13px;
-    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+  .method--section--government-considerations {
+    p,
+    ul {
+      font-size: 13px;
+      font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+      padding-left: 0;
+  }
   }
 
   .method--panel--back li,
@@ -48,6 +53,10 @@
     margin-top: .4em;
     letter-spacing: -0.02em;
     margin-bottom: .4em;
+    border-bottom: 8px solid #333;
+
+
+
 
     a {
       color: inherit;
@@ -82,24 +91,42 @@
   }
 }
 
+
+.category--discover .method--title {
+  border-color: #205493;
+}
+
+
+.category--decide .method--title {
+  border-color: #29863c;
+}
+
+.category--make .method--title {
+  border-color: #fac72f;
+}
+
+.category--validate .method--title {
+  border-color: #8b1625;
+}
+
+.category--fundamentals .method--title {
+  border-color: #8b1625;
+}
+
 @media screen and (min-width:853.333px) {
   .method {
-    .method--panel--back,
-    .method--panel--front {
-      float: left;
-      min-height: 560px;
+    .method--panel {
+      display: table-cell;
       width: 50%;
+      vertical-align: top;
+        padding: 20px 40px;
     }
 
-    .method--panel--front {
-      padding: 20px 30px;
-    }
+
 
     .method--panel--back {
       background: #fafafa;
       border: 0;
-      border-radius: 0 2px 2px 0;
-      padding: 10px 20px;
     }
   }
 }

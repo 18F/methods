@@ -26,7 +26,7 @@ layout: none
         </header>
         <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
           <div class="usa-banner-guidance-gov usa-width-one-half">
-            <img class="usa-banner-icon usa-media_block-img" src="/uswds-0.14.0/img/icon-dot-gov.svg" alt="Dot gov">
+            <img class="usa-banner-icon usa-media_block-img" src="{{site.baseurl}}/uswds-0.14.0/img/icon-dot-gov.svg" alt="Dot gov">
             <div class="usa-media_block-body">
               <p>
                 <strong>The .gov means it’s official.</strong>
@@ -36,7 +36,7 @@ layout: none
             </div>
           </div>
           <div class="usa-banner-guidance-ssl usa-width-one-half">
-            <img class="usa-banner-icon usa-media_block-img" src="/uswds-0.14.0/img/icon-https.svg" alt="SSL">
+            <img class="usa-banner-icon usa-media_block-img" src="{{site.baseurl}}/uswds-0.14.0/img/icon-https.svg" alt="SSL">
             <div class="usa-media_block-body">
               <p>This site is also protected by an SSL (Secure Sockets Layer) certificate that’s been signed by the U.S. government. The <strong>https://</strong> means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely.</p>
             </div>
@@ -57,7 +57,7 @@ layout: none
     <nav role="navigation" class="usa-nav">
       <div class="usa-nav-inner">
         <button class="usa-nav-close">
-          <img src="/uswds-0.14.0/img/close.svg" alt="close">
+          <img src="{{site.baseurl}}/uswds-0.14.0/img/close.svg" alt="close">
         </button>
         <ul class="usa-nav-primary usa-accordion">
           <li>
@@ -68,9 +68,6 @@ layout: none
           </span>
 
             <ul id="side-nav-1" class="usa-nav-submenu">
-              <li>
-                <p>Methods to build empathy for the project and people involved.</p>
-              </li>
               {% for method in discover_methods %}
                 <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
@@ -81,7 +78,6 @@ layout: none
               <span>Decide</span>
             </button>
             <ul id="sidenav-2" class="usa-nav-submenu">
-              <li>Focus the effort around a design hypothesis.</li>
               {% for method in decide_methods %}
                 <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
@@ -92,7 +88,6 @@ layout: none
               <span>Make</span>
             </button>
             <ul id="sidenav-3" class="usa-nav-submenu">
-              <li>Create a testable solution.</li>
               {% for method in make_methods %}
                 <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
@@ -103,7 +98,6 @@ layout: none
               <span>Validate</span>
             </button>
             <ul id="sidenav-4" class="usa-nav-submenu">
-              <li>Test a design hypothesis.</li>
               {% for method in validate_methods %}
                 <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
@@ -114,7 +108,6 @@ layout: none
               <span>Fundamentals</span>
             </button>
             <ul id="sidenav-5" class="usa-nav-submenu">
-              <li>Test a design hypothesis.</li>
               {% for method in fundamentals_methods %}
                 <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
@@ -200,9 +193,6 @@ Methods to build empathy for the project and people involved.
           <header class="category--header">
             <h1 class="category--title">Discover</h1>
             <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
-            <ul>
-
-            </ul>
           </header>
           {% for method in discover_methods %}
             {% include method.html %}
@@ -212,11 +202,6 @@ Methods to build empathy for the project and people involved.
           <header class="category--header">
             <h1 class="category--title">Decide</h1>
             <p class="category--subtitle">Methods for focusing the design effort.</p>
-            <ul>
-              {% for method in decide_methods %}
-                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
-              {% endfor %}
-            </ul>
           </header>
           {% for method in decide_methods %}
             {% include method.html %}
@@ -226,11 +211,6 @@ Methods to build empathy for the project and people involved.
           <header class="category--header">
             <h1 class="category--title">Make</h1>
             <p class="category--subtitle">Methods for creating a testable solution.</p>
-            <ul>
-              {% for method in make_methods %}
-                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
-              {% endfor %}
-            </ul>
           </header>
           {% for method in make_methods %}
             {% include method.html %}
@@ -240,11 +220,6 @@ Methods to build empathy for the project and people involved.
           <header class="category--header">
             <h1 class="category--title">Validate</h1>
             <p class="category--subtitle">Methods for testing a design hypothesis.</p>
-            <ul>
-              {% for method in validate_methods %}
-                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
-              {% endfor %}
-            </ul>
           </header>
           {% for method in validate_methods %}
             {% include method.html %}
@@ -254,11 +229,6 @@ Methods to build empathy for the project and people involved.
           <header class="category--header">
             <h1 class="category--title">Fundamentals</h1>
             <p class="category--subtitle">Foundational methods for practicing design research.</p>
-            <ul>
-              {% for method in fundamentals_methods %}
-                <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
-              {% endfor %}
-            </ul>
           </header>
           {% for method in fundamentals_methods %}
             {% include method.html %}

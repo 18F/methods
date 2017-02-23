@@ -1,0 +1,20 @@
+.layout--card .site-header nav{
+  background: #ddd;
+  padding: 0.5em 1em 0.45em;
+  border-radius: 99em;
+  float: right;
+  font-weight: 700;
+  position: absolute;
+  right: 0;
+  top: 0.5em;
+}
+
+.layout--card .site-header nav li,
+.layout--card .site-header nav a{ display: inline; }
+.layout--card .site-header nav img{
+	margin-right: 0.2em;
+	vertical-align: middle;
+	position: relative;
+	top: -1px;
+}
+.layout--card .site-header nav a:first-child{ margin-right: 1.2em; }

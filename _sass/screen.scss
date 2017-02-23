@@ -5,7 +5,7 @@
 body {
   background: #eee;
   font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-  font-size: 1rem;
+  font-size: 1.8rem;
 }
 
 a {
@@ -109,294 +109,94 @@ a {
 }
 
 
+// group category
 
+.category {
 
+  .category--title{
+  	font-size: 21px;
+  	font-weight: 700;
+  	margin-bottom: 0.2em;
+  }
 
+  .category--subtitle{
+  	display: inline;
+      font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+  	font-size: 16px;
+  }
 
-.site-header .footer
+  .category--header {
+  	background: #205493;
+  	color: white;
+  	padding: 20px;
+  	border-radius: 3px;
+  	margin-bottom: 1em;
+  	margin-top: 3em;
+  	font-size: 14px;
 
-/* @end */
+    ul {
+      margin-left: 1.4em;
+      padding-top: 1.4em;
 
-/* @group category */
+      li {
+        margin-bottom: .4em;
+      }
 
-.category--header{
-	background: #205493;
-	color: white;
-	padding: 20px;
-	border-radius: 3px;
-	margin-bottom: 1em;
-	margin-top: 3em;
-	font-size: 14px;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
 }
 
-.category--header ul{
-  padding-top: 1.4em;
-  list-style-type: disc;
-  margin-left: 1.4em;
-}
+.category--discover {
 
-.category--header ul li{
-	margin-bottom: 0.4em;
-}
-
-.category--header a{
-	color: inherit;
-	text-decoration: underline;
-}
-
-.category--header a:hover{ text-decoration: none; }
-
-
-dt.category--discover{ background: #205493; }
-
-
-.category--make .category--header{ background: #fac72f; color: #222;}
-
-dt.category--validate,
-.category--validate .category--header{ background: #8b1625; }
-
-dt.category--decide,
-.category--decide .category--header{ background: #29863c; }
-
-
-
-dt.category--make,
-.category--make .category--header{ background: #fac72f; color: #222;}
-
-.category--validate .category--header{ background: #8b1625; }
-
-.category--fundamentals .category--header{ background: #333; }
-
-
-.category--title{
-	font-size: 21px;
-	font-weight: 700;
-	margin-bottom: 0.2em;
-}
-
-.category--subtitle{
-	display: inline;
-    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-	font-size: 16px;
-}
-
-
-
-/* @end */
-
-/* @group method */
-
-.method{
-  background: white;
-  margin-bottom: 1em;
-  border-bottom: none;
-  position: relative;
-  font-family: PT Serif, Georgia, serif;
-  border: 1px solid #ddd;
-  border-radius: 3px;
-  height: 42rem;
-  display: table;
-}
-
-.method:target{
-  border-color: #aaa;
-  box-shadow: 2px 2px 0 0 #e3e3e3;
-}
-
-.method p,
-.method li{
-	line-height: 1.3em;
-	margin-bottom: 0.6em;
-	max-width: 32em;
-}
-
-.method li ol,
-.method li ul{
-  padding-top: 0.6em;
-  margin-left: 1.4em;
-}
-
-
-
-.method h2{
-	font-size: 12px;
-	text-transform: uppercase;
-	letter-spacing: 0.02em;
-	font-weight: 700;
-	line-height: 1;
-	margin-top: 2.4em;
-	margin-bottom: 1.2em;
-}
-
-.method .method--panel{ padding: 20px; }
-
-.method .method--section--what p,
-.method .method--section--why p{
-	font-weight: 200;
-	line-height: 1.4;
-}
-
-
-
-.method .method--section--time-required{
-	border-top: 1px solid #ccc;
-	margin-top: 1.4em;
-	padding-top: 0.4em;
-	margin-bottom: 1.2em;
-}
-
-.method .method--section--category h1,
-.method .method--section--time-required h1{
-	font-size: 12px;
-	text-transform: uppercase;
-	letter-spacing: 0.02em;
-	font-weight: 700;
-	line-height: 0.33;
+  .category--header {
+    background-color: #205493;
+  }
 
 }
 
-.method .method--section--category p,
-.method .method--section--time-required p{
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
+.category--make {
+
+  .category--header {
+    background-color: #fac72f;
+    color: #222;
+  }
 }
 
-/* @end */
+.category--validate {
 
-.method .method--panel--front h1{
-	margin-bottom: 0.55em;
-}
-
-/* @group method--panel--back */
-
-.method .method--panel--back{
-	font-size: 15px;
-	background: #fafafa;
-}
-
-.method .method--panel--back h2{
-	font-size: 12px;
-	line-height: 1.3em;
-    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-}
-
-.method .method--panel--back em,
-.method .method--panel--back .method--section--government-considerations p,
-.method .method--panel--back .method--section--government-considerations li{
-	font-size: 14px;
-	line-height: 1.3em;
-    font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-    max-width: none !important;
-    display: block;
-}
-
-.method .method--panel--back .method--section--government-considerations p:last-child{ margin-bottom: 0; }
-
-.method .method--panel--back ol{
-	padding-left: 0;
+  .category--header {
+    background-color: #8b1625;
+  }
 
 }
-.method .method--panel--back p,
-.method .method--panel--back li{
-	line-height: 1.4em;
-	margin-bottom: 0.6em;
-	max-width: 27em;
+
+.category--decide {
+
+  .category--header {
+    background-color: #29863c;
+  }
 }
 
-/* @end */
-
-.method .method--section--how h1{
-	margin-top: 0.4em;
-	margin-bottom: 0.8em;
+.category--fundamentals {
+  .category--header {
+    background-color: #333;
+  }
 }
 
-.method::after{
-	content: "";
-	display: table;
-	clear: both;
+
+@media screen and (min-width:533.333px) {
+
 }
 
-@media screen and (min-width:533.333px){
-	.method .method--section--what p,
-	.method .method--section--why p,
-	.method .method--section--category p,
-	.method .method--section--time-required p{
-		font-size: 21px;
-		font-family: Neuton;
-		font-weight: 300;
-		line-height: 1.33;
-		max-width: none;
-	}
+@media screen and (min-width:853.333px) {
+
 }
-
-@media screen and (min-width:853.333px){
-
-	.method::after{
-		content: "";
-		display: table;
-		clear: both;
-	}
-
-	.method h1.method--title{ font-size: 42px; }
-
-	.method .method--section--category,
-	.method .method--section--time-required{
-		position: absolute;
-		bottom: 1em;
-		left: 20%;
-		width: 10rem;
-		border-top: 1px solid #ccc;
-	}
-
-	.method .method--section--category{ left: 2rem; }
-	.method .method--section--time-required{
-		width: 15.75rem;
-		margin-top: 0;
-		padding-top: 0;
-		margin-bottom: 0;
-	}
-
-	.method .method--panel{
-		padding: 20px 40px;
-	}
-	.method .method--panel--back{
-		border: none;
-		border-radius: 0 2px 2px 0;
-	}
-
-	.method .method--panel--back ol{ margin-left: 0; }
-
-	.method .method--panel--back h1{
-		font-size: 18px;
-		color: #000;
-	}
-}
-
-/* @end */
-
-/* @group layouts */
-
-.layout--card .site-header nav{
-  background: #ddd;
-  padding: 0.5em 1em 0.45em;
-  border-radius: 99em;
-  float: right;
-  font-weight: 700;
-  position: absolute;
-  right: 0;
-  top: 0.5em;
-}
-
-.layout--card .site-header nav li,
-.layout--card .site-header nav a{ display: inline; }
-.layout--card .site-header nav img{
-	margin-right: 0.2em;
-	vertical-align: middle;
-	position: relative;
-	top: -1px;
-}
-.layout--card .site-header nav a:first-child{ margin-right: 1.2em; }
-
-
-/* @end */

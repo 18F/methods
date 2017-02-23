@@ -1,23 +1,82 @@
 
+.category {
 
-.category--header {
-  background: #205493;
-  color: white;
-  padding: 20px;
-  border-radius: 3px;
-  margin-bottom: 1em;
-  margin-top: 3em;
+  .category--title {
+    font-family: $font-sans;
+    font-size: $font-l;
+    font-weight: 700;
+    margin-bottom: .2em;
+    margin-top: 0;
+  }
+
+  .category--subtitle{
+  	display: inline;
+    font-family: $font-sans;
+  	font-size: $font-m;
+  }
+
+  .category--header {
+    background-color: $color-blue;
+    color: $color-truewhite;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 1em;
+    margin-top: 3em;
+
+    ul {
+      margin-left: 1.4em;
+      padding-top: 1.4em;
+
+      li {
+        margin-bottom: .4em;
+      }
+
+    }
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
 }
 
-.category--title {
-  font-size: 21px;
-  font-weight: 700;
-  margin-bottom: .2em;
-  margin-top: 0;
+.category--discover {
+
+  .category--header {
+    background-color: #205493;
+  }
+
 }
 
-.category--subtitle {
-  display: inline;
-  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-  font-size: 16px;
+.category--make {
+
+  .category--header {
+    background-color: #fac72f;
+    color: #222;
+  }
+}
+
+.category--validate {
+
+  .category--header {
+    background-color: #8b1625;
+  }
+
+}
+
+.category--decide {
+
+  .category--header {
+    background-color: #29863c;
+  }
+}
+
+.category--fundamentals {
+  .category--header {
+    background-color: #333;
+  }
 }

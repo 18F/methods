@@ -8,7 +8,8 @@ body {
   font-size: 1.8rem;
 }
 
-a {
+a,
+a:visited {
   color: #205493;
   text-decoration: none;
 
@@ -28,27 +29,52 @@ a {
   margin-top: 1em;
 
   nav {
-
+    color:$color-truewhite;
+ ol {margin:0;padding:0;display:flex;
+ justify-content: center;align-items: stretch;
+}
     li {
-      background: #333;
-      color: white;
+
       display: block;
-      float: left;
-      font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-      padding: 1em;
-      font-size: 12px;
+      font-size: $font-s;
       line-height: 1.2;
-      min-height: 6.5em;
       width: 20%;
+      margin: 0 1rem;
+      border-radius: 3px;
     }
+    li:first-of-type {
+      margin-left:0;
+    }
+    li:last-of-type {
+      margin-right:0;
+    }
+
+  .category--discover {
+    background-color:$color-blue;
+  }
+  .category--decide {
+    background-color:$color-green;
+  }
+  .category--make {
+    background-color:$color-gold;
+    color:$color-darkgray;
+  }
+  .category--validate {
+    background-color:$color-red;
+  }
+  .category--fundamentals {
+    background-color:$color-darkgray;
+  }
     strong {
       display: block;
       font-weight: 700;
-      font-size: 14px;
+      font-size: $font-m;
       line-height: 1.1;
-      margin-bottom: 0.4em;
+      font-family: $font-sans;
+      margin-bottom: 1rem;
       }
     a {
+      padding: 1em;
       color: inherit;
       display: block;
       }
@@ -90,16 +116,16 @@ a {
     }
 
   .footer {
-    font-family: PT Serif, Georgia, serif;
-    font-size: 15px;
+
+
     line-height: 1.33em;
     margin: 0 auto;
 
     h1 {
     	margin-top: 1.2em;
     	margin-bottom: .6em;
-    	font-size: 1.1em;
-    	font-family: PT Sans;
+      font-size: $font-l;
+    	font-family: $font-sans;
     	font-weight: 700;
     	color: #333;
     }
@@ -107,91 +133,6 @@ a {
     }
 
 }
-
-
-// group category
-
-.category {
-
-  .category--title{
-  	font-size: 21px;
-  	font-weight: 700;
-  	margin-bottom: 0.2em;
-  }
-
-  .category--subtitle{
-  	display: inline;
-      font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-  	font-size: 16px;
-  }
-
-  .category--header {
-  	background: #205493;
-  	color: white;
-  	padding: 20px;
-  	border-radius: 3px;
-  	margin-bottom: 1em;
-  	margin-top: 3em;
-  	font-size: 14px;
-
-    ul {
-      margin-left: 1.4em;
-      padding-top: 1.4em;
-
-      li {
-        margin-bottom: .4em;
-      }
-
-    }
-
-    a {
-      color: inherit;
-      text-decoration: underline;
-
-      &:hover {
-        text-decoration: none;
-      }
-    }
-  }
-}
-
-.category--discover {
-
-  .category--header {
-    background-color: #205493;
-  }
-
-}
-
-.category--make {
-
-  .category--header {
-    background-color: #fac72f;
-    color: #222;
-  }
-}
-
-.category--validate {
-
-  .category--header {
-    background-color: #8b1625;
-  }
-
-}
-
-.category--decide {
-
-  .category--header {
-    background-color: #29863c;
-  }
-}
-
-.category--fundamentals {
-  .category--header {
-    background-color: #333;
-  }
-}
-
 
 @media screen and (min-width:533.333px) {
 

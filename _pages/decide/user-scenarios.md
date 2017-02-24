@@ -6,7 +6,7 @@ redirect_from: /user-scenarios/
 
 ## What it is
 
-A method for telling a conceptual story about a user's interaction with your website, focusing on the what, how and why.
+A method for telling a conceptual story about a user's interaction with your website or service, focusing on the what, how and why.
 
 ## Reasons to use it
 
@@ -20,9 +20,9 @@ To communicate a design idea by telling a story about a specific interaction tha
 
 1. Determine a [persona]({{ '/decide/personas' | prepend: site.baseurl }}) or user group to focus on.
 
-2. Begin to list out the user’s goals, motivations, and the context/environment in which they interact with your site.
+2. Begin to list out the user’s goals, motivations, and the context/environment in which they interact with your site or service.
 
-3. Put the details you came up with in step 2 into a story format that includes information about who they are (persona or user group), why they are using your site (motivations), where they are (context), what they need to do (their goal), and how they go about accomplishing their goal (tasks). Keep in mind, the more realistic details you add, the richer and more useful your story becomes for helping in understanding your user’s behaviors.
+3. Put the details you came up with in step 2 into a story format that includes information about who they are (persona or user group), why they are using your site or service (motivations), where they are (context), what they need to do (their goal), and how they go about accomplishing their goal (tasks). Keep in mind, the more realistic details you add, the richer and more useful your story becomes for helping in understanding your user’s behaviors.
 
 4. Share the user scenarios you’ve written with the larger team for feedback and refinement.
 

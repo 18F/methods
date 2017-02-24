@@ -18,7 +18,7 @@ To communicate a design idea by telling a story about a specific interaction tha
 
 ## How to do it
 
-1. Determine a [persona]({{ '/decide/personas' | prepend: site.baseurl }}) or user group to focus on.
+1. Determine a [persona]({{ '/decide/personas/' | prepend: site.baseurl }}) or user group to focus on.
 
 2. Begin to list out the user’s goals, motivations, and the context/environment in which they interact with your site or service.
 

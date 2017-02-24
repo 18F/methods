@@ -8,6 +8,10 @@
   background-color:$color-lightgray;
   border-bottom: none;
 }
+.usa-logo {position: relative;}
+.usa-logo a,.usa-logo a:visited {color:#212121;}
+.usa-logo img {display:none;}
+.usa-logo a:before {content:'18F'}
 .usa-header-extended .usa-nav {
   border-top-color: transparent;
 }
@@ -17,3 +21,9 @@
 }
 
 .usa-nav-submenu a:visited {color:#fff;}
+
+
+  @media screen and (min-width: 950px) {
+    .usa-logo a:before {display: none;}
+    .usa-logo img {display:inline-block;width:50px;position:relative; top:10px;}
+  }

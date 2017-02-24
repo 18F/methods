@@ -3,7 +3,7 @@
 
 
 body {
-  background: #eee;
+  background: $color-truewhite;
   font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
   font-size: 1.8rem;
 }
@@ -28,27 +28,27 @@ a:visited {
   margin-top: 1em;
 
   nav {
-    color:$color-truewhite;
- ol {margin:0;padding:0;display:flex;
+  //  color:$color-truewhite;
+ ol {//margin:0;padding:0;//display:flex;
  justify-content: center;align-items: stretch;
 }
     li {
 
-      display: block;
-      font-size: $font-s;
-      line-height: 1.2;
-      width: 20%;
-      margin: 0 1rem;
+    //  display: block;
+    //  font-size: $font-s;
+    //  line-height: 1.2;
+      //width: 20%;
+      //margin: 0 1rem;
       border-radius: 3px;
     }
     li:first-of-type {
-      margin-left:0;
+    //  margin-left:0;
     }
     li:last-of-type {
-      margin-right:0;
+    //  margin-right:0;
     }
 
-  .category--discover {
+/*  .category--discover {
     background-color:$color-blue;
   }
   .category--decide {
@@ -56,14 +56,15 @@ a:visited {
   }
   .category--make {
     background-color:$color-gold;
-    color:$color-darkgray;
+    a, :visited { color: $color-darkgray;
+    }
   }
   .category--validate {
-    background-color:$color-red;
+   background-color:$color-red;
   }
   .category--fundamentals {
-    background-color:$color-darkgray;
-  }
+   background-color:$color-darkgray;
+ }
     strong {
       display: block;
       font-weight: 700;
@@ -78,9 +79,9 @@ a:visited {
       display: block;
       color:$color-truewhite;
       &:visited {
-        color:$color-truewhite;
+       color:$color-truewhite;
       }
-      }
+    }*/
   }
 
   .wrapper {

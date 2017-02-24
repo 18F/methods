@@ -47,7 +47,7 @@
 .category--discover {
 
   .category--header {
-    background-color: #205493;
+    background-color: $color-blue;
   }
 
 }
@@ -55,7 +55,7 @@
 .category--make {
 
   .category--header {
-    background-color: #fac72f;
+    background-color: $color-gold;
     color: #222;
   }
 }
@@ -63,7 +63,8 @@
 .category--validate {
 
   .category--header {
-    background-color: #8b1625;
+    background-color: $color-red;
+    color: initial;
   }
 
 }
@@ -71,12 +72,12 @@
 .category--decide {
 
   .category--header {
-    background-color: #29863c;
+    background-color: $color-green;
   }
 }
 
 .category--fundamentals {
   .category--header {
-    background-color: #333;
+    background-color: $color-darkgray;
   }
 }

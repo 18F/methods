@@ -1,29 +1,37 @@
 <!DOCTYPE html>
 <html lang='en'>
 {% include head.html %}
-
 <body class="layout--card">
     {% include category-setup.html %}
     {% include header.html %}
     <main id="main" role="main">
-        <div class="usa-grid">
-        <section class="category category--{{page.category | downcase }}" id="{{page.category | downcase }}">
-            <header class="category--header">
+    <section class="category category--{{page.category | downcase }}" id="{{page.category | downcase }}">
+        <header class="category--header">
+            <div class="usa-grid">
                 <h1 class="category--title">{{page.category | capitalize }}</h1>
                 <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
-                <ul>
-                    {% for method in [var-category-name] %}
-                    <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
-                    {% endfor %}
-                </ul>
-            </header>
-            {% for method in [var-category-name] %}
-              {% include method.html %}
-            {% endfor %}
-        </section>
+            </div>
+        </header>
+          <div class="usa-grid">
+            <div class="card-header no-print">
+              <nav>
+              <a href="{{sitebase.url}}/">
+                <img src="{{sitebase.url}}/images/cards.png" alt="" width="22">
+                See all cards
+              </a>
+              <a href="javascript:window.print()">
+                <img src="{{sitebase.url}}/images/printer.png" alt="" width="20">
+                Print these cards
+              </a>
+            </nav>
+        </div>
+        {% for method in [var-category-name] %}
+          {% include method.html %}
+        {% endfor %}
       </div>
-    </main>
+    </section>
+    </div>
+</main>
     {% include footer.html %}
 </body>
-
 </html>

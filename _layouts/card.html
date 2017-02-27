@@ -12,10 +12,8 @@
             <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
         </div>
     </header>
-</section>
     <div class="usa-grid">
-
-      <header class="card-header no-print">
+      <div class="card-header no-print">
         <nav>
         <a href="{{sitebase.url}}/{{ page.category | downcase}}">
           <img src="{{sitebase.url}}/images/cards.png" alt="" width="22">
@@ -26,39 +24,44 @@
           Print this card
         </a>
       </nav>
-  </header>
-      <article class="method category--{{ page.category | downcase}}" id="#{{ page.id }}">
-        <div class="method--panel method--panel--front">
-          <h1 class="method--title">{{ page.title }}</h1>
-          <section class="method--section method--section--what">
-            <h1>What</h1>
-            <p>{{ page.what }}</p>
-          </section>
-          <section class="method--section method--section--why">
-            <h1>Why</h1>
-            <p>{{ page.why }}</p>
-          </section>
-          <section class="method-section method--section--time-required">
-            <h1>Time required</h1>
-            <p>{{ page.timeRequired }}</p>
-          </section>
-          <section class="method-section method--section--category">
-            <h1>Phase</h1>
-            <p>{{ page.category }}</p>
-          </section>
-        </div>
-        <div class="method--panel method--panel--back">
-          <section class="method--section method--section--how">
-            <h1>How to do it</h1>
-            {{ page.how }}
-          </section>
-          <section class="method--section method--section--government-considerations">
-            <h1>Applied in government research</h1>
-            {{ page.governmentConsiderations }}
-          </section>
-        </div>
-        </article>
+  </div>
+  <span class="anchor" id="{{ method.title | slugify }}"></span>
+  <article class="method">
+    <div class="method--panel method--panel--front">
+      <h1 class="method--title"><a href="{{ site.baseurl }}{{ method.url }}">{{ page.title }}</a></h1>
+      <section class="method--section method--section--what">
+        <h1>What</h1>
+        <p>{{ page.what }}</p>
+      </section>
+      <section class="method--section method--section--why">
+        <h1>Why</h1>
+        <p>{{ page.why }}</p>
+      </section>
+      <footer>
+        <section class="method-section method--section--category">
+          <h1>Phase</h1>
+          <p>{{ page.category }}</p>
+        </section>
+        <section class="method-section method--section--time-required">
+          <h1>Time required</h1>
+          <p>{{ page.timeRequired }}</p>
+        </section>
+      </footer>
+    </div>
+    <div class="method--panel method--panel--back">
+      <section class="method--section method--section--how">
+        <h1>How to do it</h1>
+        {{ page.how }}
+      </section>
+      <section class="method--section method--section--government-considerations">
+        <h1>Applied in government research</h1>
+        {{ page.governmentConsiderations }}
+      </section>
+    </div>
+  </article>
 </div>
+</section>
+
   </main>
   {% include footer.html %}
   </body>

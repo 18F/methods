@@ -1,7 +1,9 @@
 .usa-banner {
   background-color: $color-mediumgray;
 }
-
+.usa-skipnav:focus {
+z-index: 10000;
+}
 .usa-nav {
   background-color: $color-lightgray;
 }

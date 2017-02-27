@@ -2,28 +2,31 @@
 <html lang='en'>
 {% include head.html %}
 <body class="layout--card">
-  <header class="site-header">
-    <div class="wrapper">
-      <h1 class="logo">
-        <a href="{{site.baseurl}}/">
-          <img src="{{site.baseurl}}/images/18F.svg" width="72">
-          Method Cards
-        </a>
-      </h1>
-      <nav>
-        <a href="/">
-          <img src="{{site.baseurl}}/images/cards.png" alt="" width="22">
-          See the whole deck
+  {% include category-setup.html %}
+  {% include header.html %}
+  <main id="main" role="main">
+    <section class="category category--{{page.category | downcase }}" id="{{page.category | downcase }}">
+    <header class="category--header">
+        <div class="usa-grid">
+            <h1 class="category--title">{{page.category | capitalize }}</h1>
+            <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
+        </div>
+    </header>
+</section>
+    <div class="usa-grid">
+
+      <header class="card-header no-print">
+        <nav>
+        <a href="{{sitebase.url}}/{{ page.category | downcase}}">
+          <img src="{{sitebase.url}}/images/cards.png" alt="" width="22">
+          See all {{ page.category | downcase}} cards
         </a>
         <a href="javascript:window.print()">
-          <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
+          <img src="{{sitebase.url}}/images/printer.png" alt="" width="20">
           Print this card
         </a>
       </nav>
-    </div>
   </header>
-  <main id="main" role="main">
-    <div class="wrapper">
       <article class="method category--{{ page.category | downcase}}" id="#{{ page.id }}">
         <div class="method--panel method--panel--front">
           <h1 class="method--title">{{ page.title }}</h1>
@@ -55,7 +58,8 @@
           </section>
         </div>
         </article>
-      </div>
+</div>
   </main>
+  {% include footer.html %}
   </body>
 </html>

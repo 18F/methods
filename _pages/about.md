@@ -1,3 +1,8 @@
+---
+title: About
+layout: default
+---
+
 project: "Design Methods"
 name: methods
 github:

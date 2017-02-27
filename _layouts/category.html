@@ -1,45 +1,29 @@
 <!DOCTYPE html>
 <html lang='en'>
 {% include head.html %}
-<body class="layout--card">
-  <header class="site-header">
-    <div class="wrapper">
-      <h1 class="logo">
-        <a href="{{site.baseurl}}/">
-          <img src="{{site.baseurl}}/images/18F.svg" width="72">
-          Method Cards
-        </a>
-      </h1>
-      <nav>
-        <a href="/">
-          <img src="{{site.baseurl}}/images/cards.png" alt="" width="22">
-          See the whole deck
-        </a>
-        <a href="javascript:window.print()">
-          <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
-          Print these cards
-        </a>
-      </nav>
-    </div>
-  </header>
-  {% include category-setup.html %}
-  <main id="main" role="main">
-    <div class="wrapper">
-      <section class="category category--{{page.category | downcase }}" id="{{page.category | downcase }}">
-        <header class="category--header">
-          <h1 class="category--title">{{page.category | capitalize }}</h1>
-          <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
 
-          <ul>
+<body class="layout--card">
+    {% include category-setup.html %}
+    {% include header.html %}
+    <main id="main" role="main">
+        <div class="usa-grid">
+        <section class="category category--{{page.category | downcase }}" id="{{page.category | downcase }}">
+            <header class="category--header">
+                <h1 class="category--title">{{page.category | capitalize }}</h1>
+                <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
+                <ul>
+                    {% for method in [var-category-name] %}
+                    <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </header>
             {% for method in [var-category-name] %}
-              <li><a href="#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% include method.html %}
             {% endfor %}
-          </ul>
-        </header>
-        {% for method in [var-category-name] %}
-          {% include method.html %}
-        {% endfor %}
-      </section>
-  </main>
-  </body>
+        </section>
+      </div>
+    </main>
+    {% include footer.html %}
+</body>
+
 </html>

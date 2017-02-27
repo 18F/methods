@@ -1,20 +1,29 @@
-.layout--card .site-header nav{
-  background: #ddd;
-  padding: 0.5em 1em 0.45em;
-  border-radius: 99em;
-  float: right;
-  font-weight: 700;
-  position: absolute;
-  right: 0;
-  top: 0.5em;
-}
+.layout--card {
+  .category--header {
+    margin-top: 0;
+  }
+  .card-header {
+    nav {
+      padding: .5em 1em;
+      border-radius: 99rem;
+      margin: 2rem 0;
+      display: inline-block;
+    }
 
-.layout--card .site-header nav li,
-.layout--card .site-header nav a{ display: inline; }
-.layout--card .site-header nav img{
-	margin-right: 0.2em;
-	vertical-align: middle;
-	position: relative;
-	top: -1px;
+    a,
+    li {
+      display: inline;
+    }
+
+    img {
+      margin-right: .2em;
+      vertical-align: middle;
+      position: relative;
+      top: -1px;
+    }
+
+    a:first-child {
+      margin-right: 1.2em;
+    }
+  }
 }
-.layout--card .site-header nav a:first-child{ margin-right: 1.2em; }

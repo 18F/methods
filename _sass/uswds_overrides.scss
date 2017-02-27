@@ -1,17 +1,33 @@
 .usa-banner {
-  background-color:$color-mediumgray;
+  background-color: $color-mediumgray;
 }
+
 .usa-nav {
   background-color: $color-lightgray;
 }
+
 .usa-header {
-  background-color:$color-lightgray;
+  background-color: $color-lightgray;
   border-bottom: none;
 }
-.usa-logo {position: relative;}
-.usa-logo a,.usa-logo a:visited {color:#212121;}
-.usa-logo img {display:none;}
-.usa-logo a:before {content:'18F'}
+
+.usa-logo {
+  position: relative;
+}
+
+.usa-logo a,
+.usa-logo a:visited {
+  color: #212121;
+}
+
+.usa-logo img {
+  display: none;
+}
+
+.usa-logo a:before {
+  content: '18F';
+}
+
 .usa-header-extended .usa-nav {
   border-top-color: transparent;
 }
@@ -20,10 +36,38 @@
   font-size: $font-l;
 }
 
-.usa-nav-submenu a:visited {color:#fff;}
+.usa-nav-submenu a:visited {
+  color: #fff;
+}
+@media screen and (max-width: 950px) {
+  .usa-nav-secondary {
+
+    li {
+margin-bottom: 0;
+padding: 1.4rem 1.5rem 1rem 1.8rem;
+border-top: 1px solid #5b616b;
+color: #212121;
+font-size: 1.7rem;
+line-height: 1;
+font-family: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial', sans-serif;
 
 
-  @media screen and (min-width: 950px) {
-    .usa-logo a:before {display: none;}
-    .usa-logo img {display:inline-block;width:50px;position:relative; top:10px;}
+      a {
+        color: #212121;
+        font-size: 1.7rem;
+      }
+    }
   }
+}
+@media screen and (min-width: 950px) {
+  .usa-logo a:before {
+    display: none;
+  }
+
+  .usa-logo img {
+    display: inline-block;
+    width: 50px;
+    position: relative;
+    top: 10px;
+  }
+}

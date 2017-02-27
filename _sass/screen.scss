@@ -28,60 +28,21 @@ a:visited {
   margin-top: 1em;
 
   nav {
-  //  color:$color-truewhite;
- ol {//margin:0;padding:0;//display:flex;
+
+ ol {
  justify-content: center;align-items: stretch;
 }
     li {
 
-    //  display: block;
-    //  font-size: $font-s;
-    //  line-height: 1.2;
-      //width: 20%;
-      //margin: 0 1rem;
+
       border-radius: 3px;
     }
     li:first-of-type {
-    //  margin-left:0;
+
     }
     li:last-of-type {
-    //  margin-right:0;
-    }
 
-/*  .category--discover {
-    background-color:$color-blue;
-  }
-  .category--decide {
-    background-color:$color-green;
-  }
-  .category--make {
-    background-color:$color-gold;
-    a, :visited { color: $color-darkgray;
     }
-  }
-  .category--validate {
-   background-color:$color-red;
-  }
-  .category--fundamentals {
-   background-color:$color-darkgray;
- }
-    strong {
-      display: block;
-      font-weight: 700;
-      font-size: $font-m;
-      line-height: 1.1;
-      font-family: $font-sans;
-      margin-bottom: 1rem;
-      }
-   a {
-      padding: 1em;
-      color: inherit;
-      display: block;
-      color:$color-truewhite;
-      &:visited {
-       color:$color-truewhite;
-      }
-    }*/
   }
 
   .wrapper {

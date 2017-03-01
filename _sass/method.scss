@@ -1,4 +1,40 @@
-.list-unstyled {padding-left:0;}
+
+
+.card-header {
+  margin-top: 1em;
+  text-align: right;
+
+  nav {
+    ol {
+      justify-content: center;
+      align-items: stretch;
+    }
+
+    li {
+      border-radius: 3px;
+    }
+
+    li:first-of-type {}
+
+    li:last-of-type {}
+  }
+
+
+  .footer {
+    line-height: 1.33em;
+    margin: 0 auto;
+
+    h1 {
+      margin-top: 1.2em;
+      margin-bottom: .6em;
+      font-size: $font-l;
+      font-family: $font-sans;
+      font-weight: 700;
+      color: #333;
+    }
+  }
+}
+
 
 .anchor {
   display: block;

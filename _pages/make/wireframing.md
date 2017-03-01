@@ -18,9 +18,9 @@ To prioritize substance and relationships over decoration as you begin defining 
 
 ## How to do it
 
-1. Build preliminary blueprints that show structure, placement, and hierarchy for your product. Steer clear of font choices, color, or other stylized elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. A few helpful tools for building wireframes are OmniGraffle and Balsamiq, which purposefully keep the wireframe looking like rough sketches.
+1. Draw rough sketches that show structure, placement, and hierarchy for your product. Steer clear of font choices, color, or other stylized elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. A few helpful tools for building wireframes are OmniGraffle and Balsamiq, which purposefully keep the wireframe looking like rough sketches.
 
-2. Use this opportunity to start listing what user experiencer and user interface patterns you will need.
+2. Use this opportunity to start listing common design and interface elements you will need.
 
 3. Review your wireframes with specific [user scenarios]({{ '/decide/user-scenarios/' | prepend: site.baseurl }}) and [personas]({{ '/decide/personas/' | prepend: site.baseurl }}) in mind. Can users accomplish their task with the wireframe you are sketching out?
 

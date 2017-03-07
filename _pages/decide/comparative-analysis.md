@@ -14,13 +14,13 @@ To identify competitors’ solutions that excel, are lacking, or are missing cri
 
 ## Time required
 
-**Medium:** 1–2 hours to analyze and write a report about each competitor.
+**Medium:** 1–2 hours to analyze and write an evaluation about each competitor.
 
 ## How to do it
 
 1. Identify a list of services that would be either direct or related competitors to your service. Pare the list down to four or five.
 
-2. Establish which heuristics you will use to evaluate each competing service.
+2. Establish which criteria or heuristics you will use to evaluate each competing service.
 
 3. Break down the analysis of each selected competitor into specific focal areas for evaluation. For example, how relevant are search results?
 

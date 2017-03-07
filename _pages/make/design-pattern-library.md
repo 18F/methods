@@ -6,7 +6,7 @@ redirect_from: /design-pattern-library/
 
 ## What it is
 
-A collection of user interface elements (for example colors, icons, and buttons) used frequently across a design system, consisting of the base patterns and helpful information about how to use them.
+A collection of user interface elements (for example colors, icons, and buttons) used frequently across a website or service, consisting of the base patterns and helpful information about how to use them.
 
 ## Reasons to use it
 

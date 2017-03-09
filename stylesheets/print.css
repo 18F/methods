@@ -25,7 +25,7 @@ a{ color: inherit; }
   margin: 0;
 }
 
-.category--header
+.category--header,
 .method--section--non-printable-content{
   display: none;
 }

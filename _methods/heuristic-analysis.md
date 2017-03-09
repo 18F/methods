@@ -19,6 +19,12 @@ how:
     <li>Ask each person to evaluate the website against their list and write down possible problems.</li>
     <li>After individual evaluations, gather people to discuss what they found and prioritize potential problems.</li>
   </ol>
+nonPrintableContent:
+  <h1>Additional resources</h1>
+  <ul>
+    <li><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">&ldquo;10 Usability Heuristics for User Interface Design.&rdquo;</a> Jakob Nielsen.</li>
+    <li><a href="http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/">&ldquo;How to Conduct a Heuristic Evaluation.&rdquo;</a> Jakob Nielsen.</li>
+  </ul>
 governmentConsiderations:
   <p>No PRA Implications, as heuristic evaluations usually include a small number of evaluators. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
 ---

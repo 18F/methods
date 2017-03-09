@@ -23,6 +23,11 @@
       <h1>How to do it</h1>
       {{ method.how }}
     </section>
+    {{ if method.nonPrintableContent != "" }}
+      <aside class="method--section method--section--non-printable-content">
+        {{ method.nonPrintableContent }}
+      </aside>
+    {{ endif }}
     <section class="method--section method--section--government-considerations">
       <h1>Applied in government research</h1>
       {{ method.governmentConsiderations }}

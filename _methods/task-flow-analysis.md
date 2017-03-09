@@ -13,6 +13,12 @@ how:
     <li>Annotate the layered task diagram to pinpoint areas of interest, risk, or potential frustration.</li>
     <li>Present the analysis to a potential user or stakeholder who was not involved in creating the diagram(s) but who knows the task(s) well enough to check for consistency and accuracy.</li>    
   </ol>
+nonPrintableContent:
+  <h1>Additional resources</h1>
+  <ul>
+    <li><a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">&ldquo;Task Analysis&colon; The Key UX Design Step Everyone Skips.&rdquo; Larry Maine.</a></li>
+    <li>Tool&colon; <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov</li>
+  </ul>
 governmentConsiderations: 
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

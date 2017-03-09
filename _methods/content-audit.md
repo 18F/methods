@@ -30,6 +30,16 @@ how:
       </ul>
     </li>
   </ol>
+nonPrintableContent:
+  <h1>Examples from 18F</h1>
+  <ul>
+    <li><a href="https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/">&quot;Content debt&colon; What it is, where to find it, and how to prevent it in the first place&quot;</a> Melody Kramer.</li>
+  </ul>
+  <h1>Additional resources</h1>
+  <ul>
+    <li><a href="http://uxmastery.com/how-to-conduct-a-content-audit/">&ldquo;How to Conduct a Content Audit.&rdquo;</a> UX Mastery.</li>
+    <li><a href="http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/">&ldquo;Auditing Big Sites Doesn&rsquo;t Have to Be Taxing.&rdquo;</a> Christine Anameier.</li>
+  </ul>
 governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

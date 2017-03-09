@@ -14,6 +14,16 @@ how:
     <li>From the groups on the board, create three to five final principles. Using evidence from partner or user research, write one to two sentences in support of each principle.</li>
     <li>Share the principles in a place accessible to the team throughout the project, and refer to them often while making decisions.</li>
   </ol>
+nonPrintableContent:
+  <h1>Examples from 18F</h1>
+  <ul>
+    <li><a href="https://pages.18f.gov/design-principles-guide/">18F Design Principles Guide</a></li>
+    <li><a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/">&ldquo;Making more consistent decisions with design principles&colon; A new 18F guide&rdquo;</a> Elizabeth Goodman and Brad Nunnally.</li>  
+  </ul>  
+  <h1>Additional resources</h1>
+  <ul>
+    <li><a href="http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/">&lquo;Design Principles&colon; Dominance, Focal Points And Hierarchy.&rdquo;</a> Steven Bradley.</li>  
+  </ul>
 governmentConsiderations:
   <p>No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
 ---

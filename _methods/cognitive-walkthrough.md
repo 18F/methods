@@ -18,6 +18,9 @@ how:
     </li>
     <li>Analyze the walkthrough results to highlight where the user struggled and what needs improvement.</li>
   </ol>
+nonPrintableContent:
+  <h1>Additional resources</h1>
+  <p><a href="http://www.usabilitybok.org/cognitive-walkthrough">An explanation of cognitive walkthroughs and how to conduct one.</a> The Usability Body of Knowledge, a product of the User Experience Professionals&rsquo; Association.</p>
 governmentConsiderations:
   <ul>
     <li>No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that a cognitive walkthrough entails, 5 CFR 1320.3(h)3.</li>

@@ -1,14 +1,14 @@
 ---
 layout: card
 title: Dot voting
-category: Discover
-what: A simple voting exercise to identify a group’s collective priorities for potential features.
+category: Decide
+what: A simple voting exercise to identify a group&rsquo;s collective priorities.
 why: To reach a consensus on priorities of subjective, qualitative data with a group of people. This is especially helpful with larger groups of stakeholders and groups with high risk of disagreement.
 timeRequired: 15 minutes
 how:
   <ol>
     <li>Bring plenty of sticky notes and colored stickers to the meeting.</li>
-    <li>Gather everyone on the product team and anyone with a stake in the product&rsquo;s features.</li>
+    <li>Gather everyone on the product team and anyone with a stake in the product.</li>
     <li>Quickly review the project&rsquo;s goals and the conclusions of any prior user research.</li>
     <li>Ask team members to take five minutes to write important features or user needs on sticky notes. (One feature per sticky note.)</li>
     <li>After five minutes, ask participants to put their stickies on a board. If there are many sticky notes, ask participants to put their features next to similar ones. Remove exact duplicates.</li>

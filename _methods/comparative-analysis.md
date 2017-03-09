@@ -13,6 +13,11 @@ how:
     <li>Use a spreadsheet to capture the evaluation and determine how the targeted services and agencies perform based on the identified heuristics.</li>
     <li>Present the analysis, which should showcase areas of opportunities that you can take advantage of and design patterns you might adopt or avoid.</li>  
   </ol>
+nonPrintableContent:
+  <h1>Examples from 18F</h1>
+  <ul>
+    <li><a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis">Draft U.S. Web Design Standards Comparative Analysis</a></li>
+  </ul>
 governmentConsiderations: 
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

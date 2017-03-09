@@ -13,6 +13,11 @@ how:
     <li>Use props to role play how users accomplish their goals. &ldquo;Speak the interface&rdquo; to one another. For example, one of the touchpoints might say &ldquo;Submit all of your required forms,&rdquo; and the user might respond &ldquo;Arg! I don&rsquo;t know what forms are required!&rdquo;</li>
     <li>Review the exercise as a team and document the opportunities/challenges that this exercise suggests.</li>
   </ol>
+nonPrintableContent:
+  <h1>Additional resources</h1>
+  <ul>
+    <li><a href="https://www.wickedproblems.com/6_bodystorming.php">An explanation of bodystorming on Wicked Problems&colon; Problems Worth Solving. Austin Center for Design.</a></li>    
+  </ul>
 governmentConsiderations:
   <ul>
     <li>No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.</li>

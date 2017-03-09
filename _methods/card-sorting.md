@@ -20,6 +20,11 @@ how:
     <li>Ask users to parse the content into a list of categories you have predefined.</li>
     <li>Ask users to tell you why they assigned cards to the categories they did.</li>
   </ol>
+nonPrintableContent:
+  <h1>Examples from 18F</h1>
+  <ul>
+    <li><a href="https://github.com/18F/C2/wiki/Sprint-5:-Interaction-model-June-2016">Research plan including card sorting from 18F&rsquo;s C2 project</a></li>
+  </ul>
 governmentConsiderations:
   <p>No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also explicitly excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a card sort tests (though in our case, a poor result is our fault).</p>
 ---

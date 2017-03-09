@@ -13,6 +13,12 @@ how:
     <li>Use a web analytics tool that supports multivariate testing, such as Google Website Optimizer or Visual Website Optimizer, to set up the testing environment. Conduct the test for long enough to produce statistically significant results.</li>
     <li>Analyze the testing results to determine which solution produced the best conversion or engagement rates. Review the other solutions, as well, to see if there is information worth examining in with future studies.</li>  
   </ol>
+nonPrintableContent:
+  <h1>Additional resources</h1>
+  <ul>
+    <li><a href="http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/">Multivariate Testing in Action&colon; Five Simple Steps to Increase Conversion Rates. Paras Chopra.</a></li>
+    <li><a href="http://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/">Multivariate Testing 101&colon; A Scientific Method of Optimizing Design. Paras Chopra.</a></li>
+  </ul>
 governmentConsiderations:
   <p>No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
 ---

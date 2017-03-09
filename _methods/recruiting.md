@@ -24,3 +24,10 @@ how:
 governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---
+
+<!-- nonPrintablecontent:
+  <h1>Additional resources</h1>
+  <ul>
+  <li><a href="/assets/downloads/18FResearchParticipantConsentForm.docx">18F&#39;s participant consent form</a>, which offers Anti-Deficiency Act-compliant language.</li>
+  </ul>
+ -->

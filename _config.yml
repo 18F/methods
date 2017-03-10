@@ -113,9 +113,6 @@ navigation:
   url: make/
   internal: true
   children:
-  - text: Protosketching
-    url: protosketching/
-    internal: true
   - text: Wireframing
     url: wireframing/
     internal: true

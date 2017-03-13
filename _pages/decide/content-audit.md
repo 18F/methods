@@ -45,5 +45,5 @@ No PRA implications. No information is collected from members of the public.
  - ["Content debt: What it is, where to find it, and how to prevent it in the first place"] (https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/) Melody Kramer.
 
 ## Additional resources
-- [“How to Conduct a Content Audit.”](http://uxmastery.com/how-to-conduct-a-content-audit/) UX Mastery.
-- [“Auditing Big Sites Doesn’t Have to Be Taxing.”](http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/) Christine Anameier.
+- [How to Conduct a Content Audit.](http://uxmastery.com/how-to-conduct-a-content-audit/) UX Mastery.
+- [Auditing Big Sites Doesn’t Have to Be Taxing.](http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/) Christine Anameier.

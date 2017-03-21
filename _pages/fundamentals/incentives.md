@@ -10,8 +10,7 @@ Offering usability test or user research participants gifts to encourage partici
 
 ## Why it is important
 
-Incentives often result in a more diverse, representative set of participants. Without incentives, you often end up recruiting people with a strong intrinsic interest in your website. These people may not have the same needs and experiences as a less interested but larger pool of users. With incentives, you can encourage less interested, more representative people to participate.
-
+Incentives often result in a more diverse, representative set of participants. Without incentives, you often end up recruiting people with a strong intrinsic interest in your website. These people may not have the same needs and experiences as a less interested pool of users. With incentives, you can encourage less interested, more representative people to participate.
 
 ## How to do it
 
@@ -19,4 +18,4 @@ Incentives often result in a more diverse, representative set of participants. W
 
 2. **Consider contracting for a recruiting service to help you get an effective research pool.**
 
-3. **If incentives are determined to be permissible, clearly communicate when and how participants will receive incentives.** In the emails, postings or other materials you use to recruit your participants, describe the incentive and how participants will receive it (via mail, pick up at an office, etc.). This is particularly important for “remote” research.
+3. **If incentives are determined to be permissible, clearly communicate when and how participants will receive incentives.** In the emails, postings, or other materials you use to recruit your participants, describe the incentive and how participants will receive it (via mail, pick up at an office, etc.). This is particularly important for research conducted virtually rather than in person.

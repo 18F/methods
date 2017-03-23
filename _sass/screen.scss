@@ -9,12 +9,6 @@ body {
 
 .list-unstyled {
   padding-left: 0;
-}
-
-a,
-a:visited {
-  color: $color-blue;
-  text-decoration: none;
 
   &:hover {
     text-decoration: underline;

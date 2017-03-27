@@ -219,7 +219,8 @@ display:table;margin-top: 3rem;}
     em {
       font-family: $font-sans;
     }
-    ol
+    ol,
+    ul
     {
       margin: 0 0 1rem;
       padding-left: 0;
@@ -230,11 +231,6 @@ display:table;margin-top: 3rem;}
           margin-left: 1.4em;
           list-style: disc;
         }
-    }
-    ul {
-      margin: 0 0 1rem;
-
-      padding-top: 0;
     }
 
     p,

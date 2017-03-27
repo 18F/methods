@@ -15,6 +15,15 @@ how:
     <li>Regroup as a whole. Have each group of three present their ideas to everyone. Discuss.</li>
     <li>After the meeting, note areas of consistent agreement or disagreement. Incorporate areas of consensus into design recommendations and areas of contention into a research plan.</li>
   </ol>
+nonPrintableContent:
+  <h1>Examples from 18F</h1>
+  <ul>
+    <li><a href="https://18f.gsa.gov/2014/09/25/design-studio-onrr/">&quot;User-centered design at 18F&colon; a design studio for natural resource revenues&quot;</a> Chris Cairns , Michelle Hertzfeld , Nick Bristow.</li>
+  </ul>
+  <h1>Additional resources</h1>
+  <ul>
+    <li>A <a href="https://vimeo.com/37861987/">presentation by Todd Zaki Warfel</a> explaining what a design studio is. Todd Zaki Warfel.</li>
+  </ul>
 governmentConsiderations:
   <p>No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.</p>
 ---

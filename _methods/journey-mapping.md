@@ -20,6 +20,14 @@ how:
     <li>Visualize the order in which people exhibit behaviors, use information, make decisions, and feel emotions. Group elements into a table of &ldquo;phases&rdquo; related to the personal narrative of each <a href="/personas">persona</a>. Identify where personas share contextual components.</li>
     <li>Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish <a href="/design-principles">design principles</a>. Think about how to collapse or accelerate a customer&rsquo;s journey through the various phases. Incorporate this information into the project&rsquo;s scope.</li>
   </ol>
+
+nonPrintableContent:
+  <h2>Additional resources</h2>
+  <ul>
+    <li><a href="http://adaptivepath.s3.amazonaws.com/apguide/download/Adaptive_Paths_Guide_to_Experience_Mapping.pdf">Adaptive Path&rsquo;s Guide to Experience Mapping.</a> Adaptive Path (PDF).</li>
+    <li><a href="https://www.wickedproblems.com/6_journey_maps.php">An explanation of journey mapping on Wicked Problems Worth Solving.</a> Austin Center for Design.</li>
+    <li><a href="http://www.uxbooth.com/articles/designing-digital-strategies-part-1-cartography/">&ldquo;Designing Digital Strategies, Part 1&colon; Cartography.&rdquo;</a> UX Booth.</li>
+  </ul>
 governmentConsiderations: 
   <p>No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]('/fundamentals/recruiting') and [Privacy]('/fundamentals/privacy') for more tips on taking input from the public.</p>
 ---

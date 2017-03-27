@@ -13,6 +13,16 @@ how:
     <li>Pair recurring goals, behaviors, and pain points with archetypes. Give each archetype a name and a fictional account of their day. Add a photo of someone who fits the description, but ideally not an image of someone you&rsquo;ve actually interviewed and who may be recognized.</li>
     <li>Link your personas to the research that inspired them. This is useful when researchers are interested in challenging the way a persona stereotypes a user.</li>
   </ol>
+nonPrintableContent:
+  <h1>Examples from 18F</h1>
+  <ul>
+    <li><a href="https://github.com/18F/federalist-design/wiki/Personas">Personas for Federalist</a></li>
+  </ul>
+  <h1>Additional resources</h1>
+  <ul>
+    <li><a href="http://www.uie.com/articles/perfecting_personas/">&ldquo;Perfecting Your Personas.&rdquo;</a> Kim Goodwin.</li>
+    <li><a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper">&ldquo;Inside Goal-Directed Design&colon; A Two-Part Conversation with Alan Cooper.&rdquo;</a> Caroline Kraus.</li>
+  </ul>
 governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

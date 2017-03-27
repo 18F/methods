@@ -13,6 +13,13 @@ how:
     <li>Review this storyboard with the product team and stakeholders for feedback. Iterate until the storyboard represents a shared vision of the scenario and progression of scenes.</li>
     <li>Create a polished version of the storyboard if you plan to use it for future work or in other external contexts.</li>
   </ol>
+nonPrintableContent:
+  <h1>Additional resources:</h1>
+  <ul>
+    <li>Tool&colon; <a href="http://www.servicedesigntools.org/tools/13">Communication Methods Supporting Design Processes.</a> Service Design Tools.</li>
+    <li><a href="http://uxmag.com/articles/storyboarding-in-the-software-design-process">&ldquo;Storyboarding in the Software Design Process.&rdquo;</a> Ambrose Little.</li>
+    <li><a href="http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard">&ldquo;The 8 Steps to Creating a Great Storyboard.&rdquo;</a> Jake Knapp.</li>
+  </ul>
 governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

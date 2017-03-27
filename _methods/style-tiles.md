@@ -12,6 +12,12 @@ how:
     <li>Create the appropriate number of style tiles based on the defined directions, which establish the specific visual language for the different directions.</li>
     <li>Gather stakeholder feedback. Iterate on the style tiles, eventually getting down to a single style tile which will be the established visual language for the project going forward.</li>  
   </ol>
+nonPrintableContent:
+  <h1>Additional resources</h1>
+  <ul>
+    <li>Tool&colon; <a href="http://styletil.es/">Style Tiles&colon; A Visual Web Design Process for Clients and the Responsive Web.</a> Style Tiles.</li>
+    <li><a href="http://alistapart.com/article/style-tiles-and-how-they-work">&ldquo;Style Tiles and How They Work.&rdquo;</a> Samantha Warren.</li>
+  </ul>
 governmentConsiderations: 
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

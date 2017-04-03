@@ -29,3 +29,7 @@ To audit an existing website by assessing its structure and content. Site maps a
 ## Applied in government research
 
 No PRA implications. No information is collected from members of the public.
+
+## Examples from 18F
+
+- [Example site map from the Federal Election Commission project]({{ '/assets/downloads/FEC-Sitemap.pdf' | prepend: site.baseurl }})

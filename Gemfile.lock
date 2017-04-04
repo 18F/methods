@@ -3,6 +3,8 @@ GEM
   specs:
     colorator (0.1)
     ffi (1.9.10)
+    hash-joiner (0.0.7)
+      safe_yaml
     jekyll (3.1.6)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -34,6 +36,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  hash-joiner
   jekyll
   redcarpet
   rouge

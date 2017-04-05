@@ -26,7 +26,7 @@
 
   <!-- Schema.org data -->
   <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta itemprop="description" content="% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta itemprop="image" content="{{ site.baseurl }}/images/18F.svg">
 
   <script src="{{site.baseurl}}/uswds-0.14.0/js/uswds.js"></script>

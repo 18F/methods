@@ -24,15 +24,6 @@
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
 
-  <!-- Schema.org data -->
-  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta itemprop="image" content="{{ site.baseurl }}/images/18F-Logo.png">
-  <meta itemprop="author" content="18F">
-  <meta itemprop="publisher" content="18F">
-  <meta itemprop="headline" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-
-
   <script src="{{site.baseurl}}/uswds-0.14.0/js/uswds.js"></script>
 
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/uswds-0.14.0/css/uswds.css">

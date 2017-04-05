@@ -1,6 +1,8 @@
 ---
 layout: card
 title: Affinity diagramming
+# Description is used for meta information and should be less than  
+description: A way of finding themes in collections of ideas, quotes, or observations.
 category: Decide
 what: A way of finding themes in collections of ideas, quotes, or observations.
 why: To draw out insights from qualitative data quickly and collaboratively.

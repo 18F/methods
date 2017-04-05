@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Design pattern library
+description: A collection of UI elements used frequently across a design system, consisting of the base patterns and helpful information about how to use them.
 category: Make
 what: A collection of UI elements used frequently across a design system, consisting of the base patterns and helpful information about how to use them.
 why: To aid in designing a solution that uses UI elements consistently. Maintaining a set of approved, reusable patterns makes it easier to produce new features or make updates to the current solution.
@@ -13,6 +14,6 @@ how:
     <li>Show examples of how the same pattern could work in different solutions.</li>
     <li>Publish the design pattern library in an open, accessible space where the product team can use and extend it. (Common implementations of a design pattern library are in a wiki or brand style guide.)</li>  
   </ol>
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

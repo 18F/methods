@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Journey mapping
+description: A visualization of the major interactions shaping a user&rsquo;s experience of a product or service.
 category: Decide
 what: A visualization of the major interactions shaping a user&rsquo;s experience of a product or service.
 why: To provide design teams with a bird&rsquo;s-eye view of a design system, helping them see the order, complexity, successes, pain points, and interactions that make up a user&rsquo;s experience.
@@ -28,6 +29,6 @@ nonPrintableContent:
     <li><a href="https://www.wickedproblems.com/6_journey_maps.php">An explanation of journey mapping on Wicked Problems Worth Solving.</a> Austin Center for Design.</li>
     <li><a href="http://www.uxbooth.com/articles/designing-digital-strategies-part-1-cartography/">&ldquo;Designing Digital Strategies, Part 1&colon; Cartography.&rdquo;</a> UX Booth.</li>
   </ul>
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]('/fundamentals/recruiting') and [Privacy]('/fundamentals/privacy') for more tips on taking input from the public.</p>
 ---

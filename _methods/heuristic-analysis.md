@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Heuristic analysis
+description: A quick way to find common, large usability problems on a website.
 category: Discover
 what: A quick way to find common, large usability problems on a website.
 why: To quickly identify common design problems that make websites hard to use without conducting more involved user research.

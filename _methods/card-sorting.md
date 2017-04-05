@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Card sorting
+description: A categorization exercise in which participants divide concepts into different groups based on their
 category: Validate
 what: A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts.
 why: To create content structures that are user-informed and intuitive.
@@ -28,4 +29,3 @@ nonPrintableContent:
 governmentConsiderations:
   <p>No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also explicitly excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a card sort tests (though in our case, a poor result is our fault).</p>
 ---
-

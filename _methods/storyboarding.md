@@ -1,6 +1,7 @@
 ---
 layout: card
-title: 
+title:
+description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project&rsquo;s success, including users.
 category: Decide
 what: A visual sequence of a specific use case or scenario, coupled with a narrative.
 why: To visualize interactions and relationships that might exist between a user and a solution in the context of the user&rsquo;s full experience.

@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Design studio
+description: An illustration-based way to facilitate communication (and brainstorming) between a project team and stakeholders.
 category: Discover
 what: An illustration-based way to facilitate communication (and brainstorming) between a project team and stakeholders.
 why: To create a shared understanding and appreciation of design problems confronting the project team.

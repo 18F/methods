@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Content audit
+description: A listing and analysis of all the content on an existing website (including pages, files, videos, audio or other data) that your users might reasonably encounter.
 category: Decide
 what: A listing and analysis of all the content on an existing website (including pages, files, videos, audio or other data) that your users might reasonably encounter.
 why: To identify content that needs to be revised in new versions of a website. Content audits can also help you identify who is responsible for content, how often it should be updated, and what role a particular piece of content plays for users.

@@ -1,6 +1,7 @@
 ---
 layout: card
 title: KJ method
+description: A facilitated exercise in which participants list their individual priorities onto cards, collect them as a group, organize them by relationship, and establish group priorities through individual voting.
 category: Discover
 what: A facilitated exercise in which participants list their individual priorities onto cards, collect them as a group, organize them by relationship, and establish group priorities through individual voting.
 why: To reach a consensus on priorities of subjective, qualitative data with a group of people. This is especially helpful with larger groups of stakeholders and groups with high risk of disagreement.
@@ -14,7 +15,7 @@ how:
     <li>Ask participants to write names for each cluster on their own &mdash; this is mandatory. They may also split clusters.</li>
     <li>Put each name on the wall by its cluster. Exclude word-for-word duplicates.</li>
     <li>Reiterate the question and have each person rank their three most important clusters. Visually tally points.</li>
-    <li>Combine duplicates and their points if the entire group agrees they&rsquo;re identical. Three or four groups usually rank higher than the rest &mdash; these are the priorities for the question.</olli 
+    <li>Combine duplicates and their points if the entire group agrees they&rsquo;re identical. Three or four groups usually rank higher than the rest &mdash; these are the priorities for the question.</olli
   </ol>
 nonPrintableContent:
   <h1>Example from 18F</h1>

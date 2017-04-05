@@ -25,6 +25,8 @@ collections:
 site:
   title: Methods
 
+description: 18F’s method cards describe how our organization puts human-centered design into practice.
+
 repos:
 - name: Methods
   description: Main repository

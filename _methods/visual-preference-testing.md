@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Visual preference testing
+description: A method that allows potential users to review and provide feedback on a solution’s ultimate visual direction.
 category: Validate
 what: A method that allows potential users to review and provide feedback on a solution’s ultimate visual direction.
 why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
@@ -22,9 +23,3 @@ nonPrintableContent:
 governmentConsiderations:
   <p>No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
 ---
-
-
-
-
-
-

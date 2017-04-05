@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Site mapping
+description: A comprehensive rendering of how a website&rsquo;s pages relate to one another.
 category: Decide
 what: A comprehensive rendering of how a website&rsquo;s pages relate to one another.
 why: To audit an existing website by assessing its structure and content. Site maps also help you plan and organize the contents of a new website prior to <a href="{{site.baseurl}}/wireframing">wireframing</a> and building it.

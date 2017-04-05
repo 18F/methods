@@ -1,6 +1,7 @@
 ---
 layout: card
-title: 
+title:
+description: A design document that contains various fonts, colors, and UI elements that communicate the visual brand direction for a website or application.
 category: Decide
 what: A design document that contains various fonts, colors, and UI elements that communicate the visual brand direction for a website or application.
 why: To establish a common visual language between the design team and stakeholders. It also acts as a collaboration artifact that both the design team and stakeholders can use to contribute to the final design direction.
@@ -18,6 +19,6 @@ nonPrintableContent:
     <li>Tool&colon; <a href="http://styletil.es/">Style Tiles&colon; A Visual Web Design Process for Clients and the Responsive Web.</a> Style Tiles.</li>
     <li><a href="http://alistapart.com/article/style-tiles-and-how-they-work">&ldquo;Style Tiles and How They Work.&rdquo;</a> Samantha Warren.</li>
   </ul>
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

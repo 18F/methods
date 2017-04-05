@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Bodystorming
+description: An improvisational brainstorm based on interaction and movement with the body.
 category: Discover
 what: An improvisational brainstorm based on interaction and movement with the body.
 why: To remind participants that interactions are human and physical, to teach stakeholders empathy for users, and to get away from our computers.

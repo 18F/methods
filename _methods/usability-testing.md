@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Usability testing
+description: Observation of people attempting to use a product.
 category: Validate
 what: Observation of people attempting to use a product.
 why: To learn a given design&rsquo;s challenges, opportunities, and successes.
@@ -27,6 +28,6 @@ nonPrintableContent:
   <h1>Additional resources</h1>
   <p><a href="http://www.usabilitybok.org/summative-usability-testing">An explanation of summative usability testing and how to conduct evaluations using this method.</a> The Usability Body of Knowledge, a product of the User Experience Professionals&rsquo; Association.</p>
 
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. First, any given usability test should involve nine or fewer users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a usability test tests. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
 ---

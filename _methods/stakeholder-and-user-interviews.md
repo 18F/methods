@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Stakeholder and user interviews
+description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project&rsquo;s success, including users.
 category: Discover
 what: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project&rsquo;s success, including users.
 why: To build consensus about the problem statement and research objectives.

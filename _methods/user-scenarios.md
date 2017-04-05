@@ -1,6 +1,7 @@
 ---
 layout: card
-title: 
+title: User scenarios
+description: Stories and context &mdash; focused on identifying the what, who, how, and why &mdash; behind why a specific user or user group comes to your site.
 category: Decide
 what: Stories and context &mdash; focused on identifying the what, who, how, and why &mdash; behind why a specific user or user group comes to your site.
 why: To remind a team, during both the design and validation phases, of the overarching goal(s) that users have when interacting with a solution. Scenarios help the team consider the design of the solution as a whole rather than getting caught up by specific pages, elements, or interactions. They note questions and goals and sometimes define the possibilities of how the user(s) can achieve them.
@@ -30,6 +31,6 @@ nonPrintableContent:
     <li>Tool&colon; <a href="http://www.usability.gov/how-to-and-tools/methods/scenarios.html">Scenarios.</a> Usability.gov</li>
     <li><a href="http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/">&ldquo;How User Scenarios Help To Improve Your UX.&rdquo;</a> Sabina Idler.</li>
   </ul>
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

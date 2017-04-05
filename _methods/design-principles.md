@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Design principles
+description: Written statements, generally in the form of imperatives like &ldquo;Earn people&rsquo;s trust,&rdquo; that serve as guiding lights during decision-making.
 category: Decide
 what: Written statements, generally in the form of imperatives like &ldquo;Earn people&rsquo;s trust,&rdquo; that serve as guiding lights during decision-making.
 why: To give the team and the stakeholders a shared point of reference when negotiating next steps. Good design principles are specific to the project, not general truths, and should help teams say &ldquo;no&rdquo; to otherwise interesting proposals or generate ideas when they&rsquo;re stuck.

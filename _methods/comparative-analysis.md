@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Comparative analysis
+description: A detailed review of existing experiences provided either by direct competitors or by related agencies or services.
 category: Decide
 what: A detailed review of existing experiences provided either by direct competitors or by related agencies or services.
 why: To identify competitors&rsquo; solutions that excel, are lacking, or are missing critical design elements. Comparative analysis can give new solutions a competitive edge by identifying areas of opportunity, gaps in experience offerings, and potential design patterns to adopt or avoid.
@@ -18,6 +19,6 @@ nonPrintableContent:
   <ul>
     <li><a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis">Draft U.S. Web Design Standards Comparative Analysis</a></li>
   </ul>
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

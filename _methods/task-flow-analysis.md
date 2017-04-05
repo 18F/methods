@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Task flow analysis
+description: A step-by-step analysis of a common task a user must perform that diagrams the various touch points and decision points a user goes through to accomplish the task. The touch points should be represented as steps taken by the user, as well as steps taken by the system.
 category: Decide
 what: A step-by-step analysis of a common task a user must perform that diagrams the various touch points and decision points a user goes through to accomplish the task. The touch points should be represented as steps taken by the user, as well as steps taken by the system.
 why: To illustrate in a solution-agnostic way the overall flow that a user progresses through to accomplish a single task. Task flow analysis also demonstrates the relationship between tasks, and how they interconnect across a site.
@@ -19,6 +20,6 @@ nonPrintableContent:
     <li><a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">&ldquo;Task Analysis&colon; The Key UX Design Step Everyone Skips.&rdquo; Larry Maine.</a></li>
     <li>Tool&colon; <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov</li>
   </ul>
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

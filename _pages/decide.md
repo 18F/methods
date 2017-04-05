@@ -2,6 +2,7 @@
 title: Decide
 layout: category
 category: decide
+description: Focus the effort around a design hypothesis.
 ---
 
 Use what you’ve learned to start focusing your research on specific areas and groups of people.

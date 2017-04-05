@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Wireframing
+description: A lightweight schematic visual representation of a product or service interface.
 category: Make
 what: A lightweight schematic visual representation of a product or service interface.
 why: To prioritize information (substance and relationships) over decoration (style) as you begin defining the solution by keeping the design light. Wireframing also gives designers a great opportunity to start asking developers early questions about feasibility and structure.
@@ -12,6 +13,6 @@ how:
     <li>Review your wireframes with specific <a href="/user-scenarios">user scenarios</a> and <a href="/personas">personas</a> in mind. Can users accomplish their task with the wireframe you are sketching out?</li>
     <li>Use the wireframes to get the team&rsquo;s feedback on feasibility and structure.</li>  
   </ol>
-governmentConsiderations: 
+governmentConsiderations:
   <p>No PRA implications. No information is collected from members of the public.</p>
 ---

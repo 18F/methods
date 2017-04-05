@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Incentives
+description: Offering usability test or user research participants gifts to encourage participation and to thank them for their time.
 category: Fundamentals
 what: Offering usability test or user research participants gifts to encourage participation and to thank them for their time.
 why: Incentives often result in a more diverse, representative set of participants. Without incentives, you often end up recruiting people with a strong intrinsic interest in your website. These people may not have the same needs and experiences as a less interested but larger pool of users. With incentives, you can encourage less interested, more representative people to participate.

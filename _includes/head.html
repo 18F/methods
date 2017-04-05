@@ -4,8 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - 18F Method Cards </title>
-  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-16x16.png" sizes="16x16" />
 
   <meta name="description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
 
@@ -14,7 +14,7 @@
   <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:image" content="{{ site.baseurl }}/images/18F.svg" />
+  <meta property="og:image" content="{{ site.baseurl }}/images/18F-Logo.png" />
   <meta property="og:site_name" content="18F" />
 
   <!-- Twitter Card data -->
@@ -27,7 +27,11 @@
   <!-- Schema.org data -->
   <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta itemprop="image" content="{{ site.baseurl }}/images/18F.svg">
+  <meta itemprop="image" content="{{ site.baseurl }}/images/18F-Logo.png">
+  <meta itemprop="author" content="18F">
+  <meta itemprop="publisher" content="18F">
+  <meta itemprop="headline" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+
 
   <script src="{{site.baseurl}}/uswds-0.14.0/js/uswds.js"></script>
 

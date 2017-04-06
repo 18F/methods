@@ -16,12 +16,8 @@
   }
 
   .category--header {
-    background-color: $color-blue;
-    border-radius: 3px;
-    color: $color-truewhite;
     margin-bottom: 1em;
-    margin-top: 3em;
-    padding: 20px;
+    padding-left: 0;
 
     ul {
       margin-left: 1.4em;
@@ -45,39 +41,24 @@
 }
 
 .category--discover {
-
-  .category--header {
-    background-color: $color-blue;
-  }
-
+  background-color: $color-blue;
 }
 
 .category--make {
-
-  .category--header {
-    background-color: $color-gold;
-    color: $color-darkergray;
-  }
+  background-color: $color-gold;
 }
 
 .category--validate {
-
-  .category--header {
-    background-color: $color-red;
-
-  }
-
+background-color: $color-red;
 }
 
 .category--decide {
-
-  .category--header {
-    background-color: $color-green;
-  }
+background-color: $color-green;
 }
 
-.category--fundamentals {
+.category--fundamentals, .category--intro {
+  background-color: $color-blue-dark;
   .category--header {
-    background-color: $color-darkgray;
+    color: $color-truewhite;
   }
 }

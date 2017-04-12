@@ -20,8 +20,6 @@ nonPrintableContent:
     <li><a href="https://www.wickedproblems.com/6_bodystorming.php">An explanation of bodystorming on Wicked Problems&colon; Problems Worth Solving. Austin Center for Design.</a></li>    
   </ul>
 governmentConsiderations:
-  <ul>
-    <li>No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.</li>
-    <li>If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.</li>  
-  </ul>
+  <p>No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.</p>
+  <p>If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.</p>
 ---

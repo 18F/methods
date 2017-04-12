@@ -1,5 +1,3 @@
-
-
 .card-header {
   margin-top: 1em;
   text-align: right;
@@ -15,10 +13,8 @@
     }
 
     li:first-of-type {}
-
     li:last-of-type {}
   }
-
 
   .footer {
     line-height: 1.33em;
@@ -27,14 +23,13 @@
     h1 {
       margin-top: 1.2em;
       margin-bottom: .6em;
-      font-size: $font-l;
       font-family: $font-sans;
+      font-size: $h4-font-size;
       font-weight: bold;
       color: #333;
     }
   }
 }
-
 
 .anchor {
   display: block;
@@ -53,8 +48,6 @@
   display: table;
   margin-bottom: 3rem;
 
-
-
   &:target {
     box-shadow: 0px 5px 5px -2px rgba(0, 0, 0, 0.25);
   }
@@ -64,7 +57,6 @@
   	margin-bottom: .6em;
     margin-top: 0;
   }
-
   ol,
   ul {
     padding-top: .6em;
@@ -72,48 +64,34 @@
   }
 
   .method--title {
-  	font-size: $h1-font-size;
+    font-family: $font-sans;
+    font-size: $h2-font-size;
   	font-weight: bold;
-  	font-family: $font-sans;
-  	margin-top: .4em;
-  	letter-spacing: -0.02em;
-  	margin-bottom: .4em;
-    border-top: 8px solid #333;
+  	margin-top: .5em;
+  	margin-bottom: .5em;
+    padding-top: .8em;
+    border-top: 8px solid;
       a,
       a:visited {
-        color: #333;
+        color: $color-gray-dark;
+        text-decoration: none;
         &:hover  {
-          text-decoration: none;
-
+          text-decoration: underline;
         }
       }
-
   }
+
   h1 {
     margin-top: 1.2em;
     margin-bottom: .6em;
-    font-size: $font-l;
     font-family: $font-sans;
+    font-size: $h4-font-size;
     font-weight: bold;
   }
-  h2 {
-  	font-size: $font-sans;
-  	text-transform: uppercase;
-  	letter-spacing: 0.02em;
-  	font-weight: bold;
-  	line-height: 1;
-  	margin-top: 2.4em;
-  	margin-bottom: 1.2em;
-  }
-
-
-
-
     .method--panel {
       padding: 20px 40px;
       display: block;
       width: auto;
-
     }
 
 
@@ -126,13 +104,11 @@
   }
     }
 
-
-
   .method--section--what,
   .method--section--why {
-      font-family: $font-sans;
-      line-height: 1.4;
-      font-size: $font-l;
+    font-family: $font-sans;
+    font-size: $base-font-size;
+    line-height: 1.4;
   }
   .method--section--category {
     min-width: 15rem;
@@ -144,32 +120,19 @@
   .method--section--time-required {
   	border-top: 1px solid $color-gray-light;
     display: table-cell;
+      h1 {
+    	font-size: $tiny-font-size;
+    	text-transform: uppercase;
+    	letter-spacing: 0.02em;
+      }
+      p {
+        font-size: $small-font-size;
+      }
   }
-  .method--section--category,
-  .method--section--time-required {
-    h1 {
-  	font-size: $font-xs;
-  	text-transform: uppercase;
-  	letter-spacing: 0.02em;
-  	line-height: 0.33;
-  }
-  }
-
-  .method--section--how {
-    h1 {
-  	margin-top: 0.4em;
-
-  }
-  }
-
 
   // method--panel--front
   .method--panel--front {
     position: relative;
-
-
-
-
 
 footer {position: relative;  width: 100%;
 display:table;margin-top: 3rem;}
@@ -183,10 +146,7 @@ display:table;margin-top: 3rem;}
       padding: 0 40px 20px;
       display: table;
     }
-
   }
-
-
 }
 
 @media screen and (min-width: 800px) {
@@ -198,30 +158,24 @@ display:table;margin-top: 3rem;}
 
   // method--panel--back
   .method--panel--back {
-  	font-size: $font-s;
+  	font-size: $small-font-size;
   	background: $color-gray-lightest;
+
+    h1 {
+    font-size: $h4-font-size;
+    margin-top: 0.6em;
+    }
 
     a {text-decoration: underline;}
 
-    h1 {
-      font-size: $font-m;
-    }
-
-    h2 {
-      font-family: $font-sans;
-      line-height: 1.3em;
-      font-size: $font-m;
-      text-transform: none;
-      margin-top: 0;
-      margin-bottom: .6rem;
-    }
     em {
       font-family: $font-sans;
     }
+
     ol,
     ul
     {
-      margin: 0 0 1rem;
+      margin: 0 0 1rem 1.5rem;
       padding-left: 0;
       padding-top: 0;
 
@@ -239,12 +193,13 @@ display:table;margin-top: 3rem;}
     }
 
     .method--section--government-considerations {
- 	    line-height: 1.3em;
       font-family: $font-sans;
-      font-size: $font-xs;
+      font-size: $tiny-font-size;
+      line-height: 1.3em;
 
       h1 {
-        font-size: $font-m;
+        font-size: $h5-font-size;
+        margin-top: 1em;
       }
       ul {list-style:none;padding-left:0;}
  }

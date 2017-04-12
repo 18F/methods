@@ -48,7 +48,7 @@ a{ color: inherit; }
   position: absolute;
   width: 0.5in;
   height: 0.5in;
-  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+  font-family: $font-sans;
   font-size: 10pt;
   font-weight: bold;
   text-transform: uppercase;
@@ -170,7 +170,7 @@ float:right;
 	border-top: 1px solid #f1f1f1;
 	padding-top: 0.0625in;
 	display: block;
-  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
+  font-family: $font-sans;
 	font-style: italic;
 	font-size: 8pt;
 	position: absolute;

@@ -3,20 +3,19 @@
 
   .category--title {
     font-family: $font-sans;
-    font-size: $font-l;
+    font-size: $h1-font-size;
     font-weight: bold;
     margin-bottom: .2em;
-    margin-top: 0;
   }
 
   .category--subtitle {
     display: inline;
     font-family: $font-sans;
-    font-size: $font-m;
+    font-size: $h3-font-size;
   }
 
   .category--header {
-    margin-bottom: 1em;
+    margin-bottom: 2.5em;
     padding-left: 0;
 
     ul {

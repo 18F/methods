@@ -1,8 +1,8 @@
 
 body {
   background: $color-inverse;
-  font-family: PT Sans, Trebuchet MS, Verdana, sans-serif;
-  font-size: 1.8rem;
+  font-family: $font-sans;
+  font-size: $base-font-size;
 }
 
 .list-unstyled {

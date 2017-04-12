@@ -29,7 +29,7 @@
       margin-bottom: .6em;
       font-size: $font-l;
       font-family: $font-sans;
-      font-weight: 700;
+      font-weight: bold;
       color: #333;
     }
   }
@@ -72,8 +72,8 @@
   }
 
   .method--title {
-  	font-size: 42px;
-  	font-weight: 600;
+  	font-size: $h1-font-size;
+  	font-weight: bold;
   	font-family: $font-sans;
   	margin-top: .4em;
   	letter-spacing: -0.02em;
@@ -94,13 +94,13 @@
     margin-bottom: .6em;
     font-size: $font-l;
     font-family: $font-sans;
-    font-weight: 700;
+    font-weight: bold;
   }
   h2 {
   	font-size: $font-sans;
   	text-transform: uppercase;
   	letter-spacing: 0.02em;
-  	font-weight: 700;
+  	font-weight: bold;
   	line-height: 1;
   	margin-top: 2.4em;
   	margin-bottom: 1.2em;

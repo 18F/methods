@@ -426,7 +426,7 @@ th {
 @font-face {
   font-family: "Source Sans Pro";
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
   src: url("../fonts/sourcesanspro-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcesanspro-bold-webfont.woff2") format("woff2"), url("../fonts/sourcesanspro-bold-webfont.woff") format("woff"), url("../fonts/sourcesanspro-bold-webfont.ttf") format("truetype");
 }
 
@@ -454,7 +454,7 @@ th {
 @font-face {
   font-family: "Merriweather";
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
   src: url("../fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/merriweather-bold-webfont.ttf") format("truetype");
 }
 
@@ -796,7 +796,7 @@ button,
   display: inline-block;
   font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 1.7rem;
-  font-weight: 700;
+  font-weight: bold;
   line-height: 1;
   outline: none;
   padding: 1rem 2rem;
@@ -1317,14 +1317,14 @@ select.usa-input-success {
 .usa-input-error-label {
   display: block;
   font-size: 1.7rem;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 .usa-input-error-message {
   color: #cd2026;
   display: block;
   font-size: 1.7rem;
-  font-weight: 700;
+  font-weight: bold;
   padding-bottom: 3px;
   padding-top: 3px;
 }
@@ -1358,7 +1358,7 @@ select {
 
 legend {
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 .usa-fieldset-inputs label {
@@ -1756,27 +1756,27 @@ h6 {
 
 h1 {
   font-size: 4rem;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 h2 {
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 h3 {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 h4 {
   font-size: 1.7rem;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 h5 {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 h6 {
@@ -1810,7 +1810,7 @@ dfn {
 
 .usa-sans a {
   border-bottom: none;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 .usa-serif p,
@@ -1822,21 +1822,21 @@ dfn {
 
 .usa-display {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: bold;
   margin-bottom: 0;
 }
 
 @media screen and (min-width: 481px) {
   .usa-display {
     font-size: 4rem;
-    font-weight: 700;
+    font-weight: bold;
   }
 }
 
 @media screen and (min-width: 600px) {
   .usa-display {
     font-size: 5.2rem;
-    font-weight: 700;
+    font-weight: bold;
   }
 }
 
@@ -2022,7 +2022,7 @@ dfn {
   cursor: pointer;
   display: inline-block;
   font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   margin: 0;
   padding: 1.5rem 5.5rem 1.5rem 3rem;
   width: 100%;
@@ -2125,7 +2125,7 @@ dfn {
   cursor: pointer;
   display: inline-block;
   font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   margin: 0;
   padding: 1.5rem 5.5rem 1.5rem 3rem;
   width: 100%;
@@ -2558,7 +2558,7 @@ dfn {
 .usa-footer .usa-footer-primary-link {
   color: #212121;
   display: block;
-  font-weight: 700;
+  font-weight: bold;
   margin-top: 0;
   padding-bottom: 2rem;
   padding-top: 2rem;
@@ -3208,7 +3208,7 @@ fieldset {
   display: block;
   font-size: 1.5rem;
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
   margin: 0;
 }
 
@@ -3597,7 +3597,7 @@ fieldset {
 .usa-nav .usa-current {
   border-left: 4px solid #0071bc;
   color: #0071bc;
-  font-weight: 700;
+  font-weight: bold;
   padding-left: 1.4rem;
 }
 
@@ -3659,7 +3659,7 @@ fieldset {
 .usa-nav-primary a.usa-current {
   border-left: 4px solid #0071bc;
   color: #0071bc;
-  font-weight: 700;
+  font-weight: bold;
   padding-left: 1.4rem;
 }
 
@@ -3691,7 +3691,7 @@ fieldset {
     padding: 1.3rem 1.5rem 1.7rem;
     color: #5b616b;
     font-size: 1.5rem;
-    font-weight: 700;
+    font-weight: bold;
     line-height: 1.2;
   }
 }
@@ -3729,7 +3729,7 @@ fieldset {
     padding-left: 1.5rem;
     color: #5b616b;
     font-size: 1.5rem;
-    font-weight: 700;
+    font-weight: bold;
     width: initial;
   }
 }
@@ -4289,7 +4289,7 @@ fieldset {
 .usa-sidenav-list a.usa-current {
   border-left: 4px solid #0071bc;
   color: #0071bc;
-  font-weight: 700;
+  font-weight: bold;
   padding-left: 1.4rem;
 }
 

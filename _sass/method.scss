@@ -142,7 +142,7 @@
   }
   .method--section--category,
   .method--section--time-required {
-  	border-top: 1px solid $color-lightgray;
+  	border-top: 1px solid $color-gray-light;
     display: table-cell;
   }
   .method--section--category,
@@ -199,7 +199,7 @@ display:table;margin-top: 3rem;}
   // method--panel--back
   .method--panel--back {
   	font-size: $font-s;
-  	background: $color-lightestgray;
+  	background: $color-gray-lightest;
 
     a {text-decoration: underline;}
 

@@ -48,7 +48,7 @@
   margin-bottom: 1em;
   border-bottom: none;
   position: relative;
-  font-family: $font-serif-2;
+  font-family: $font-sans;
   border-radius: 3px;
   display: table;
   margin-bottom: 3rem;
@@ -74,7 +74,7 @@
   .method--title {
   	font-size: 42px;
   	font-weight: 600;
-  	font-family: $font-sans-narrow;
+  	font-family: $font-sans;
   	margin-top: .4em;
   	letter-spacing: -0.02em;
   	margin-bottom: .4em;
@@ -130,7 +130,7 @@
 
   .method--section--what,
   .method--section--why {
-      font-family: $font-serif;
+      font-family: $font-sans;
       line-height: 1.4;
       font-size: $font-l;
   }

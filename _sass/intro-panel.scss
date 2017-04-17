@@ -1,5 +1,10 @@
 .category--intro {
   color: $color-inverse;
+  font-family: $font-sans;
+  font-size: $h2-font-size;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  line-height: 1.3;
 
 .method--panel {
     display: block;

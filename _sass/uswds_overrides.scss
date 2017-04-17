@@ -4,8 +4,17 @@
 .usa-skipnav:focus {
 z-index: 10000;
 }
+
 .usa-nav {
 
+}
+
+.usa-nav-link {
+  font-family: $font-sans;
+  font-weight: bold;
+}
+.usa-nav-submenu a {
+  font-family: $font-sans;
 }
 
 .usa-header {

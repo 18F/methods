@@ -33,9 +33,8 @@
           <li>
             <button class="
             usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="side-nav-1">
-              <span>  <strong>Discover</strong>
+              <span>Discover</span>
             </button>
-          </span>
             <ul id="side-nav-1" class="usa-nav-submenu">
               {% for method in discover_methods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>

@@ -1,7 +1,7 @@
 <span class="anchor" id="{{ method.title | slugify }}"></span>
-<article class="method usa-grid">
+<article class="method usa-grid" itemscope itemtype="http://schema.org/Article">
   <div class="method--panel method--panel--front">
-    <h1 class="method--title"><a href="{{ site.baseurl }}{{ method.url }}">
+    <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ method.url }}">
       {% if method.title %}
         {{ method.title }}
       {% else %}
@@ -37,4 +37,23 @@
       {{ method.governmentConsiderations }} {{ page.governmentConsiderations }}
     </section>
   </div>
+  <div class="usa-sr-only">
+    <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <span itemprop="name">18F</span>
+    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <img class="usa-sr-only" itemprop="url" src="{{sitebase.url}}/images/18F-Logo.png" alt="18F Logo">
+       <meta itemprop="width" content="1000">
+       <meta itemprop="height" content="1000">
+    </span>
+  </div>
+  <span itemprop="author" >18F</span>
+  <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <img class="usa-sr-only" itemprop="url" src="{{sitebase.url}}/images/18F-Logo.png" alt="18F Logo">
+     <meta itemprop="width" content="1000">
+     <meta itemprop="height" content="1000">
+  </span>
+ <time datetime="2010-07-03" itemprop="datePublished">Jul 3, 2010</time>
+ <time datetime="2010-07-03" itemprop="dateModified">Jul 3, 2010</time>
+</div>
+{{ site.github.build_revision }}
 </article>

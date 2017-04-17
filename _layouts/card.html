@@ -2,10 +2,10 @@
 <html lang='en'>
 {% include head.html %}
 <body class="layout--card">
-  {% include category-setup.html %}
+
   {% include header.html %}
   <main id="main" role="main">
-    <section class="category category--{{page.category | downcase }}" id="{{page.category | downcase }}">
+    <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
     <header class="category--header">
         <div class="usa-grid">
             <h1 class="category--title">{{page.category | capitalize }}</h1>
@@ -25,36 +25,10 @@
         </a>
       </nav>
   </div>
-  <span class="anchor" id="{{ method.title | slugify }}"></span>
-  <article class="method" itemscope itemtype="http://schema.org/Article">
-    <div class="method--panel method--panel--front">
-      <h1 class="method--title" itemprop="name"><a href="{{ site.baseurl }}{{ method.url }}">{{ page.title }}</a></h1>
-        <h1>What</h1>
-        <p itemprop="description">{{ page.what }}</p>
-        <h1>Why</h1>
-        <p>{{ page.why }}</p>
-        <footer>
-          <section class="method-section method--section--category">
-            <h1>Phase</h1>
-            <p>{{ method.category }}</p>
-          </section>
-          <section class="method-section method--section--time-required">
-            <h1>Time required</h1>
-            <p>{{ method.timeRequired }}</p>
-          </section>
-        </footer>
-    </div>
-    <div class="method--panel method--panel--back">
-      <section class="method--section method--section--how">
-        <h1>How to do it</h1>
-        {{ page.how }}
-      </section>
-      <section class="method--section method--section--government-considerations">
-        <h1>Applied in government research</h1>
-        {{ page.governmentConsiderations }}
-      </section>
-    </div>
-  </article>
+
+  {% include method.html %}
+
+
 </div>
 </section>
 

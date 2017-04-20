@@ -8,8 +8,8 @@
     <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
         <header class="category--header">
             <div class="usa-grid">
-                <h1 class="category--title">{{page.category | capitalize }}</h1>
-                <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
+                <h1 class="category--title">{{ page.category | capitalize }}</h1>
+                <p class="category--subtitle">{{ page.description }}</p>
             </div>
         </header>
           <div class="usa-grid">
@@ -25,8 +25,8 @@
               </a>
             </nav>
         </div>
-        {% for method in [var-category-name] %}
-          {% include method.html %}
+        {% for method in category_methods %}
+          {% include method.html method=method %}
         {% endfor %}
       </div>
     </section>

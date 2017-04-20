@@ -8,8 +8,9 @@
     <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
     <header class="category--header">
         <div class="usa-grid">
-            <h1 class="category--title">{{page.category | capitalize }}</h1>
-            <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
+            {% assign method_category = site.pages | where: "title", page.category | first %}
+            <h1 class="category--title">{{method_category.title | capitalize }}</h1>
+            <p class="category--subtitle">{{method_category.description}}</p>
         </div>
     </header>
     <div class="usa-grid">

@@ -4,20 +4,37 @@
 .usa-skipnav:focus {
 z-index: 10000;
 }
-
-.usa-nav {
-
+.usa-nav-primary button:hover,
+.usa-nav-secondary-links a:hover  {
+  background-color: $color-gray-lightest;
+  color: $color-black;
 }
 
+.usa-nav-primary button[aria-expanded=true],
+.usa-nav-primary button[aria-expanded=true]:hover {
+  background-color: $color-blue-dark;
+  color: $color-inverse;
+}
+.usa-header {
+  &.sticky  {
+    .usa-nav {
+      padding-top: 1px;
+    }
+  }
+}
 .usa-nav-link, .usa-nav-secondary-links {
   font-family: $font-sans;
   font-weight: bold;
 }
-.usa-nav-submenu a {
-  font-family: $font-sans;
+.usa-nav-submenu {
+  background-color: $color-blue-dark;
+  border: 1px solid $color-inverse;
+  border-top: none;
+  a {
+    font-family: $font-sans;
+  }
 }
-
-.usa-header {
+.banner .usa-header {
   border-bottom: none;
 }
 
@@ -37,9 +54,9 @@ z-index: 10000;
 .usa-logo a:before {
   content: '18F';
 }
-
-.usa-header-extended .usa-nav {
-  border-top-color: transparent;
+// bottom border for nav hover state
+.usa-nav-link:hover span {
+  padding-bottom: 1.2rem;
 }
 
 .usa-font-lead {
@@ -64,8 +81,7 @@ font-family: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial'
 
 
       a {
-        color: #212121;
-        font-size: 1.7rem;
+        font-size: $base-font-size;
       }
     }
   }

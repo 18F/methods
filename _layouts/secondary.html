@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang='en'>
+{% include head.html %}
+
+<body class="layout--secondary">
+  {% include category-setup.html %} {% include header.html %}
+  <main id="main" role="main">
+    <div class="usa-grid">
+      <section class="usa-section">
+      {{ content }}
+    </section>
+    </div>
+  </main>
+  {% include footer.html %}
+</body>
+
+</html>

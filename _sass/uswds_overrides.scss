@@ -90,6 +90,20 @@ z-index: 10000;
       -webkit-font-smoothing: antialiased;
     }
   }
+
+}
+
+@media screen and (min-width: 951px) {
+.usa-logo a:before {
+  display: none;
+}
+
+.usa-logo img {
+  display: inline-block;
+  width: 50px;
+  position: relative;
+  top: 10px;
+}
 }
 
 @media screen and (min-width: 1201px) {
@@ -109,14 +123,5 @@ z-index: 10000;
     color: $color-inverse;
   }
 
-  .usa-logo a:before {
-    display: none;
-  }
 
-  .usa-logo img {
-    display: inline-block;
-    width: 50px;
-    position: relative;
-    top: 10px;
-  }
 }

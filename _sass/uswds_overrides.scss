@@ -10,11 +10,7 @@ z-index: 10000;
   color: $color-black;
 }
 
-.usa-nav-primary button[aria-expanded=true],
-.usa-nav-primary button[aria-expanded=true]:hover {
-  background-color: $color-blue-dark;
-  color: $color-inverse;
-}
+
 .usa-header {
   &.sticky  {
     .usa-nav {
@@ -26,14 +22,7 @@ z-index: 10000;
   font-family: $font-sans;
   font-weight: bold;
 }
-.usa-nav-submenu {
-  background-color: $color-blue-dark;
-  border: 1px solid $color-inverse;
-  border-top: none;
-  a {
-    font-family: $font-sans;
-  }
-}
+
 .banner .usa-header {
   border-bottom: none;
 }
@@ -67,26 +56,59 @@ z-index: 10000;
   line-height: 1.3;
 }
 
+.usa-nav-secondary {
+  li {
+    padding-left: 0;
+  }
+  a {
+    padding:  1.7rem 1.5rem;
+  }
+}
+// Removing pipe between secondary nav links
+.usa-nav-secondary-links li:not(:last-child)::after {
+  content: '';
+  padding: 0;
+}
+
 @media screen and (max-width: 950px) {
   .usa-nav-secondary {
-
     li {
-margin-bottom: 0;
-padding: 1.4rem 1.5rem 1rem 1.8rem;
-border-top: 1px solid #5b616b;
-color: #212121;
-font-size: 1.7rem;
-line-height: 1;
-font-family: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial', sans-serif;
+      margin-bottom: 0;
 
+      border-top: 1px solid #5b616b;
+      color: #212121;
+      font-size: 1.7rem;
+      line-height: 1;
 
-      a {
-        font-size: $base-font-size;
-      }
+}
+    a {
+      font-size: $base-font-size;
+      font-weight: 400;
+      color: #212121;
+      padding: 1.4rem 1.5rem 1rem 1.8rem;
+      display: block;
+      -webkit-font-smoothing: antialiased;
     }
   }
 }
-@media screen and (min-width: 950px) {
+
+@media screen and (min-width: 1201px) {
+
+  .usa-nav-submenu {
+    background-color: $color-blue-dark;
+    border: 1px solid $color-inverse;
+    border-top: none;
+    a {
+      font-family: $font-sans;
+    }
+  }
+
+  .usa-nav-primary button[aria-expanded=true],
+  .usa-nav-primary button[aria-expanded=true]:hover {
+    background-color: $color-blue-dark;
+    color: $color-inverse;
+  }
+
   .usa-logo a:before {
     display: none;
   }

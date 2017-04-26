@@ -26,14 +26,14 @@
   <div class="method--panel method--panel--back">
     <section class="method--section">
       <h1>How to do it</h1>
-      {{ this_method.how }}
+      {{ this_method.how | liquify | markdownify }}
     </section>
     <section class="method--section method--section--non-printable-content">
-      {{ this_method.nonPrintableContent }}
+      {{ this_method.nonPrintableContent | liquify | markdownify }}
     </section>
     <section class="method--section method--section--government-considerations">
       <h1>Applied in government research</h1>
-      {{ this_method.governmentConsiderations }}
+      {{ this_method.governmentConsiderations | liquify | markdownify }}
     </section>
   </div>
   <div class="usa-sr-only">

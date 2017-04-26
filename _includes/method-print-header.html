@@ -1,6 +1,6 @@
 <div class="card-header no-print">
   <nav>
-    <a href="{{sitebase.url}}/{{ page.category | downcase}}" class="usa-button">
+    <a href="{{sitebase.url}}/{{ page.category | downcase}}" class="usa-button-secondary">
       <img src="../images/cards.png" alt="" width="22">
       {% if page.layout == "category" %}
         See all cards
@@ -8,7 +8,7 @@
         See all {{ page.category | downcase}} cards
       {% endif %}
     </a>
-    <a href="javascript:window.print()" class="usa-button">
+    <a href="javascript:window.print()" class="usa-button-secondary">
       <img src="../images/printer.png" alt="" width="20">
       {% if page.layout == "category" %}
         Print all {{ page.category | downcase}} cards

@@ -122,6 +122,25 @@ z-index: 10000;
     background-color: $color-blue-dark;
     color: $color-inverse;
   }
+}
 
+// 18F Button styles
+.usa-button,
+.usa-button:visited {
+  background-color: $color-medium;
+  font-family: $font-sans;
 
+  &:hover {
+    background-color: $color-medium-hover;
+  }
+}
+
+.usa-button-secondary,
+.usa-button-secondary:visited {
+  background-color: $color-bright;
+  color: $color-black;
+
+  &:hover {
+    background-color: $color-bright-hover;
+  }
 }

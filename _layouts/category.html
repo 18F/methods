@@ -1,37 +1,27 @@
 <!DOCTYPE html>
 <html lang='en'>
 {% include head.html %}
-<body class="layout--card">
-    {% include category-setup.html %}
-    {% include header.html %}
-    <main id="main" role="main">
+
+<body class="layout--category">
+  {% include category-setup.html %}
+  {% include header.html %}
+  <main id="main" role="main">
     <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
-        <header class="category--header">
-            <div class="usa-grid">
-                <h1 class="category--title">{{ page.category | capitalize }}</h1>
-                <p class="category--subtitle">{{ page.description }}</p>
-            </div>
-        </header>
-          <div class="usa-grid">
-            <div class="card-header no-print">
-              <nav>
-              <a href="{{sitebase.url}}/">
-                <img src="{{sitebase.url}}/images/cards.png" alt="" width="22">
-                See all cards
-              </a>
-              <a href="javascript:window.print()">
-                <img src="{{sitebase.url}}/images/printer.png" alt="" width="20">
-                Print these cards
-              </a>
-            </nav>
+      <header class="category--header">
+        <div class="usa-grid">
+          <h1 class="category--title">{{ page.category | capitalize }}</h1>
+          <p class="category--subtitle">{{ page.description }}</p>
         </div>
+      </header>
+      <div class="usa-grid">
+        {% include method-print-header.html %}
         {% for method in category_methods %}
           {% include method.html method=method %}
         {% endfor %}
       </div>
     </section>
-    </div>
+  </div>
 </main>
-    {% include footer.html %}
+{% include footer.html %}
 </body>
 </html>

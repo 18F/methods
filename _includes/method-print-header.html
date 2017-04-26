@@ -1,0 +1,20 @@
+<div class="card-header no-print">
+  <nav>
+    <a href="{{sitebase.url}}/{{ page.category | downcase}}" class="usa-button">
+      <img src="../images/cards.png" alt="" width="22">
+      {% if page.layout == "category" %}
+        See all {{ page.category | downcase}} cards
+      {% else %}
+        See all cards
+      {% endif %}
+    </a>
+    <a href="javascript:window.print()" class="usa-button">
+      <img src="../images/printer.png" alt="" width="20">
+      {% if page.layout == "category" %}
+        Print all {{ page.category | downcase}} cards
+      {% else %}
+        Print this card
+      {% endif %}
+    </a>
+  </nav>
+</div>

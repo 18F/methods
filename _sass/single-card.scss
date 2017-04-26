@@ -4,28 +4,26 @@
     margin-top: 0;
     border-radius:0;
   }
-  .card-header {
-    nav {
-      padding: .5em 1em;
-      border-radius: 99rem;
-      margin: 2rem 0;
-      display: inline-block;
-    }
+}
+.card-header {
+  nav {
+    border-radius: 99rem;
+    margin: 2rem 0;
+  }
 
-    a,
-    li {
-      display: inline;
-    }
+  a,
+  li {
+    display: inline;
+  }
 
-    img {
-      margin-right: .2em;
-      vertical-align: middle;
-      position: relative;
-      top: -1px;
-    }
+  img {
+    margin-right: .2em;
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+  }
 
-    a:first-child {
-      margin-right: 1.2em;
-    }
+  a:last-child {
+    margin-right: 0;
   }
 }

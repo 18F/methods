@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang='en'>
 {% include head.html %}
+
 <body class="layout--card">
   {% include category-setup.html %}
   {% include header.html %}
@@ -14,26 +15,11 @@
         </div>
     </header>
     <div class="usa-grid">
-      <div class="card-header no-print">
-        <nav>
-        <a href="{{sitebase.url}}/{{ page.category | downcase}}">
-          <img src="../images/cards.png" alt="" width="22">
-          See all {{ page.category | downcase}} cards
-        </a>
-        <a href="javascript:window.print()">
-          <img src="../images/printer.png" alt="" width="20">
-          Print this card
-        </a>
-      </nav>
-  </div>
-
-  {% include method.html %}
-
-
-</div>
-</section>
-
-  </main>
-  {% include footer.html %}
-  </body>
+      {% include method-print-header.html %}
+      {% include method.html %}
+    </div>
+  </section>
+</main>
+{% include footer.html %}
+</body>
 </html>

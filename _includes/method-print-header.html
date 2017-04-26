@@ -3,9 +3,9 @@
     <a href="{{sitebase.url}}/{{ page.category | downcase}}" class="usa-button">
       <img src="../images/cards.png" alt="" width="22">
       {% if page.layout == "category" %}
-        See all {{ page.category | downcase}} cards
-      {% else %}
         See all cards
+      {% else %}
+        See all {{ page.category | downcase}} cards
       {% endif %}
     </a>
     <a href="javascript:window.print()" class="usa-button">

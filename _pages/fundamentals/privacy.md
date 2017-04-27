@@ -6,11 +6,11 @@ redirect_from: /privacy/
 
 ## What it is
 
-Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act and eGovernment Act.
+Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act, and eGovernment Act.
 
 ## Why it is important
 
-You have a moral, legal, and ethical obligation to protect people’s privacy. Also, if people do not believe you will protect their privacy, they will be unlikely to participate in your research.
+You have a moral, legal, and ethical obligation to protect people’s privacy. Also, if people do not believe you will protect their privacy, they'll be unlikely to participate in your research.
 
 ## How to do it:
 

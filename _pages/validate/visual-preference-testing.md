@@ -6,7 +6,7 @@ redirect_from: /visual-preference-testing/
 
 ## What it is
 
-A method that allows potential users to review and provide feedback on a solution’s ultimate visual direction.
+A method that allows potential users to review and provide feedback on a solution’s visual direction.
 
 ## Reasons to use it
 
@@ -14,17 +14,18 @@ To align the established branding guidelines and attributes of a solution with t
 
 ## Time required
 
-**Medium:** 4-12 hours for mood boards or [style tiles]({{ '/decide/style-tiles/' | prepend: site.baseurl }}). 30 minutes per participant to get feedback.
+**Medium:** 4-12 hours for [style tiles]({{ '/decide/style-tiles/' | prepend: site.baseurl }}). 30 minutes per participant to get feedback.
 
 ## How to do it
 
-1. Create iterations of a mood board or style tile that represent directions a final visual design may follow. If branding guidelines or attributes don’t exist, establish them with stakeholders beforehand.
+1. Create iterations of a style tile that represent directions a final visual design may follow. If branding guidelines or attributes don’t exist, establish them with stakeholders beforehand.
 
-2. Ask questions as objectively as possible. Align questions with the branding guidelines and attributes your project must incorporate.
+2. Interview participants about their reaction to the style tiles.
+  - Ask questions as objectively as possible.
+  - Align questions with the branding guidelines and attributes your project must incorporate.
+  - As far as possible, allow participants to provide their feedback unmoderated or at the end of your research.
 
-3. As far as possible, allow participants to provide their feedback unmoderated or at the end of a research study.
-
-4. Compare the results with the published branding guidelines and attributes that an agency has already put in place.
+3. Compare the results of your research with the agency's published branding guidelines and attributes.
 
 5. Publish the results to the complete product team and decide which direction will guide future design efforts.
 

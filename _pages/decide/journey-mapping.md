@@ -10,7 +10,7 @@ A visualization of the major interactions shaping a user’s experience of a pro
 
 ## Reasons to use it
 
-To provide design teams with a bird’s-eye view of a design system, helping them see the order, complexity, successes, pain points, and interactions that make up a user’s experience.
+To provide design teams with a bird’s-eye view of a service that helps them see the sequence of interactions that make up a user’s experience including the complexity, successes, pain points, and emotions users experience along the way.
 
 ## Time required
 
@@ -22,7 +22,7 @@ To provide design teams with a bird’s-eye view of a design system, helping the
  - People involved and their related goals
  - Their behaviors in pursuit of their goals
  - Information, devices, and services that support their behaviors
- - Discrete moments or major decisions they make
+ - Important moments in how they experience a service or major decisions they make
  - The emotions associated with these moments or decisions
 
 2. Visualize the order in which people exhibit behaviors, use information, make decisions, and feel emotions. Group elements into a table of “phases” related to the personal narrative of each [persona]({{ '/decide/personas/' | prepend: site.baseurl }}). Identify where personas share contextual components.

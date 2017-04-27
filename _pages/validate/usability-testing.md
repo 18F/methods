@@ -20,13 +20,13 @@ To learn a given design’s challenges, opportunities, and successes.
 
 1. [Create a prototype](/../make/prototyping/) that sufficiently conveys the team’s hypothesis based on research. In the absence of a prototype, consider testing a [competitor’s product]({{ '/decide/comparative-analysis/' | prepend: site.baseurl }}).
 
-2. Stage a scenario in which someone who would actually use your product tries to employ the prototype for their own ends. Record their attempt. Optionally:
+2. Stage a scenario in which someone who would actually use your product tries to complete a task. Record their attempt. Optionally:
  - Ask users to think out loud as they try.
  - [Compensate the participant]({{ '/fundamentals/incentives' | prepend: site.baseurl }}) for their time.
 
 3. Avoid asking participants to perform tasks far outside their normal context. This will lead them to reflect on the design rather than their ability to accomplish their goals. (For example, to test a new layout for a “user account” section on a voter registration website, recruit only people who already register to vote online.)
 
-4. Analyze the user’s attempt to employ your prototype, looking especially for areas where they struggled or questions they asked to inform design changes.
+4. Analyze the user’s attempt to complete the task, looking especially for areas where they struggled or questions they asked to inform design changes.
 
 ## Applied in government research
 

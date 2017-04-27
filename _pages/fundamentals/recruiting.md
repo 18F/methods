@@ -6,7 +6,7 @@ redirect_from: /recruiting/
 
 ## What it is
 
-Identifying and gathering people to interview or who will test your product.
+Identifying and gathering people to interview or test your product.
 
 ## Why it is important
 
@@ -18,18 +18,18 @@ Recruiting people who represent your core user group is a critical and oft-overl
 
 ## Seek out people who:
 
-- Are trying to use the thing you are working on right at that very moment.
-- Recently tried to use the thing you are working on.
-- Used the thing you are working on less recently.
-- Have used something like what you are working on, and are likely to use what you are working on.
+- Are trying to use the thing you're working on right at that very moment
+- Recently tried to use the thing you're working on
+- Used the thing you're working on less recently
+- Have used something like what you're working on and are likely to use what you're working on
 
-## Reach them through
+## Reach them through:
 
-- Relevant community organizations.
-- Impromptu requests in or near the relevant environment.
-- Your personal and professional network.
-- The new or existing website.
-- Existing mailing lists.
+- Relevant community organizations
+- Impromptu requests in or near the relevant environment
+- Your personal and professional network
+- The new or existing website
+- Existing mailing lists
 
 ## Applied in government research
 

@@ -17,7 +17,7 @@ how: |
 
   ## Closed card sort
   1. Give users a collection of content represented on cards.
-  2. Ask users to parse the content into a list of categories you have predefined.
+  2. Ask users to separate the cards into a list of categories you have predefined.
   3. Ask users to tell you why they assigned cards to the categories they did.
 
 nonPrintableContent: |

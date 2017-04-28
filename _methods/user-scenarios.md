@@ -1,7 +1,7 @@
 ---
 layout: card
 title: User scenarios
-description: Stories and context &mdash; focused on identifying the what, who, how, and why &mdash; behind why a specific user or user group comes to your site.
+description: A method for telling a conceptual story about a user's interaction with your website, focusing on the what, how, and why.
 category: Decide
 what: A method for telling a conceptual story about a user's interaction with your website, focusing on the what, how, and why.
 why: To communicate a design idea by telling a story about a specific interaction that a system supports. Through creating user scenarios, you'll identify what the user's motivations are for coming to your site as well as their expectations and goals. User scenarios also help the team answer questions about what the product should do as well as how it should look and behave.

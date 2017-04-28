@@ -15,7 +15,7 @@ how: |
 
   4. Craft a problem statement
 
-  > We have observed that [product/service/organization] isn't meeting [these goals/needs], which is causing [this adverse effect]. How might we improve so that our team/organization is more successful based on [these measurable criteria]?
+  > We have observed that [product/service/organization] isn't meeting [these goals/needs], which is causing [this  adverse effect]. How might we improve so that our team/organization is more successful based on [these measurable criteria]?
 
 nonPrintableContent: |
   - ["Needs + Resources + Location + Schedule + Budget = Scope."](http://www.uxmatters.com/mt/archives/2009/12/needs-resources-location-schedule-budget-scope.php) Whitney Hess.

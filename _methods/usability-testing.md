@@ -17,7 +17,7 @@ how:
       </ul>
     </li>
     <li>Avoid asking participants to perform tasks far outside their normal context. This will lead them to reflect on the design rather than their ability to accomplish their goals. (For example, to test a new layout for a &ldquo;user account&rdquo; section on a voter registration website, recruit only people who already register to vote online.)</li>
-    <li>Analyze the user&rsquo;s attempt to  complete the task, looking especially for areas where they struggled or questions they asked to inform design changes.</li>
+    <li>Analyze the user&rsquo;s attempt to complete the task, looking especially for areas where they struggled or questions they asked to inform design changes.</li>
   </ol>
 nonPrintableContent:
   <h1>Examples from 18F</h1>

@@ -1,7 +1,7 @@
 ---
 layout: card
 title: Design pattern library
-description: A collection of UI elements used frequently across a design system, consisting of the base patterns and helpful information about how to use them.
+description: A collection of user interface elements (for example colors, icons, and buttons) used frequently across a website or service, consisting of the base patterns and helpful information about how to use them.
 category: Make
 what: A collection of UI elements used frequently across a design system, consisting of the base patterns and helpful information about how to use them.
 why: To aid in designing a solution that uses UI elements consistently. Maintaining a set of approved, reusable patterns makes it easier to produce new features or make updates to the current solution.

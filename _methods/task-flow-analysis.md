@@ -1,18 +1,18 @@
 ---
 layout: card
 title: Task flow analysis
-description: A step-by-step analysis of a common task a user must perform that diagrams the various touch points and decision points a user goes through to accomplish the task. The touch points should be represented as steps taken by the user, as well as steps taken by the system.
+description: A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
 category: Decide
-what: A step-by-step analysis of a common task a user must perform that diagrams the various touch points and decision points a user goes through to accomplish the task. The touch points should be represented as steps taken by the user, as well as steps taken by the system.
-why: To illustrate in a solution-agnostic way the overall flow that a user progresses through to accomplish a single task. Task flow analysis also demonstrates the relationship between tasks, and how they interconnect across a site.
-timeRequired: 1-2 hours per task
+what: A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
+why: To validate a design team's understanding of users' goals, common scenarios, and tasks, and to illustrate in a solution-agnostic way the overall flow of tasks through which a user progresses to accomplish a goal.  Task flow diagrams also help surface obstacles in the way of users achieving their goal. 
+timeRequired: 2-3 hours per user goal
 how:
   <ol>
-    <li>Identify the task(s) that need to be analyzed.</li>
-    <li>Break each high-level task down into the subtasks and decisions that the user or system must perform. Specify the subtask in terms of objectives. Across all subtasks, you should cover the whole area of interest. Don’t make assumptions about which steps are understood.</li>
-    <li>Produce a layered task diagram of each subtask and decision point. The diagram must cover each step or decision necessary to accomplish the task.</li>
-    <li>Annotate the layered task diagram to pinpoint areas of interest, risk, or potential frustration.</li>
-    <li>Present the analysis to a potential user or stakeholder who was not involved in creating the diagram(s) but who knows the task(s) well enough to check for consistency and accuracy.</li>    
+    <li>Based on user research, identify target users' goals that need to be analyzed.</li>
+    <li>For each goal, identify common scenarios and the tasks and decisions that the user or system will perform in each scenario. Don't assume you and your stakeholders share the same understanding of the tasks. The idea is to make the flow of tasks explicit in the diagram, so that you can check your understanding by walking through the diagram with users (steps 4 & 5).</li>
+    <li>Produce a diagram that includes each task and decision point that a user might encounter on their way toward their goal. While there are several diagrammatic languages that can be used to produce task flow diagrams, the basic look is a flow chart of boxes for tasks and decision points and arrows showing directionality and dependencies among tasks. The diagram should cover the common scenarios identified in step 2.  </li>
+    <li>Present the diagram to a subject matter expert who knows the task(s) well enough to check for accuracy.</li>
+    <li>In collaboration with users and/or subject matter exprts, annotate the task flow diagram to pinpoint areas of interest, risk, or potential frustration.</li>    
   </ol>
 nonPrintableContent:
   <h1>Additional resources</h1>

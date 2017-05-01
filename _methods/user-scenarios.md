@@ -1,25 +1,17 @@
 ---
 layout: card
 title: User scenarios
-description: Stories and context &mdash; focused on identifying the what, who, how, and why &mdash; behind why a specific user or user group comes to your site.
+description: A method for telling a conceptual story about a user's interaction with your website, focusing on the what, how, and why.
 category: Decide
-what: Stories and context &mdash; focused on identifying the what, who, how, and why &mdash; behind why a specific user or user group comes to your site.
-why: To remind a team, during both the design and validation phases, of the overarching goal(s) that users have when interacting with a solution. Scenarios help the team consider the design of the solution as a whole rather than getting caught up by specific pages, elements, or interactions. They note questions and goals and sometimes define the possibilities of how the user(s) can achieve them.
+what: A method for telling a conceptual story about a user's interaction with your website, focusing on the what, how, and why.
+why: To communicate a design idea by telling a story about a specific interaction that a system supports. Through creating user scenarios, you'll identify what the user's motivations are for coming to your site as well as their expectations and goals. User scenarios also help the team answer questions about what the product should do as well as how it should look and behave.
 timeRequired: 1-3 hours
 how:
   <ol>
-    <li>Identify the target user group and any common user goals and scenarios that a person must go through when interacting with a solution.</li>  
-    <li>
-      Decide which type of scenario you&rsquo;re going to write.
-      <ul>
-        <li>Goal or task-based. Short and specific, focus on the core aspects of the goal or task.</li>
-        <li>Elaborate. Provide additional details about the environment and context.</li>
-        <li>Full scale. Include various steps a user needs to take as well as their environment and context.</li>
-      </ul>
-    </li>
-    <li>Describe why it&rsquo;s important for a user to be able to accomplish their goal or complete the scenario.</li>
-    <li>Share with the full team for feedback and refinement.</li>
-    <li>If you want to use the scenarios for <a href="/usability-testing">usability testing</a>, write them so they do not lead the participant to the correct outcome.</li>
+    <li>Determine a [persona](https://methods.18f.gov/decide/personas/) or user group to focus on.</li>  
+    <li>Begin to list out the user’s goals, motivations, and the context/environment in which they interact with your site.</li>
+    <li>Put the details you came up with in step 2 into a story format that includes information about who they are (persona or user group), why they are using your site (motivations), where they are (context), what they need to do (their goal), and how they go about accomplishing their goal (tasks). Keep in mind, the more realistic details you add, the richer and more useful your story becomes for helping in understanding your user’s behaviors.</li>
+    <li>Share the user scenarios you’ve written with the larger team for feedback and refinement.</li>
   </ol>
 nonPrintableContent:
   <h1>Examples from 18F</h1>

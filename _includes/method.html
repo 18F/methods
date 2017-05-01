@@ -1,5 +1,5 @@
 {% assign this_method = include.method | default: page %}
-<span class="anchor" id="{{ method.title | slugify }}"></span>
+<span class="anchor" id="{{ this_method.title | slugify }}"></span>
 <article class="method" itemscope itemtype="http://schema.org/Article">
   <div class="method--panel method--panel--front">
     <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ method.url }}">
@@ -11,7 +11,7 @@
       <h1>What</h1>
       <p>{{ this_method.what }}</p>
       <h1>Why</h1>
-      <p>{{ this_method.why }}</p>
+      <p>{{ this_method.why | liquify | markdownify }}</p>
     <footer>
       <section class="method-section method--section--category">
         <h1>Phase</h1>

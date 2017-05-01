@@ -1,7 +1,7 @@
 ---
 layout: card
 title: Privacy
-description: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act and eGovernment Act.
+description: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act, and eGovernment Act.
 category: Fundamentals
 what: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act and eGovernment Act.
 why: You have a moral, legal, and ethical obligation to protect people's privacy. Also, if people do not believe you will protect their privacy, they will be unlikely to participate in your research.

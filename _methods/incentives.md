@@ -4,7 +4,7 @@ title: Incentives
 description: Offering usability test or user research participants gifts to encourage participation and to thank them for their time.
 category: Fundamentals
 what: Offering usability test or user research participants gifts to encourage participation and to thank them for their time.
-why: Incentives often result in a more diverse, representative set of participants. Without incentives, you often end up recruiting people with a strong intrinsic interest in your website. These people may not have the same needs and experiences as a less interested but larger pool of users. With incentives, you can encourage less interested, more representative people to participate.
+why: Incentives often result in a more diverse, representative set of participants. Without incentives, you often end up recruiting people with a strong intrinsic interest in your website. These people may not have the same needs and experiences as a less interested pool of users. With incentives, you can encourage less interested, more representative people to participate.
 timeRequired: N/A
 how: |
   1. Figure out what's legal and appropriate. Consult your agency's Office of General Counsel on options for providing incentives or gifts to encourage participation in usability testing, consistent with your agency's authorities. The options will depend upon your agency's authorities and the specific facts.

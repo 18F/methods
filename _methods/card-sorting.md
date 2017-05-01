@@ -4,7 +4,7 @@ title: Card sorting
 description: A categorization exercise in which participants divide concepts into different groups based on their
 category: Validate
 what: A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts.
-why: To create content structures that are user-informed and intuitive.
+why: To gain insights from users about how to organize content in an intuitive way.
 timeRequired: 15–30 minutes per user
 how: |
   There are two types of card sorting: open and closed. Most card sorts are performed with one user at a time, but you can also do the exercise with groups of two to three people.

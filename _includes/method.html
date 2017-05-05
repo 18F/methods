@@ -19,7 +19,7 @@
       </section>
       <section class="method-section method--section--time-required">
         <h1>Time required</h1>
-        <p>{{ this_method.timeRequired }}</p>
+        <p>{{ this_method.timeRequired | liquify | markdownify }}</p>
       </section>
     </footer>
   </div>

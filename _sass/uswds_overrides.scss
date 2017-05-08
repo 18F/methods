@@ -4,9 +4,16 @@
 }
 .usa-banner-header{
   font-size: 1.1rem;
+  padding-top: 0;
+  padding-bottom: 0;
   & img {
     margin-right: 0.7rem;
+    margin-top: 1px;
     width: 2rem;
+  }
+  & p {
+    margin: 3px 0;
+    display: inline-block;
   }
 }
 

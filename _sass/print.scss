@@ -151,21 +151,15 @@ a{ color: inherit; }
 	font-weight: normal;
 }
 
-.method .method--panel--back h1{ font-size: 11pt; }
-
-.method .method--panel--back h2,
-.method .method--panel--back em,
-.method .method--panel--back .method--section--government-considerations p,
-.method .method--panel--back .method--section--government-considerations li{
-	font-size: 8pt;
+.method .method--panel--back h1{
+  font-size: 11pt;
 }
 
-
-.method .method--section--government-considerations ul {
-  padding:0;
+.method .method--panel--back,
+.method .method--panel--back h2{
+  font-size: 9pt;
 }
 
-.method .method--panel--back ol{ margin-left: 0; }
 .method .method--panel--back::after{
 	content: "Learn more: methods.18f.gov";
 	border-top: 1px solid #f1f1f1;

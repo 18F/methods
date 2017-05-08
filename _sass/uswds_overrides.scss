@@ -23,6 +23,12 @@ z-index: 10000;
     }
   }
 }
+
+.usa-header-extended .usa-logo {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
 .usa-nav-link, .usa-nav-secondary-links {
   font-family: $font-sans;
   font-weight: bold;
@@ -43,6 +49,8 @@ z-index: 10000;
 
 .usa-logo img {
   display: none;
+  max-width: 4.4rem;
+  margin-right: 1rem;
 }
 
 .usa-logo a:before {

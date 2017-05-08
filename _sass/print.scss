@@ -130,15 +130,12 @@ a{ color: inherit; }
   border-radius: 0;
   clear: both;
   background: white;
-
 }
 
 .method:target{
   border-color: inherit;
   box-shadow: none;
 }
-
-
 
 .method--title{
   font-size: 23pt !important;
@@ -148,11 +145,8 @@ a{ color: inherit; }
 .method h1{ font-size: 14pt; }
 .method h2{ font-size: 12pt; }
 
-.method .method--section--what p,
-.method .method--section--why p,
-.method .method--section--category p,
-.method .method--section--time-required p{
-	font-size: 10pt;
+.method .method--panel--front p{
+  font-size: 10.5pt;
 	line-height: 1.3;
 	font-weight: normal;
 }

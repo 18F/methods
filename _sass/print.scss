@@ -99,11 +99,10 @@ a{ color: inherit; }
       display: table;
 }
 .method .method--panel--back{
-  border: none;
+  border-left: 1px solid #f1f1f1;
   background: none;
   font-size: 9pt;
-background-color: #fafafa;
-float:right;
+  float:right;
 }
 #intro .method {
   border:1px dashed #ccc;

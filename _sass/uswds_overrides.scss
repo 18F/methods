@@ -1,6 +1,11 @@
 .usa-banner {
-  background-color: #F7F6F6;
+  background-color: $color-gray-light;
+  height: 2.3rem;
 }
+.usa-banner-header{
+  font-size: 1.1rem;
+}
+
 .usa-skipnav:focus {
 z-index: 10000;
 }

@@ -4,6 +4,10 @@
 }
 .usa-banner-header{
   font-size: 1.1rem;
+  & img {
+    margin-right: 0.7rem;
+    width: 2rem;
+  }
 }
 
 .usa-skipnav:focus {
@@ -29,6 +33,10 @@ z-index: 10000;
   margin-bottom: 1.5rem;
 }
 
+.usa-navbar{
+  height: 6.5rem;
+}
+
 .usa-nav-link, .usa-nav-secondary-links {
   font-family: $font-sans;
   font-weight: bold;
@@ -44,7 +52,7 @@ z-index: 10000;
 
 .usa-logo a,
 .usa-logo a:visited {
-  color: #212121;
+  color: $color-black;
 }
 
 .usa-logo img {
@@ -89,7 +97,7 @@ z-index: 10000;
       margin-bottom: 0;
 
       border-top: 1px solid #5b616b;
-      color: #212121;
+      color: $color-black;
       font-size: 1.7rem;
       line-height: 1;
 
@@ -97,7 +105,7 @@ z-index: 10000;
     a {
       font-size: $base-font-size;
       font-weight: 400;
-      color: #212121;
+      color: $color-black;
       padding: 1.4rem 1.5rem 1rem 1.8rem;
       display: block;
       -webkit-font-smoothing: antialiased;
@@ -133,6 +141,39 @@ z-index: 10000;
   .usa-nav-primary button[aria-expanded=true],
   .usa-nav-primary button[aria-expanded=true]:hover {
     background-color: $color-blue-dark;
+    color: $color-inverse;
+  }
+}
+
+// Mobile menu button styles
+
+.usa-menu-btn{
+  background-color: $color-medium;
+  border-radius: 3px;
+  color: $color-inverse;
+  display: inline;
+  float: right;
+  font-size: $h6-font-size;
+  font-weight: bold;
+  line-height: 4rem;
+  height: 4rem;
+  margin-top: 1.2rem;
+  margin-right: 2rem;
+  width: 5.8rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+
+  @media screen and (min-width: 951px) {
+    display: none;
+  }
+
+  &:hover {
+    color: $color-inverse;
+    background-color: $color-dark;
+  }
+
+  &:visited {
     color: $color-inverse;
   }
 }

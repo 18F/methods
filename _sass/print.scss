@@ -137,7 +137,11 @@ float:right;
 
 
 
-.method--title{ font-size: 32pt !important; }
+.method--title{
+  font-size: 23pt !important;
+  margin-top: 10px !important;
+  padding-top: 15px !important;
+}
 .method h1{ font-size: 14pt; }
 .method h2{ font-size: 12pt; }
 

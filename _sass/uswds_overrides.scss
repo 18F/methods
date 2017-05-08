@@ -63,14 +63,11 @@ z-index: 10000;
 }
 
 .usa-logo img {
-  display: none;
+  margin-bottom: -1rem;
+  margin-top: 1rem;
   max-width: 4.4rem;
-  margin-right: 1rem;
 }
 
-.usa-logo a:before {
-  content: '18F';
-}
 // bottom border for nav hover state
 .usa-nav-link:hover span {
   padding-bottom: 1.2rem;

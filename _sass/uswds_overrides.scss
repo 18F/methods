@@ -89,6 +89,7 @@ z-index: 10000;
     padding:  1.7rem 1.5rem;
   }
 }
+
 // Removing pipe between secondary nav links
 .usa-nav-secondary-links li:not(:last-child)::after {
   content: '';
@@ -149,6 +150,24 @@ z-index: 10000;
   .usa-nav-primary button[aria-expanded=true]:hover {
     background-color: $color-blue-dark;
     color: $color-inverse;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .usa-nav-primary button,
+  .usa-nav-secondary a{
+    color: $color-gray-dark;
+    font-size: $h5-font-size;
+    font-weight: bold;
+  }
+
+  .usa-nav-primary a{
+      font-family: $font-sans;
+      font-size: $h5-font-size;
+  }
+
+  .usa-nav-secondary li{
+    border: none;
   }
 }
 

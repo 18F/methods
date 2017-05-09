@@ -1,13 +1,17 @@
 <div class="card-header no-print">
   <nav>
-    <a href="{{sitebase.url}}/{{ page.category | downcase}}" class="usa-button usa-button-secondary">
-      <img src="../images/cards.png" alt="" width="22">
+
       {% if page.layout == "category" %}
+      <a href="{{site.baseurl}}/" class="usa-button usa-button-secondary">
+        <img src="../images/cards.png" alt="" width="22">
         See all cards
+      </a>
       {% else %}
+      <a href="{{site.baseurl}}/{{ page.category | downcase}}" class="usa-button usa-button-secondary">
+        <img src="../images/cards.png" alt="" width="22">
         See all {{ page.category | downcase}} cards
+          </a>
       {% endif %}
-    </a>
     <a href="javascript:window.print()" class="usa-button usa-button-secondary">
       <img src="../images/printer.png" alt="" width="20">
       {% if page.layout == "category" %}

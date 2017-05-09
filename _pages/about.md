@@ -4,10 +4,7 @@ layout: secondary
 ---
 
 # About
-
-github:
-- 18F/methods
-description: The 18F Method Cards are a collection of tools that describe how our teams put human-centered design into practice. We’ve gathered them here and created simplified instructions to help other organizations and federal offices adopt human-centered design into their own projects. These cards are focused on design in the context of digital services, but can be adapted to non-technical design projects as well. 
+The 18F Method Cards are a collection of tools that describe how our teams put human-centered design into practice. We’ve gathered them here and created simplified instructions to help other organizations and federal offices adopt human-centered design into their own projects. These cards are focused on design in the context of digital services, but can be adapted to non-technical design projects as well. 
 stage: beta
 
 ## The basics of human-centered design

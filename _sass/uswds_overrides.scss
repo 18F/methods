@@ -125,10 +125,13 @@ z-index: 10000;
 
 .usa-logo img {
   display: inline-block;
-  width: 50px;
-  position: relative;
-  top: 10px;
 }
+}
+
+@media screen and (max-width: 950px) {
+  .usa-logo-text{
+    font-size: 2rem;
+  }
 }
 
 @media screen and (min-width: 1201px) {

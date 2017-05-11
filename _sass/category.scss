@@ -5,6 +5,7 @@
     font-family: $font-sans;
     font-size: $h1-font-size;
     font-weight: bold;
+    margin-top: 0;
     margin-bottom: .2em;
   }
 
@@ -60,4 +61,10 @@ background-color: $color-green;
   .category--header {
     color: $color-inverse;
   }
+}
+@media screen and (max-width: 950px) {
+.category--intro .usa-font-lead {
+  font-size: 2.5rem;
+}
+
 }

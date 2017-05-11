@@ -134,6 +134,9 @@ z-index: 10000;
   .usa-logo-text{
     font-size: 2rem;
   }
+  .usa-nav-primary > li{
+    border-top: 1px solid $color-gray;
+  }
 
 }
 

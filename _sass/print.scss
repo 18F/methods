@@ -104,26 +104,6 @@ a{ color: inherit; }
   font-size: 9pt;
   float:right;
 }
-#intro .method {
-  border:1px dashed #ccc;
-}
-
-#intro .method--panel {
-  width:50%;
-    padding: 0 30px 20px;
-}
-#intro .method--panel--front {
-  background-color: #08375d;
-  color: white;
-  padding: 1in;
-  position: relative;
-  font-size: 72px;
-  font-weight: normal;
-  letter-spacing: -0.02em;
-}
-#intro .method--panel--back {
-  background-color: #fafafa;
-}
 
 .method {
   position: relative;
@@ -174,9 +154,4 @@ a{ color: inherit; }
   left:.25in;
   bottom:.1in;
 }
-#intro nav a {color:#333;}
-#intro nav strong {display:block;}
-#intro .intro-card-header {line-height: .7in;display: block;}
-#intro .intro-card-header img {width:.5in;margin-bottom:.5in;}
 .method .method--section--category{ min-width:0;padding-right:.5in; }
-.method .method--section--time-required{}

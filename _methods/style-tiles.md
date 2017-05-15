@@ -1,6 +1,6 @@
 ---
 layout: card
-title: style tiles
+title: Style tiles
 permalink: /decide/style-tiles/
 description: A design document that contains various fonts, colors, and UI elements that communicate the visual brand direction for a website or application.
 category: Decide

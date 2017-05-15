@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Metrics definition
+permalink: /discover/metrics-definition/
 description: A collaborative effort to define problems through a focus on goals and the criteria by which a team will measure a solution's impact on those problems.
 category: Discover
 what: A collaborative effort to define problems through a focus on goals and the criteria by which a team will measure a solution's impact on those problems.

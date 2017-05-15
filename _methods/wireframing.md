@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Wireframing
+permalink: /make/wireframing/
 description: A simple visual representation of a product or service interface.
 category: Make
 what: A simple visual representation of a product or service interface.

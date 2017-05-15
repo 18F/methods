@@ -1,6 +1,6 @@
 ---
 layout: card
-title: storyboarding
+title: Storyboarding
 permalink: /decide/storyboarding/
 description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project&rsquo;s success, including users.
 category: Decide

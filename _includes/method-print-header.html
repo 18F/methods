@@ -3,24 +3,24 @@
 
       {% if page.layout == "category" %}
       <a href="{{site.baseurl}}/" class="usa-button usa-button-secondary">
-        <img src="../images/cards.png" alt="" width="22">
+        <img src="{{site.baseurl}}/images/cards.png" alt="" width="22">
         See all cards
       </a>
       {% else %}
       <a href="{{site.baseurl}}/{{ page.category | downcase}}" class="usa-button usa-button-secondary" onclick="ga('send', 'event', 'Navigate', 'Click method category link','Navigate to method categoy page');">
-        <img src="../images/cards.png" alt="" width="22">
+        <img src="{{site.baseurl}}/images/cards.png" alt="" width="22">
         See all {{ page.category | downcase}} cards
           </a>
       {% endif %}
 
       {% if page.layout == "category" %}
       <a href="javascript:window.print()" class="usa-button usa-button-secondary" onclick="ga('send', 'event', 'Print', 'Click print cards link','Print all cards');">
-        <img src="../images/printer.png" alt="" width="20">
+        <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
         Print all {{ page.category | downcase}} cards
         </a>
       {% else %}
       <a href="javascript:window.print()" class="usa-button usa-button-secondary" onclick="ga('send', 'event', 'Print', 'Click print cards link','Print individual card');">
-        <img src="../images/printer.png" alt="" width="20">
+        <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
         Print this card
       </a>
       {% endif %}

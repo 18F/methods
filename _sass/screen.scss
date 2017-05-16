@@ -12,3 +12,14 @@ body {
     text-decoration: underline;
   }
 }
+
+.layout--secondary {
+  h1 {
+    font-family: $font-sans;
+    font-size: $h1-font-size;
+  }
+  h2 {
+    font-family: $font-sans;
+    font-size: $h2-font-size;
+  }
+}

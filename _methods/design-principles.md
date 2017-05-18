@@ -1,7 +1,7 @@
 ---
 layout: card
 title: Design principles
-permalink: /discover/design-studio/
+permalink: /discover/design-principles/
 description: Written statements, generally in the form of imperatives like &ldquo;Earn people&rsquo;s trust,&rdquo; that serve as guiding lights during decision-making.
 category: Decide
 what: Written statements, generally in the form of imperatives like &ldquo;Earn people&rsquo;s trust,&rdquo; that serve as guiding lights during decision-making.

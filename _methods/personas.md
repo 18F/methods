@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Personas
+permalink: /decide/personas/
 description: User archetypes based on conversations with real people.
 category: Decide
 what: User archetypes based on conversations with real people.

@@ -1,6 +1,7 @@
 ---
 layout: card
 title: User scenarios
+permalink: /decide/user-scenarios/
 description: A method for telling a conceptual story about a user's interaction with your website, focusing on the what, how, and why.
 category: Decide
 what: A method for telling a conceptual story about a user's interaction with your website, focusing on the what, how, and why.

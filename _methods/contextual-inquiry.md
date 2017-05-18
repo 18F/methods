@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Contextual inquiry
+permalinks: /discover/contextual-inquiry/
 description: The product team unobtrusively observes participants at work, with their permission, then asks questions.
 category: Discover
 what: The product team unobtrusively observes participants at work, with their permission, then asks questions.

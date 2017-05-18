@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Site mapping
+permalink: /decide/site-mapping/
 description: A comprehensive rendering of how a website&rsquo;s pages relate to one another.
 category: Decide
 what: A comprehensive rendering of how a website&rsquo;s pages relate to one another.

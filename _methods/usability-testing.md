@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Usability testing
+permalink: /validate/usability-testing/
 description: Observation of people attempting to use a product.
 category: Validate
 what: Observation of people attempting to use a product.

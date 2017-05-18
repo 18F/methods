@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Privacy
+permalink: /fundamentals/privacy/
 description: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act, and eGovernment Act.
 category: Fundamentals
 what: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act and eGovernment Act.

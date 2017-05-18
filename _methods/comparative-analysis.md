@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Comparative analysis
+permalink: /decide/comparative-analysis/
 description: A detailed review of existing experiences provided either by direct competitors or by related agencies or services.
 category: Decide
 what: A detailed review of existing experiences provided either by direct competitors or by related agencies or services.

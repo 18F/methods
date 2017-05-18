@@ -1,6 +1,7 @@
 ---
 layout: card
 title: Journey mapping
+permalink: /decide/journey-mapping/
 description: A visualization of the major interactions shaping a user's experience of a product or service.
 category: Decide
 what: A visualization of the major interactions shaping a user's experience of a product or service.

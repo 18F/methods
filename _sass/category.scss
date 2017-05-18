@@ -1,0 +1,70 @@
+
+.category {
+
+  .category--title {
+    font-family: $font-sans;
+    font-size: $h1-font-size;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: .2em;
+  }
+
+  .category--subtitle {
+    display: inline;
+    font-family: $font-sans;
+    font-size: $h3-font-size;
+  }
+
+  .category--header {
+    margin-bottom: 2.5em;
+    padding-left: 0;
+
+    ul {
+      margin-left: 1.4em;
+      padding-top: 1.4em;
+
+      li {
+        margin-bottom: .4em;
+      }
+
+    }
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.category--discover {
+  background-color: $color-blue;
+}
+
+.category--make {
+  background-color: $color-gold;
+}
+
+.category--validate {
+background-color: $color-red;
+}
+
+.category--decide {
+background-color: $color-green;
+}
+
+.category--fundamentals, .category--intro {
+  background-color: $color-blue-dark;
+  .category--header {
+    color: $color-inverse;
+  }
+}
+@media screen and (max-width: 950px) {
+.category--intro .usa-font-lead {
+  font-size: 2.5rem;
+}
+
+}

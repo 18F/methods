@@ -1,0 +1,29 @@
+.layout--card {
+
+  .category--header {
+    margin-top: 0;
+    border-radius:0;
+  }
+}
+.card-header {
+  nav {
+    border-radius: 99rem;
+    margin: 2rem 0;
+  }
+
+  a,
+  li {
+    display: inline;
+  }
+
+  img {
+    margin-right: .2em;
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+  }
+
+  a:last-child {
+    margin-right: 0;
+  }
+}

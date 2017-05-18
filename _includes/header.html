@@ -1,0 +1,107 @@
+<a class="usa-skipnav no-print" href="#main">Skip to main content</a>
+<!-- Gov banner BEGIN -->
+
+<div class="usa-banner no-print">
+    <header class="usa-banner-header">
+      <div class="usa-grid usa-banner-inner">
+      <img src="{{site.baseurl}}/uswds-0.14.0/img/favicons/favicon-57.png" alt="U.S. flag">
+      <p>An official website of the United States government</p>
+      </div>
+    </header>
+  </div>
+<!-- Gov banner END -->
+<header role="banner" class="banner">
+<div class="usa-header usa-header-extended no-print">
+<div class="usa-navbar">
+  <button class="usa-menu-btn">Menu</button>
+  <div class="usa-logo" id="logo">
+    <em class="usa-logo-text">
+      <a href="{{site.baseurl}}/" accesskey="1" title="Home" aria-label="Home">  <img src="{{site.baseurl}}/images/18F.svg" width="72"> Method Cards</a>
+    </em>
+  </div>
+</div>
+</div>
+</header>
+<div class="usa-header usa-header-extended no-print sticky">
+<nav role="navigation" class="usa-nav">
+  <div class="usa-nav-inner">
+
+        <button class="usa-nav-close">
+          <img src="{{site.baseurl}}/uswds-0.14.0/img/close.svg" alt="close">
+        </button>
+        <ul class="usa-nav-primary usa-accordion">
+          <li>
+            <button class="
+            usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="side-nav-1">
+              <span>Discover</span>
+            </button>
+            <ul id="side-nav-1" class="usa-nav-submenu">
+              {% for method in discover_methods %}
+                <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+              <li><a href="{{site.baseurl}}/discover">See all discover cards</a></li>
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+              <span>Decide</span>
+            </button>
+            <ul id="sidenav-2" class="usa-nav-submenu">
+              {% for method in decide_methods %}
+                <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+                <li><a href="{{site.baseurl}}/decide">See all decide cards</a></li>
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+              <span>Make</span>
+            </button>
+            <ul id="sidenav-3" class="usa-nav-submenu">
+              {% for method in make_methods %}
+                <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+                <li><a href="{{site.baseurl}}/make">See all make cards</a></li>
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
+              <span>Validate</span>
+            </button>
+            <ul id="sidenav-4" class="usa-nav-submenu">
+              {% for method in validate_methods %}
+                <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+                <li><a href="{{site.baseurl}}/validate">See all validate cards</a></li>
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-5">
+              <span>Fundamentals</span>
+            </button>
+            <ul id="sidenav-5" class="usa-nav-submenu">
+              {% for method in fundamentals_methods %}
+                <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
+              {% endfor %}
+                <li><a href="{{site.baseurl}}/fundamentals">See all fundamentals cards</a></li>
+            </ul>
+          </li>
+          <li>
+
+          </li>
+        </ul>
+        <div class="usa-nav-secondary">
+         <ul class="usa-unstyled-list usa-nav-secondary-links">
+           <li>
+               <a href="{{site.baseurl}}/about">About</a>
+           </li>
+           <li>
+             <a href="javascript:window.print()" onclick="ga('send', 'event', 'Print', 'Click print cards link','Print cards from top nav');">
+               Print
+             </a>
+           </li>
+         </ul>
+       </div>
+  </div>
+</nav>
+</div>

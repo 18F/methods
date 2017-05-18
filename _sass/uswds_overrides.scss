@@ -1,0 +1,237 @@
+.usa-banner {
+  background-color: $color-gray-light;
+  height: 2.3rem;
+}
+.usa-banner-header{
+  font-size: 1.1rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  & img {
+    margin-right: 0.7rem;
+    margin-top: 1px;
+    width: 2rem;
+  }
+  & p {
+    margin: 3px 0;
+    display: inline-block;
+  }
+}
+.banner {
+  border-bottom: 1px solid $color-gray-light;
+}
+
+.usa-skipnav:focus {
+z-index: 10000;
+}
+.usa-nav-primary button:hover,
+.usa-nav-secondary-links a:hover  {
+  background-color: $color-gray-lightest;
+  color: $color-black;
+}
+
+.usa-header-extended .usa-nav {
+  border-top: none;
+}
+
+
+.usa-header-extended .usa-logo {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+.usa-navbar{
+  height: 6.5rem;
+}
+
+.usa-nav-link, .usa-nav-secondary-links {
+  font-family: $font-sans;
+  font-weight: bold;
+}
+
+.usa-logo {
+  position: relative;
+}
+
+.usa-logo a,
+.usa-logo a:visited {
+  color: $color-black;
+}
+
+.usa-logo img {
+  margin-bottom: -1rem;
+  margin-top: 1rem;
+  max-width: 4.4rem;
+}
+
+// bottom border for nav hover state
+.usa-nav-link:hover span {
+  padding-bottom: 1.2rem;
+}
+
+.usa-font-lead {
+  font-family: $font-sans;
+  font-size: $h2-font-size;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  line-height: 1.3;
+}
+
+.usa-nav-secondary {
+  li {
+    padding-left: 0;
+  }
+  a {
+    padding:  1.7rem 1.5rem;
+  }
+}
+
+// Removing pipe between secondary nav links
+.usa-nav-secondary-links li:not(:last-child)::after {
+  content: '';
+  padding: 0;
+}
+
+@media screen and (max-width: 950px) {
+
+  .banner {
+    border-bottom: none;
+  }
+
+  .usa-nav-secondary {
+    li {
+      margin-bottom: 0;
+
+      border-top: 1px solid #5b616b;
+      color: $color-black;
+      font-size: 1.7rem;
+      line-height: 1;
+
+}
+    a {
+      font-size: $base-font-size;
+      font-weight: 400;
+      color: $color-black;
+      padding: 1.4rem 1.5rem 1rem 1.8rem;
+      display: block;
+      -webkit-font-smoothing: antialiased;
+    }
+  }
+
+}
+
+@media screen and (min-width: 951px) {
+.usa-logo a:before {
+  display: none;
+}
+
+.usa-logo img {
+  display: inline-block;
+}
+
+}
+
+@media screen and (max-width: 950px) {
+  .usa-logo-text{
+    font-size: 2rem;
+  }
+  .usa-nav-primary > li{
+    border-top: 1px solid $color-gray;
+  }
+
+}
+
+@media screen and (min-width: 1201px) {
+
+  .usa-nav-submenu {
+    background-color: $color-blue-dark;
+    border: 1px solid $color-inverse;
+    border-top: none;
+    a {
+      font-family: $font-sans;
+    }
+  }
+
+  .usa-nav-primary button[aria-expanded=true],
+  .usa-nav-primary button[aria-expanded=true]:hover {
+    background-color: $color-blue-dark;
+    color: $color-inverse;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .usa-nav-primary button,
+  .usa-nav-secondary a{
+    color: #5b616b;
+    font-size: $h5-font-size;
+    font-weight: bold;
+  }
+
+  .usa-nav-primary a{
+      font-family: $font-sans;
+      font-size: $h5-font-size;
+  }
+
+  .usa-nav-secondary li{
+    border: none;
+  }
+}
+
+// Mobile menu button styles
+
+.usa-menu-btn{
+  background-color: $color-medium;
+  border-radius: 3px;
+  color: $color-inverse;
+  display: inline;
+  float: right;
+  font-size: $h6-font-size;
+  font-weight: bold;
+  line-height: 4rem;
+  height: 4rem;
+  margin-top: 1.2rem;
+  margin-right: 2rem;
+  width: 5.8rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+
+  @media screen and (min-width: 951px) {
+    display: none;
+  }
+
+  &:hover {
+    color: $color-inverse;
+    background-color: $color-dark;
+  }
+
+  &:visited {
+    color: $color-inverse;
+  }
+}
+
+// 18F Button styles
+.usa-button,
+.usa-button:visited,
+button,
+[type='button'],
+[type='submit'],
+[type='reset'],
+[type='image'] {
+  background-color: $color-medium;
+  font-family: $font-sans;
+  width: auto;
+
+  &:hover {
+    background-color: $color-medium-hover;
+  }
+
+  &.usa-button-secondary,
+  &.usa-button-secondary:visited {
+    background-color: $color-bright;
+    color: $color-black;
+
+    &:hover {
+      background-color: $color-bright-hover;
+    }
+  }
+}

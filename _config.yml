@@ -9,163 +9,37 @@ exclude:
 - go
 - vendor
 
-gems:
-  - jekyll-redirect-from
-
 permalink: pretty
 highlighter: rouge
 
 sass:
-  style: :compressed
+  style: compressed
 
 collections:
   pages:
     output: true
     permalink: /:path/
+  methods:
+    output: true
+    permalink: /:path/
+site:
+  title: Methods
 
-# Author/Organization info to be displayed in the templates
-author:
-  name: 18F
-  url: https://18f.gsa.gov
-
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/18F-Logo-2016-Black.svg
-logoalt: 18F logo
-
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: Introduction
-  url: index.html
-  internal: true
-- text: Discover
-  url: discover/
-  internal: true
-  children:
-  - text: Feature dot voting
-    url: feature-dot-voting/
-    internal: true
-  - text: KJ method
-    url: kj-method/
-    internal: true
-  - text: Metrics definition
-    url: metrics-definition/
-    internal: true
-  - text: Design studio
-    url: design-studio/
-    internal: true
-  - text: Bodystorming
-    url: bodystorming/
-    internal: true
-  - text: Cognitive walkthrough
-    url: cognitive-walkthrough/
-    internal: true
-  - text: Contextual inquiry
-    url: contextual-inquiry/
-    internal: true
-  - text: Heuristic analysis
-    url: heuristic-analysis/
-    internal: true
-  - text: Stakeholder and user interviews
-    url: stakeholder-and-user-interviews/
-    internal: true
-- text: Decide
-  url: decide/
-  internal: true
-  children:
-  - text: Comparative analysis
-    url: comparative-analysis/
-    internal: true
-  - text: Content audit
-    url: content-audit/
-    internal: true
-  - text: Design principles
-    url: design-principles/
-    internal: true
-  - text: Site mapping
-    url: site-mapping/
-    internal: true
-  - text: Task flow analysis
-    url: task-flow-analysis/
-    internal: true
-  - text: User scenarios
-    url: user-scenarios/
-    internal: true
-  - text: Affinity diagramming
-    url: affinity-diagramming/
-    internal: true
-  - text: Journey mapping
-    url: journey-mapping/
-    internal: true
-  - text: Mental modeling
-    url: mental-modeling/
-    internal: true
-  - text: Personas
-    url: personas/
-    internal: true
-  - text: Storyboarding
-    url: storyboarding/
-    internal: true
-  - text: Style tiles
-    url: style-tiles/
-    internal: true
-- text: Make
-  url: make/
-  internal: true
-  children:
-  - text: Wireframing
-    url: wireframing/
-    internal: true
-  - text: Design pattern library
-    url: design-pattern-library/
-    internal: true
-  - text: Prototyping
-    url: prototyping/
-    internal: true
-- text: Validate
-  url: validate/
-  internal: true
-  children:
-  - text: Card sorting
-    url: card-sorting/
-    internal: true
-  - text: Multivariate testing
-    url: multivariate-testing/
-    internal: true
-  - text: Usability testing
-    url: usability-testing/
-    internal: true
-  - text: Visual preference testing
-    url: visual-preference-testing/
-    internal: true
-- text: Fundamentals
-  url: fundamentals/
-  internal: true
-  children:
-  - text: Incentives
-    url: incentives/
-    internal: true
-  - text: Privacy
-    url: privacy/
-    internal: true
-  - text: Recruiting
-    url: recruiting/
-    internal: true
+description: 18F’s method cards describe how our organization puts human-centered design into practice.
 
 repos:
 - name: Methods
   description: Main repository
   url: https://github.com/18F/methods
 
-brand_color: '#1188ff'
+jekyll_get:
+  - data: releases
+    json: 'https://api.github.com/repos/18F/web-design-standards/releases'
+
+gems:
+  - jekyll-last-modified-at
 
 google_analytics_ua: UA-48605964-19
-
-back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
-
-styles:
 
 defaults:
   -

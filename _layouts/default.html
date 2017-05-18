@@ -1,45 +1,13 @@
 <!DOCTYPE html>
 <html lang='en'>
+{% include head.html %}
 
-  {% guides_style_18f_include header.html %}
-
-  <body>
-
-    <div class="container">
-
-      <header role="banner">
-
-        <div class="wrap">
-          {% if site.logourl != null %}
-            <a href="{{ site.author.url }}"><img class="logo" src="{{ site.baseurl }}{{ site.logourl }}" alt="{{ site.logoalt }}" width="75px"></a>
-          {% endif %}
-          <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>{% if site.back_link %}
-          <div class="back-link"><a href="{{ site.back_link.url }}">&laquo; {{ site.back_link.text }}</a></div>{% endif %}
-        </div>
-        
-      </header>
-
-      <div class="wrap content">
-
-        <section id="main" class="main-content method {% if page.parent %}{{ page.parent | prepend:'category' }}{% elsif page.title != 'Method Cards' %}parent parent{{page.title}}{% endif %}" role="main">
-          <header>
-            <h1>{{ page.title }}</h1>
-            {% if page.parent %}<a href="{{ site.baseurl }}/{{ page.parent | downcase }}"><h2>{{ page.parent }}</h2></a>{% endif %}
-          <div style="clear:both"></div>
-          </header>
-          {{ content }}
-        </section>
-
-        {% guides_style_18f_include sidebar.html %}
-
-      </div><!-- /.wrap content -->
-
-      {% include footer.html %}
-
-    </div> <!-- /.container -->
-    {% guides_style_18f_include analytics.html %}
-    {% guides_style_18f_include scripts.html %}
-
-  </body>
-
+<body class="layout--default">
+  {% include category-setup.html %}
+  {% include header.html %}
+  <main id="main" role="main">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
 </html>

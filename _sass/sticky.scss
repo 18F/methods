@@ -1,0 +1,22 @@
+@media screen and (min-width: 100px) {
+  .banner {
+    position: sticky;
+    top: 0;
+    z-index: 9000;
+    background-color: $color-inverse;
+  }
+}
+@media screen and (min-width: 950px) {
+  .banner {
+    position: relative;
+    z-index: 9000;
+  }
+
+  .usa-header {
+    &.sticky {
+      position: sticky;
+      top: 0;
+      z-index: 9000;
+    }
+  }
+}

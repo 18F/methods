@@ -1,6 +1,6 @@
 ---
 layout: card
-title: Mental modelling
+title: Mental modeling
 permalink: /decide/mental-modeling/
 description: A simple reference model that correlates existing and potential interfaces with user behaviors.
 category: Decide

@@ -1,0 +1,25 @@
+
+body {
+  background: $color-inverse;
+  font-family: $font-sans;
+  font-size: $base-font-size;
+}
+
+.list-unstyled {
+  padding-left: 0;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.layout--secondary {
+  h1 {
+    font-family: $font-sans;
+    font-size: $h1-font-size;
+  }
+  h2 {
+    font-family: $font-sans;
+    font-size: $h2-font-size;
+  }
+}

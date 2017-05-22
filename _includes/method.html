@@ -1,0 +1,56 @@
+{% assign this_method = include.method | default: page %}
+<span class="anchor" id="{{ this_method.title | slugify }}"></span>
+<article class="method" itemscope itemtype="http://schema.org/Article">
+  <div class="method--panel method--panel--front">
+    <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ method.url }}">
+      {% if this_method.title %}
+        {{ this_method.title }}
+      {% endif %}
+
+    </a></h1>
+      <h1>What</h1>
+      <p>{{ this_method.what }}</p>
+      <h1>Why</h1>
+      <p>{{ this_method.why | liquify | markdownify }}</p>
+    <footer>
+      <section class="method-section method--section--category">
+        <h1>Phase</h1>
+        <p>{{ this_method.category }}</p>
+      </section>
+      <section class="method-section method--section--time-required">
+        <h1>Time required</h1>
+        <p>{{ this_method.timeRequired | liquify | markdownify }}</p>
+      </section>
+    </footer>
+  </div>
+  <div class="method--panel method--panel--back">
+    <section class="method--section">
+      <h1>How to do it</h1>
+      {{ this_method.how | liquify | markdownify }}
+    </section>
+    <section class="method--section method--section--non-printable-content">
+      {{ this_method.nonPrintableContent | liquify | markdownify }}
+    </section>
+    <section class="method--section method--section--government-considerations">
+      <h1>Applied in government research</h1>
+      {{ this_method.governmentConsiderations | liquify | markdownify }}
+    </section>
+  </div>
+  <div class="usa-sr-only">
+    <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <span itemprop="name">18F</span>
+    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <img class="usa-sr-only" itemprop="url" src="{{sitebase.url}}/images/18F-Logo.png" alt="18F Logo">
+       <meta itemprop="width" content="1000">
+       <meta itemprop="height" content="1000">
+    </span>
+  </div>
+  <span itemprop="author" >18F</span>
+  <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <img class="usa-sr-only" itemprop="url" src="{{sitebase.url}}/images/18F-Logo.png" alt="18F Logo">
+     <meta itemprop="width" content="1000">
+     <meta itemprop="height" content="1000">
+  </span>
+  <time datetime="{{ this_method.last_modified_at | date: '%Y-%m-%d' }}" itemprop="datePublished">  {{ this_method.last_modified_at | date: '%B %d, %Y' }}</time>
+</div>
+</article>

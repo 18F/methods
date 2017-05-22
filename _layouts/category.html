@@ -1,41 +1,27 @@
 <!DOCTYPE html>
 <html lang='en'>
+{% include head.html %}
 
-  {% guides_style_18f_include header.html %}
-
-  <body>
-
-    <div class="container">
-
-      <header role="banner">
-
-        <div class="wrap">
-          {% if site.logourl != null %}
-            <img class="logo" src="{{ site.baseurl }}{{ site.logourl }}" alt="{{ site.logoalt }}" width="75px">
-          {% endif %}
-          <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+<body class="layout--category">
+  {% include category-setup.html %}
+  {% include header.html %}
+  <main id="main" role="main">
+    <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
+      <header class="category--header">
+        <div class="usa-grid">
+          <h1 class="category--title">{{ page.category | capitalize }}</h1>
+          <p class="category--subtitle">{{ page.description }}</p>
         </div>
-        
       </header>
-
-      <div class="wrap content">
-
-        {% guides_style_18f_include sidebar.html %}
-
-        <section id="main" class="main-content {{ page.category }}" role="main">
-          <h1>{{ page.title }}</h1>
-          {{ content }}
-        </section>
-
-      </div><!-- /.wrap content -->
-
-      {% include footer.html %}
-
-    </div> <!-- /.container -->
-
-    {% guides_style_18f_include analytics.html %}
-    {% guides_style_18f_include scripts.html %}
-
-  </body>
-
+      <div class="usa-grid">
+        {% include method-print-header.html %}
+        {% for method in category_methods %}
+          {% include method.html method=method %}
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</main>
+{% include footer.html %}
+</body>
 </html>

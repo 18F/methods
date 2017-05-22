@@ -1,0 +1,42 @@
+
+// Typography
+$font-sans: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+
+
+$h1-font-size: 3.8rem;
+$h2-font-size: 3.4rem;
+$h3-font-size: 2.3rem;
+$h4-font-size: 2rem;
+$h5-font-size: 1.4rem;
+$h6-font-size: 1.2rem;
+
+$base-font-size: 1.7rem;
+$small-font-size: 1.4rem;
+$tiny-font-size: 1.2rem;
+
+$paragraph-line-height: 1.5;
+
+
+// Colors
+$color-blue: #5CAED7;
+$color-green: #58B84F;
+$color-gold: #F3CD32;
+$color-red: #E67E37;
+$color-blue-dark: #1C304A; // 18F brand color $color-dark
+$color-gray-darkest: #222;
+$color-gray-dark: #333;
+$color-gray: #ddd;
+
+// 18F brand colors
+$color-light:        #b3efff; // $color-light / $color-secondary-light
+$color-bright:       #00cfff; // $color-bright / $color-secondary
+$color-medium:       #046b99; // $color-medium / $color-primary
+$color-dark:         #1C304A; // $color-dark / $color-primary-dark
+
+$color-bright-hover: #00A7CE;
+$color-medium-hover: #00547A;
+
+$color-gray-light: #f1f1f1; // 18F brand color $color-gray-lightest
+$color-gray-lightest: #fafafa; // 18F brand color $color-gray-hover
+$color-inverse: #fff; // 18F brand color
+$color-black: #000; // 18F brand color

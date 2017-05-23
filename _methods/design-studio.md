@@ -8,7 +8,7 @@ why: To create a shared understanding and appreciation of design problems confro
 timeRequired: 3–4 hours
 how:
   <ol>
-    <li>Invite between six and 12 participants. stakeholders, users, and team members who need to build a shared understanding. Before the meeting, share applicable research, <a href="/personas">users personas</a> (unless users will be present), and the design prompt for the exercise.</li>
+    <li>Invite between six and 12 participants. stakeholders, users, and team members who need to build a shared understanding. Before the meeting, share applicable research, <a href="/decide/personas/">users personas</a> (unless users will be present), and the design prompt for the exercise.</li>
     <li>Bring drawing materials. At the start of the meeting, review the design prompt and research you shared.</li>
     <li>Distribute drawing materials. Ask participants to individually sketch concepts that address the prompt. Remind them that anyone can draw and artistic accuracy is not the goal of the exercise. 15–20 minutes.</li>
     <li>Have participants present their ideas to one another in groups of three and solicit critiques.</li>

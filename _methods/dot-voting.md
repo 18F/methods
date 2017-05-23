@@ -18,5 +18,5 @@ how:
     <li>Identify the features with the largest number of stickers (votes).</li>  
   </ol>
 governmentConsiderations:
-  <p>No PRA implications&#58; feature dot voting falls under &ldquo;direct observation,&rdquo; which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
+  <p>No PRA implications&#58; feature dot voting falls under &ldquo;direct observation,&rdquo; which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for <a href="/fundamentals/recruiting/">Recruiting</a> and <a href="/fundamentals/privacy/">Privacy</a> for more tips on taking input from the public.</p>
 ---

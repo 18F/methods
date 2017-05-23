@@ -1,7 +1,7 @@
 ---
 layout: card
 title: Design principles
-permalink: /discover/design-principles/
+permalink: /decide/design-principles/
 description: Written statements, generally in the form of imperatives like &ldquo;Earn people&rsquo;s trust,&rdquo; that serve as guiding lights during decision-making.
 category: Decide
 what: Written statements, generally in the form of imperatives like &ldquo;Earn people&rsquo;s trust,&rdquo; that serve as guiding lights during decision-making.
@@ -27,5 +27,5 @@ nonPrintableContent:
     <li><a href="http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/">&lquo;Design Principles&colon; Dominance, Focal Points And Hierarchy.&rdquo;</a> Steven Bradley.</li>  
   </ul>
 governmentConsiderations:
-  <p>No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
+  <p>No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for <a href="/fundamentals/recruiting/">Recruiting</a> and <a href="/fundamentals/privacy/">Privacy</a> for more tips on taking input from the public.</p>
 ---

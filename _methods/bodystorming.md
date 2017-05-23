@@ -1,7 +1,7 @@
 ---
 layout: card
 title: Bodystorming
-permalink: /discover/bodystorming
+permalink: /discover/bodystorming/
 description: An improvisational brainstorm based on interaction and movement with the body.
 category: Discover
 what: An improvisational brainstorm based on interaction and movement with the body.

@@ -1,7 +1,7 @@
 ---
 layout: card
 title: Affinity diagramming
-permalink: /decide/affinity-diagramming
+permalink: /decide/affinity-diagramming/
 # Description is used for meta information and should be less than  
 description: A way of finding themes in collections of ideas, quotes, or observations.
 category: Decide

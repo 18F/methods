@@ -10,7 +10,7 @@ why: To draw out insights from qualitative data quickly and collaboratively.
 timeRequired: 1 hour
 how: |
 
-  1. Record ideas, quotes, or observations from [interviews](/stakeholder-and-user-interviews), [contextual inquiry](/contextual-inquiry), or other sources of research on sticky notes.
+  1. Record ideas, quotes, or observations from [interviews](/discover/stakeholder-and-user-interviews/), [contextual inquiry](/discover/contextual-inquiry), or other sources of research on sticky notes.
   2. Place the sticky notes on a white board (in no particular arrangement). Move the sticky notes into related groups.
   3. Use larger notes (or white board markers, if you're using a white board), to write titles or catch phrases for each group.
 

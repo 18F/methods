@@ -9,7 +9,7 @@ why: To ground design in reality by forcing us to consider the goals, behaviors,
 timeRequired: 2–3 hours
 how:
   <ol>
-    <li>Gather research from earlier activities like <a href="/contextual-inquiry">contextual inquiry</a> or <a href="/stakeholder-and-user-interviews">stakeholder interviews</a> in a way that&rsquo;s easy to review. You can create placeholder personas without research to teach user-centered thinking, but because they&rsquo;re effectively stereotypes, avoid using them for implementable design decisions.</li>
+    <li>Gather research from earlier activities like <a href="/discover/contextual-inquiry/">contextual inquiry</a> or <a href="/discover/stakeholder-and-user-interviews/">stakeholder interviews</a> in a way that&rsquo;s easy to review. You can create placeholder personas without research to teach user-centered thinking, but because they&rsquo;re effectively stereotypes, avoid using them for implementable design decisions.</li>
     <li>Create a set of user archetypes based on how you believe people will use your solution. These typically get titles (for example, &ldquo;data administrators&rdquo; rather than &ldquo;those who submit data&rdquo;).</li>
     <li>Analyze your records for patterns as they relate to user archetypes. Specifically note frequently observed goals, motivations, behaviors, and pain points.</li>
     <li>Pair recurring goals, behaviors, and pain points with archetypes. Give each archetype a name and a fictional account of their day. Add a photo of someone who fits the description, but ideally not an image of someone you&rsquo;ve actually interviewed and who may be recognized.</li>

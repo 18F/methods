@@ -1,7 +1,7 @@
 ---
 layout: card
 title: Contextual inquiry
-permalinks: /discover/contextual-inquiry/
+permalink: /discover/contextual-inquiry/
 description: The product team unobtrusively observes participants at work, with their permission, then asks questions.
 category: Discover
 what: The product team unobtrusively observes participants at work, with their permission, then asks questions.
@@ -18,6 +18,6 @@ nonPrintableContent:
   <h1>Example from 18F</h1>
   <p>A pair of 18F team members visited two Department of Labor/Wage Hour Division investigators as they interviewed home health care workers who were subject to unpaid overtime and other infractions. Since it was a sensitive subject, the 18F team did not question the health care workers directly, but instead asked the investigators clarifying questions in private. 18F staff also made sure that photos did not include faces.</p>
 governmentConsiderations:
-  <p>No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="/recruiting">Recruiting</a> and <a href="/privacy">Privacy</a> for more tips on taking input from the public.</p>
+  <p>No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="/fundamentals/recruiting/">Recruiting</a> and <a href="/fundamentals/privacy/">Privacy</a> for more tips on taking input from the public.</p>
   <p>For internal folks, get permission from the right level of management. If participants could be under union agreements, contact the agency&rsquo;s labor relations team.</p>  
 ---

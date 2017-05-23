@@ -23,7 +23,7 @@
 .usa-skipnav:focus {
 z-index: 10000;
 }
-.usa-nav-primary button:hover,
+.usa-nav-primary button[aria-expanded=false]:hover,
 .usa-nav-secondary-links a:hover  {
   background-color: $color-gray-lightest;
   color: $color-black;

@@ -37,7 +37,9 @@ a{ color: inherit; }
   border: 1px dashed #ccc;
   border-radius: 0;
   page-break-after: always;
-
+}
+.category:last-child .method:last-child {
+  page-break-after: avoid;
 }
 
 

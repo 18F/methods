@@ -19,6 +19,8 @@ how: |
   > We have observed that [product/service/organization] isn't meeting [these goals/needs], which is causing [this  adverse effect]. How might we improve so that our team/organization is more successful based on [these measurable criteria]?
 
 nonPrintableContent: |
+  # Additional resources
+  
   - ["Needs + Resources + Location + Schedule + Budget = Scope."](http://www.uxmatters.com/mt/archives/2009/12/needs-resources-location-schedule-budget-scope.php) Whitney Hess.
   - ["No One Nos: Learning to Say No to Bad Ideas."](http://alistapart.com/article/no-one-nos-learning-to-say-no-to-bad-ideas) Whitney Hess.
   - Video: [Understanding Impact: The mySociety agenda.](https://www.youtube.com/watch?v=oAU0c7ocZKs) Dr. Rebecca Rumbul.

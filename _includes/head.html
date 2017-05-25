@@ -11,11 +11,12 @@
 
   <!-- Open Graph data -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:image" content="{{ site.baseurl }}/images/18F-Logo.png" />
+  <meta property="og:site_name" content="18F" />
   <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:image" content="{{ site.baseurl }}/images/18F-Logo.png" />
-  <meta property="og:site_name" content="18F" />
+
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" value="summary">
@@ -23,6 +24,7 @@
   <meta name="twitter:creator" content="@18F">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.baseurl }}/images/18F-Logo.png" />
 
   <script src="{{site.baseurl}}/uswds-0.14.0/js/uswds.js"></script>
 

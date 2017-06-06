@@ -9,7 +9,7 @@ why: Designers have an obligation to respect and protect the privacy of the peop
 timeRequired: N/A
 how: |
   - Familiarize yourself with the Fair Information Practice Principles, a set of precepts at the heart of the U.S. Privacy Act of 1974.
-  - Consult your organization's privacy office (which may include your general counsel) if your design process plans to substantially make use of information that could potentially identify specific individuals.
+  - Consult your organization's privacy office, which may include your general counsel, if you plan to substantially make use of information that could potentially identify specific individuals.
   - Inform and collect the voluntary consent of anyone who participates in moderated design research.
   - Ensure that all unmoderated forms of research (for example, web analytics) are covered by an easy-to-access privacy policy.
   - Pay special attention to all categories of information used throughout the design process. Note contexts in which it's not okay to share certain categories of information.
@@ -17,8 +17,7 @@ nonPrintableContent: |
   # Additional resources
   - [Doing Research at 18F](https://handbook.18f.gov/research-guidelines/)
   - [18F's Before You Ship Guide: Privacy](https://before-you-ship.18f.gov/privacy/)
-  - [National Strategy For Trusted Identities In Cyberspace - Appendix A: – Fair Information Practice
-Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
+  - [National Strategy For Trusted Identities In Cyberspace - Appendix A&colon; Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
   
 governmentConsiderations: |
   The government's use of information about people is subject to a number of laws and policies, including: [the Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition), the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.

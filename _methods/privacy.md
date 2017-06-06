@@ -2,7 +2,7 @@
 layout: card
 title: Privacy
 permalink: /fundamentals/privacy/
-description: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act of 1974, the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
+description: Designers have an obligation to respect and protect the privacy of the people their work impacts.
 category: Fundamentals
 what: Designers are privy to all kinds of information that isn't public knowledge. You have an obligation to steward this information in a way that respects people's privacy.
 why: Designers have a moral, legal, and ethical obligation to respect and protect the privacy of the people their work impacts. People will not honestly participate in design processes, nor make use of digital products and services, they do not trust. 

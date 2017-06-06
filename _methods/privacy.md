@@ -10,8 +10,7 @@ timeRequired: N/A
 how: |
   - Familiarize yourself with the Fair Information Practice Principles, a set of precepts at the heart of the U.S. Privacy Act of 1974.
   - Consult your organization's privacy office, which may include your general counsel, if you plan to substantially make use of information that could potentially identify specific individuals.
-  - Inform and collect the voluntary consent of anyone who participates in moderated design research.
-  - Ensure that all unmoderated forms of research (for example, web analytics) are covered by an easy-to-access privacy policy.
+  - Inform and collect the voluntary consent of anyone who participates in moderated design research. Ensure that all unmoderated forms of research (for example, web analytics) are covered by an easy-to-access privacy policy.
   - Pay special attention to all categories of information used throughout the design process. Note contexts in which it's not okay to share certain categories of information.
 nonPrintableContent: |
   # Additional resources

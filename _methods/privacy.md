@@ -2,18 +2,28 @@
 layout: card
 title: Privacy
 permalink: /fundamentals/privacy/
-description: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act, and eGovernment Act.
+description: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act of 1974, the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
 category: Fundamentals
-what: Our obligation to keep data about research participants secure. Covered by laws like the Privacy Act, Federal Information Security Management Act and eGovernment Act.
-why: You have a moral, legal, and ethical obligation to protect people's privacy. Also, if people do not believe you'll protect their privacy, they'll be unlikely to participate in your research.
-timeRequired: 2–3 hours
+what: Designers are privy to all kinds of information that isn't public knowledge. You have an obligation to steward this information in a way that respects people's privacy.
+why: Designers have a moral, legal, and ethical obligation to respect and protect the privacy of the people their work impacts. People will not honestly participate in design processes, nor make use of digital products and services, they do not trust. 
+timeRequired: N/A
 how: |
-  When you do have to collect or store personally identifiable information, comply with all the legal requirements. Those planning usability testing should consult with their agencies' Office of General Counsel to ensure that the usability testing is carried out consistent with applicable laws and regulations. See [18F's guide on Personally Identifiable Information](https://pages.18f.gov/before-you-ship/security/pii/).
+  - Inform and collect the voluntary consent of anyone you ask to participate in moderated design research.
+  - Ensure that all unmoderated forms of research (for example, web analytics) are covered by an easy-to-access privacy policy.
+  - Pay special attention to all forms of information &mdash; specifically personally identifable information (PII) &mdash; collected, used, stored, and shared throughout the design process. Note specific contexts in which information is or isn't okay to share.
 nonPrintableContent: |
   # Additional resources
-
-  - [18F Guides | Before you ship: Personally Identifiable Information](https://pages.18f.gov/before-you-ship/security/pii/)
+  - [Doing Research at 18F](https://handbook.18f.gov/research-guidelines/)
+  - [Before you Ship: Privacy](https://before-you-ship.18f.gov/privacy/)
+  - [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
+  - [The Menlo Report](https://www.dhs.gov/sites/default/files/publications/CSD-MenloPrinciplesCORE-20120803.pdf)
 
 governmentConsiderations: |
-  No PRA implications. No information is collected from members of the public.
+  The government's use of information about people is subject to a number of laws and policies, including: the Privacy Act of 1974, the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
+
+  Conduct a Privacy Threshold Analysis in collaboration your agency's privacy office whenever a design calls for the creation of a new datastore (for example, a new database). 
+
+  Consult your agency's privacy office if your design process plans to substantially collect, create, and/or make use of records containing PII. Ensure all collections of personally identifiable information are accompanied by a Privacy Act Notice/Statement. See, for example, [18F's Privacy Act Notice for Design Research](https://www.gsa.gov/portal/content/162010). 
+
+  
 ---

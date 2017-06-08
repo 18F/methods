@@ -2,10 +2,10 @@
 layout: card
 title: Privacy
 permalink: /fundamentals/privacy/
-description: Designers have an obligation to respect and protect the privacy of the people their work impacts.
+description: Designers have an obligation to respect and protect the privacy.
 category: Fundamentals
-what: Designers may access many cateorgies of information that aren't public knowledge. You have an obligation to steward information in a way that respects people's privacy.
-why: Designers have an obligation to respect and protect the privacy of the people. People will not honestly participate in design processes, nor make use of products and services, they do not trust. 
+what: Designers can work with many different categories of information, across a number of different contexts. You have an obligation to steward that information in a way that respects privacy.
+why: Designers have an obligation to respect and protect privacy. People will not honestly participate in design processes, nor make use of products and services, they do not trust. 
 timeRequired: N/A
 how: |
   - Familiarize yourself with the Fair Information Practice Principles, a set of precepts at the heart of the U.S. Privacy Act of 1974.

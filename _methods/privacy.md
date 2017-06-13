@@ -2,9 +2,9 @@
 layout: card
 title: Privacy
 permalink: /fundamentals/privacy/
-description: Designers have an obligation to respect and protect the privacy.
+description: Designers have an obligation to respect and protect privacy.
 category: Fundamentals
-what: Designers can work with many different categories of information, across a number of different contexts. You have an obligation to steward that information in a way that respects privacy.
+what: Designers potentially might work with many different categories of information, across a number of different contexts. You have an obligation to steward information in a way that respects privacy.
 why: Designers have an obligation to respect and protect privacy. People will not honestly participate in design processes, nor make use of products and services, they do not trust. 
 timeRequired: N/A
 how: |
@@ -16,12 +16,12 @@ nonPrintableContent: |
   # Additional resources
   - [Doing Research at 18F](https://handbook.18f.gov/research-guidelines/)
   - [18F's Before You Ship Guide: Privacy](https://before-you-ship.18f.gov/privacy/)
-  - [National Strategy For Trusted Identities In Cyberspace - Appendix A&colon; Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
+  - [National Strategy For Trusted Identities In Cyberspace &mdash; Appendix A&colon; Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
   
 governmentConsiderations: |
   The government's use of information about people is subject to a number of laws and policies, including: [the Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition), the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
 
-  Conduct a Privacy Threshold Analysis in collaboration your agency's privacy office whenever a design calls for the creation of a new datastore (for example, a new database). 
+  Conduct a Privacy Threshold Analysis in collaboration your agency's privacy office whenever a design calls for the creation of a new data store (for example, a database). 
 
   Ensure all collections of personally identifiable information (PII) are accompanied by a Privacy Act Notice. See, for example, [18F's Privacy Act Notice for Design Research](https://www.gsa.gov/portal/content/162010). 
 

@@ -28,6 +28,6 @@ governmentConsiderations: |
 <!-- nonPrintablecontent:
   <h1>Additional resources</h1>
   <ul>
-  <li><a href="/assets/downloads/18FResearchParticipantConsentForm.docx">18F&#39;s participant consent form</a>, which offers Anti-Deficiency Act-compliant language.</li>
+    <li><a href="/assets/downloads/ConsentForm.docx">GSA's informed consent form</a>, which offers Anti-Deficiency Act-compliant language.</li>
   </ul>
  -->

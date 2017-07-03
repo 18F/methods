@@ -18,11 +18,6 @@ Method Cards
 
 For the most part, the processes are the same as anywhere. However, to stay on the happy side of the law, take a look at [Recruiting](pages/recruiting/), [Incentives](pages/incentives/), [Informed consent](pages/informed-consent/), [Privacy](pages/privacy/), and the [Paperwork Reduction Act](pages/paperwork-reduction-act/). No matter which methods we work with, these are the [fundamentals](pages/fundamentals/) of our design research.
 
-
-## This site is built using the 18F Guides Template
-
-See the [guides template repo](https://github.com/18f/guides-template) for more information.
-
 ## Generating the Methods site/hosting locally
 
 ### Cloning and running 18F/methods
@@ -44,23 +39,16 @@ $ brew install ruby
 
 To serve 18F Design Methods locally, using `METHODS` as the name of your new repository:
 
-```shell
-$ git clone https://github.com/18F/methods.git METHODS
-$ cd METHODS
-$ ./go init
-$ ./go serve
+Run each of the following steps to get the site up and running.
+
+```
+git clone git@github.com:18F/methods
+cd methods
+bundle install
+jekyll serve
 ```
 
-This will check that your Ruby version is supported, install the [Bundler
-gem](http://bundler.io/) if it is not yet installed, install all the gems
-needed by the template, and launch a running instance on
-`http://localhost:4000/`. (Make sure to include the trailing slash! The built-in
-Jekyll webserver doesn’t redirect to it.) You can see how your local copy of Methods renders
-at any time by going to that URL. To stop serving locally, simply type `Ctrl+C`
-into the terminal again.
-
-After going through these steps, run `./go` to see a list of available
-commands. The `serve` command is the most common for routine development.
+You should be able to see the site at: http://localhost:4000/
 
 ### Forking into your own repository
 

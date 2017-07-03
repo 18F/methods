@@ -37,8 +37,6 @@ $ brew update
 $ brew install ruby
 ```
 
-This will check that your Ruby version is supported, install the Bundler gem if it is not yet installed, install all the gems needed by the template, and launch a running instance on http://localhost:4000/. (Make sure to include the trailing slash! The built-in Jekyll webserver doesn’t redirect to it.) You can see how your local copy of Methods renders at any time by going to that URL. To stop serving locally, simply type Ctrl+C into the terminal again.
-
 To serve 18F Design Methods locally, using `METHODS` as the name of your new repository:
 
 Run each of the following steps to get the site up and running.

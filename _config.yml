@@ -34,10 +34,12 @@ repos:
 
 jekyll_get:
   - data: releases
-    json: 'https://api.github.com/repos/18F/web-design-standards/releases'
+    json: 'https://api.github.com/repos/18F/methods/releases'
 
 gems:
   - jekyll-last-modified-at
+  - jemoji
+  - jekyll-mentions
 
 google_analytics_ua: UA-48605964-19
 

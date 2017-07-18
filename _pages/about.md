@@ -21,12 +21,7 @@ As with all of 18F’s products, the Method Cards are completely open source. Yo
 ## Release notes
 
 {% for release in site.data.releases %}
-
-## Version {{ release.name }}
-
+### {{ release.name }}
 <p class="site-subheading">{{ release.published_at | date: "%B %d, %Y" }}</p>
-
 {{ release.body | markdownify }}
-
-<hr />
 {% endfor %}

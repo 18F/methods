@@ -68,6 +68,10 @@ git push origin 18f-pages-staging
 
 Now you can edit your own fork of Methods freely, and push up changes as you need.
 
+## We follow the 18F style guide 
+
+The site uses a custom set of styles that inherit from the [U.S. Web Design Standards](https://standards.usa.gov/) and [18F brand](https://brand.18f.gov/) guidelines. 
+
 ## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):

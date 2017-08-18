@@ -1,4 +1,3 @@
-console.log("hello world!");
 window.onhashchange=function () {
   // Finding the button to expand the menu
   var el = document.querySelector(".usa-nav-primary [aria-expanded=true]");

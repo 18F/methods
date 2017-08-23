@@ -9,6 +9,8 @@ exclude:
 - go
 - vendor
 
+baseurl: /
+
 permalink: pretty
 highlighter: rouge
 

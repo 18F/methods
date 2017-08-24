@@ -14,12 +14,12 @@
       {% endif %}
 
       {% if page.layout == "category" %}
-      <a href="javascript:window.print()" class="usa-button usa-button-secondary" onclick="ga('send', 'event', 'Print', 'Click print cards link','Print all cards');">
+      <a href="javascript:window.print()" class="usa-button usa-button-secondary">
         <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
         Print all {{ page.category | downcase}} cards
         </a>
       {% else %}
-      <a href="javascript:window.print()" class="usa-button usa-button-secondary" onclick="ga('send', 'event', 'Print', 'Click print cards link','Print individual card');">
+      <a href="javascript:window.print()" class="usa-button usa-button-secondary">
         <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
         Print this card
       </a>

@@ -5,6 +5,18 @@ body {
   font-size: $base-font-size;
 }
 
+p {
+  max-width: 40em;
+}
+
+.usa-font-lead{
+  max-width: 20em;
+  display: block;
+}
+.usa-font-lead span{
+  white-space: nowrap;
+}
+
 .list-unstyled {
   padding-left: 0;
 

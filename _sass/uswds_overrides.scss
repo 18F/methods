@@ -209,6 +209,9 @@ z-index: 10000;
   }
 }
 
+.usa-accordion, 
+.usa-accordion > li{ font-family: inherit; }
+
 // 18F Button styles
 .usa-button,
 .usa-button:visited,

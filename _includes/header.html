@@ -1,14 +1,8 @@
-<!-- Google Analytics -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-48605964-19', 'auto');
-  ga('send', 'pageview');
-</script>
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCRJ8BM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <a class="usa-skipnav no-print" href="#main">Skip to main content</a>
 <!-- Gov banner BEGIN -->
 
@@ -47,7 +41,8 @@
               <span>Discover</span>
             </button>
             <ul id="side-nav-1" class="usa-nav-submenu">
-              {% for method in discover_methods %}
+              {% assign discovermethods = discover_methods | sort:"title"  %}
+              {% for method in discovermethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
               <li><a href="{{site.baseurl}}/discover">See all discover cards</a></li>
@@ -58,7 +53,8 @@
               <span>Decide</span>
             </button>
             <ul id="sidenav-2" class="usa-nav-submenu">
-              {% for method in decide_methods %}
+              {% assign decidemethods = decide_methods | sort:"title"  %}
+              {% for method in decidemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/decide">See all decide cards</a></li>
@@ -69,7 +65,8 @@
               <span>Make</span>
             </button>
             <ul id="sidenav-3" class="usa-nav-submenu">
-              {% for method in make_methods %}
+              {% assign makemethods = make_methods | sort:"title"  %}
+              {% for method in makemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/make">See all make cards</a></li>
@@ -80,7 +77,8 @@
               <span>Validate</span>
             </button>
             <ul id="sidenav-4" class="usa-nav-submenu">
-              {% for method in validate_methods %}
+              {% assign validatemethods = validate_methods | sort:"title"  %}
+              {% for method in validatemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/validate">See all validate cards</a></li>
@@ -91,7 +89,8 @@
               <span>Fundamentals</span>
             </button>
             <ul id="sidenav-5" class="usa-nav-submenu">
-              {% for method in fundamentals_methods %}
+              {% assign fundamentalsmethods = fundamentals_methods | sort:"title"  %}
+              {% for method in fundamentalsmethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/fundamentals">See all fundamentals cards</a></li>
@@ -107,7 +106,7 @@
                <a href="{{site.baseurl}}/about">About</a>
            </li>
            <li>
-             <a href="javascript:window.print()" onclick="ga('send', 'event', 'Print', 'Click print cards link','Print cards from top nav');">
+             <a href="javascript:window.print()">
                Print
              </a>
            </li>

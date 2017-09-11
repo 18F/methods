@@ -41,7 +41,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <span>Discover</span>
             </button>
             <ul id="side-nav-1" class="usa-nav-submenu">
-              {% for method in discover_methods %}
+              {% assign discovermethods = discover_methods | sort:"title"  %}
+              {% for method in discovermethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
               <li><a href="{{site.baseurl}}/discover">See all discover cards</a></li>
@@ -52,7 +53,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <span>Decide</span>
             </button>
             <ul id="sidenav-2" class="usa-nav-submenu">
-              {% for method in decide_methods %}
+              {% assign decidemethods = decide_methods | sort:"title"  %}
+              {% for method in decidemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/decide">See all decide cards</a></li>
@@ -63,7 +65,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <span>Make</span>
             </button>
             <ul id="sidenav-3" class="usa-nav-submenu">
-              {% for method in make_methods %}
+              {% assign makemethods = make_methods | sort:"title"  %}
+              {% for method in makemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/make">See all make cards</a></li>
@@ -74,7 +77,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <span>Validate</span>
             </button>
             <ul id="sidenav-4" class="usa-nav-submenu">
-              {% for method in validate_methods %}
+              {% assign validatemethods = validate_methods | sort:"title"  %}
+              {% for method in validatemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/validate">See all validate cards</a></li>
@@ -85,7 +89,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <span>Fundamentals</span>
             </button>
             <ul id="sidenav-5" class="usa-nav-submenu">
-              {% for method in fundamentals_methods %}
+              {% assign fundamentalsmethods = fundamentals_methods | sort:"title"  %}
+              {% for method in fundamentalsmethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
               {% endfor %}
                 <li><a href="{{site.baseurl}}/fundamentals">See all fundamentals cards</a></li>

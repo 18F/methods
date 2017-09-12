@@ -7,6 +7,12 @@ Method Cards
 - To build a shared vocabulary for each method among 18F staff and our partner agencies.
 - To give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
 
+## Method Cards mission and vision
+In late 2016, we articulated a vision and mission for the project that focus our efforts on meeting the needs of government users:
+
+ - **Vision:** To help folks choose and apply human centered design approaches for solving problems in government.
+ - **Mission:** To increase adoption of human centered design tools by providing guidance on sequencing and adapting these tools within the constraints of a given government project.
+
 ## We’ve grouped these methods into four phases
 
 - **Discover**: Learn as much as you can about the project and people involved.

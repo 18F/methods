@@ -2,7 +2,7 @@
 <html lang='en'>
 {% include head.html %}
 
-<body class="layout--default">
+<body class="layout--default layout--{{ page.title | slugify }}">
   {% include category-setup.html %}
   {% include header.html %}
   <main id="main" role="main">

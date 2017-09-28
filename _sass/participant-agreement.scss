@@ -60,7 +60,7 @@ main footer {
 	font-size: 0.75em;
 }
 
-main footer footer :target { background: yellow; }
+main footer li:target { background: yellow; }
 
 main footer h1:first-child{
 	position: absolute;
@@ -68,21 +68,20 @@ main footer h1:first-child{
 }
 
 
-.page footer li{
+main footer li{
 	position: relative;
 	padding-right: 1.4em;
 	padding-top: 8px;
 	margin-bottom: 0;
 }
 
-.page footer li,
-.page footer li p{
+main footer li,
+main footer li p{
 	font-size: 14px;
 	line-height: 1.4em;
 }
-
-footer li p:last-child{ margin-bottom: 0;}
-footer a[aria-label]{
+main footer li p:last-child{ margin-bottom: 0;}
+main footer a[aria-label]{
 	position: absolute;
 	right: 0;
 	top: 10px;

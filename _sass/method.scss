@@ -221,25 +221,8 @@ display:table;margin-top: 3rem;}
 
 }
 
-
-
-.category--discover .method--title {
-  border-color: $color-blue;
-}
-
-
-.category--decide .method--title {
-  border-color: $color-green;
-}
-
-.category--make .method--title {
-  border-color: $color-gold;
-}
-
-.category--validate .method--title {
-  border-color: $color-red;
-}
-
-.category--fundamentals .method--title {
-  border-color: $color-blue-dark;
-}
+.category--discover .method--title {      border-color: $color-blue; }
+.category--decide .method--title {        border-color: $color-green; }
+.category--make .method--title {          border-color: $color-gold; }
+.category--validate .method--title {      border-color: $color-red;}
+.category--fundamentals .method--title {  border-color: $color-blue-dark; }

@@ -1,38 +1,43 @@
-.usa-banner {
-  background-color: $color-gray-light;
-  height: 2.3rem;
-}
-.usa-banner-header{
-  font-size: 1.1rem;
-  padding-top: 0;
-  padding-bottom: 0;
-  & img {
-    margin-right: 0.7rem;
-    margin-top: 1px;
-    width: 2rem;
-  }
-  & p {
-    margin: 3px 0;
-    display: inline-block;
-  }
-}
-.banner {
-  border-bottom: 1px solid $color-gray-light;
+html, body{
+    background: #eee;
+    color: #555;
 }
 
-.usa-skipnav:focus {
-z-index: 10000;
+main{
+    background: white;
+    color: #333;
+    padding-top: 1px;
+    padding-bottom: 6em;
 }
+
+h1, h2, h3, h4, h5, h6 { font-family: inherit; }
+
+h1{ margin-top: 1em }
+
+.usa-banner { background-color: $color-gray-light; }
+
+.usa-banner-header{
+  font-size: 1.1rem;
+  line-height: 1.2em;
+  padding-bottom: 0.4em;
+  & img {
+    margin-right: 0.7rem;
+    width: 1.33rem;
+    position: relative;
+    top: 0.25em;
+  }
+
+}
+
+.usa-skipnav:focus { z-index: 10000; }
+
 .usa-nav-primary button:hover,
 .usa-nav-secondary-links a:hover  {
   background-color: $color-gray-lightest;
   color: $color-black;
 }
 
-.usa-header-extended .usa-nav {
-  border-top: none;
-}
-
+.usa-header-extended .usa-nav { border: none; }
 
 .usa-header-extended .usa-logo {
   margin-top: 0;

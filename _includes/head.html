@@ -29,6 +29,17 @@
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/uswds-0.14.0/css/uswds.css">
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/styles.css">
   <link rel="stylesheet" type="text/css" media="print" href="{{site.baseurl}}/stylesheets/print.css">
+
+  {% if page.layout == "default" %}
+    <style type="text/css">
+      @page { size: portrait; }
+    </style>
+  {% else %}
+  <style type="text/css">
+    @page { size: landscape; }
+  </style>
+  {% endif %}
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 

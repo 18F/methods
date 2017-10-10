@@ -29,8 +29,8 @@ header.banner,
   display: none;
 }
 
-.usa-section{ 
-    padding: 0 !important; 
+.usa-section{
+    padding: 0 !important;
     page-break-before: always;
 }
 
@@ -159,3 +159,41 @@ header.banner,
   bottom:.1in;
 }
 .method .method--section--category{ min-width:0;padding-right:.5in; }
+
+
+.layout--example-design-research-participant-agreement .page{
+  width: 8.5in;
+  height: 11in;
+  padding: 1in 1in;
+  font-size: 12pt;
+}
+
+.layout--example-design-research-participant-agreement .page p,
+.layout--example-design-research-participant-agreement .page li{
+  line-height: 1.4em;
+}
+
+.layout--example-design-research-participant-agreement main ul+hr+p{
+  line-height: 1.2em;
+}
+
+.layout--example-design-research-participant-agreement .page h1{
+  font-size: 16pt;
+  margin-top: 0;
+}
+
+.layout--example-design-research-participant-agreement table td{
+  padding: 1rem;
+}
+
+.layout--example-design-research-participant-agreement main footer{
+  margin-bottom: 0;
+  border: none;
+}
+.layout--example-design-research-participant-agreement main footer ol{ padding: 0; }
+.layout--example-design-research-participant-agreement main footer li p,
+.layout--example-design-research-participant-agreement main footer li{ font-size: 8pt; }
+
+.layout--example-design-research-participant-agreement main footer a[aria-label]{
+  display: none;
+}

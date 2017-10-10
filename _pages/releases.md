@@ -1,6 +1,6 @@
 ---
 title: Releases
-layout: secondary
+layout: default
 ---
 
 # Releases

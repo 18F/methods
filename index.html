@@ -1,19 +1,27 @@
 ---
 permalink: /
 title: Introduction
-layout: default
+layout: none
 ---
-
-{% include category-setup.html %}
-
-<section class="category category--intro usa-section no-print" id="intro">
-  <article>
-    <div class="method--panel method--panel--front">
-      <div class="intro-card-header usa-grid">
-        <p class="usa-font-lead no-print">A collection of tools to bring human-centered design into your project.</p>
-      </div>
-      </div>
-  </article>
-</section>
-
-{% include deck.html %}
+<!DOCTYPE html>
+<html lang='en'>
+  {% include head.html %}
+  <body class="layout--default layout--{{ page.title | slugify }}">
+    {% include category-setup.html %}
+    {% include header.html %}
+    <main id="main" role="main">
+      {% include category-setup.html %}
+      <section class="category category--intro usa-section no-print" id="intro">
+        <article>
+          <div class="method--panel method--panel--front">
+            <div class="intro-card-header usa-grid">
+              <p class="usa-font-lead no-print">A collection of tools to bring human-centered design into your project.</p>
+            </div>
+          </div>
+        </article>
+      </section>
+      {% include deck.html %}
+    </main>
+      {% include footer.html %}
+  </body>
+</html>

@@ -1,16 +1,18 @@
 /* @group layout--design-research-participant-agreement */
 
-.layout--example-design-research-participant-agreement main{
-  max-width: 720px;
-  margin: 1em auto;
-  border: 8px solid #eee;
-  padding: 2em;
+.layout--example-design-research-participant-agreement .page h1{
+  font-size: 2.3rem;
 }
 
-.layout--example-design-research-participant-agreement main h1{
-	margin-top: 0;
-}
+@media screen and (min-width: 853.33px) {
+  .layout--example-design-research-participant-agreement .page{
+    max-width: 40em;
+  }
+  .layout--example-design-research-participant-agreement .page h1{
+    font-size: $h1-font-size;
+  }
 
+}
 
 .layout--example-design-research-participant-agreement main hr{
 	height: 5px;
@@ -53,35 +55,35 @@
 
 /* @group footnotes */
 
-main { counter-reset: footnotes; }
+.layout--example-design-research-participant-agreement main { counter-reset: footnotes; }
 
-main footer {
+.layout--example-design-research-participant-agreement main footer {
 	border-top: 1px solid #ddd;
 	font-size: 0.75em;
 }
 
-main footer li:target { background: yellow; }
+.layout--example-design-research-participant-agreement main footer li:target { background: yellow; }
 
-main footer h1:first-child{
+.layout--example-design-research-participant-agreement main footer h1:first-child{
 	position: absolute;
 	left: -9999em;
 }
 
-
-main footer li{
+.layout--example-design-research-participant-agreement main footer li{
 	position: relative;
 	padding-right: 1.4em;
 	padding-top: 8px;
 	margin-bottom: 0;
 }
 
-main footer li,
-main footer li p{
+.layout--example-design-research-participant-agreement main footer li,
+.layout--example-design-research-participant-agreement main footer li p{
 	font-size: 14px;
 	line-height: 1.4em;
 }
-main footer li p:last-child{ margin-bottom: 0;}
-main footer a[aria-label]{
+
+.layout--example-design-research-participant-agreement main footer li p:last-child{ margin-bottom: 0;}
+.layout--example-design-research-participant-agreement main footer a[aria-label]{
 	position: absolute;
 	right: 0;
 	top: 10px;
@@ -96,7 +98,7 @@ main footer a[aria-label]{
 	border-radius: 100%;
 }
 
-a[aria-describedby="footnote-label"] {
+.layout--example-design-research-participant-agreement a[aria-describedby="footnote-label"] {
   counter-increment: footnotes;
   text-decoration: none;
   color: inherit;
@@ -104,7 +106,7 @@ a[aria-describedby="footnote-label"] {
   outline: none;
 }
 
-a[aria-describedby="footnote-label"]::after {
+.layout--example-design-research-participant-agreement a[aria-describedby="footnote-label"]::after {
   content: counter(footnotes);
   font-size: 0.8em;
   margin-left: 0.1em;

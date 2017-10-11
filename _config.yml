@@ -9,7 +9,7 @@ exclude:
 - go
 - vendor
 
-baseurl: /
+baseurl: ""
 
 permalink: pretty
 highlighter: rouge

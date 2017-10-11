@@ -134,25 +134,29 @@
   .method--panel--front {
     position: relative;
 
-footer {position: relative;  width: 100%;
-display:table;margin-top: 3rem;}
-
-  @media screen and (min-width: 800px) {
     footer {
-      position: absolute;
+      position: relative;
       width: 100%;
-      bottom: 0;
-      left: 0;
-      padding: 0 40px 20px;
       display: table;
+      margin-top: 3rem;
+    }
+
+    @media screen and (min-width: 800px) {
+      footer {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        padding: 0 40px 20px;
+        display: table;
+      }
     }
   }
-}
 
 @media screen and (min-width: 800px) {
   .method--panel--front {
     position: relative;
-    padding-bottom:15rem;
+    padding-bottom: 15rem;
   }
 }
 
@@ -160,6 +164,7 @@ display:table;margin-top: 3rem;}
   .method--panel--back {
   	font-size: $small-font-size;
   	background: $color-gray-lightest;
+    border-radius: 0 3px 3px 0;
 
     h1 {
     font-size: $h4-font-size;

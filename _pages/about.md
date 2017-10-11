@@ -3,12 +3,8 @@ title: About
 ---
 
 # About
-The 18F Method Cards are a collection of tools that describe how our teams put human-centered design into practice. We’ve gathered them here and created simplified instructions to help other organizations and federal offices adopt human-centered design into their own projects. These cards are focused on design in the context of digital services, but can be adapted to non-technical design projects as well.
-<<<<<<< HEAD
 
-=======
-stage: beta
->>>>>>> Style cleanup
+The 18F Method Cards are a collection of tools that describe how our teams put human-centered design into practice. We’ve gathered them here and created simplified instructions to help other organizations and federal offices adopt human-centered design into their own projects. These cards are focused on design in the context of digital services, but can be adapted to non-technical design projects as well.
 
 ## The basics of human-centered design
 Human-centered design is a methodology that incorporates feedback from the people for whom you are designing throughout the design process. The goal of human-centered design is to end up with a solution that is tailored to meet people's needs, with little wasted effort and reduced risk. To achieve this goal, design teams at 18F talk with and observe real users to understand their needs, context, and challenges, come up with design concepts that might address these challenges, and then test them with real users. [Learn more about the benefits and techniques of human-centered design](http://www.designkit.org/human-centered-design).
@@ -20,15 +16,3 @@ We’ve included additional guidance for using these methods in government resea
 
 ## Go behind the scenes
 As with all of 18F’s products, the Method Cards are completely open source. You are free to copy, share, or reuse them [as you wish](https://github.com/18F/methods/blob/staging/LICENSE.md). We also welcome input from the public, whether it’s correcting a typo or suggesting a new method to include. You can see our [guidelines for contributing on GitHub](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
-<<<<<<< HEAD
-
-## Release notes
-
-{% for release in site.data.releases %}
-### {{ release.name }}
-<p class="site-subheading">{{ release.published_at | date: "%B %d, %Y" }}</p>
-{{ release.body | markdownify }}
-{% endfor %}
-
-=======
->>>>>>> Style cleanup

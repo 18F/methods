@@ -18,6 +18,10 @@ body {
   margin: 0 0 2em 0;
 }
 
+.layout--page main {
+  padding-bottom: 8em;
+}
+
 @media screen and (min-width: 853.33px) {
   .layout--about .page,
   .layout--example-design-research-participant-agreement .page {

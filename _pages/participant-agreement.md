@@ -1,6 +1,7 @@
 ---
 title: Example Design Research Participant Agreement
 description: An example design research participant agreement
+layout: page
 ---
 
 # Example Design Research Participant Agreement

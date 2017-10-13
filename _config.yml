@@ -9,8 +9,6 @@ exclude:
 - go
 - vendor
 
-baseurl: ""
-
 permalink: pretty
 highlighter: rouge
 
@@ -44,10 +42,3 @@ gems:
   - jekyll-mentions
 
 google_analytics_ua: UA-48605964-19
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"

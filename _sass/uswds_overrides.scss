@@ -1,54 +1,75 @@
-html, body{
-    background: #eee;
-    color: #555;
+html,
+body {
+  background: $color-inverse;
+  color: #555;
 }
 
-main{
-    background: white;
-    color: #333;
-    padding-top: 1px;
-    padding-bottom: 6em;
+main {
+  background: $color-inverse;
+  color: $color-gray-dark;
+  padding-bottom: 0;
 }
 
-h1, h2, h3, h4, h5, h6 { font-family: inherit; }
 
-h1{ margin-top: 1em }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: inherit;
+}
 
-.usa-banner { background-color: $color-gray-light; }
+h1 {
+  margin-top: 1em;
+}
+.layout--default #main {
+  padding-bottom: 8rem;
+}
 
-.usa-banner-header{
+.usa-banner {
+  background-color: $color-gray-light;
+  height: 2.3rem;
+}
+
+.usa-banner-header {
   font-size: 1.1rem;
   line-height: 1.2em;
-  padding-bottom: 0.4em;
-  & img {
-    margin-right: 0.7rem;
-    width: 1.33rem;
-    position: relative;
-    top: 0.25em;
-  }
+  padding-bottom: .4em;
 
+  & img {
+    margin-right: .7rem;
+    position: relative;
+    top: .25em;
+    width: 1.33rem;
+  }
 }
 
-.usa-skipnav:focus { z-index: 10000; }
+.usa-skipnav:focus {
+  z-index: 10000;
+}
 
 .usa-nav-primary button:hover,
-.usa-nav-secondary-links a:hover  {
+.usa-nav-secondary-links a:hover {
   background-color: $color-gray-lightest;
   color: $color-black;
 }
 
-.usa-header-extended .usa-nav { border: none; }
-
-.usa-header-extended .usa-logo {
-  margin-top: 0;
-  margin-bottom: 1.5rem;
+.usa-header-extended .usa-nav {
+  border: 0;
 }
 
-.usa-navbar{
+.usa-header-extended .usa-logo {
+  margin-bottom: 1.5rem;
+  margin-top: 0;
+}
+
+.usa-navbar {
   height: 6.5rem;
 }
 
-.usa-nav-link, .usa-nav-secondary-links {
+.usa-nav-link,
+.usa-nav-secondary-links {
   font-family: $font-sans;
   font-weight: bold;
 }
@@ -77,7 +98,7 @@ h1{ margin-top: 1em }
   font-family: $font-sans;
   font-size: $h2-font-size;
   font-weight: bold;
-  letter-spacing: 0.5px;
+  letter-spacing: .5px;
   line-height: 1.3;
 }
 
@@ -85,8 +106,9 @@ h1{ margin-top: 1em }
   li {
     padding-left: 0;
   }
+
   a {
-    padding:  1.7rem 1.5rem;
+    padding: 1.7rem 1.5rem;
   }
 }
 
@@ -97,60 +119,56 @@ h1{ margin-top: 1em }
 }
 
 @media screen and (max-width: 950px) {
-
   .banner {
-    border-bottom: none;
+    border-bottom: 0;
   }
 
   .usa-nav-secondary {
     li {
-      margin-bottom: 0;
-
       border-top: 1px solid #5b616b;
       color: $color-black;
       font-size: 1.7rem;
       line-height: 1;
+      margin-bottom: 0;
+    }
 
-}
     a {
+      -webkit-font-smoothing: antialiased;
+      color: $color-black;
+      display: block;
       font-size: $base-font-size;
       font-weight: 400;
-      color: $color-black;
       padding: 1.4rem 1.5rem 1rem 1.8rem;
-      display: block;
-      -webkit-font-smoothing: antialiased;
     }
   }
-
 }
 
 @media screen and (min-width: 951px) {
-.usa-logo a:before {
-  display: none;
-}
+  .usa-logo a:before {
+    display: none;
+  }
 
-.usa-logo img {
-  display: inline-block;
-}
-
+  .usa-logo img {
+    display: inline-block;
+  }
 }
 
 @media screen and (max-width: 950px) {
-  .usa-logo-text{
+  .usa-logo-text {
     font-size: 2rem;
   }
-  .usa-nav-primary > li{
+
+  .usa-nav-primary > li {
     border-top: 1px solid $color-gray;
   }
-
 }
 
 @media screen and (min-width: 1201px) {
-
   .usa-nav-submenu {
     background-color: $color-blue-dark;
     border: 1px solid $color-inverse;
-    border-top: none;
+    border-top: 0;
+
     a {
       font-family: $font-sans;
     }
@@ -165,25 +183,25 @@ h1{ margin-top: 1em }
 
 @media screen and (max-width: 950px) {
   .usa-nav-primary button,
-  .usa-nav-secondary a{
+  .usa-nav-secondary a {
     color: #5b616b;
     font-size: $h5-font-size;
     font-weight: bold;
   }
 
-  .usa-nav-primary a{
-      font-family: $font-sans;
-      font-size: $h5-font-size;
+  .usa-nav-primary a {
+    font-family: $font-sans;
+    font-size: $h5-font-size;
   }
 
-  .usa-nav-secondary li{
-    border: none;
+  .usa-nav-secondary li {
+    border: 0;
   }
 }
 
 // Mobile menu button styles
 
-.usa-menu-btn{
+.usa-menu-btn {
   background-color: $color-medium;
   border-radius: 3px;
   color: $color-inverse;
@@ -191,22 +209,22 @@ h1{ margin-top: 1em }
   float: right;
   font-size: $h6-font-size;
   font-weight: bold;
-  line-height: 4rem;
   height: 4rem;
-  margin-top: 1.2rem;
+  line-height: 4rem;
   margin-right: 2rem;
-  width: 5.8rem;
+  margin-top: 1.2rem;
   text-align: center;
   text-decoration: none;
   text-transform: none;
+  width: 5.8rem;
 
   @media screen and (min-width: 951px) {
     display: none;
   }
 
   &:hover {
-    color: $color-inverse;
     background-color: $color-dark;
+    color: $color-inverse;
   }
 
   &:visited {

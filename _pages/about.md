@@ -16,3 +16,11 @@ We’ve included additional guidance for using these methods in government resea
 
 ## Go behind the scenes
 As with all of 18F’s products, the Method Cards are completely open source. You are free to copy, share, or reuse them [as you wish](https://github.com/18F/methods/blob/staging/LICENSE.md). We also welcome input from the public, whether it’s correcting a typo or suggesting a new method to include. You can see our [guidelines for contributing on GitHub](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
+
+## Release notes
+
+{% for release in site.data.releases %}
+### {{ release.name }}
+<p class="site-subheading">{{ release.published_at | date: "%B %d, %Y" }}</p>
+{{ release.body | markdownify }}
+{% endfor %}

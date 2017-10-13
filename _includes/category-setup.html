@@ -4,6 +4,7 @@
 {% assign validate_methods     = (site.methods | where: "category", "Validate" ) %}
 {% assign fundamentals_methods = (site.methods | where: "category", "Fundamentals" ) %}
 {% assign category_methods     = (site.methods | where: "category", page.title ) %}
+{% assign all_methods          = (site.methods) %}
 
 <! -- This is used for setting category variables -->
 {% capture var-category-name %}{{ page.category | downcase }}_methods{% endcapture %}

@@ -1,6 +1,4 @@
-
 body {
-  background: $color-inverse;
   font-family: $font-sans;
   font-size: $base-font-size;
 }
@@ -13,14 +11,17 @@ body {
   }
 }
 
-.layout--secondary {
-  h1 {
-    font-family: $font-sans;
-    font-size: $h1-font-size;
-  }
-  h2 {
-    font-family: $font-sans;
-    font-size: $h2-font-size;
+//.layout--introduction main,
+//.layout--category main,
+// .layout--card .usa-section{ padding: 0 }
+.layout--card .method {
+  margin: 0 0 2em 0;
+}
+
+@media screen and (min-width: 853.33px) {
+  .layout--about .page,
+  .layout--example-design-research-participant-agreement .page {
+    max-width: 32em;
   }
   h3 {
     font-family: $font-sans;

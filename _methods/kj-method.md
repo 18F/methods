@@ -22,7 +22,7 @@ nonPrintableContent:
   <h1>Example from 18F</h1>
   <p>18F conducted this exercise with 20 Federal Election Commission staff members to define priorities around conflicting requests. We used this method to get data from staff (not the decision makers) about what they saw as the most pressing needs. We synthesized and presented the data back to the decision makers.</p>
   <h1>Additional resources</h1>
-  <a href="http://www.uie.com/articles/kj_technique/">&ldquo;The KJ-Technique&colon; A Group Process for Establishing Priorities.&rdquo; Jared M. Spool.</a>
+  <a href="http://www.uie.com/articles/kj_technique/">&ldquo;The KJ-Technique: A Group Process for Establishing Priorities.&rdquo; Jared M. Spool.</a>
 governmentConsiderations:
   <p>At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agency&rsquo;s Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies.</p>
 ---

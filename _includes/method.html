@@ -6,25 +6,24 @@
       {% if this_method.title %}
         {{ this_method.title }}
       {% endif %}
-
     </a></h1>
-      <h1>What</h1>
+      <h2>What</h2>
       <p>{{ this_method.what }}</p>
-      <h1>Why</h1>
+      <h2>Why</h2>
       <p>{{ this_method.why | liquify | markdownify }}</p>
     <footer>
       <section class="method-section method--section--category">
-        <h1>Phase</h1>
+        <h2>Phase</h2>
         <p>{{ this_method.category }}</p>
       </section>
       <section class="method-section method--section--time-required">
-        <h1>Time required</h1>
+        <h2>Time required</h2>
         <p>{{ this_method.timeRequired | liquify | markdownify }}</p>
       </section>
     </footer>
   </div>
   <div class="method--panel method--panel--back">
-      {{ content }}
+      {{ this_method.content }}
   </div>
   <div class="usa-sr-only">
     <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">

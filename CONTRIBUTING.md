@@ -8,7 +8,7 @@ Thanks for your interest in contributing to the 18F Methods! We appreciate all c
 To ensure a welcoming environment for our projects, our staff follows the [18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md); contributors should do the same.
 
 ## Open source
-This project is maintained in accordance with [18F’s Open Source Policy GitHub repository]( https://github.com/18f/open-source-policy).
+This project is maintained in accordance with [18F’s Open Source Policy]( https://github.com/18f/open-source-policy).
 
 ## Public domain
 This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).

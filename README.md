@@ -46,6 +46,7 @@ For more information on contributing to the Methods (or even making a suggestion
 ## Past contributors
 
 - Melissa Braxton
+- Andre Francisco
 - Jeremy Canfield
 - Erica Deahl
 - Carolyn Dew

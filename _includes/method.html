@@ -8,9 +8,9 @@
       {% endif %}
     </a></h1>
       <h2>What</h2>
-      <p>{{ this_method.what }}</p>
+      <p>{{ this_method.what | smartify | liquify | markdownify }}</p>
       <h2>Why</h2>
-      <p>{{ this_method.why | liquify | markdownify }}</p>
+      <p>{{ this_method.why | smartify | liquify | markdownify }}</p>
     <footer>
       <section class="method-section method--section--category">
         <h2>Phase</h2>

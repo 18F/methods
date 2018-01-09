@@ -16,7 +16,7 @@ how: |
 nonPrintableContent: |
   # Additional resources
 
-  - [Multivariate Testing in Action&colon; Five Simple Steps to Increase Conversion Rates. Paras Chopra.](http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/)
+  - [Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates. Paras Chopra.](http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/)
   - [Multivariate Testing 101: A Scientific Method of Optimizing Design. Paras Chopra.](http://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/)
 
 governmentConsiderations: |

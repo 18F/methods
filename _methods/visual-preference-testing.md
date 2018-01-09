@@ -2,9 +2,9 @@
 layout: card
 title: Visual preference testing
 permalink: /validate/visual-preference-testing/
-description: A method that allows potential users to review and provide feedback on a solution’s visual direction.
+description: A method that allows potential users to review and provide feedback on a solution's visual direction.
 category: Validate
-what: A method that allows potential users to review and provide feedback on a solution’s visual direction.
+what: A method that allows potential users to review and provide feedback on a solution's visual direction.
 why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
 timeRequired: |
   4-12 hours for [style tiles](/decide/style-tiles/#style-tiles). 30 minutes per participant to get feedback.
@@ -19,8 +19,8 @@ how: |
 
 nonPrintableContent: |
   # Additional resources
-    - [Rapid Desirability Testing&colon; A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley.
-    - [Preference and Desirability Testing&colon; Measuring Emotional Response to Guide Design.](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design) Michael Hawley and Paul Doncaster.
+    - [Rapid Desirability Testing: A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley.
+    - [Preference and Desirability Testing: Measuring Emotional Response to Guide Design.](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design) Michael Hawley and Paul Doncaster.
 governmentConsiderations: |
   No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
 ---

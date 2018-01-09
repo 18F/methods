@@ -16,7 +16,7 @@ nonPrintableContent: |
   # Additional resources
   - [Doing Research at 18F](https://handbook.18f.gov/research-guidelines/)
   - [18F's Before You Ship Guide: Privacy](https://before-you-ship.18f.gov/privacy/)
-  - [National Strategy For Trusted Identities In Cyberspace &mdash; Appendix A&colon; Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
+  - [National Strategy For Trusted Identities In Cyberspace &mdash; Appendix A: Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
   
 governmentConsiderations: |
   The government's use of information about people is subject to a number of laws and policies, including: [the Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition), the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.

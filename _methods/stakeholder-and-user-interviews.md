@@ -2,9 +2,9 @@
 layout: card
 title: Stakeholder and user interviews
 permalink: /discover/stakeholder-and-user-interviews/
-description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project&rsquo;s success, including users.
+description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
 category: Discover
-what: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project&rsquo;s success, including users.
+what: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
 why: To build consensus about the problem statement and research objectives.
 timeRequired: 1–2 hours per interviewee
 ---
@@ -20,7 +20,7 @@ timeRequired: 1–2 hours per interviewee
 
 - ["Tips for capturing the best data from user interviews"](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/) Ryan Sibley.
 - ["Build empathy with stakeholder interviews, part 1: Preparation."](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/) Andrew Maier.
-- ["Build empathy with stakeholder interviews, part 2: Conversation."](https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/) Andrew Maier. 
+- ["Build empathy with stakeholder interviews, part 2: Conversation."](https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/) Andrew Maier.
 
 {% include header-gov-research.html %}
 

@@ -11,8 +11,6 @@ governmentConsiderations:
 
 ---
 
-
-
 {% include header-how.html %}
 
 1. With permission from a supervisor and from the participant, schedule a time to watch a typical work activity and record data.
@@ -23,7 +21,6 @@ governmentConsiderations:
 {% include header-18f-example.html %}
 
 A pair of 18F team members visited two Department of Labor/Wage Hour Division investigators as they interviewed home health care workers who were subject to unpaid overtime and other infractions. Since it was a sensitive subject, the 18F team did not question the health care workers directly, but instead asked the investigators clarifying questions in private. 18F staff also made sure that photos did not include faces.
-
 
 {% include header-gov-research.html %}
 

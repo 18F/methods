@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 name: Methods
 exclude:
 - CONTRIBUTING.md

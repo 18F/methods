@@ -9,9 +9,7 @@ why: To remind participants that interactions are human and physical, to teach s
 timeRequired: 1-2 hours
 ---
 
-<section class="method--section" markdown="1">
-
-# How to do it
+{% include header-how.html %}
 
 1. Gather three to six members of the project team who are ready to think on their feet. If possible, identify a few users who can play along.
 1. Bring the project team to the user's environment. If that's not practical, model the user's environment in a conference room.
@@ -19,20 +17,10 @@ timeRequired: 1-2 hours
 1. Use props to role play how users accomplish their goals. "Speak the interface" to one another. For example, one of the touchpoints might say "Submit all of your required forms," and the user might respond "Arg! I don't know what forms are required!"
 1. Review the exercise as a team and document the opportunities/challenges that this exercise suggests.
 
-</section>
-
-<section class="method--section method--section--non-printable-content" markdown="1">
-
-# Additional resources
+{% include header-additional-resources.html %}
 
 - [An explanation of bodystorming on Wicked Problems: Problems Worth Solving. Austin Center for Design.](https://www.wickedproblems.com/6_bodystorming.php)
 
-</section>
-
-<section class="method--section method--section--government-considerations" markdown="1">
-
-# Applied in government research
+{% include header-gov-research.html %}
 
 No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
-
-</section>

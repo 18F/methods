@@ -1,19 +1,17 @@
 .card-header {
+  margin-bottom: 2.5rem;
   margin-top: 1em;
   text-align: right;
 
   nav {
     ol {
-      justify-content: center;
       align-items: stretch;
+      justify-content: center;
     }
 
     li {
       border-radius: 3px;
     }
-
-    li:first-of-type {}
-    li:last-of-type {}
   }
 
   .footer {
@@ -21,88 +19,93 @@
     margin: 0 auto;
 
     h1 {
-      margin-top: 1.2em;
-      margin-bottom: .6em;
+      color: $color-gray-dark;
       font-family: $font-sans;
       font-size: $h4-font-size;
       font-weight: bold;
-      color: #333;
+      margin-bottom: .6em;
+      margin-top: 1.2em;
     }
   }
 }
 
 .anchor {
-  display: block;
   content: '';
-  margin-top: -7rem;
+  display: block;
   height: 7rem;
+  margin-top: -7rem;
   visibility: hidden;
 }
+
 .method {
   background: $color-inverse;
-  margin-bottom: 1em;
-  border-bottom: none;
-  position: relative;
-  font-family: $font-sans;
+  border-bottom: 0;
   border-radius: 3px;
   display: table;
+  font-family: $font-sans;
   margin-bottom: 3rem;
+  position: relative;
 
   &:target {
-    box-shadow: 0px 5px 5px -2px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 5px 5px -2px rgba(0, 0, 0, .25);
   }
-    p,
-   li {
-  	line-height: 1.3em;
-  	margin-bottom: .6em;
+
+  p,
+  li {
+    line-height: 1.3em;
+    margin-bottom: .6em;
     margin-top: 0;
   }
+
   ol,
   ul {
-    padding-top: .6em;
     margin-left: 1.4em;
+    padding-top: .6em;
   }
 
   .method--title {
+    border-top: 8px solid;
     font-family: $font-sans;
     font-size: $h2-font-size;
-  	font-weight: bold;
-  	margin-top: .5em;
-  	margin-bottom: .5em;
+    font-weight: bold;
+    margin-bottom: .5em;
+    margin-top: .5em;
     padding-top: .8em;
-    border-top: 8px solid;
-      a,
-      a:visited {
-        color: $color-gray-dark;
-        text-decoration: none;
-        &:hover  {
-          text-decoration: underline;
-        }
+
+    a,
+    a:visited {
+      color: $color-gray-dark;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
       }
+    }
   }
 
   h1 {
-    margin-top: 1.2em;
-    margin-bottom: .6em;
     font-family: $font-sans;
     font-size: $h4-font-size;
     font-weight: bold;
+    margin-bottom: .6em;
+    margin-top: 1.2em;
   }
-    .method--panel {
-      padding: 20px 40px;
-      display: block;
-      width: auto;
-    }
+
+  .method--panel {
+    display: block;
+    padding: 20px 40px;
+    width: auto;
+  }
 
 
   @media screen and (min-width: 800px) {
-  .method--panel {
-    padding: 20px 40px;
-    display: table-cell;
-    width: 50%;
-    vertical-align: top;
-  }
+    .method--panel {
+      display: table-cell;
+      padding: 20px 40px;
+      vertical-align: top;
+      width: 50%;
     }
+  }
 
   .method--section--what,
   .method--section--why {
@@ -110,91 +113,103 @@
     font-size: $base-font-size;
     line-height: 1.4;
   }
+
   .method--section--category {
     min-width: 15rem;
   }
+
   .method--section--time-required {
     width: 100%;
   }
+
   .method--section--category,
   .method--section--time-required {
-  	border-top: 1px solid $color-gray-light;
+    border-top: 1px solid $color-gray-light;
     display: table-cell;
-      h1 {
-    	font-size: $tiny-font-size;
-    	text-transform: uppercase;
-    	letter-spacing: 0.02em;
-      }
-      p {
-        font-size: $small-font-size;
-      }
+
+    h1 {
+      font-size: $tiny-font-size;
+      letter-spacing: .02em;
+      text-transform: uppercase;
+    }
+
+    p {
+      font-size: $small-font-size;
+    }
   }
 
   // method--panel--front
   .method--panel--front {
     position: relative;
 
-footer {position: relative;  width: 100%;
-display:table;margin-top: 3rem;}
-
-  @media screen and (min-width: 800px) {
     footer {
-      position: absolute;
-      width: 100%;
-      bottom: 0;
-      left: 0;
-      padding: 0 40px 20px;
       display: table;
+      margin-top: 3rem;
+      position: relative;
+      width: 100%;
+    }
+
+    @media screen and (min-width: 800px) {
+      footer {
+        bottom: 0;
+        display: table;
+        left: 0;
+        padding: 0 40px 20px;
+        position: absolute;
+        width: 100%;
+      }
     }
   }
-}
 
-@media screen and (min-width: 800px) {
-  .method--panel--front {
-    position: relative;
-    padding-bottom:15rem;
+  @media screen and (min-width: 800px) {
+    .method--panel--front {
+      padding-bottom: 15rem;
+      position: relative;
+    }
   }
-}
 
   // method--panel--back
   .method--panel--back {
-  	font-size: $small-font-size;
-  	background: $color-gray-lightest;
+    background: $color-gray-lightest;
+    font-size: $small-font-size;
 
     h1 {
-    font-size: $h4-font-size;
-    margin-top: 0.6em;
-    }
-    h2 {
-    font-size: $h5-font-size;
-    margin-top: 1em;
-    font-family: $font-sans;
+      font-size: $h4-font-size;
+      margin-top: .6em;
     }
 
-    a {text-decoration: underline;}
+    h2 {
+      font-family: $font-sans;
+      font-size: $h5-font-size;
+      margin-top: 1em;
+    }
+
+    a {
+      text-decoration: underline;
+    }
 
     em {
       font-family: $font-sans;
     }
 
     ol,
-    ul
-    {
+    ul {
       margin: 0 0 1rem 1.5rem;
       padding-left: 0;
       padding-top: 0;
 
-        ol,ul {
-          padding-top: 0.6em;
-          margin-left: 1.4em;
-          list-style: disc;
-        }
+      ol,
+      ul {
+        list-style: disc;
+        margin-left: 1.4em;
+        padding-top: .6em;
+      }
     }
 
     p,
     li {
-     line-height: 1.4em;
-     margin-bottom: 0.6em;
+      line-height: 1.4em;
+      margin-bottom: .6em;
     }
 
     .method--section--government-considerations {
@@ -206,40 +221,37 @@ display:table;margin-top: 3rem;}
         font-size: $h5-font-size;
         margin-top: 1em;
       }
-      ul {list-style:none;padding-left:0;}
- }
 
-    :last-child { margin-bottom: 0; }
+      ul {
+        list-style: none;
+        padding-left: 0;
+      }
+    }
 
-}
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
 
   &::after {
     clear: both;
     content: '';
     display: table;
+  }
 }
-
-}
-
-
 
 .category--discover .method--title {
   border-color: $color-blue;
 }
-
-
 .category--decide .method--title {
   border-color: $color-green;
 }
-
 .category--make .method--title {
   border-color: $color-gold;
 }
-
 .category--validate .method--title {
   border-color: $color-red;
 }
-
 .category--fundamentals .method--title {
   border-color: $color-blue-dark;
 }

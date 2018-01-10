@@ -36,7 +36,7 @@ jekyll serve
 
 You should be able to see the site at: `http://localhost:4000/`
 ### Contributing to the Methods
-For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](contributing.md).
+For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
 ## Current team
 
 - Product owner: Eric Ronne
@@ -46,10 +46,10 @@ For more information on contributing to the Methods (or even making a suggestion
 ## Past contributors
 
 - Melissa Braxton
-- Andre Francisco
 - Jeremy Canfield
 - Erica Deahl
 - Carolyn Dew
+- Andre Francisco
 - James Hupp
 - Nicky Krause
 - Colin MacArthur

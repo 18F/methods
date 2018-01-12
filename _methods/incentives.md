@@ -14,7 +14,8 @@ timeRequired: N/A
 1. Consider contracting for a recruiting service to help you get an effective research pool.
 1. If incentives are determined to be permissible, clearly communicate when and how participants will receive incentives. In the emails, postings or other materials you use to recruit your participants, describe the incentive and how participants will receive it (via mail, pick up at an office, etc.). This is particularly important for "remote" research.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 - No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
 - If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.  
+</section>

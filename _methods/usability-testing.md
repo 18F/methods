@@ -27,6 +27,7 @@ timeRequired: 30 minutes to 1 hour per person
 
 [An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. First, any given usability test should involve nine or fewer users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a usability test tests. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
+</section>

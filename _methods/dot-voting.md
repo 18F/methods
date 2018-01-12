@@ -19,6 +19,7 @@ timeRequired: 15 minutes
 1. Give participants three to five colored stickers and instruct them to place their stickers on features they feel are most important to meeting the project's goals and user needs.
 1. Identify the features with the largest number of stickers (votes).  
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications: feature dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+</section>

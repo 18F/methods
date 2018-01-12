@@ -20,6 +20,7 @@ timeRequired: 1–2 hours to analyze and write an evaluation about each competit
 
 - <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis">Draft U.S. Web Design Standards Comparative Analysis</a>
 
+<section class="method--section method--section--government-considerations" markdown="1" >
 {% include header-gov-research.html %}
-
 No PRA implications. No information is collected from members of the public.
+</section>

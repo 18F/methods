@@ -24,5 +24,7 @@ timeRequired: 1 hour
 - [An explanation of affinity diagramming.](http://infodesign.com.au/usabilityresources/affinitydiagramming/) Information and Design.
 
 
+<section class="method--section method--section--government-considerations" markdown="1" >
 {% include header-gov-research.html %}
 No PRA implications. This method may use data gathered from members of the public, but does not require their involvement.
+</section>

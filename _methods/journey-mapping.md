@@ -27,6 +27,7 @@ timeRequired: 4–12 hours
 - [An explanation of journey mapping on Wicked Problems Worth Solving.](https://www.wickedproblems.com/6_journey_maps.php) Austin Center for Design.
 - ["Designing Digital Strategies, Part 1: Cartography."](http://www.uxbooth.com/articles/designing-digital-strategies-part-1-cartography/) UX Booth.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
+</section>

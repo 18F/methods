@@ -23,8 +23,9 @@ timeRequired: 30 minutes to one hour per person
 
 - [An explanation of cognitive walkthroughs and how to conduct one.](http://www.usabilitybok.org/cognitive-walkthrough) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 
+<section class="method--section method--section--government-considerations" markdown="1" >
 {% include header-gov-research.html %}
-
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that a cognitive walkthrough entails, 5 CFR 1320.3(h)3.
 
 If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
+</section>

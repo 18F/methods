@@ -16,6 +16,7 @@ timeRequired: 1-3 hours
 1. Review your wireframes with specific [user scenarios](/decide/user-scenarios/#user-scenarios) and [personas](/decide/personas/#personas) in mind. Can users accomplish their task with the wireframe you are sketching out?
 1. Use the wireframes to get the team's feedback on feasibility and structure.  
 
-{% include header-gov-research.html %}
-
+<section class="method--section method--section--government-considerations" markdown="1" >
+{% include header-gov-research.html %} 
 No PRA implications. No information is collected from members of the public.
+</section>

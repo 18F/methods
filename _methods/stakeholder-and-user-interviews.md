@@ -22,6 +22,7 @@ timeRequired: 1–2 hours per interviewee
 - ["Build empathy with stakeholder interviews, part 1: Preparation."](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/) Andrew Maier.
 - ["Build empathy with stakeholder interviews, part 2: Conversation."](https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/) Andrew Maier.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+</section>

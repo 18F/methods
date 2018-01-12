@@ -21,6 +21,7 @@ timeRequired: 1–2 days depending on how many rounds of feedback the team offer
 - Tool: <a href="http://styletil.es/">Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.</a> Style iles.
 - <a href="http://alistapart.com/article/style-tiles-and-how-they-work">"Style Tiles and How They Work."</a> Samantha Warren.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. No information is collected from members of the public.
+</section>

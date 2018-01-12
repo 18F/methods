@@ -17,6 +17,7 @@ timeRequired: 1–2 hours per pattern; ongoing maintenance.
 1. Show examples of how the same pattern could work in different solutions.
 1. Publish the design pattern library in an open, accessible space where the product team can use and extend it. (Common implementations of a design pattern library are in a wiki or brand style guide.)  
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. No information is collected from members of the public.
+</section>

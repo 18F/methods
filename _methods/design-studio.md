@@ -28,6 +28,7 @@ timeRequired: 3–4 hours
 
 - [presentation by Todd Zaki Warfel](https://vimeo.com/37861987/) explaining what a design studio is. Todd Zaki Warfel.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
+</section>

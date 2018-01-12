@@ -24,10 +24,10 @@ timeRequired: 1–2 weeks for 5–10 participants
 - The new or existing website.
 - Existing mailing lists.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. No information is collected from members of the public.
-
+</section>
 <!-- nonPrintablecontent:
   <h1>Additional resources</h1>
   <ul>

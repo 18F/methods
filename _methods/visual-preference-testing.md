@@ -25,6 +25,7 @@ timeRequired: |
 - [Rapid Desirability Testing: A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley.
 - [Preference and Desirability Testing: Measuring Emotional Response to Guide Design.](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design) Michael Hawley and Paul Doncaster.
 
-{% include header-gov-research.html %}
-
+<section class="method--section method--section--government-considerations" markdown="1" >
+{% include header-gov-research.html %} 
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
+</section>

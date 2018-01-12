@@ -27,6 +27,7 @@ timeRequired: 2–3 hours
 - <a href="http://www.uie.com/articles/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.
 - <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper">"Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper."</a> Caroline Kraus.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. No information is collected from members of the public.
+</section>

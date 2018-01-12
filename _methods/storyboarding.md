@@ -23,6 +23,7 @@ timeRequired: 1–2 days depending on the complexity of the scenario(s)
 - <a href="http://uxmag.com/articles/storyboarding-in-the-software-design-process">"Storyboarding in the Software Design Process."</a> Ambrose Little.
 - <a href="http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard">"The 8 Steps to Creating a Great Storyboard."</a> Jake Knapp.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. No information is collected from members of the public.
+</section>

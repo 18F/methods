@@ -83,7 +83,7 @@
     }
   }
 
-  h1 {
+  h2 {
     font-family: $font-sans;
     font-size: $h4-font-size;
     font-weight: bold;
@@ -127,12 +127,6 @@
     border-top: 1px solid $color-gray-light;
     display: table-cell;
 
-    h1 {
-      font-size: $tiny-font-size;
-      letter-spacing: .02em;
-      text-transform: uppercase;
-    }
-
     p {
       font-size: $small-font-size;
     }
@@ -147,6 +141,11 @@
       margin-top: 3rem;
       position: relative;
       width: 100%;
+
+      h2 {
+        font-size: $h6-font-size;
+        text-transform: uppercase;
+      }
     }
 
     @media screen and (min-width: 800px) {
@@ -172,7 +171,10 @@
   .method--panel--back {
     background: $color-gray-lightest;
     font-size: $small-font-size;
-
+    padding-top: 32px;
+    :first-child {
+      margin-top: 0;
+    }
     h1 {
       font-size: $h4-font-size;
       margin-top: .6em;
@@ -180,7 +182,7 @@
 
     h2 {
       font-family: $font-sans;
-      font-size: $h5-font-size;
+      font-size: $h4-font-size;
       margin-top: 1em;
     }
 
@@ -217,7 +219,7 @@
       font-size: $tiny-font-size;
       line-height: 1.3em;
 
-      h1 {
+      h2 {
         font-size: $h5-font-size;
         margin-top: 1em;
       }

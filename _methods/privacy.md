@@ -22,10 +22,11 @@ timeRequired: N/A
 - [18F's Before You Ship Guide: Privacy](https://before-you-ship.18f.gov/privacy/)
 - [National Strategy For Trusted Identities In Cyberspace &mdash; Appendix A: Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 The government's use of information about people is subject to a number of laws and policies, including: [the Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition), the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
 
 Conduct a Privacy Threshold Analysis in collaboration your agency's privacy office whenever a design calls for the creation of a new data store (for example, a database).
 
 Ensure all collections of personally identifiable information (PII) are accompanied by a Privacy Act Notice. See, for example, [18F's Privacy Act Notice for Design Research](https://www.gsa.gov/portal/content/162010).
+</section>

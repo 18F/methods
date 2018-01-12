@@ -32,6 +32,7 @@ timeRequired: 1-2 hours
 
 - <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Getting out of the deliverables business</a>.
 
-{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 
 No PRA implications. No information is collected from members of the public.
+</section>

@@ -21,6 +21,9 @@ timeRequired: 1-2 hours
 
 - [An explanation of bodystorming on Wicked Problems: Problems Worth Solving. Austin Center for Design.](https://www.wickedproblems.com/6_bodystorming.php)
 
+
+<section class="method--section method--section--government-considerations" markdown="1" >
 {% include header-gov-research.html %}
 
 No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
+</section>

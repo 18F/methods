@@ -16,10 +16,12 @@ timeRequired: 1–2 days depending on how many rounds of feedback the team offer
 1. Create the appropriate number of style tiles based on the defined directions, which establish the specific visual language for the different directions.
 1. Gather stakeholder feedback. Iterate on the style tiles, eventually getting down to a single style tile which will be the established visual language for the project going forward.
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - Tool: <a href="http://styletil.es/">Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.</a> Style iles.
 - <a href="http://alistapart.com/article/style-tiles-and-how-they-work">"Style Tiles and How They Work."</a> Samantha Warren.
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

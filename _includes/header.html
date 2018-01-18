@@ -40,7 +40,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="side-nav-1">
               <span>Discover</span>
             </button>
-            <ul id="side-nav-1" class="usa-nav-submenu">
+            <ul id="side-nav-1" class="usa-nav-submenu" aria-hidden="true">
               {% assign discovermethods = discover_methods | sort:"title"  %}
               {% for method in discovermethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
@@ -52,7 +52,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
               <span>Decide</span>
             </button>
-            <ul id="sidenav-2" class="usa-nav-submenu">
+            <ul id="sidenav-2" class="usa-nav-submenu" aria-hidden="true">
               {% assign decidemethods = decide_methods | sort:"title"  %}
               {% for method in decidemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
               <span>Make</span>
             </button>
-            <ul id="sidenav-3" class="usa-nav-submenu">
+            <ul id="sidenav-3" class="usa-nav-submenu" aria-hidden="true">
               {% assign makemethods = make_methods | sort:"title"  %}
               {% for method in makemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
@@ -76,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
               <span>Validate</span>
             </button>
-            <ul id="sidenav-4" class="usa-nav-submenu">
+            <ul id="sidenav-4" class="usa-nav-submenu" aria-hidden="true">
               {% assign validatemethods = validate_methods | sort:"title"  %}
               {% for method in validatemethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-5">
               <span>Fundamentals</span>
             </button>
-            <ul id="sidenav-5" class="usa-nav-submenu">
+            <ul id="sidenav-5" class="usa-nav-submenu" aria-hidden="true">
               {% assign fundamentalsmethods = fundamentals_methods | sort:"title"  %}
               {% for method in fundamentalsmethods %}
                 <li><a href="{{site.baseurl}}/#{{ method.title | slugify }}">{{ method.title }}</a></li>

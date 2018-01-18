@@ -24,9 +24,11 @@ timeRequired: 3–4 hours
 - ["User-centered design at 18F: a design studio for natural resource revenues"](https://18f.gsa.gov/2014/09/25/design-studio-onrr/) Chris Cairns , Michelle Hertzfeld , Nick Bristow.
 
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - [presentation by Todd Zaki Warfel](https://vimeo.com/37861987/) explaining what a design studio is. Todd Zaki Warfel.
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

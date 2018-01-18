@@ -16,11 +16,13 @@ timeRequired: N/A
   1. Inform and collect the voluntary consent of anyone who participates in moderated design research. Ensure that all unmoderated forms of research (for example, web analytics) are covered by an easy-to-access privacy policy.
   1. Pay special attention to all categories of information used throughout the design process. Note contexts in which it's not okay to share certain categories of information.
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - [Doing Research at 18F](https://handbook.18f.gov/research-guidelines/)
 - [18F's Before You Ship Guide: Privacy](https://before-you-ship.18f.gov/privacy/)
 - [National Strategy For Trusted Identities In Cyberspace &mdash; Appendix A: Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

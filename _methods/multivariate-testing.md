@@ -17,10 +17,12 @@ timeRequired: 2–5 days of effort, 1–4 weeks elapsed through the testing peri
 1. Use a web analytics tool that supports multivariate testing, such as Google Website Optimizer or Visual Website Optimizer, to set up the testing environment. Conduct the test for long enough to produce statistically significant results.
 1. Analyze the testing results to determine which solution produced the best conversion or engagement rates. Review the other solutions, as well, to see if there is information worth examining in with future studies.  
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - [Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates. Paras Chopra.](http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/)
 - [Multivariate Testing 101: A Scientific Method of Optimizing Design. Paras Chopra.](http://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/)
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

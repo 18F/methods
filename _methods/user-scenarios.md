@@ -20,10 +20,12 @@ timeRequired: 1-3 hours
 
 - ["Choose design over architecture"](https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Kane Baccigalupi.
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - Tool: [Scenarios.](http://www.usability.gov/how-to-and-tools/methods/scenarios.html) Usability.gov
 - ["How User Scenarios Help To Improve Your UX."](http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/) Sabina Idler.
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

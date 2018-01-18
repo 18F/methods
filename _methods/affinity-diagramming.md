@@ -18,11 +18,12 @@ timeRequired: 1 hour
 1. Use larger notes (or white board markers, if you're using a white board), to write titles or catch phrases for each group.
 
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - [An explanation of what affinity diagramming is and how to do it.](http://www.usabilitybok.org/affinity-diagram) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 - [An explanation of affinity diagramming.](http://infodesign.com.au/usabilityresources/affinitydiagramming/) Information and Design.
-
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 {% include header-gov-research.html %}

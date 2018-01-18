@@ -23,9 +23,11 @@ timeRequired: 30 minutes to 1 hour per person
 - [Usability testing plans from 18F's Extractive Industries Transparency Initative project with Department of the Interior](https://github.com/18F/doi-extractives-data/tree/research/research)
 - [Tips for capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/) Ryan Sibley.
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 [An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

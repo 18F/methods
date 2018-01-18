@@ -28,9 +28,11 @@ timeRequired: 1-2 hours
 
 - Example from the <a href="https://lean-product-design.18f.gov/7-break-down/">Lean product design guide</a>.
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Getting out of the deliverables business</a>.
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

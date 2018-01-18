@@ -22,10 +22,12 @@ timeRequired: 2–3 hours
 - <a href="https://github.com/18F/federalist-design/wiki/Personas">Personas for Federalist</a>
 
 
+<section class="method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - <a href="http://www.uie.com/articles/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.
 - <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper">"Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper."</a> Caroline Kraus.
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
 

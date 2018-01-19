@@ -246,7 +246,7 @@ button,
 
   &.usa-button-secondary,
   &.usa-button-secondary:visited {
-    background-color: white;
+    background-color: $color-inverse;
     color: $color-black;
 
     &:hover {

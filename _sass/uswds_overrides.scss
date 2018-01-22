@@ -246,11 +246,11 @@ button,
 
   &.usa-button-secondary,
   &.usa-button-secondary:visited {
-    background-color: $color-bright;
+    background-color: $color-inverse;
     color: $color-black;
 
     &:hover {
-      background-color: $color-bright-hover;
+      background-color: $color-gray-lightest;
     }
   }
 }

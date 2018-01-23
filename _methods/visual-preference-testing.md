@@ -20,7 +20,7 @@ timeRequired: |
 1. Compare the results of your research with the agency's published branding guidelines and attributes.
 1. Publish the results to the complete product team and decide which direction will guide future design efforts.
 
-<section class="method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - [Rapid Desirability Testing: A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley.

@@ -22,7 +22,7 @@ timeRequired: 2–3 hours
 - <a href="https://github.com/18F/federalist-design/wiki/Personas">Personas for Federalist</a>
 
 
-<section class="method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - <a href="http://www.uie.com/articles/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.

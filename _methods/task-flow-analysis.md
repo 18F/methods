@@ -17,7 +17,7 @@ timeRequired: 2-3 hours per user goal
 1. Present the diagram to a subject matter expert who knows the task(s) well enough to check for accuracy.
 1. In collaboration with users and/or subject matter exprts, annotate the task flow diagram to pinpoint areas of interest, risk, or potential frustration.
 
-<section class="method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Maine.</a>

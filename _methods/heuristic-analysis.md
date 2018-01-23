@@ -19,7 +19,7 @@ timeRequired: 1–2 hours
 1. Ask each person to evaluate the website against their list and write down possible problems.
 1. After individual evaluations, gather people to discuss what they found and prioritize potential problems.
 
-<section class="method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - ["10 Usability Heuristics for User Interface Design."](http://www.nngroup.com/articles/ten-usability-heuristics/) Jakob Nielsen.

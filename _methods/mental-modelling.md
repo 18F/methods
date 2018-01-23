@@ -16,7 +16,7 @@ timeRequired: 1–2 hours
 1. In the left-hand column (Past), list the products, services, features, and/or interfaces that the user encounters as they go about what's listed in the Present Behavior column.
 1. In the right-hand column (Future), list possible products, services, features, and/or interface elements that in the future might change behaviors and pain points in the Present Behavior column.
 
-<section class="method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - Book: <a href="http://rosenfeldmedia.com/books/mental-models/"><em>Mental Models: Aligning Design Strategy with Human Behavior.</em></a> Indi Young.

@@ -17,7 +17,7 @@ timeRequired: 1–2 days depending on the complexity of the scenario(s)
 1. Review this storyboard with the product team and stakeholders for feedback. Iterate until the storyboard represents a shared vision of the scenario and progression of scenes.
 1. Create a polished version of the storyboard if you plan to use it for future work or in other external contexts.
 
-<section class="method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}
 
 - Tool: <a href="http://www.servicedesigntools.org/tools/13">Communication Methods Supporting Design Processes.</a> Service Design Tools.

@@ -23,7 +23,7 @@ timeRequired: 1 week, plus occasional refresher meetings
 - <a href="https://pages.18f.gov/design-principles-guide/">18F Design Principles Guide</a>
 - <a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/">"Making more consistent decisions with design principles: A new 18F guide"</a> Elizabeth Goodman and Brad Nunnally.  
 
-<section class="method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
   {% include header-additional-resources.html %}
 
 - <a href="http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/">"Design Principles: Dominance, Focal Points And Hierarchy."</a> Steven Bradley.  

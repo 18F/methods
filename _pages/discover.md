@@ -22,5 +22,5 @@ Learn as much as you can about the project and people involved.
 - [Bodystorming](bodystorming/)
 - [Cognitive walkthrough](cognitive-walkthrough/)
 - [Contextual inquiry](contextual-inquiry/)
-- [Heuristic analysis](heuristic-analysis/)
+- [Heuristic analysis](heuristic-evaluation/)
 - [Stakeholder and user interviews](stakeholder-and-user-interviews/)

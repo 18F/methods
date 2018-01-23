@@ -24,7 +24,7 @@ timeRequired: 1-3 hours
 
 </section>
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 - Tool: [Scenarios.](http://www.usability.gov/how-to-and-tools/methods/scenarios.html) Usability.gov

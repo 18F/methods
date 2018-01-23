@@ -24,7 +24,7 @@ timeRequired: 1–2 hours
 
 18F conducted this exercise with 20 Federal Election Commission staff members to define priorities around conflicting requests. We used this method to get data from staff (not the decision makers) about what they saw as the most pressing needs. We synthesized and presented the data back to the decision makers.
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 [http://www.uie.com/articles/kj_technique/]("The KJ-Technique: A Group Process for Establishing Priorities." Jared M. Spool.)

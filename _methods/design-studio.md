@@ -27,7 +27,7 @@ timeRequired: 3–4 hours
 
 </section>
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 - [presentation by Todd Zaki Warfel](https://vimeo.com/37861987/) explaining what a design studio is. Todd Zaki Warfel.

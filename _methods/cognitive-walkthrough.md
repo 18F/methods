@@ -19,7 +19,7 @@ timeRequired: 30 minutes to one hour per person
   1. Pay attention to expected outcomes and how quickly/easily participants are able to pick up a task.
 1. Analyze the walkthrough results to highlight where the user struggled and what needs improvement.
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 - [An explanation of cognitive walkthroughs and how to conduct one.](http://www.usabilitybok.org/cognitive-walkthrough) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.

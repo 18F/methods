@@ -32,7 +32,7 @@ timeRequired: 1-2 hours
 
 </section>
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 - <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Getting out of the deliverables business</a>.

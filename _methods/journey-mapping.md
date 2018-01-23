@@ -21,7 +21,7 @@ timeRequired: 4–12 hours
 3. Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish [design principles](/decide/design-principles/#design-principles). Think about how to collapse or accelerate a customer's journey through the various phases. Incorporate this information into the project's scope.
 
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 - [Adaptive Path's Guide to Experience Mapping.](http://adaptivepath.s3.amazonaws.com/apguide/download/Adaptive_Paths_Guide_to_Experience_Mapping.pdf) Adaptive Path (PDF).

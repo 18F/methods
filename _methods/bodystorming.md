@@ -17,7 +17,7 @@ timeRequired: 1-2 hours
 1. Use props to role play how users accomplish their goals. "Speak the interface" to one another. For example, one of the touchpoints might say "Submit all of your required forms," and the user might respond "Arg! I don't know what forms are required!"
 1. Review the exercise as a team and document the opportunities/challenges that this exercise suggests.
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 - [An explanation of bodystorming on Wicked Problems: Problems Worth Solving. Austin Center for Design.](https://www.wickedproblems.com/6_bodystorming.php)

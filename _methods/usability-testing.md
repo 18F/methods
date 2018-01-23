@@ -27,7 +27,7 @@ timeRequired: 30 minutes to 1 hour per person
 
 </section>
 
-<section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
+<section class="method--section method--section--additional-resources" markdown="1">
 {% include header-additional-resources.html %}
 
 [An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.

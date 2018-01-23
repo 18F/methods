@@ -18,10 +18,14 @@ timeRequired: 30 minutes to 1 hour per person
 1. Avoid asking participants to perform tasks far outside their normal context. This will lead them to reflect on the design rather than their ability to accomplish their goals. (For example, to test a new layout for a "user account" section on a voter registration website, recruit only people who already register to vote online.)
 1. Analyze the user's attempt to complete the task, looking especially for areas where they struggled or questions they asked to inform design changes.
 
+<section class="method--section method--section--18f-example" markdown="1" >
+
 {% include header-18f-example.html %}
 
 - [Usability testing plans from 18F's Extractive Industries Transparency Initative project with Department of the Interior](https://github.com/18F/doi-extractives-data/tree/research/research)
 - [Tips for capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/) Ryan Sibley.
+
+</section>
 
 <section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}

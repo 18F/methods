@@ -24,9 +24,13 @@ timeRequired: 1-2 hours
 1. Identify the main entry points for the user need you're addressing. This could be external marketing, the homepage, a microsite, or another page.
 1. Build or do the thing, and measure. If you learned something unexpected, then create a new hypothesis and change course so you can continue working toward your goals.
 
+<section class="method--section method--section--18f-example" markdown="1" >
+
 {% include header-18f-example.html %}
 
 - Example from the <a href="https://lean-product-design.18f.gov/7-break-down/">Lean product design guide</a>.
+
+</section>
 
 <section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}

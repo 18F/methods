@@ -19,10 +19,13 @@ timeRequired: 3–4 hours
 1. Regroup as a whole. Have each group of three present their ideas to everyone. Discuss.
 1. After the meeting, note areas of consistent agreement or disagreement. Incorporate areas of consensus into design recommendations and areas of contention into a research plan.
 
+<section class="method--section method--section--18f-example" markdown="1" >
+
 {% include header-18f-example.html %}
 
 - ["User-centered design at 18F: a design studio for natural resource revenues"](https://18f.gsa.gov/2014/09/25/design-studio-onrr/) Chris Cairns , Michelle Hertzfeld , Nick Bristow.
 
+</section>
 
 <section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}

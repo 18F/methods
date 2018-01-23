@@ -19,9 +19,13 @@ timeRequired: 1 week, plus occasional refresher meetings
 1. Share the principles in a place accessible to the team throughout the project, and refer to them often while making decisions.
 
 
+<section class="method--section method--section--18f-example" markdown="1" >
+
 {% include header-18f-example.html %}
 - <a href="https://pages.18f.gov/design-principles-guide/">18F Design Principles Guide</a>
 - <a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/">"Making more consistent decisions with design principles: A new 18F guide"</a> Elizabeth Goodman and Brad Nunnally.  
+
+</section>
 
 <section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
   {% include header-additional-resources.html %}

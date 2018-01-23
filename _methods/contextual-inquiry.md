@@ -18,11 +18,15 @@ governmentConsiderations:
 1. At the end of the session, explain what you have learned and check for errors.
 1. Immediately after, write up your notes.  
 
+<section class="method--section method--section--18f-example" markdown="1" >
 {% include header-18f-example.html %}
 
 A pair of 18F team members visited two Department of Labor/Wage Hour Division investigators as they interviewed home health care workers who were subject to unpaid overtime and other infractions. Since it was a sensitive subject, the 18F team did not question the health care workers directly, but instead asked the investigators clarifying questions in private. 18F staff also made sure that photos did not include faces.
 
-<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
+</section>
+
+<section class="method--section method--section--government-considerations" markdown="1" >
+{% include header-gov-research.html %}
 
 No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
 

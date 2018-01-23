@@ -17,10 +17,13 @@ timeRequired: 2–3 hours
 1. Pair recurring goals, behaviors, and pain points with archetypes. Give each archetype a name and a fictional account of their day. Add a photo of someone who fits the description, but ideally not an image of someone you've actually interviewed and who may be recognized.
 1. Link your personas to the research that inspired them. This is useful when researchers are interested in challenging the way a persona stereotypes a user.
 
+<section class="method--section method--section--18f-example" markdown="1" >
+
 {% include header-18f-example.html %}
 
 - <a href="https://github.com/18F/federalist-design/wiki/Personas">Personas for Federalist</a>
 
+</section>
 
 <section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}

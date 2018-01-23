@@ -16,9 +16,13 @@ timeRequired: 1–2 hours to analyze and write an evaluation about each competit
 1. Use a spreadsheet to capture the evaluation and determine how the targeted services and agencies perform based on the identified heuristics.
 1. Present the analysis, which should showcase areas of opportunities that you can take advantage of and design patterns you might adopt or avoid.  
 
+<section class="method--section method--section--18f-example" markdown="1" >
+
 {% include header-18f-example.html %}
 
 - <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis">Draft U.S. Web Design Standards Comparative Analysis</a>
+
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 {% include header-gov-research.html %}

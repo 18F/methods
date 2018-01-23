@@ -16,9 +16,13 @@ timeRequired: 1-3 hours
 1. Put the details you came up with in step 2 into a story format that includes information about who they are (persona or user group), why they are using your site (motivations), where they are (context), what they need to do (their goal), and how they go about accomplishing their goal (tasks). Keep in mind, the more realistic details you add, the richer and more useful your story becomes for helping in understanding your user’s behaviors.
 1. Share the user scenarios you’ve written with the larger team for feedback and refinement.
 
+<section class="method--section method--section--18f-example" markdown="1" >
+
 {% include header-18f-example.html %}
 
 - ["Choose design over architecture"](https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Kane Baccigalupi.
+
+</section>
 
 <section class="method--section method--section--additional-resources method--section--non-printable-content" markdown="1">
 {% include header-additional-resources.html %}

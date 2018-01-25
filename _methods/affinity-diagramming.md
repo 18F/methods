@@ -11,7 +11,7 @@ timeRequired: 1 hour
 ---
 
 
-{% include header-how.html %}
+# How to do it
 
 1. Record ideas, quotes, or observations from [interviews](/discover/stakeholder-and-user-interviews/), [contextual inquiry](/discover/contextual-inquiry), or other sources of research on sticky notes.
 1. Place the sticky notes on a white board (in no particular arrangement). Move the sticky notes into related groups.
@@ -19,13 +19,13 @@ timeRequired: 1 hour
 
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
 - [An explanation of what affinity diagramming is and how to do it.](http://www.usabilitybok.org/affinity-diagram) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 - [An explanation of affinity diagramming.](http://infodesign.com.au/usabilityresources/affinitydiagramming/) Information and Design.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-{% include header-gov-research.html %}
+# Applied in government research
 No PRA implications. This method may use data gathered from members of the public, but does not require their involvement.
 </section>

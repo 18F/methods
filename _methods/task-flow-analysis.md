@@ -9,7 +9,7 @@ why: To validate a design team's understanding of users' goals, common scenarios
 timeRequired: 2-3 hours per user goal  
 ---
 
-{% include header-how.html %}
+# How to do it
 
 1. Based on user research, identify target users' goals that need to be analyzed.
 1. For each goal, identify common scenarios and the tasks and decisions that the user or system will perform in each scenario. Don't assume you and your stakeholders share the same understanding of the tasks. The idea is to make the flow of tasks explicit in the diagram, so that you can check your understanding by walking through the diagram with users (steps 4 & 5).
@@ -18,13 +18,13 @@ timeRequired: 2-3 hours per user goal
 1. In collaboration with users and/or subject matter exprts, annotate the task flow diagram to pinpoint areas of interest, risk, or potential frustration.
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
 - <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Maine.</a>
 - Tool: <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > # Applied in government research
 
 No PRA implications. No information is collected from members of the public.
 </section>

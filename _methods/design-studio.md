@@ -9,7 +9,7 @@ why: To create a shared understanding and appreciation of design problems confro
 timeRequired: 3–4 hours
 ---
 
-{% include header-how.html %}
+# How to do it
 
 1. Invite between six and 12 participants. stakeholders, users, and team members who need to build a shared understanding. Before the meeting, share applicable research, [users personas](/decide/personas/) (unless users will be present), and the design prompt for the exercise.
 1. Bring drawing materials. At the start of the meeting, review the design prompt and research you shared.
@@ -28,12 +28,12 @@ timeRequired: 3–4 hours
 </section>
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
 - [presentation by Todd Zaki Warfel](https://vimeo.com/37861987/) explaining what a design studio is. Todd Zaki Warfel.
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > # Applied in government research
 
 No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 </section>

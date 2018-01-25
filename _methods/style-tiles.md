@@ -9,7 +9,7 @@ why: To establish a common visual language between the design team and stakehold
 timeRequired: 1–2 days depending on how many rounds of feedback the team offers
 ---
 
-{% include header-how.html %}
+# How to do it
 
 1. Gather all the feedback and information that was provided during the initial kickoff of the project.
 1. Distill the information into different directions a solution could take. Label these directions based on what kinds of interactions and brand identity they represent.
@@ -17,13 +17,15 @@ timeRequired: 1–2 days depending on how many rounds of feedback the team offer
 1. Gather stakeholder feedback. Iterate on the style tiles, eventually getting down to a single style tile which will be the established visual language for the project going forward.
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
-- Tool: <a href="http://styletil.es/">Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.</a> Style iles.
+- Tool: <a href="http://styletil.es/">Style Tiles: A Visual Web Design Process for Clients and the Responsive Web.</a> Style Tiles.
 - <a href="http://alistapart.com/article/style-tiles-and-how-they-work">"Style Tiles and How They Work."</a> Samantha Warren.
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" >{% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" >
+
+# Applied in government research
 
 No PRA implications. No information is collected from members of the public.
 </section>

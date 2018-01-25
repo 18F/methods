@@ -9,7 +9,7 @@ why: To gain insights from users about how to organize content in an intuitive w
 timeRequired: 15–30 minutes per user
 ---
 
-{% include header-how.html %}
+# How to do it
 
 There are two types of card sorting: open and closed. Most card sorts are performed with one user at a time, but you can also do the exercise with groups of two to three people.
 
@@ -32,6 +32,6 @@ There are two types of card sorting: open and closed. Most card sorts are perfor
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-{% include header-gov-research.html %}
+# Applied in government research
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also explicitly excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a card sort tests (though in our case, a poor result is our fault).
 </section>

@@ -9,7 +9,7 @@ why: To identify content that needs to be revised in new versions of a website. 
 timeRequired: 3-8 hours
 ---
 
-{% include header-how.html %}
+# How to do it
 
 1. Identify a specific user need or user question that you'd like to address.
 1. Create an inventory of content on your website. Navigate through the site from the home page and note the following about every piece of content. (For repeated items like blog posts, consider capturing just a sample.)
@@ -35,13 +35,13 @@ timeRequired: 3-8 hours
 
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
 - <a href="http://uxmastery.com/how-to-conduct-a-content-audit/">"How to Conduct a Content Audit."</a> UX Mastery.
 - <a href="http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/">"Auditing Big Sites Doesn't Have to Be Taxing."</a> Christine Anameier.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-{% include header-gov-research.html %}
+# Applied in government research
 No PRA implications. No information is collected from members of the public.
 </section>

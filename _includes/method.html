@@ -18,12 +18,12 @@
       </section>
       <section class="method-section method--section--time-required">
         <h2>Time required</h2>
-        <p>{{ this_method.timeRequired | liquify | markdownify }}</p>
+        <p>{{ this_method.timeRequired | smartify | liquify | markdownify }}</p>
       </section>
     </footer>
   </div>
   <div class="method--panel method--panel--back">
-      {{ this_method.content }}
+    {{ this_method.content | smartify | liquify | markdownify }}
   </div>
   <div class="usa-sr-only">
     <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">

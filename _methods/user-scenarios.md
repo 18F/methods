@@ -9,7 +9,7 @@ why: To communicate a design idea by telling a story about a specific interactio
 timeRequired: 1-3 hours
 ---
 
-{% include header-how.html %}
+# How to do it
 
 1. Determine a [persona](/decide/personas/#personas) or user group to focus on.
 1. Begin to list out the user’s goals, motivations, and the context/environment in which they interact with your site.
@@ -25,13 +25,13 @@ timeRequired: 1-3 hours
 </section>
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
 - Tool: [Scenarios.](http://www.usability.gov/how-to-and-tools/methods/scenarios.html) Usability.gov
 - ["How User Scenarios Help To Improve Your UX."](http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/) Sabina Idler.
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > # Applied in government research
 
 No PRA implications. No information is collected from members of the public.
 </section>

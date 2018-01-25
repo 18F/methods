@@ -12,7 +12,7 @@ why: When done collaboratively, hypothesis-building is powerful at getting a tea
 timeRequired: 1-2 hours
 ---
 
-{% include header-how.html %}
+# How to do it
 
 1. As a team, identify and make explicit the problem you’re trying to solve. What goals or needs aren’t being met? What measurable criteria would indicate progress toward those goals?
 1. As a team, write out the hypothesis for the work you want to do to address the problem(s) you’re trying to solve. You may want to write broad hypotheses at the outset of a project and more specific hypotheses each sprint.
@@ -33,12 +33,12 @@ timeRequired: 1-2 hours
 </section>
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
 - <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Getting out of the deliverables business</a>.
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > # Applied in government research
 
 No PRA implications. No information is collected from members of the public.
 </section>

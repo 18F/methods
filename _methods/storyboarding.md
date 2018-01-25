@@ -9,7 +9,7 @@ why: To visualize interactions and relationships that might exist between a user
 timeRequired: 1–2 days depending on the complexity of the scenario(s)
 ---
 
-{% include header-how.html %}
+# How to do it
 
 1. Gather any documents that describe the different use cases or <a href="/decide/user-scenarios/">scenarios</a> in which users will interact with your service.
 1. Sketch scenes that visually depict a user interacting with the service, including as much context as possible. For example: Are they on the move? Where are they? What else is in their environment?
@@ -18,14 +18,14 @@ timeRequired: 1–2 days depending on the complexity of the scenario(s)
 1. Create a polished version of the storyboard if you plan to use it for future work or in other external contexts.
 
 <section class="method--section method--section--additional-resources" markdown="1">
-{% include header-additional-resources.html %}
+# Additional resources
 
 - Tool: <a href="http://www.servicedesigntools.org/tools/13">Communication Methods Supporting Design Processes.</a> Service Design Tools.
 - <a href="http://uxmag.com/articles/storyboarding-in-the-software-design-process">"Storyboarding in the Software Design Process."</a> Ambrose Little.
 - <a href="http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard">"The 8 Steps to Creating a Great Storyboard."</a> Jake Knapp.
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" > {% include header-gov-research.html %}
+<section class="method--section method--section--government-considerations" markdown="1" > # Applied in government research
 
 No PRA implications. No information is collected from members of the public.
 </section>

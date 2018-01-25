@@ -35,7 +35,8 @@ header.banner,
     page-break-before: always;
 }
 
-.method {
+.method,
+.layout--card .method {
   width: 8in;
   height: 6.5in;
   margin: 0;
@@ -128,7 +129,7 @@ header.banner,
   padding-top: 15px !important;
 }
 .method h1{ font-size: 14pt; }
-.method h2{ font-size: 12pt; }
+.method h2{ font-size: 14pt; }
 
 .method .method--panel--front p{
   font-size: 10.5pt;
@@ -136,13 +137,20 @@ header.banner,
   font-weight: normal;
 }
 
-.method .method--panel--back h1{
+.method .method--panel--back h1,
+.method .method--panel--back h2 {
   font-size: 11pt;
 }
 
-.method .method--panel--back,
-.method .method--panel--back h2{
+.method .method--panel--back {
   font-size: 9pt;
+}
+
+.method .method--panel--back {
+
+  :first-child {
+    margin-top: .6em;
+  }
 }
 
 .method .method--panel--back::after{

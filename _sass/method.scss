@@ -39,8 +39,8 @@
 
 .method {
   background: $color-inverse;
-  border-bottom: 0;
-  border-radius: 3px;
+  box-shadow: 1px 1px 0 rgba(0,0,0,0.125);
+  border-radius: 6px;
   display: table;
   font-family: $font-sans;
   margin-bottom: 3rem;
@@ -97,16 +97,6 @@
     width: auto;
   }
 
-
-  @media screen and (min-width: 800px) {
-    .method--panel {
-      display: table-cell;
-      padding: 20px 40px;
-      vertical-align: top;
-      width: 50%;
-    }
-  }
-
   .method--section--what,
   .method--section--why {
     font-family: $font-sans;
@@ -142,35 +132,19 @@
       position: relative;
       width: 100%;
 
-      h2 {
+      h1 {
         font-size: $h6-font-size;
         text-transform: uppercase;
       }
     }
 
-    @media screen and (min-width: 800px) {
-      footer {
-        bottom: 0;
-        display: table;
-        left: 0;
-        padding: 0 40px 20px;
-        position: absolute;
-        width: 100%;
-      }
-    }
-  }
-
-  @media screen and (min-width: 800px) {
-    .method--panel--front {
-      padding-bottom: 15rem;
-      position: relative;
-    }
   }
 
   // method--panel--back
   .method--panel--back {
     background: $color-gray-lightest;
     font-size: $small-font-size;
+    border-radius: 0 0 6px 6px;
     padding-top: 32px;
     :first-child {
       margin-top: 0;
@@ -239,6 +213,34 @@
     clear: both;
     content: '';
     display: table;
+  }
+}
+
+@media screen and (min-width: 800px) {
+
+  .method .method--panel {
+    display: table-cell;
+    padding: 20px 40px;
+    vertical-align: top;
+    width: 50%;
+  }
+
+  .method .method--panel--front {
+    padding-bottom: 15rem;
+    position: relative;
+  }
+
+  .method .method--panel--front footer {
+      bottom: 0;
+      display: table;
+      left: 0;
+      padding: 0 40px 20px;
+      position: absolute;
+      width: 100%;
+  }
+
+  .method .method--panel--back {
+    border-radius: 0 6px 6px 0;
   }
 }
 

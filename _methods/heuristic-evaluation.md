@@ -1,7 +1,7 @@
 ---
 layout: card
-title: Heuristic analysis
-permalink: /discover/heuristic-analysis/
+title: Heuristic evaluation
+permalink: /discover/heuristic-evaluation/
 description: A quick way to find common, large usability problems on a website.
 category: Discover
 what: A quick way to find common, large usability problems on a website.

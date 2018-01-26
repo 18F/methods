@@ -9,7 +9,7 @@ why: To remind participants that interactions are human and physical, to teach s
 timeRequired: 1-2 hours
 ---
 
-# How to do it
+## How to do it
 
 1. Gather three to six members of the project team who are ready to think on their feet. If possible, identify a few users who can play along.
 1. Bring the project team to the user's environment. If that's not practical, model the user's environment in a conference room.
@@ -19,14 +19,14 @@ timeRequired: 1-2 hours
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
-# Additional resources
+## Additional resources
 
 - [An explanation of bodystorming on Wicked Problems: Problems Worth Solving. Austin Center for Design.](https://www.wickedproblems.com/6_bodystorming.php)
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-# Applied in government research
+## Applied in government research
 
 No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
 

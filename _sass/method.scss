@@ -193,7 +193,7 @@
       font-size: $tiny-font-size;
       line-height: 1.3em;
 
-      h1 {
+      h2 {
         font-size: $h5-font-size;
         margin-top: 1em;
       }
@@ -241,6 +241,7 @@
 
   .method .method--panel--back {
     border-radius: 0 6px 6px 0;
+    padding-top: 30px;
   }
 }
 
@@ -258,4 +259,8 @@
 }
 .category--fundamentals .method--title {
   border-color: $color-blue-dark;
+}
+
+.method--section--additional-resources {
+  margin-bottom: 10px;
 }

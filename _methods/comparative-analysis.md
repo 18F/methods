@@ -8,7 +8,7 @@ what: A detailed review of existing experiences provided either by direct compet
 why: To identify competitors’ solutions that excel, are lacking, or are missing critical design elements. Comparative analysis can give you a competitive edge by identifying opportunities, gaps in other services, and potential design patterns to adopt or avoid.
 timeRequired: 1–2 hours to analyze and write an evaluation about each competitor.
 ---
-# How to do it
+## How to do it
 
 1. Identify a list of services that would be either direct or related competitors to your service.  Pare the list down to four or five.
 1. Establish which criteria or heuristics you will use to evaluate each competing service.
@@ -18,13 +18,13 @@ timeRequired: 1–2 hours to analyze and write an evaluation about each competit
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
-{% include header-18f-example.html %}
+## Example from 18F
 
 - <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis">Draft U.S. Web Design Standards Comparative Analysis</a>
 
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-# Applied in government research
+## Applied in government research
 No PRA implications. No information is collected from members of the public.
 </section>

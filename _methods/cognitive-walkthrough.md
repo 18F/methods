@@ -19,13 +19,13 @@ timeRequired: 30 minutes to one hour per person
 1. Analyze the walkthrough results to highlight where the user struggled and what needs improvement.
 
 <section class="method--section method--section--additional-resources" markdown="1">
-# Additional resources
+## Additional resources
 
 - [An explanation of cognitive walkthroughs and how to conduct one.](http://www.usabilitybok.org/cognitive-walkthrough) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-# Applied in government research
+## Applied in government research
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that a cognitive walkthrough entails, 5 CFR 1320.3(h)3.
 
 If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.

@@ -25,14 +25,16 @@ timeRequired: 3-8 hours
 
     1. Author(s): who wrote or created the page
     1. Content owner(s): who ensures its credibility
-    1. Updated date
-    1. Update frequency
+    1. How often or when it was last updated
     1. Comments: qualitative assessment of what to change to better address your identified user need
+
+<section class="method--section method--section--18f-example" markdown="1">
 
 ## Example from 18F
 
 - <a href="https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/">"Content debt: What it is, where to find it, and how to prevent it in the first place"</a> Melody Kramer.
 
+</section>
 
 <section class="method--section method--section--additional-resources" markdown="1">
 ## Additional resources

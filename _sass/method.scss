@@ -60,7 +60,11 @@
   ol,
   ul {
     margin-left: 1.4em;
-    padding-top: .6em;
+  }
+
+  p + ol,
+  p + ul {
+    margin-top: -0.4em;
   }
 
   .method--title {
@@ -149,6 +153,7 @@
     :first-child {
       margin-top: 0;
     }
+
     h1 {
       font-size: $h4-font-size;
       margin-top: .6em;
@@ -157,6 +162,12 @@
     h2 {
       font-family: $font-sans;
       font-size: $h4-font-size;
+      margin-top: 1em;
+    }
+
+    h4 {
+      font: inherit;
+      font-weight: 600;
       margin-top: 1em;
     }
 
@@ -178,7 +189,6 @@
       ul {
         list-style: disc;
         margin-left: 1.4em;
-        padding-top: .6em;
       }
     }
 
@@ -188,6 +198,10 @@
       margin-bottom: .6em;
     }
 
+    .method--section {
+      margin-bottom: 1.4em
+    }
+    
     .method--section--government-considerations {
       font-family: $font-sans;
       font-size: $tiny-font-size;

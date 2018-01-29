@@ -62,11 +62,6 @@
     margin-left: 1.4em;
   }
 
-  p + ol,
-  p + ul {
-    margin-top: -0.4em;
-  }
-
   .method--title {
     border-top: 8px solid;
     font-family: $font-sans;
@@ -189,6 +184,7 @@
       ul {
         list-style: disc;
         margin-left: 1.4em;
+        padding-top: 0.4em;
       }
     }
 

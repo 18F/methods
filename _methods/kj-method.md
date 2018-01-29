@@ -28,7 +28,7 @@ timeRequired: 1–2 hours
 
 ## Additional resources
 
-[http://www.uie.com/articles/kj_technique/]("The KJ-Technique: A Group Process for Establishing Priorities." Jared M. Spool.)
+["The KJ-Technique: A Group Process for Establishing Priorities." Jared M. Spool.](http://www.uie.com/articles/kj_technique/)
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

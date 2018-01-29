@@ -9,10 +9,11 @@ why: To get quick and early feedback on whether a design solution is easy for a 
 timeRequired: 30 minutes to one hour per person
 ---
 
+## How to do it
 
 1. Identify specific traits for new or infrequent users of a design solution.
 1. Develop a set of representative tasks that emphasize new use or infrequent use.
-1. Designate a member of the design team to play the role of a user. That person will use the traits you’ve identified to participate in a moderated usability testing session. (The traits can overlap.)
+1. Designate a member of the design team to play the role of a user. That person will use the traits you've identified to participate in a moderated usability testing session. (The traits can overlap.)
 1. Ask the user to accomplish their goal using a printed or interactive design. As they go, ask what they would attempt to do next or how they would learn.
   1. Don't lead the user through the task, but encourage them to stay focused on what they're trying to accomplish.
   1. Pay attention to expected outcomes and how quickly/easily participants are able to pick up a task.

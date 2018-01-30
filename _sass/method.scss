@@ -74,10 +74,10 @@
     a,
     a:visited {
       color: $color-gray-dark;
-      text-decoration: none;
+      text-decoration-skip: ink;
 
       &:hover {
-        text-decoration: underline;
+        text-decoration: none;
       }
     }
   }
@@ -197,7 +197,7 @@
     .method--section {
       margin-bottom: 1.4em
     }
-    
+
     .method--section--government-considerations {
       font-family: $font-sans;
       font-size: $tiny-font-size;

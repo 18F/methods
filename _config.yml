@@ -42,5 +42,6 @@ plugins:
   - jekyll-last-modified-at
   - jemoji
   - jekyll-mentions
+  - jekyll-redirect-from
 
 google_analytics_ua: UA-48605964-19

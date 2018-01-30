@@ -1,4 +1,6 @@
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 name: Methods
 exclude:
 - CONTRIBUTING.md

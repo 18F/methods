@@ -25,7 +25,8 @@ a { color: inherit; }
 header.banner,
 .usa-header-extended,
 .category--header,
-.method--section--non-printable-content {
+.method--section--18f-example,
+.method--section--additional-resources {
   display: none;
 }
 
@@ -34,7 +35,8 @@ header.banner,
     page-break-before: always;
 }
 
-.method {
+.method,
+.layout--card .method {
   width: 8in;
   height: 6.5in;
   margin: 0;
@@ -43,6 +45,7 @@ header.banner,
   border: 1px dashed #ccc;
   border-radius: 0;
   page-break-after: always;
+  box-shadow: none;
 }
 
 
@@ -127,7 +130,7 @@ header.banner,
   padding-top: 15px !important;
 }
 .method h1{ font-size: 14pt; }
-.method h2{ font-size: 12pt; }
+.method h2{ font-size: 14pt; }
 
 .method .method--panel--front p{
   font-size: 10.5pt;
@@ -135,13 +138,27 @@ header.banner,
   font-weight: normal;
 }
 
-.method .method--panel--back h1{
+.method .method--panel--back h1,
+.method .method--panel--back h2 {
   font-size: 11pt;
 }
 
-.method .method--panel--back,
-.method .method--panel--back h2{
+.method .method--panel--back h3 {
+  font-size: 10pt;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: .6rem;
+}
+
+.method .method--panel--back {
   font-size: 9pt;
+}
+
+.method .method--panel--back {
+
+  :first-child {
+    margin-top: .6em;
+  }
 }
 
 .method .method--panel--back::after{

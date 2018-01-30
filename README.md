@@ -9,7 +9,7 @@ In order to function well within cross-functional teams, designers need to know 
 It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!). Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the Paperwork Reduction Act.
 ## Getting started
 ### Reading the Methods online
-You’re presently looking at the Method’s GitHub (code) repository. Please [visit our homepage](https://methods.18f.gov) to read the Methods online.
+You’re presently looking at the Methods’ GitHub (code) repository. Please [visit our homepage](https://methods.18f.gov) to read the Methods online.
 ### Printing the Methods
 To print a copy of the Methods for offline use, simply visit the [Methods homepage](https://methods.18f.gov) and select `file → print…` from your web browser.
 ### Running the Methods website on your local machine

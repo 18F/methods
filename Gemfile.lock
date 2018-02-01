@@ -45,6 +45,8 @@ GEM
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
+    jekyll-redirect-from (0.13.0)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
     jekyll-watch (2.0.0)
@@ -93,9 +95,10 @@ DEPENDENCIES
   jekyll
   jekyll-last-modified-at
   jekyll-mentions
+  jekyll-redirect-from
   jemoji
   redcarpet
   rouge
 
 BUNDLED WITH
-   1.15.4
+   1.16.1

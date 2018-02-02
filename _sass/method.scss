@@ -39,8 +39,8 @@
 
 .method {
   background: $color-inverse;
-  border-bottom: 0;
-  border-radius: 3px;
+  box-shadow: 1px 1px 0 rgba(0,0,0,0.08);
+  border-radius: 6px;
   display: table;
   font-family: $font-sans;
   margin-bottom: 3rem;
@@ -60,7 +60,6 @@
   ol,
   ul {
     margin-left: 1.4em;
-    padding-top: .6em;
   }
 
   .method--title {
@@ -75,15 +74,15 @@
     a,
     a:visited {
       color: $color-gray-dark;
-      text-decoration: none;
+      text-decoration-skip: ink;
 
       &:hover {
-        text-decoration: underline;
+        text-decoration: none;
       }
     }
   }
 
-  h1 {
+  h2 {
     font-family: $font-sans;
     font-size: $h4-font-size;
     font-weight: bold;
@@ -95,16 +94,6 @@
     display: block;
     padding: 20px 40px;
     width: auto;
-  }
-
-
-  @media screen and (min-width: 800px) {
-    .method--panel {
-      display: table-cell;
-      padding: 20px 40px;
-      vertical-align: top;
-      width: 50%;
-    }
   }
 
   .method--section--what,
@@ -127,12 +116,6 @@
     border-top: 1px solid $color-gray-light;
     display: table-cell;
 
-    h1 {
-      font-size: $tiny-font-size;
-      letter-spacing: .02em;
-      text-transform: uppercase;
-    }
-
     p {
       font-size: $small-font-size;
     }
@@ -147,31 +130,24 @@
       margin-top: 3rem;
       position: relative;
       width: 100%;
-    }
 
-    @media screen and (min-width: 800px) {
-      footer {
-        bottom: 0;
-        display: table;
-        left: 0;
-        padding: 0 40px 20px;
-        position: absolute;
-        width: 100%;
+      h1 {
+        font-size: $h6-font-size;
+        text-transform: uppercase;
       }
     }
-  }
 
-  @media screen and (min-width: 800px) {
-    .method--panel--front {
-      padding-bottom: 15rem;
-      position: relative;
-    }
   }
 
   // method--panel--back
   .method--panel--back {
     background: $color-gray-lightest;
     font-size: $small-font-size;
+    border-radius: 0 0 6px 6px;
+    padding-top: 32px;
+    :first-child {
+      margin-top: 0;
+    }
 
     h1 {
       font-size: $h4-font-size;
@@ -180,7 +156,13 @@
 
     h2 {
       font-family: $font-sans;
-      font-size: $h5-font-size;
+      font-size: $h4-font-size;
+      margin-top: 1em;
+    }
+
+    h4 {
+      font: inherit;
+      font-weight: 600;
       margin-top: 1em;
     }
 
@@ -202,7 +184,7 @@
       ul {
         list-style: disc;
         margin-left: 1.4em;
-        padding-top: .6em;
+        padding-top: 0.4em;
       }
     }
 
@@ -212,12 +194,16 @@
       margin-bottom: .6em;
     }
 
+    .method--section {
+      margin-bottom: 1.4em
+    }
+
     .method--section--government-considerations {
       font-family: $font-sans;
       font-size: $tiny-font-size;
       line-height: 1.3em;
 
-      h1 {
+      h2 {
         font-size: $h5-font-size;
         margin-top: 1em;
       }
@@ -240,6 +226,35 @@
   }
 }
 
+@media screen and (min-width: 800px) {
+
+  .method .method--panel {
+    display: table-cell;
+    padding: 20px 40px;
+    vertical-align: top;
+    width: 50%;
+  }
+
+  .method .method--panel--front {
+    padding-bottom: 15rem;
+    position: relative;
+  }
+
+  .method .method--panel--front footer {
+      bottom: 0;
+      display: table;
+      left: 0;
+      padding: 0 40px 20px;
+      position: absolute;
+      width: 100%;
+  }
+
+  .method .method--panel--back {
+    border-radius: 0 6px 6px 0;
+    padding-top: 30px;
+  }
+}
+
 .category--discover .method--title {
   border-color: $color-blue;
 }
@@ -254,4 +269,8 @@
 }
 .category--fundamentals .method--title {
   border-color: $color-blue-dark;
+}
+
+.method--section--additional-resources {
+  margin-bottom: 10px;
 }

@@ -29,6 +29,9 @@ body {
   }
   h3 {
     font-family: $font-sans;
-    font-size: $h3-font-size;
+    font-size: $h4-font-size;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: .6rem;
   }
 }

@@ -2,6 +2,8 @@
 layout: card
 title: Wireframing
 permalink: /make/wireframing/
+redirect_from:
+  - /wireframing/
 description: A simple visual representation of a product or service interface.
 category: Make
 what: A simple visual representation of a product or service interface.
@@ -17,6 +19,6 @@ timeRequired: 1-3 hours
 1. Use the wireframes to get the team's feedback on feasibility and structure.  
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research 
+## Applied in government research
 No PRA implications. No information is collected from members of the public.
 </section>

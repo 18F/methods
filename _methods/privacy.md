@@ -2,6 +2,8 @@
 layout: card
 title: Privacy
 permalink: /fundamentals/privacy/
+redirect_from:
+  - /privacy/
 description: Designers have an obligation to respect and protect privacy.
 category: Fundamentals
 what: Designers potentially might work with many different categories of information, across a number of different contexts. You have an obligation to steward information in a way that respects privacy.

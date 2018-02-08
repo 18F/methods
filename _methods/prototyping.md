@@ -2,6 +2,8 @@
 layout: card
 title: Prototyping
 permalink: /make/prototyping/
+redirect_from:
+  - /prototyping/
 description: A rudimentary version, either static or functional, of something that exhibits realistic form and function.
 category: Make
 what: A rudimentary version, either static or functional, of something that exhibits realistic form and function.

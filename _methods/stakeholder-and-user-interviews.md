@@ -2,6 +2,8 @@
 layout: card
 title: Stakeholder and user interviews
 permalink: /discover/stakeholder-and-user-interviews/
+redirect_from:
+  - /stakeholder-and-user-interviews/
 description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
 category: Discover
 what: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.

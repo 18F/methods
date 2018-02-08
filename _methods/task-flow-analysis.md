@@ -2,6 +2,8 @@
 layout: card
 title: Task flow analysis
 permalink: /decide/task-flow-analysis/
+redirect_from:
+  - /task-flow-analysis/
 description: A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
 category: Decide
 what: A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.

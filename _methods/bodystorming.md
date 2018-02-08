@@ -2,6 +2,8 @@
 layout: card
 title: Bodystorming
 permalink: /discover/bodystorming/
+redirect_from:
+  - /bodystorming/
 description: An improvisational brainstorm based on interaction and movement with the body.
 category: Discover
 what: An improvisational brainstorm based on interaction and movement with the body.

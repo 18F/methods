@@ -2,6 +2,8 @@
 layout: card
 title: Visual preference testing
 permalink: /validate/visual-preference-testing/
+redirect_from:
+  - /visual-preference-testing/
 description: A method that allows potential users to review and provide feedback on a solution's visual direction.
 category: Validate
 what: A method that allows potential users to review and provide feedback on a solution's visual direction.

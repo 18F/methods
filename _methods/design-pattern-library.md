@@ -2,6 +2,8 @@
 layout: card
 title: Design pattern library
 permalink: /make/design-pattern-library/
+redirect_from:
+  - /design-pattern-library/
 description: A collection of user interface elements (for example colors, icons, and buttons) used frequently across a website or service, consisting of the base patterns and helpful information about how to use them.
 category: Make
 what: A collection of UI elements used frequently across a design system, consisting of the base patterns and helpful information about how to use them.

@@ -2,6 +2,8 @@
 layout: card
 title: KJ method
 permalink: /discover/kj-method/
+redirect_from:
+  - /kj-method/
 description: A facilitated exercise in which participants list their individual priorities onto cards, collect them as a group, organize them by relationship, and establish group priorities through individual voting.
 category: Discover
 what: A facilitated exercise in which participants list their individual priorities onto cards, collect them as a group, organize them by relationship, and establish group priorities through individual voting.

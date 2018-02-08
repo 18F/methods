@@ -2,6 +2,8 @@
 layout: card
 title: Incentives
 permalink: /fundamentals/incentives/
+redirect_from:
+  - /incentives/
 description: Offering usability test or user research participants gifts to encourage participation and to thank them for their time.
 category: Fundamentals
 what: Offering usability test or user research participants gifts to encourage participation and to thank them for their time.

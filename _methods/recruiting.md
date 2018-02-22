@@ -2,6 +2,8 @@
 layout: card
 title: Recruiting
 permalink: /fundamentals/recruiting/
+redirect_from:
+  - /recruiting/
 description: Identifying and gathering people to interview or who will test your product.
 category: Fundamentals
 what: Identifying and gathering people to interview or who will test your product.

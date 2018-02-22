@@ -2,6 +2,8 @@
 layout: card
 title: Design hypothesis
 permalink: /decide/design-hypothesis/
+redirect_from:
+  - /design-hypothesis/
 description: A listing and analysis of all the content on an existing website (including pages, files, videos, audio or other data) that your users might reasonably encounter.
 category: Decide
 what: Framing your work as a hypothesis means no longer just thinking about the thing you're making or building, but paying more attention to whether that work is achieving your intended goals and outcomes.

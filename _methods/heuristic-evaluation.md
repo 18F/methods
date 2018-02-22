@@ -4,6 +4,8 @@ title: Heuristic evaluation
 permalink: /discover/heuristic-evaluation/
 redirect_from:
   - /discover/heuristic-analysis/
+  - /heuristic-evaluation/
+  - /heuristic-analysis/
 description: A quick way to find common, large usability problems on a website.
 category: Discover
 what: A quick way to find common, large usability problems on a website.

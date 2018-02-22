@@ -2,6 +2,8 @@
 layout: card
 title: Site mapping
 permalink: /decide/site-mapping/
+redirect_from:
+  - /site-mapping/
 description: A comprehensive rendering of how a website's pages relate to one another.
 category: Decide
 what: A comprehensive rendering of how a website's pages relate to one another.

@@ -2,6 +2,8 @@
 layout: card
 title: Dot voting
 permalink: /discover/feature-dot-voting/
+redirect_from:
+  - /feature-dot-voting/
 description: A simple voting exercise to identify a group's collective priorities.
 category: Discover
 what: A simple voting exercise to identify a group's collective priorities.

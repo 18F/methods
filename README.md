@@ -3,7 +3,7 @@ The 18F Method Cards (“18F Methods”) describe how 18F puts human-centered de
 ## 18F Methods mission and vision
 
  - **Vision:** 18F Methods is an essential resource for people who are introducing and using human-centered design to solve problems in government.
- - **Mission:** 18F Methods offer simple, practical, and easily-referenced how-tos, templates, quality heuristics, etc. for people who are introducing and using human-centered design to solve problems in government.
+ - **Mission:** 18F Methods offer simple, practical, and easily-referenced how-tos, templates, quality heuristics, etc. to help people practice human-centered design across government.
 
 ## Why methods?
 

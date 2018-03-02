@@ -23,7 +23,7 @@ timeRequired: 2-3 hours per user goal
 
 ## Additional resources
 
-- <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Maine.</a>
+- <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Marine.</a>
 - Tool: <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov
 </section>
 

@@ -2,6 +2,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 name: Methods
+
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -24,6 +25,10 @@ collections:
   methods:
     output: true
     permalink: /:path/
+  resources:
+    output: true
+    permalink: /:path/
+
 site:
   title: Methods
 

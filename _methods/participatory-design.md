@@ -31,7 +31,7 @@ timeRequired: N/A
 <section class="method--section method--section--additional-resources" markdown="1">
 ## Additional resources
 
-- [Participatory Design: Inclusivity Heuristics](../resources/participatory-design-inclusivity-heuristics)
+- [Participatory Design: Inclusivity Heuristics]({{site.baseurl}}/resources/participatory-design-inclusivity-heuristics)
 - [18F Grouplet playbook](https://grouplet-playbook.18f.gov/)
 - [How to organize a working group](http://larahogan.me/blog/running-working-groups/)
 - [Gamestorming](http://gamestorming.com/)

@@ -136,9 +136,9 @@ description: A set of heuristics for ensuring that a participatory design effort
         <p>If applicable, the team defines the terms under which its work can be reused (for example, in a <a href="https://help.github.com/articles/licensing-a-repository/">LICENSE.md</a> file), as well as information for people who wish to install the product locally, fork its code, or submit bug reports.</p>
       </td>
       <td class="col-warning-signs">
-        <p>The team encourages individualism and competition over collaboration. Conversations frequently center on the contributions or inadequacies of individual contributors, especially without those people present. The team defaults to a single mode of collaboration that doesn’t offer substantial input into creative process (e.g. choosing from a set of prefabricated designs). In places where team members might collaborate, no resources are devoted to helping members develop the skills and literacies they need to meaningfully contribute.</p>
-        <p>The team does not proactively share what everyone is working on; people often work in private. The team uses tools and workflows where individual teammates can work in isolation.</p>
-        <p>The team never defines the terms under which its work can be reused or built upon.</p>
+        <p>The team encourages individualism and competition over collaboration. Conversations frequently center on the contributions or inadequacies of individual contributors, especially without those people present. The team defaults to a single mode of collaboration that doesn’t offer substantial input into the creative process (for example, choosing from a set of prefabricated designs). In places where team members might collaborate, no resources are devoted to helping members develop the skills and literacies they need to meaningfully contribute.</p>
+        <p>The team does not proactively share what everyone is working on; people often work in private. The team strongly prefers that individuals work in isolation.</p>
+        <p>The team never defines the terms or conditions under which its work can be reused or built upon.</p>
       </td>
     </tr>
     <tr>
@@ -152,7 +152,7 @@ description: A set of heuristics for ensuring that a participatory design effort
         <p>Praise is freely given, and tailored to the contributor (some folks prefer public praise, while others prefer discrete praise). The team blogs about its work, acknowledging those who contributed to the team’s recent decisions or successes. The team internally praises contributors. The team doesn’t make any single member a spokesperson or evangelist. The team acknowledges, hires, and promotes people for their abilities across an array of diverse criteria rather than any single conception of value.</p>
       </td>
       <td class="col-warning-signs">
-        <p>The team operates a “meritocracy” in which only one type of labor or success is given its due credit. Team members routinely take credit for other people’s work, or ignore the licenses accompanying licensed work. The team doesn’t acknowledge or celebrate people who work (even “behind the scenes”) to ensure the team’s success.</p>
+        <p>The team operates a “meritocracy” in which only one type of labor or success is given credit. Team members routinely take credit for other people’s work, or ignore the licenses accompanying licensed work. The team doesn’t acknowledge or celebrate people who work, even behind the scenes, to ensure the team’s success.</p>
       </td>
     </tr>
   </tbody>
@@ -165,7 +165,7 @@ description: A set of heuristics for ensuring that a participatory design effort
         <p>Emotional labor</p>
       </th>
       <td class="col-why-it-matters">
-        <p>Emotional labor is the process of managing feelings to fulfill emotional requirements. A team’s capacity for emotional labor shapes the degree to which it can respond to the feelings of others.</p>
+        <p>Emotional labor is the process of managing feelings to fulfill emotional requirements. A team’s capacity for emotional labor shapes the degree to which it can account for and respond to the feelings of others.</p>
       </td>
       <td class="col-good-signs">
         <p>The team actively works to understand the kinds of feelings for which it must account, and shares the burden of accounting for the feelings of others (for example, all new hires at Automattic are required to spend three weeks on the customer support team). Team members exhibit mindful use of language, including body language. Team members practice nonviolent communication, especially while discussing sensitive topics.</p>
@@ -196,10 +196,10 @@ description: A set of heuristics for ensuring that a participatory design effort
         <p>Creating intentionally liminal (“transitory”) spaces actively suspends the norms under which the team operates, thus encouraging new ideas and critical thinking.</p>
       </td>
       <td class="col-good-signs">
-        <p>The team regularly facilitates the creation of deliberative spaces to encourage lateral thinking (for example, <a href="../design-studios">design studios</a>, <a href="http://www.liberatingstructures.com/" rel="nofollow">liberating structures</a>, or <a href="http://gamestorming.com/">gamestorming</a> sessions) and collaborative sensemaking. Team members are encouraged to imagine what the world would be like if particular constraints didn’t exist (for example, profit). The team regularly creates spaces where team and community members can critically reflect on recent decisions and the processes by which they were made; for example, retrospectives, critique groups, town halls, etc.</p>
+        <p>The team regularly facilitates the creation of deliberative spaces to encourage lateral thinking; for example, <a href="../design-studios">design studios</a>, <a href="http://www.liberatingstructures.com/" rel="nofollow">liberating structures</a>, or <a href="http://gamestorming.com/">gamestorming</a> sessions and collaborative sensemaking. The team regularly creates spaces where team and community members can critically reflect on recent decisions and the processes by which they were made; for example, retrospectives, critique groups, town halls, etc.</p>
       </td>
       <td class="col-warning-signs">
-        <p>The team seldom (or never) makes space for collaborative discussions or self reflection, or liminal spaces are not created in a prudent way (e.g., the team doesn’t intend to act on feedback, or it only creates such spaces at the end of projects when it can no longer course-correct). Team members who join liminal spaces do not fully participate. The team doesn’t provide enough time for people to process before speaking up (if there aren’t many silent moments, you’re probably not thinking hard enough).</p>
+        <p>The team seldom makes space for collaborative discussions, lateral thinking, or self reflection. Liminal spaces are not created in a prudent way; for example, the team never intends to act on self-critical discussions, or it only creates liminal spaces at the end of projects when it can no longer course-correct. Team members who join liminal spaces do not fully participate.</p>
       </td>
     </tr>
     <tr>

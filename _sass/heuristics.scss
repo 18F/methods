@@ -1,0 +1,38 @@
+.layout--heuristics table td,
+.layout--heuristics table th{
+	font-size: 16px;
+	vertical-align: top;
+}
+
+.layout--heuristics table p{ margin-top: 0; }
+
+.layout--heuristics thead .col-good-signs{
+  background: #e1e9f1;
+  color: #000b17;
+}
+
+.layout--heuristics tbody .col-good-signs{
+  background: #f5f9fd;
+  color: #000408;
+}
+
+.layout--heuristics thead .col-warning-signs{
+  background-color: #f9e7ea;
+  color: #2d0613;
+}
+
+.layout--heuristics tbody .col-warning-signs{
+  background-color: #fff7f7;
+  color: #1a060d;
+}
+
+.layout--heuristics tbody th[colspan="4"] p{
+	margin: 0;
+	font-weight: 600;
+}
+
+@media screen and (min-width: 1422.22px){
+.layout--heuristics main .usa-grid{ max-width: 1280px; }
+.layout--heuristics .col-indicator{ width: 12em; }
+.layout--heuristics .col-why-it-matters{ width: 20em; }
+}

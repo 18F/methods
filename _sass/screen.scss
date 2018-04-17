@@ -3,6 +3,8 @@ body {
   font-size: $base-font-size;
 }
 
+p { max-width: 38em; }
+
 .list-unstyled {
   padding-left: 0;
 

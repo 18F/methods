@@ -65,7 +65,7 @@ description: A set of heuristics for ensuring that a participatory design effort
   </tbody>
   <tbody>
     <tr>
-      <th colspan="4">Encourage participation</th>
+      <th colspan="4"><p>Encourage participation</p></th>
     </tr>
     <tr>
       <th scope="row" class="col-indicator">
@@ -158,7 +158,7 @@ description: A set of heuristics for ensuring that a participatory design effort
   </tbody>
   <tbody>
     <tr>
-      <th colspan="4">Inform and share understanding</th>
+      <th colspan="4"><p>Inform and share understanding</p></th>
     </tr>
     <tr>
       <th scope="row" class="col-indicator">

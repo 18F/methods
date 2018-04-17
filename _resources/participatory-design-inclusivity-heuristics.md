@@ -9,7 +9,7 @@ description: A set of heuristics for ensuring that a participatory design effort
 
 <h1>Participatory Design: Inclusivity Heuristics</h1>
 
-<p>The following indicators can be used to help determine if a <a href="{{site.baseurl}}/fundamentals/participatory-design">participatory design</a> process is proceeding in a way that encourages input from stakeholders and users. Indicators are spread across three broad categories: Account for context, Encourage participation, and Inform and share understanding.</p>
+<p>The following indicators can be used to help determine if a <a href="{{site.baseurl}}/fundamentals/participatory-design">participatory design</a> process is proceeding in a way that encourages input from stakeholders and users. Indicators are spread across three broad categories: <a href="#account-for-context">Account for context</a>, <a href="#encourage-participation">Encourage participation</a>, and <a href="#inform-and-share-understanding">Inform and share understanding</a>.</p>
 
 <table>
   <thead>
@@ -22,7 +22,7 @@ description: A set of heuristics for ensuring that a participatory design effort
   </thead>
   <tbody>
     <tr>
-      <th colspan="4"><p>Account for context</p></th>
+      <th colspan="4" id="account-for-context"><p>Account for context</p></th>
     </tr>
     <tr>
       <th scope="row" class="col-indicator"><p>Values</p></th>
@@ -55,9 +55,9 @@ description: A set of heuristics for ensuring that a participatory design effort
       </td>
       <td class="col-good-signs">
         <p>The team respects the need for a healthy work-life balance. The team provides mechanisms for pausing and returning to discussions for people who need more time to process.</p>
+        <p>The team designs for people at all levels of cognitive, emotional, and physical capacity. Designers encourage empathy for people with different levels of capacity using tools such as personas and stress cases. The team considers accessibility throughout the design process and authors its content using <a href="https://content-guide.18f.gov/plain-language/">plain language</a>. The team uses techniques like <a href="https://en.wikipedia.org/wiki/Progressive_enhancement" rel="nofollow">progressive enhancement</a> and metrics like <a href="https://timkadlec.com/2013/01/setting-a-performance-budget/" rel="nofollow">performance budgets</a>.</p>
       </td>
       <td class="col-warning-signs">
-        <p>The team designs for people at all levels of cognitive, emotional, and physical capacity. Designers encourage empathy for people with different levels of capacity using tools such as personas and stress cases. The team considers accessibility throughout the design process and authors its content using <a href="https://content-guide.18f.gov/plain-language/">plain language</a>. The team uses techniques like <a href="https://en.wikipedia.org/wiki/Progressive_enhancement" rel="nofollow">progressive enhancement</a> and metrics like <a href="https://timkadlec.com/2013/01/setting-a-performance-budget/" rel="nofollow">performance budgets</a>.</p>
         <p>The team asks members to contribute at a level beyond that which is sustainable. The team often makes decisions under duress, and never aligns its design process within realistic constraints.</p>
         <p>The team perpetually de-prioritizes people whose needs are not met by its product or service but ostensibly could be (describing them as “edge cases”). The team’s product or service is designed to work for only a narrow subset of possible users, or only under specific circumstances (e.g., “desktop only.”)</p>
       </td>
@@ -65,7 +65,7 @@ description: A set of heuristics for ensuring that a participatory design effort
   </tbody>
   <tbody>
     <tr>
-      <th colspan="4"><p>Encourage participation</p></th>
+      <th colspan="4" id="encourage-participation"><p>Encourage participation</p></th>
     </tr>
     <tr>
       <th scope="row" class="col-indicator">
@@ -158,7 +158,7 @@ description: A set of heuristics for ensuring that a participatory design effort
   </tbody>
   <tbody>
     <tr>
-      <th colspan="4"><p>Inform and share understanding</p></th>
+      <th colspan="4" id="inform-and-share-understanding"><p>Inform and share understanding</p></th>
     </tr>
     <tr>
       <th scope="row" class="col-indicator">

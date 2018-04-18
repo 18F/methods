@@ -51,11 +51,11 @@ description: A set of heuristics for ensuring that a participatory design effort
     <tr>
       <th scope="row" class="col-indicator">Capacity</th>
       <td class="col-why-it-matters">
-        <p>Differences in capacity (e.g. physical, cognitive, emotional) affect people’s ability to participate in design processes and make use of designed products. Accounting for such differences results in a work environment that is more humane.</p>
+        <p>Differences in capacity (for example: physical, cognitive, emotional) affect people’s ability to participate in design processes and make use of designed products. Accounting for such differences results in work environments and work products that are more humane.</p>
       </td>
       <td class="col-good-signs">
         <p>The team respects the need for a healthy work-life balance. The team provides mechanisms for pausing and returning to discussions for people who need more time to process.</p>
-        <p>The team designs for people at all levels of cognitive, emotional, and physical capacity. Designers encourage empathy for people with different levels of capacity using tools such as personas and stress cases. The team considers accessibility throughout the design process and authors its content using <a href="https://content-guide.18f.gov/plain-language/">plain language</a>. The team uses techniques like <a href="https://en.wikipedia.org/wiki/Progressive_enhancement" rel="nofollow">progressive enhancement</a> and metrics like <a href="https://timkadlec.com/2013/01/setting-a-performance-budget/" rel="nofollow">performance budgets</a>.</p>
+        <p>The team designs for people at all levels of cognitive, emotional, and physical capacity. Designers encourage empathy for people with different levels of capacity using tools such as personas and stress cases. The team considers <a href="https://accessibility.18f.gov/">accessibility</a> throughout the design process and authors content using <a href="https://content-guide.18f.gov/plain-language/">plain language</a>. The team uses techniques like <a href="https://en.wikipedia.org/wiki/Progressive_enhancement" rel="nofollow">progressive enhancement</a> and metrics like <a href="https://timkadlec.com/2013/01/setting-a-performance-budget/" rel="nofollow">performance budgets</a>.</p>
       </td>
       <td class="col-warning-signs">
         <p>The team asks members to contribute at a level beyond that which is sustainable. The team often makes decisions under duress, and never aligns its design process within realistic constraints.</p>

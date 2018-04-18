@@ -230,6 +230,7 @@ description: A set of heuristics for ensuring that a participatory design effort
 </ul>
 <h3>Government publications</h3>
 <ul>
+  <li><a href="https://grouplet-playbook.18f.gov/">18F Grouplet Guide</a></li>
   <li><a href="https://open-source-guide.18f.gov/">18F Open Source Style Guide</a></li>
   <li><a href="https://playbook.cio.gov/">US Digital Services Playbook</a></li>
 </ul>

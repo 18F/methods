@@ -32,8 +32,7 @@ timeRequired: N/A
 ## Additional resources
 
 - [Participatory Design: Inclusivity Heuristics]({{site.baseurl}}/resources/participatory-design-inclusivity-heuristics)
-- [18F Grouplet playbook](https://grouplet-playbook.18f.gov/)
-- [How to organize a working group](http://larahogan.me/blog/running-working-groups/)
+- [How to organize a working group, by Lara Hogan](http://larahogan.me/blog/running-working-groups/)
 - [Gamestorming](http://gamestorming.com/)
-- [Liberating structures](http://www.liberatingstructures.com/1-1-2-4-all/)
+- [Liberating structures](http://www.liberatingstructures.com/)
 </section>

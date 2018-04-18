@@ -7,7 +7,7 @@ redirect_from:
 description: Design processes that invite participation are more sustainable in the long run.
 category: Fundamentals
 what: An approach to design emphasizing shared ownership, education, and collaboration.
-why: To ensure more just, equitable, and sustainable designs. To encourage products and services that reflect the perspectives of those that are being served.
+why: To ensure more just, equitable, and sustainable design processes. To encourage the creation of products and services reflecting the preferences of the people who must use them.
 timeRequired: N/A
 ---
 

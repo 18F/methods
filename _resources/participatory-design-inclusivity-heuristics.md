@@ -4,12 +4,12 @@ title: Participatory design&#58; inclusivity heuristics
 permalink: /resources/participatory-design-inclusivity-heuristics/
 redirect_from:
   - /participatory-design-inclusivity-heuristics/
-description: A set of heuristics for ensuring that a participatory design effort is proceeding in an inclusive way.
+description: Guidelines for ensuring that a design effort is proceeding in an inclusive way.
 ---
 
 <h1>Participatory Design: Inclusivity Heuristics</h1>
 
-<p>The following indicators can be used to help determine if a <a href="{{site.baseurl}}/fundamentals/participatory-design">participatory design</a> process is proceeding in a way that encourages input from stakeholders and users. Indicators are spread across three broad categories: <a href="#account-for-context">Account for context</a>, <a href="#encourage-participation">Encourage participation</a>, and <a href="#inform-and-share-understanding">Inform and share understanding</a>.</p>
+<p><a href="{{site.baseurl}}/fundamentals/participatory-design">Participatory design</a> processes work best when they encourage input from a diverse group of stakeholders and users. The following heuristics identify ways in which design processes can be made more (or less) inclusive.</p>
 
 <table>
   <thead>

@@ -35,4 +35,5 @@ timeRequired: N/A
 - [How to organize a working group, by Lara Hogan](http://larahogan.me/blog/running-working-groups/)
 - [Gamestorming](http://gamestorming.com/)
 - [Liberating structures](http://www.liberatingstructures.com/)
+- [Creativity-based Research: The Process of Co-Designing with Users by Catalina Naranjo-Bock](https://uxmag.com/articles/creativity-based-research-the-process-of-co-designing-with-users)
 </section>

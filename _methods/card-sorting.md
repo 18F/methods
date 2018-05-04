@@ -2,6 +2,8 @@
 layout: card
 title: Card sorting
 permalink: /validate/card-sorting/
+redirect_from:
+  - /card-sorting/
 description: A categorization exercise in which participants divide concepts into different groups based on their
 category: Validate
 what: A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts.

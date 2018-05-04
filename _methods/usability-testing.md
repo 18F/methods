@@ -2,6 +2,8 @@
 layout: card
 title: Usability testing
 permalink: /validate/usability-testing/
+redirect_from:
+  - /usability-testing/
 description: Observation of people attempting to use a product.
 category: Validate
 what: Observation of people attempting to use a product.

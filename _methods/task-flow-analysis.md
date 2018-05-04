@@ -2,6 +2,8 @@
 layout: card
 title: Task flow analysis
 permalink: /decide/task-flow-analysis/
+redirect_from:
+  - /task-flow-analysis/
 description: A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
 category: Decide
 what: A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
@@ -21,7 +23,7 @@ timeRequired: 2-3 hours per user goal
 
 ## Additional resources
 
-- <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Maine.</a>
+- <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Marine.</a>
 - Tool: <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov
 </section>
 

@@ -2,6 +2,8 @@
 layout: card
 title: Cognitive walkthrough
 permalink: /discover/cognitive-walkthrough/
+redirect_from:
+  - /cognitive-walkthrough/
 description: An evaluation method in which people work through a set of representative tasks and ask questions about the task as they go.
 category: Discover
 what: An evaluation method in which people work through a set of representative tasks and ask questions about the task as they go.

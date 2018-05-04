@@ -2,6 +2,8 @@
 layout: card
 title: Multivariate testing
 permalink: /validate/multivariate-testing/
+redirect_from:
+  - /multivariate-testing/
 description: A test of variations to multiple sections or features of a page to see which combination of variants has the greatest effect. Different from an A/B test, which tests variation to just one section or feature.
 category: Validate
 what: A test of variations to multiple sections or features of a page to see which combination of variants has the greatest effect. Different from an A/B test, which tests variation to just one section or feature.

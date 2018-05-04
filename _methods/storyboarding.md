@@ -2,6 +2,8 @@
 layout: card
 title: Storyboarding
 permalink: /decide/storyboarding/
+redirect_from:
+  - /storyboarding/
 description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
 category: Decide
 what: A visual sequence of a specific use case or scenario, coupled with a narrative.

@@ -45,3 +45,5 @@ plugins:
   - jekyll-redirect-from
 
 google_analytics_ua: UA-48605964-19
+
+theme: jekyll-theme-cayman

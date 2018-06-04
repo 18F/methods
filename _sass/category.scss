@@ -1,4 +1,3 @@
-
 .category {
 
   .category--title {
@@ -44,13 +43,53 @@
 .category--validate { background-color: $color-red; }
 .category--decide { background-color: $color-green; }
 
-.category--fundamentals, .category--intro {
+.category--discover--title { border-color: $color-blue; }
+.category--make--title { border-color: $color-gold; }
+.category--validate--title { border-color: $color-red; }
+.category--decide--title { border-color: $color-green; }
+
+
+.category--fundamentals,
+.intro-header {
   background-color: $color-blue-dark;
-  .category--header { color: $color-inverse; }
+  .category--header .category--subtitle,
+  .category--header .category--title,
+  .category--header p {
+    color: $color-inverse;
+  }
+}
+
+.intro-header {
+  color: $color-inverse;
 }
 
 @media screen and (max-width: 950px) {
   .category--intro .usa-font-lead {
     font-size: 2.5rem;
+  }
+}
+
+
+.layout--introduction {
+  .category {
+    padding: 3rem;
+    margin-bottom: 3rem;
+    border-radius: 6px;
+    .category--header {
+      margin-bottom: 0;
+    }
+    .category--title {
+      border-bottom-width: 8px;
+      border-bottom-style: solid;
+    }
+    h2 {
+      font-size: 2rem;
+      margin-top: 6.5rem;
+    }
+    .method-listing {
+      li {
+        margin-bottom: .5rem;
+      }
+    }
   }
 }

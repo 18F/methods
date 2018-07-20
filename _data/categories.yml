@@ -29,7 +29,7 @@
     - Wireframing
 
 - category_name: Validate
-  category_description: Test a design hypothesis
+  category_description: Test a design hypothesis.
   category_info: Testing (and re-testing) your designs with users will help you build the best possible product. Our Validate Methods cover varied testing scenarios and potential user groups.
   methods:
     - Card sorting

@@ -2,5 +2,5 @@
 title: Decide
 layout: category
 category: decide
-description: Focus the effort around a design hypothesis.
+description: Elaborate on research from your Discovery phase.
 ---

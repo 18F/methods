@@ -72,15 +72,7 @@
 
 }
 
-@media screen and (max-width: 600px) {
-.layout--introduction {
-  .category {
-    .usa-width-two-thirds {
-      padding-bottom: 2rem;
-    }
-  }
-}
-}
+
 
 
 .layout--introduction {
@@ -156,6 +148,21 @@
     .method-listing {
       li {
         margin-bottom: .5rem;
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  .layout--introduction {
+    .category {
+      .usa-width-two-thirds {
+        padding-bottom: 2rem;
+      }
+
+      .usa-width-one-third {
+        padding-left: 0;
       }
     }
   }

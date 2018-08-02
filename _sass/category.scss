@@ -67,6 +67,19 @@
   .category--intro .usa-font-lead {
     font-size: 2.5rem;
   }
+
+
+
+}
+
+@media screen and (max-width: 600px) {
+.layout--introduction {
+  .category {
+    .usa-width-two-thirds {
+      padding-bottom: 2rem;
+    }
+  }
+}
 }
 
 
@@ -125,6 +138,7 @@
     padding: 3rem;
     margin-bottom: 3rem;
     border-radius: 6px;
+
     .category--header {
       margin-bottom: 0;
     }

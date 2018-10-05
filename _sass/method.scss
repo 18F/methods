@@ -1,7 +1,7 @@
 .card-header {
   margin-bottom: 2.5rem;
   margin-top: 1em;
-  text-align: right;
+  text-align: left;
 
   nav {
     ol {
@@ -227,6 +227,9 @@
 }
 
 @media screen and (min-width: 800px) {
+  .card-header {
+    text-align: right;
+  }
 
   .method .method--panel {
     display: table-cell;

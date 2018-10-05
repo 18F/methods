@@ -4,6 +4,12 @@ description: Helpful reminders for moderating interviews
 layout: page
 ---
 
+<style type="text/css" media="print">
+@page {
+  margin: 1in;
+}
+</style>
+
 # Interview Checklist
 Interviews often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. For talking points and question suggestions, see our sample interview prompts. 
 

@@ -196,8 +196,13 @@ header.banner,
 .layout--example-design-research-participant-agreement .page,
 .layout--interview-checklist .page {
   font-size: 12pt;
+}
+
+.layout--interview-checklist .page h1#interview-checklist{ margin-top: 0 ; }
+
+.layout--example-design-research-participant-agreement .page{
   height: 11in;
-  padding: 1in 1in;
+  padding: 1in;
   width: 8.5in;
 }
 

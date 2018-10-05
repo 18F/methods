@@ -193,7 +193,8 @@ header.banner,
 }
 
 
-.layout--example-design-research-participant-agreement .page {
+.layout--example-design-research-participant-agreement .page,
+.layout--interview-checklist .page {
   font-size: 12pt;
   height: 11in;
   padding: 1in 1in;
@@ -201,7 +202,9 @@ header.banner,
 }
 
 .layout--example-design-research-participant-agreement .page p,
-.layout--example-design-research-participant-agreement .page li {
+.layout--example-design-research-participant-agreement .page li,
+.layout--interview-checklist .page p,
+.layout--interview-checklist .page li {
   line-height: 1.4em;
 }
 

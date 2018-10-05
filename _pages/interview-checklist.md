@@ -22,7 +22,7 @@ Interviews often progress through key moments: introductions lead to warm-up que
 - [ ] Establish clear roles for anyone who will join (for example, moderators, observers, notetakers, etc.). Consider passing along this role guide.
 - [ ] Confirm with teammates, especially remote ones, how they might ask questions during the interview (for example, in a Slack thread)
 - [ ] Do a tech check: confirm that screen sharing, recording, etc. works
-- [ ] Check receipt of a signed participant agreement
+- [ ] Check receipt of a signed participant agreement ([example](/participant-agreement))
 - [ ] Double-check any links, files, etc. that participants will need to evaluate (i.e., ensure that your concept, wireframes, or prototypes are available for testing)
 
 
@@ -79,7 +79,7 @@ Interviews often progress through key moments: introductions lead to warm-up que
 
 
 ## Wrap-up
-Spend 5 minutes thanking the participant, communicating any next steps, and giving the participant a chance to ask any questions they might have.
+**Spend 5 minutes** thanking the participant, communicating any next steps, and giving the participant a chance to ask any questions they might have.
 
 ### Make sure to 
 - [ ] Thank the participant for their time and reiterate the value of their contributions
@@ -91,7 +91,7 @@ Spend 5 minutes thanking the participant, communicating any next steps, and givi
 - [ ] If desired, ask them who else you might talk to (fun fact: this is called snowball sampling)
 
 ## Post-interview activities
-Once the interview is complete, spend 15 minutes completing a post-interview debrief. Tend to any post-interview logistics.
+Once the interview is complete, **spend 15 minutes** completing a post-interview debrief. Tend to any post-interview logistics.
 
 ### Make sure to
 - [ ] If you’ve recording the interview: Move any recordings from your Google Drive to the project folder

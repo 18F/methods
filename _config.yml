@@ -18,9 +18,6 @@ sass:
   style: compressed
 
 collections:
-  pages:
-    output: true
-    permalink: /:path/
   methods:
     output: true
     permalink: /:path/

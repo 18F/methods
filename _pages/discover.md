@@ -2,5 +2,5 @@
 title: Discover
 layout: category
 category: discover
-description: Methods to build empathy for the project and people involved.
+description: Build a greater understanding of your problem and the people it impacts.
 ---

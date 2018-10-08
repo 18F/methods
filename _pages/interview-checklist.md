@@ -10,7 +10,7 @@ layout: page
 }
 </style>
 
-# Interview Checklist
+# Interview checklist
 Interviews often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. For talking points and question suggestions, see our sample interview prompts. 
 
 
@@ -94,7 +94,7 @@ Interviews often progress through key moments: introductions lead to warm-up que
 Once the interview is complete, **spend 15 minutes** completing a post-interview debrief. Tend to any post-interview logistics.
 
 ### Make sure to
-- [ ] If you’ve recording the interview: Move any recordings from your Google Drive to the project folder
+- [ ] If you’ve recorded the interview: Move any recordings from your Google Drive to the project folder
 - [ ] Engage the team in a post-interview debrief to discuss surprises and reflect on what you heard
 - [ ] Reflect on whether or not the questions in the interview guide should be updated or modified based how this interview went
 - [ ] If you promised the user any follow-up communications, identify who will send them and when

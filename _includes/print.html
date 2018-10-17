@@ -1,0 +1,55 @@
+<section class="category category--discover usa-section" id="discover">
+  <div class="usa-grid">
+    <header class="category--header">
+        <h1 class="category--title">Discover</h1>
+        <p class="category--subtitle">Methods to build empathy for the project and people involved.</p>
+    </header>
+    {% for method in discover_methods %}
+      {% include method.html method=method %}
+    {% endfor %}
+  </div>
+</section>
+<section class="category category--decide usa-section" id="decide">
+  <div class="usa-grid">
+    <header class="category--header">
+      <h1 class="category--title">Decide</h1>
+      <p class="category--subtitle">Methods for focusing the design effort.</p>
+    </header>
+    {% for method in decide_methods %}
+      {% include method.html method=method %}
+    {% endfor %}
+  </div>
+</section>
+<section class="category category--make usa-section" id="make">
+  <div class="usa-grid">
+    <header class="category--header">
+      <h1 class="category--title">Make</h1>
+      <p class="category--subtitle">Methods for creating a testable solution.</p>
+    </header>
+    {% for method in make_methods %}
+      {% include method.html method=method %}
+    {% endfor %}
+  </div>
+</section>
+<section class="category category--validate usa-section" id="validate">
+  <div class="usa-grid">
+    <header class="category--header">
+      <h1 class="category--title">Validate</h1>
+      <p class="category--subtitle">Methods for testing a design hypothesis.</p>
+    </header>
+    {% for method in validate_methods %}
+      {% include method.html method=method %}
+    {% endfor %}
+  </div>
+</section>
+<section class="category category--fundamentals usa-section" id="fundamentals">
+  <div class="usa-grid">
+    <header class="category--header">
+      <h1 class="category--title">Fundamentals</h1>
+      <p class="category--subtitle">Foundational methods for practicing design research.</p>
+    </header>
+    {% for method in fundamentals_methods %}
+      {% include method.html method=method %}
+    {% endfor %}
+  </div>
+</section>

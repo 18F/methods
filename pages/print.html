@@ -1,6 +1,6 @@
 ---
-permalink: /deck/
-title: Deck
+permalink: /print/
+title: Print
 ---
 <!DOCTYPE html>
 <html lang='en'>
@@ -18,5 +18,8 @@ title: Deck
       {% include deck.html %}
     </main>
       {% include footer.html %}
+      <script type="text/javascript">
+        window.onload = print();
+      </script>
   </body>
 </html>

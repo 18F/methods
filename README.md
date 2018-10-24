@@ -39,7 +39,7 @@ You should be able to see the site at: `http://localhost:4000/`
 For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
 ## Current team
 
-- Product owner: Eric Ronne
+- Product owner: Julia Lindpaintner
 - Designer (researcher): Andrew Maier
 - Designer (front-end developer): Scott Weber
 
@@ -54,6 +54,7 @@ For more information on contributing to the Methods (or even making a suggestion
 - Nicky Krause
 - Colin MacArthur
 - Brad Nunnally
+- Eric Ronne
 - Jennifer Thibault
 - Russ Unger
 - Victor Zapanta

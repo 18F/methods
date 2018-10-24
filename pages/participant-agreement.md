@@ -2,6 +2,8 @@
 title: Example Design Research Participant Agreement
 description: An example design research participant agreement
 layout: page
+permalink: /participant-agreement/
+
 ---
 
 # Example Design Research Participant Agreement

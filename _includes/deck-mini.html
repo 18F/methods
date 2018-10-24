@@ -8,14 +8,14 @@
           <p class="category--subtitle">{{ category.category_description }}</p>
           <p>{{ category.category_info }}</p>
           <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}">See all {{ category.category_name | downcase }} methods</a>
-        </div> 
+        </div>
       </div>
       <div class="usa-width-one-third">
         <h2>Methods include</h2>
 
         <ul class="usa-unstyled-list method-listing">
           {% for method in category.methods %}
-          <li><a href="{{ site.baseurl }}/{{ method | slugify }}">{{ method | capitalize }}</a></li>
+          <li><a href="{{ site.baseurl }}/{{ method | slugify }}">{{ method }}</a></li>
           {% endfor %}
         </ul>
       </div>

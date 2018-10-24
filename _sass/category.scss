@@ -1,4 +1,3 @@
-
 .category {
 
   .category--title {
@@ -9,9 +8,9 @@
   }
 
   .category--subtitle {
-    display: inline;
     font-family: $font-sans;
     font-size: $h3-font-size;
+    font-weight: 600;
   }
 
   .category--header {
@@ -29,7 +28,7 @@
     }
 
     a {
-      color: inherit;
+      font-weight: 600;
       text-decoration: underline;
 
       &:hover {
@@ -39,18 +38,132 @@
   }
 }
 
-.category--discover { background-color: $color-blue; }
+.category--discover  { background-color: $color-blue; }
 .category--make { background-color: $color-gold; }
 .category--validate { background-color: $color-red; }
 .category--decide { background-color: $color-green; }
 
-.category--fundamentals, .category--intro {
+.category--discover--title { border-color: $color-blue; }
+.category--make--title { border-color: $color-gold; }
+.category--validate--title { border-color: $color-red; }
+.category--decide--title { border-color: $color-green; }
+
+
+.category--fundamentals,
+.intro-header {
   background-color: $color-blue-dark;
-  .category--header { color: $color-inverse; }
+  .category--header .category--subtitle,
+  .category--header .category--title,
+  .category--header p {
+    color: $color-inverse;
+  }
+}
+
+.intro-header {
+  color: $color-inverse;
 }
 
 @media screen and (max-width: 950px) {
   .category--intro .usa-font-lead {
     font-size: 2.5rem;
+  }
+
+
+
+}
+
+
+
+
+.layout--introduction {
+  .category {
+    background-color:#fff;
+    .usa-width-two-thirds {
+      margin-right:0;
+      padding-right: 2.35765%;
+    }
+    .usa-width-one-third {
+      padding-left: 2.35765%;
+    }
+  }
+  .category--discover {
+      .usa-width-two-thirds
+      { border-color: $color-blue; }
+      .usa-width-one-third {
+        border-color: lighten( $color-blue, 25% )
+      }
+    }
+  .category--make {
+    .usa-width-two-thirds
+    { border-color: $color-gold; }
+    .usa-width-one-third {
+      border-color: lighten( $color-gold, 25% )
+    }
+  }
+  .category--validate {
+    .usa-width-two-thirds
+    { border-color: $color-red; }
+    .usa-width-one-third {
+      border-color: lighten( $color-red, 25% )
+    }
+  }
+  .category--decide {
+    .usa-width-two-thirds
+    { border-color: $color-green; }
+    .usa-width-one-third {
+      border-color: lighten( $color-green, 25% )
+    }
+  }
+  .category--fundamentals {
+    .usa-width-two-thirds
+    { border-color: $color-blue-dark; }
+    .usa-width-one-third {
+      border-color: lighten( $color-blue-dark, 25% )
+    }
+    .category--header .category--subtitle,
+    .category--header .category--title,
+    .category--header p {
+      color: inherit;
+    }
+  }
+  .category {
+    padding: 3rem;
+    margin-bottom: 3rem;
+    border-radius: 6px;
+
+    .category--header {
+      margin-bottom: 0;
+    }
+    .usa-width-two-thirds, .usa-width-one-third {
+      border-top-width: 8px;
+      border-top-style: solid;
+    }
+    .category--subtitle {
+        margin-top: 2rem;
+    }
+    h2 {
+      font-size: 2rem;
+      margin-top: 2rem;
+    }
+    .method-listing {
+      li {
+        margin-bottom: .5rem;
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  .layout--introduction {
+    .category {
+      .usa-width-two-thirds {
+        padding-bottom: 2rem;
+      }
+
+      .usa-width-one-third {
+        padding-left: 0;
+      }
+    }
   }
 }

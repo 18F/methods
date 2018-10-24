@@ -239,6 +239,7 @@ button,
   background-color: $color-medium;
   font-family: $font-sans;
   width: auto;
+  display: inline-block;
 
   &:hover {
     background-color: $color-medium-hover;

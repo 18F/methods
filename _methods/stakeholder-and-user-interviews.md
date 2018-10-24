@@ -18,10 +18,11 @@ timeRequired: 1–2 hours per interviewee
   1. Follow the conversation where the stakeholder takes it. They will focus on their priorities and interests. Be comfortable with silences, which allow the stakeholder to elaborate. To keep from getting entirely off course, use your interview guide to make sure you cover what you need to. Ask lots of "why is that" and "how do you do that" questions.
   1. If there are other products they use or your product doesn't have constraints imposed by prior work, observe the stakeholders using a <a href="/decide/comparative-analysis/">competing product</a>.
 
-<section class="method--section method--section--18f-example" markdown="1" >
+<section class="method--section method--section--additional-resources" markdown="1">
 
-## Example from 18F
+## Additional resources
 
+- ["Interview checklist"](interview-checklist)
 - ["Tips for capturing the best data from user interviews"](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/) Ryan Sibley.
 - ["Build empathy with stakeholder interviews, part 1: Preparation."](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/) Andrew Maier.
 - ["Build empathy with stakeholder interviews, part 2: Conversation."](https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/) Andrew Maier.

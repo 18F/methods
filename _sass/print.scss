@@ -36,7 +36,6 @@ header.banner,
 
 .usa-section {
   padding: 0 !important;
-  page-break-before: always;
 }
 
 .method,
@@ -193,15 +192,23 @@ header.banner,
 }
 
 
-.layout--example-design-research-participant-agreement .page {
+.layout--example-design-research-participant-agreement .page,
+.layout--interview-checklist .page {
   font-size: 12pt;
+}
+
+.layout--interview-checklist .page h1#interview-checklist{ margin-top: 0 ; }
+
+.layout--example-design-research-participant-agreement .page{
   height: 11in;
-  padding: 1in 1in;
+  padding: 1in;
   width: 8.5in;
 }
 
 .layout--example-design-research-participant-agreement .page p,
-.layout--example-design-research-participant-agreement .page li {
+.layout--example-design-research-participant-agreement .page li,
+.layout--interview-checklist .page p,
+.layout--interview-checklist .page li {
   line-height: 1.4em;
 }
 

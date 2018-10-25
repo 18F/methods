@@ -11,7 +11,7 @@ permalink: /rolling-issues-log/
 }
 </style>
 
-# Example rolling issues log
+# Example Rolling Issues Log
 
 This document is a template for teams to use while observing or debriefing after a [usability test](/usability-testing). It's inspired by [this blog post](http://usabilityworks.com/consensus-on-observations-in-real-time-keeping-a-rolling-list-of-issues/). GSA Staff, please see this [Google Doc Template](https://docs.google.com/spreadsheets/d/1QQIXrvNR4kCUb7xwE0r4mqSNXok2A8ynksA5Bo7Za3E/edit#).
 

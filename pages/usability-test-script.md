@@ -11,9 +11,9 @@ permalink: /usability-test-script/
 }
 </style>
 
-# Example usability test script
+# Example Usability Test Script
 
-This document provides example questions grouped along the key moments found in a usability test: introductions, warm-up, scenarios, etc. Edit these participant’s time scarce, consider sharing a few of your questions ahead of time. See also this [checklist for running an interview](/interview-checklist/). GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#)
+This document provides example questions grouped along the key moments found in a usability test: introductions, warm-up, scenarios, etc. Edit these participant’s time scarce, consider sharing a few of your questions ahead of time. See also this [checklist for running an interview](/interview-checklist/). GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#).
 
 ## Introduction
 

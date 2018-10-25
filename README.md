@@ -17,8 +17,7 @@ It’s important to note that the 18F Methods are designed to account for two th
 You’re presently looking at the Methods’ GitHub (code) repository. Please [visit our homepage](https://methods.18f.gov) to read the Methods online.
 
 ### Printing the Methods
-
-To print a copy of the Methods for offline use, simply visit the [Methods homepage](https://methods.18f.gov) and select `file → print…` from your web browser.
+To print a copy of the Methods for offline use, visit the [Methods print page](https://methods.18f.gov/print/). You may need to select `file → print…` from your web browser.
 
 ### Running the Methods website on your local machine
 
@@ -49,7 +48,7 @@ For more information on contributing to the Methods (or even making a suggestion
 
 ## Current team
 
-- Product owner: Eric Ronne
+- Product owner: Julia Lindpaintner
 - Designer (researcher): Andrew Maier
 - Designer (front-end developer): Scott Weber
 
@@ -64,6 +63,7 @@ For more information on contributing to the Methods (or even making a suggestion
 - Nicky Krause
 - Colin MacArthur
 - Brad Nunnally
+- Eric Ronne
 - Jennifer Thibault
 - Russ Unger
 - Victor Zapanta

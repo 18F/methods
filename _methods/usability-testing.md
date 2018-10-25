@@ -16,7 +16,7 @@ timeRequired: 30 minutes to 1 hour per session
 1. Pick what you’ll test. Create a [prototype](/prototyping/) that conveys the team’s [design hypothesis](/design-hypothesis/). Alternatively, consider using a set of concepts, sketches, or even a competitor’s product.
 1. Plan the test. Setup a meeting and invite anyone who has an interest in what you’d like to test (using discretion, of course. Align the group on the scenarios the test will center around, and how you’ll [recruit](/recruiting/) participants.
 1. Recruit users and inform their consent. Pass along to participants an [agreement](/participant-agreement/) explaining what their participation will entail. Clarify any logistical expectations, such as screen sharing, and pass along links or files of whatever it is you're testing.
-1. Run 3-6 sessions. Stick to your script ([example](/usability-test-script)) and ask participants to think out loud. Review this [interview checklist](/interview-checklist/).
+1. Run 3-6 sessions. Stick to your script ([example](/usability-test-script/)) and ask participants to think out loud. Review this [interview checklist](/interview-checklist/).
 1. Discuss the results. After each interview, engage your team mates in a [post-interview debrief](/interview-debrief/). Maintain a [rolling issues log](/rolling-issues-log/).
 
 <section class="method--section method--section--18f-example" markdown="1" >
@@ -31,7 +31,7 @@ timeRequired: 30 minutes to 1 hour per session
 
 ## Additional resources
 
-- [Example usability test script](/usability-test/)
+- [Example usability test script](/usability-test-script/)
 - [Interview checklist](/interview-checklist/)
 - [Example design research participant agreement](/participant-agreement/)
 - [An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.

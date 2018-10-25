@@ -12,7 +12,7 @@ permalink: /interview-checklist/
 </style>
 
 # Interview checklist
-Interviews often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. For talking points and question suggestions, see our sample interview prompts.
+[Stakeholder and user interviews](/stakeholder-and-user-interviews/) often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)
 
 
 ## Pre-interview preparation
@@ -20,7 +20,7 @@ Interviews often progress through key moments: introductions lead to warm-up que
 
 ### Make sure to
 - [ ] Remind your team of the purpose of the interview
-- [ ] Establish clear roles for anyone who will join (for example, moderators, observers, notetakers, etc.). Consider passing along this role guide.
+- [ ] Establish clear roles for anyone who will join (for example, moderators, observers, notetakers, etc.).
 - [ ] Confirm with teammates, especially remote ones, how they might ask questions during the interview (for example, in a Slack thread)
 - [ ] Do a tech check: confirm that screen sharing, recording, etc. works
 - [ ] Check receipt of a signed participant agreement ([example](/participant-agreement))
@@ -71,11 +71,11 @@ Interviews often progress through key moments: introductions lead to warm-up que
 - [ ] Test your own assumptions and understandings without asking leading questions. Ask “how” and “why” multiple times, and give the participant sufficient time to think about their answers
 - [ ] Note the exact words and phrases people use. Don’t correct them, even their pronunciation, even if you think they’re wrong
 - [ ] Look people in the eye and give positive affirmations. Lean forward. Say things like “Wow,” or “Oh, interesting!” (when those reactions genuinely occur to you, of course)
-- [ ] If you’re concept testing or usability testing
-  - [ ] Caution people to close errant windows before sharing their screen
-  - [ ] Assure the participant that there are no wrong answers — you’re testing the design, not them
-  - [ ] Ask the participant to think out loud
-- [ ] Ask “How would you expect this to work?”
+- [ ] If you ask the participant to share their screen
+  - [ ] Caution them to close anything they don't want recorded beforehand
+  - [ ] Assure them that there are no wrong answers — you’re testing the design, not them
+  - [ ] Ask them to think out loud
+  - [ ] Ask “How would you expect this to work?”
 - [ ] Periodically check to see if your teammates have any questions
 
 

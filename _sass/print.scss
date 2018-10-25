@@ -192,9 +192,36 @@ header.banner,
 }
 
 
+.layout--example-usability-test-script .page,
 .layout--example-design-research-participant-agreement .page,
 .layout--interview-checklist .page {
   font-size: 12pt;
+}
+
+.layout--example-usability-test-script h1,
+.layout--example-usability-test-script p,
+.layout--example-interview-debrief-worksheet h1,
+.layout--example-interview-debrief-worksheet p{
+  max-width: none;
+}
+
+.layout--example-usability-test-script h1,
+.layout--example-user-interview-script h1,
+.layout--example-interview-debrief-worksheet h1{
+    font-size: 20pt;
+    margin-top: 0 !important;
+}
+
+.layout--example-usability-test-script h2,
+.layout--example-interview-debrief-worksheet h2,
+.layout--example-user-interview-script h2{
+  font-size: 16pt;
+}
+
+.layout--example-usability-test-script h3,
+.layout--example-interview-debrief-worksheet h3,
+.layout--example-user-interview-script h3{
+  font-size: 14pt;
 }
 
 .layout--interview-checklist .page h1#interview-checklist{ margin-top: 0 ; }

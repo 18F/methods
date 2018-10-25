@@ -1,0 +1,23 @@
+/* @group .layout--usability-test-script */
+
+.layout--example-usability-test-script h1,
+.layout--example-usability-test-script h4,
+.layout--example-usability-test-script p{
+  max-width: 34em;
+}
+
+
+.layout--example-usability-test-script h1#example-usability-test-script+p{
+  font-size: 1.1em;
+  max-width: 38em;
+  color: #444;
+}
+
+.layout--example-usability-test-script code{ background: yellow; }
+
+.layout--example-usability-test-script h3#references{
+    margin-top: 2em;
+    margin-bottom: 1.1em;
+}
+
+/* @end */

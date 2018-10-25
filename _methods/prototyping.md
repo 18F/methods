@@ -14,7 +14,7 @@ timeRequired: 4 hours
 
 ## How to do it
 
-1. Create a rudimentary version of your product. It can be static or functional. Think in the same way you would about a [wireframe](/make/wireframing/#wireframing): demonstrate structure and relationships among different elements, but don't worry about stylized elements.
+1. Create a rudimentary version of your product. It can be static or functional. Think in the same way you would about a [wireframe](/wireframing/): demonstrate structure and relationships among different elements, but don't worry about stylized elements.
 1. Give the prototype to the user and observe their interactions without instruction.
 1. After this observation, ask them to perform a specific task.
 1. Ask clarifying questions about why they do what they do. Let the user's behavior guide the questions you ask. It can be helpful to have them narrate their thought process as they go along.

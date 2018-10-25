@@ -50,7 +50,6 @@ For more information on contributing to the Methods (or even making a suggestion
 
 - Product owner: Julia Lindpaintner
 - Designer (researcher): Andrew Maier
-- Designer (front-end developer): Scott Weber
 
 ## Past contributors
 
@@ -67,6 +66,7 @@ For more information on contributing to the Methods (or even making a suggestion
 - Jennifer Thibault
 - Russ Unger
 - Victor Zapanta
+- Scott Weber
 
 ## Public domain
 

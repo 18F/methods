@@ -32,8 +32,7 @@ timeRequired: 30 minutes to 1 hour per session
 ## Additional resources
 
 - [Example usability test script](/usability-test-script/)
-- [Interview checklist](/interview-checklist/)
-- [Example design research participant agreement](/participant-agreement/)
+- [Rolling issues log](/rolling-issues-log/)
 - [An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 </section>
 

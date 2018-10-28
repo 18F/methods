@@ -23,7 +23,7 @@ permalink: /interview-checklist/
 - [ ] Establish clear roles for anyone who will join (for example, moderators, observers, notetakers, etc.).
 - [ ] Confirm with teammates, especially remote ones, how they might ask questions during the interview (for example, in a Slack thread)
 - [ ] Do a tech check: confirm that screen sharing, recording, etc. works
-- [ ] Check receipt of a signed participant agreement ([example](/participant-agreement))
+- [ ] Check receipt of a signed participant agreement ([example](/participant-agreement/))
 - [ ] Double-check any links, files, etc. that participants will need to evaluate (i.e., ensure that your concept, wireframes, or prototypes are available for testing)
 
 
@@ -34,14 +34,14 @@ permalink: /interview-checklist/
 - [ ] Thank the participant for their time
 - [ ] Introduce yourself, and anyone who is joining you
 - [ ] Explain the purpose of your research
-- [ ] Provide an overview of the shape of this conversation, including any required logistics (for example, screen sharing)
+- [ ] Provide an overview of the shape of the interview, including any required logistics (for example, screen sharing)
 - [ ] Confirm the expected length of the interview
-- [ ] Confirm receipt of a signed research participant agreement (template)
+- [ ] Confirm receipt of a signed participant agreement ([example](/participant-agreement/))
 - [ ] Explain
   - [ ] How you’ll take notes (for example, video recording).
   - [ ] How you’ll use any notes you take (for example, unattributed quotes)
 - [ ] Ask the participant if they have questions at this time
-- [ ] If the participant consents, turn on the recording
+- [ ] If the participant consents, turn on the recorder
 
 
 ## Warm-up / icebreaker
@@ -59,17 +59,18 @@ permalink: /interview-checklist/
 
 
 ## Activities or topic-specific questions
-**Spend 25 minutes** exploring the topics or leading the participant through the activities (for example, screen sharing) around which you designed your research.
+**Spend 25 minutes** exploring the topics or leading the participant through the activities (for example, screen sharing) the research was designed around.
 
 ### Make sure to
-- [ ] Know what you want to learn from your interviewee (without looking at your notes) and demonstrate genuine curiosity
+- [ ] Know what you want to learn
+- [ ] Demonstrate genuine curiosity
 - [ ] Let the conversation flow naturally, and try and get the participant to tell stories — yes, stories — related to the things you’re studying
 - [ ] Default to open-ended questions such as “Tell me about a time… ”, “Can you explain…”, “Why do you think…”
 - [ ] Ask clarifying questions or ask your interviewee to repeat themselves if you missed something
 - [ ] Use a diverse array of question types, such as context-gathering questions (asking about sequences of events, relationships, etc.), clarification questions, and comparison/contrasting questions
 - [ ] Use transition phrases to help participants understand when you are moving between parts of the interview (“let’s go back to something you said before”)
 - [ ] Test your own assumptions and understandings without asking leading questions. Ask “how” and “why” multiple times, and give the participant sufficient time to think about their answers
-- [ ] Note the exact words and phrases people use. Don’t correct them, even their pronunciation, even if you think they’re wrong
+- [ ] Note the exact words and phrases people use. Don’t correct them, even their pronunciation, if you think they’re wrong
 - [ ] Look people in the eye and give positive affirmations. Lean forward. Say things like “Wow,” or “Oh, interesting!” (when those reactions genuinely occur to you, of course)
 - [ ] If you ask the participant to share their screen
   - [ ] Caution them to close anything they don't want recorded beforehand
@@ -96,10 +97,10 @@ Once the interview is complete, **spend 15 minutes** completing a post-interview
 
 ### Make sure to
 - [ ] If you’ve recorded the interview: Move any recordings from your Google Drive to the project folder
-- [ ] Engage the team in a post-interview debrief to discuss surprises and reflect on what you heard
-- [ ] Reflect on whether or not the questions in the interview guide should be updated or modified based how this interview went
-- [ ] If you promised the user any follow-up communications, identify who will send them and when
-- [ ] Optional: Update your study contact list to reflect that this interview was successfully completed
+- [ ] Engage the team in a post-interview debrief ([example](/interview-debrief)) to discuss surprises and reflect on what you heard
+- [ ] Consider updating the interview guide based on this interview
+- [ ] If you promised the participant any follow-up communications, identify who will send them and when
+- [ ] Optional: Update your study contact list
 
 
 ### Contributors

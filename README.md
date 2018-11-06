@@ -7,8 +7,6 @@ The 18F Method Cards (“18F Methods”) describe how 18F puts human-centered de
  - **Vision:** 18F Methods is an essential resource for people who are introducing and using human-centered design to solve problems in government.
  - **Mission:** 18F Methods offer simple, practical, and easily-referenced how-tos, templates, quality heuristics, etc. to help people practice human-centered design across government.
 
-## Why methods?
-
 In order to function well within cross-functional teams, designers need to know a few things: which methods they might choose from, why one particular method makes more sense than another at any given moment, and, once they’ve picked a method, how to actually execute it. 18F Methods collects this essential information as a series of cards. In practice, we’ve found the Methods can provide folks with a gateway into our work and build internal alignment around a shared vocabulary.
 
 It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the Paperwork Reduction Act.

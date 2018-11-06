@@ -1,0 +1,47 @@
+- category_name: Discover
+  category_description: Build a greater understanding of your problem and the people it impacts.
+  category_info: Use the Discover Methods to build context for the problem you’re investigating. Get to know your potential users better and understand your stakeholders’ main concerns. The work you do during this phase will inform everything that follows, so take your time.
+  methods:
+    - Bodystorming
+    - Cognitive walkthrough
+    - Contextual inquiry
+    - Design studio
+    - Dot voting
+    - KJ method
+    - Stakeholder and user interviews
+
+- category_name: Decide
+  category_description: Elaborate on research from your Discovery phase.
+  category_info: The Decide Methods help you derive insights from the information gathered during the Discovery phase. You’ll validate initial assumptions, develop a deeper understanding of workflows and processes, and develop design hypotheses.
+  methods:
+    - Affinity diagramming
+    - Comparative analysis
+    - Journey mapping
+    - Personas
+    - Task flow analysis
+    - User scenarios
+
+- category_name: Make
+  category_description: Create a testable solution.
+  category_info: Once you’ve learned more about your users’ expectations, use the Make Methods to create testable designs. Sketching, wireframing, and prototyping will help you ensure your product reflects your users’ needs.
+  methods:
+    - Design pattern library
+    - Prototyping
+    - Wireframing
+
+- category_name: Validate
+  category_description: Test a design hypothesis.
+  category_info: Testing (and re-testing) your designs with users will help you build the best possible product. Our Validate Methods cover varied testing scenarios and potential user groups.
+  methods:
+    - Card sorting
+    - Multivariate testing
+    - Usability testing
+    - Visual preference testing
+
+- category_name: Fundamentals
+  category_description: Foundational methods for practicing design research.
+  category_info: Our Fundamentals Methods, which combine government-specific protocols and industry best practices, lay the groundwork for successful research, no matter what you’re testing. For best results, review them before you start recruiting.
+  methods:
+  - Incentives
+  - Privacy
+  - Recruiting

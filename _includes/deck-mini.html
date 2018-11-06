@@ -1,0 +1,25 @@
+<div class="usa-section">
+  {% for category in site.data.categories %}
+
+    <section class="usa-grid category usa-section category--{{ category.category_name | downcase }}" id="{{ category.category_name | downcase }}">
+      <h1 class="category--title category--{{ category.category_name | downcase }}--title">{{ category.category_name }}</h1>
+      <div class="usa-width-two-thirds">
+        <div class="category--header usa-content">
+          <p class="category--subtitle">{{ category.category_description }}</p>
+          <p>{{ category.category_info }}</p>
+          <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}">See all {{ category.category_name | downcase }} methods</a>
+        </div>
+      </div>
+      <div class="usa-width-one-third">
+        <h2>Methods include</h2>
+
+        <ul class="usa-unstyled-list method-listing">
+          {% for method in category.methods %}
+          <li><a href="{{ site.baseurl }}/{{ method | slugify }}">{{ method }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+
+  {% endfor %}
+</div>

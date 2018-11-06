@@ -10,16 +10,12 @@ title: Introduction
     {% include header.html %}
     <main id="main" role="main">
       {% include category-setup.html %}
-      <section class="category category--intro usa-section no-print" id="intro">
-        <article>
-          <div class="method--panel method--panel--front">
-            <div class="intro-card-header usa-grid">
-              <p class="usa-font-lead no-print">A collection of tools to bring human-centered design into your project.</p>
-            </div>
-          </div>
-        </article>
-      </section>
-      {% include deck.html %}
+      <div class="usa-section intro-header">
+        <div class="usa-grid">
+          <p class="usa-font-lead no-print">A collection of tools to bring human-centered design into your project.</p>
+        </div>
+      </div>
+      {% include deck-mini.html %}
     </main>
       {% include footer.html %}
   </body>

@@ -1,0 +1,25 @@
+---
+permalink: /print/
+title: Print
+---
+<!DOCTYPE html>
+<html lang='en'>
+  {% include head.html %}
+  <body class="layout--default layout--{{ page.title | slugify }}">
+    {% include category-setup.html %}
+    {% include header.html %}
+    <main id="main" role="main">
+      {% include category-setup.html %}
+      <div class="usa-section intro-header">
+        <div class="usa-grid">
+          <p class="usa-font-lead no-print">A collection of tools to bring human-centered design into your project.</p>
+        </div>
+      </div>
+      {% include deck.html %}
+    </main>
+      {% include footer.html %}
+      <script type="text/javascript">
+        window.onload = print();
+      </script>
+  </body>
+</html>

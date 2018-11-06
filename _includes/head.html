@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - 18F Method Cards </title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - 18F Methods </title>
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-32x32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-16x16.png" sizes="16x16" />
 
@@ -11,11 +11,12 @@
 
   <!-- Open Graph data -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:image" content="https://methods.18f.gov/images/18F-Logo.png" />
+  <meta property="og:site_name" content="18F" />
   <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:image" content="{{ site.baseurl }}/images/18F-Logo.png" />
-  <meta property="og:site_name" content="18F" />
+  <meta property="og:url" content="https://methods.18f.gov{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" value="summary">
@@ -23,12 +24,13 @@
   <meta name="twitter:creator" content="@18F">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="https://methods.18f.gov/images/18F-Logo.png" />
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.3.1/js/uswds.min.js"></script>
 
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.3.1/css/uswds.css">
-  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/styles.css">
-  <link rel="stylesheet" type="text/css" media="print" href="{{site.baseurl}}/stylesheets/print.css">
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/styles.css">
+  <link rel="stylesheet" type="text/css" media="print" href="{{site.baseurl}}/css/print.css">
 
   {% if page.layout == "page" %}
     <style type="text/css">

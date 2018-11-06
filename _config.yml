@@ -1,4 +1,6 @@
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 name: Methods
 exclude:
 - CONTRIBUTING.md
@@ -16,9 +18,6 @@ sass:
   style: compressed
 
 collections:
-  pages:
-    output: true
-    permalink: /:path/
   methods:
     output: true
     permalink: /:path/
@@ -40,5 +39,6 @@ plugins:
   - jekyll-last-modified-at
   - jemoji
   - jekyll-mentions
+  - jekyll-redirect-from
 
 google_analytics_ua: UA-48605964-19

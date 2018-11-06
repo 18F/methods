@@ -1,0 +1,35 @@
+/* @group .interview-checklist */
+
+.layout--interview-checklist h1#interview-checklist + p{
+  font-size: 1.1em;
+  max-width: 38em;
+  color: #444;
+}
+
+.layout--interview-checklist p,
+.layout--interview-checklist li {
+  max-width: 32em;
+}
+
+.layout--interview-checklist h3{ margin-bottom: 1em; }
+.layout--interview-checklist h3#contributors,
+.layout--interview-checklist h3#references{ margin-top: 2em;}
+
+.layout--interview-checklist li{
+  list-style-type: none;
+  position: relative;
+}
+
+.layout--interview-checklist li input{
+  display: block !important;
+  -webkit-appearance: checkbox;
+  -moz-appearance: checkbox;
+  margin: 0;
+  position: absolute;
+  left: -1.4em;
+  top: 0.3em;
+  width: auto;
+  height: auto;
+}
+
+/* @end */

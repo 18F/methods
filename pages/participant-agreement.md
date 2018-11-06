@@ -2,6 +2,8 @@
 title: Example Design Research Participant Agreement
 description: An example design research participant agreement
 layout: page
+permalink: /participant-agreement/
+
 ---
 
 # Example Design Research Participant Agreement
@@ -13,7 +15,7 @@ This agreement relates to your participation in a study led by `<organization>` 
 - **You may opt out.** If at any point you no longer wish to participate, please inform the study moderator. No hard feelings.
 - **You will neither be paid nor receive compensation for your participation.** You agree to perform all duties associated with your participation in this study during the period of `<project start date>` &ndash; `<project end date>` without expectation of payment. You acknowledge you will not receive &mdash; and have no expectation of receiving &mdash; either payment or any other form of compensation for your participation in this study. You waive any right, claim, or other recourse against `<organization>` relating to compensation for your participation in this study.
 - **`<organization>` may record this study.** `<organization>` may make video, audio, photographic, and written recordings of this study. These records will be kept in a secure location and shared only with persons with a valid need to know.
-`<organization>` will take appropriate precautions to protect your privacy, as explained in our Privacy Act Statement and <a aria-describedby="footnote-label" href="#footnote-pia" id="footnote-pia-ref">Privacy Impact Assessment</a>. Unless otherwise agreed to, `<organization>` will take appropriate steps to remove sensitive and personally identifiable information captured during this research.
+- **`<organization>` will take appropriate precautions to protect your privacy,** as explained in our Privacy Act Statement and <a aria-describedby="footnote-label" href="#footnote-pia" id="footnote-pia-ref">Privacy Impact Assessment</a>. Unless otherwise agreed to, `<organization>` will take appropriate steps to remove sensitive and personally identifiable information captured during this research.
 
 ---
 

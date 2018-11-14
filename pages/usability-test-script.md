@@ -13,7 +13,7 @@ permalink: /usability-test-script/
 
 # Example Usability Test Script
 
-This document provides example questions grouped along the key moments found in a usability test: introductions, warm up, scenarios, and wrap up. If your participant’s time is scarce, consider sharing a few of your questions ahead of time. See also this [checklist for running an interview](/interview-checklist/). GSA staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#).
+This document provides example questions grouped along the key moments found in a usability test: introductions, warm up, task completion, follow up, and wrap up. If your participant’s time is scarce, consider sharing a few of your questions ahead of time. See also this [checklist for running an interview](/interview-checklist/). GSA staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#).
 
 ## Introduction
 
@@ -59,6 +59,13 @@ Great. Next I’d like you to visit the URL I sent you earlier today. To start, 
 Thanks. Now I’m going to ask you to respond to the following few scenarios. I’m going to read each scenario out loud, and I’ll also share the text of the scenario via chat.
 
 *Example: Imagine you’re working on a collaborative training application that will help employees at your agency identify and plan to attend conferences together. Someone on your team worries that because your application collects and maintains personally identifiable information you might need to complete a privacy impact assessment. Using this website, show me how you would identify whether or not your system will require completing a privacy impact assessment.*
+
+
+## Follow up
+
+Great, we’re finished with the bulk of the test. You mentioned [something they said out loud] earlier and I didn’t want to jump in at that time. Can you say more about that?
+
+What are your thoughts about these concepts, generally?
 
 
 ## Wrap up

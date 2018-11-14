@@ -13,13 +13,13 @@ permalink: /usability-test-script/
 
 # Example Usability Test Script
 
-This document provides example questions grouped along the key moments found in a usability test: introductions, warm up, scenarios, and wrap up. If your participant’s time is scarce, consider sharing a few of your questions ahead of time. See also this [checklist for running an interview](/interview-checklist/). GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#).
+This document provides example questions grouped along the key moments found in a usability test: introductions, warm up, scenarios, and wrap up. If your participant’s time is scarce, consider sharing a few of your questions ahead of time. See also this [checklist for running an interview](/interview-checklist/). GSA staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#).
 
 ## Introduction
 
 Hello, my name’s `[moderator]`, and I’m going to walk you through today’s session. As I mentioned over email, my office is currently working with `[partner]` to `[broad purpose; for example, inform a redesign of agency.gov]`. Joining us on the call are `[observers, and their affiliation]`.
 
-I’d like to begin by thanking you for making time to speak with us. Your feedback is valuable, and will help us determine if our website functions as intended. Just to confirm, we’d like keep this interview to `[duration; for example, 30 minutes]`. Does that still work for you?
+I’d like to begin by thanking you for making time to speak with us. Your feedback is valuable, and will help us determine if our website functions as intended. Just to confirm, we’d like keep this session to `[duration; for example, 30 minutes]`. Does that still work for you?
 
 Great. If you need a break or to stop at any time, please let me know.
 
@@ -56,7 +56,7 @@ Great. Next I’d like you to visit the URL I sent you earlier today. To start, 
 
 ## Task completion (2-3 tasks)
 
-Thanks. Now I’m going to ask you to consider how you might respond to the following scenarios using this website. I’m going to read each scenario out loud, and I’ll also share the text of the scenario via chat.
+Thanks. Now I’m going to ask you to respond to the following few scenarios. I’m going to read each scenario out loud, and I’ll also share the text of the scenario via chat.
 
 *Example: Imagine you’re working on a collaborative training application that will help employees at your agency identify and plan to attend conferences together. Someone on your team worries that because your application collects and maintains personally identifiable information you might need to complete a privacy impact assessment. Using this website, show me how you would identify whether or not your system will require completing a privacy impact assessment.*
 

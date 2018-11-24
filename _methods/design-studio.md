@@ -33,7 +33,7 @@ timeRequired: 3–4 hours
 
 ## Additional resources
 
-- [presentation by Todd Zaki Warfel](https://vimeo.com/37861987/) explaining what a design studio is. Todd Zaki Warfel.
+- [Presentation by Todd Zaki Warfel](https://vimeo.com/37861987/) explaining what a design studio is. Todd Zaki Warfel.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

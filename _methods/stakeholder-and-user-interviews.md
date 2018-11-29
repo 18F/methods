@@ -15,8 +15,8 @@ timeRequired: 1–2 hours per interviewee
 
   1. Create a guide for yourself of some topics you'd like to ask about, and some specific questions as a back up. Questions will often concern the individual's role, the organization, the individuals' needs, and metrics for success of the project.
   1. Sit down one-on-one with the participant, or two-on-one with a note-taker or joint interviewer, in a focused environment. Introduce yourself. Explain the premise for the interview as far as you can without biasing their responses.
-  1. Follow the conversation where the stakeholder takes it. They will focus on their priorities and interests. Be comfortable with silences, which allow the stakeholder to elaborate. To keep from getting entirely off course, use your interview guide to make sure you cover what you need to. Ask lots of "why is that" and "how do you do that" questions.
-  1. If there are other products they use or your product doesn't have constraints imposed by prior work, observe the stakeholders using a <a href="/decide/comparative-analysis/">competing product</a>.
+  1. Follow the conversation where the participant takes it. They will focus on their priorities and interests. Be comfortable with silences, which allow the participant to elaborate. To keep from getting entirely off course, use your interview guide to make sure you cover what you need to. Ask lots of "why is that" and "how do you do that" questions.
+  1. If there are other products they use or your product doesn't have constraints imposed by prior work, observe the stakeholders using a cometing product and consider a <a href="/decide/comparative-analysis/">comparative analysis</a>.
 
 <section class="method--section method--section--additional-resources" markdown="1">
 

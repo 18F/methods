@@ -23,6 +23,7 @@ a {
 
 .category {
   background: white;
+  page-break-after: always;
 }
 
 .no-print,
@@ -190,7 +191,6 @@ header.banner,
   min-width: 0;
   padding-right: .5in;
 }
-
 
 .layout--example-usability-test-script .page,
 .layout--example-design-research-participant-agreement .page,

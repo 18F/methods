@@ -22,10 +22,11 @@ timeRequired: 1–2 hours
 1. Reiterate the question and have each person rank their three most important clusters. Visually tally points.
 1. Combine duplicates and their points if the entire group agrees they're identical. Three or four groups usually rank higher than the rest - these are the priorities for the question.
 
+<section class="method--section method--section--18f-example" markdown="1" >
 ## Example from 18F
 
 18F conducted this exercise with 20 Federal Election Commission staff members to define priorities around conflicting requests. We used this method to get data from staff (not the decision makers) about what they saw as the most pressing needs. We synthesized and presented the data back to the decision makers.
-
+</section>
 <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources

@@ -1,19 +1,13 @@
 body {
-  font-family: $font-sans;
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: $base-font-size;
 }
 
-.list-unstyled {
-  padding-left: 0;
-
-  &:hover {
-    text-decoration: underline;
-  }
+.methods-listing ul{ 
+  padding: 0; 
+  list-style-type: none;
 }
 
-//.layout--introduction main,
-//.layout--category main,
-// .layout--card .usa-section{ padding: 0 }
 .layout--card .method {
   margin: 0 0 2em 0;
 }
@@ -28,7 +22,6 @@ body {
     max-width: 32em;
   }
   h3 {
-    font-family: $font-sans;
     font-size: $h4-font-size;
     font-weight: 400;
     margin-top: 0;

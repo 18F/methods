@@ -7,13 +7,12 @@
         <div class="category--header usa-content">
           <p class="category--subtitle">{{ category.category_description }}</p>
           <p>{{ category.category_info }}</p>
-          <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}">See all {{ category.category_name | downcase }} methods</a>
+          <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}" class="a-see-all">See all {{ category.category_name | downcase }} methods</a>
         </div>
       </div>
-      <div class="usa-width-one-third">
+      <div class="usa-width-one-third methods-listing">
         <h2>Methods include</h2>
-
-        <ul class="usa-unstyled-list method-listing">
+        <ul>
           {% for method in category.methods %}
           <li><a href="{{ site.baseurl }}/{{ method | slugify }}">{{ method }}</a></li>
           {% endfor %}

@@ -1,6 +1,6 @@
 @media print {
   body {
-    background: white;
+    background: white !important;
     color: black;
     font-size: 10pt;
     padding: 0;
@@ -14,6 +14,7 @@
     max-width: none;
   }
 
+  .usa-header,
   .usa-banner,
   .usa-menu-btn,
   .layout--category .category--header,
@@ -28,21 +29,31 @@
   .usa-logo { margin: 0 !important; }
   .usa-section { padding: 0 !important; }
 
-  // Homepage print styles
-  
-  
-  .layout--methods .usa-navbar,
-  .layout--methods .category{
+  .layout--page .usa-navbar,
+  .layout--page .category{
     display: block;
-    margin-left: 0.25in;
-    margin-right: 0.25in;
     padding: 0;
     border: none; 
   }
 
-  .layout--methods .usa-navbar{
-    margin-bottom: 1em;
+  .layout--page .usa-header{ display: block; }
+  .layout--page .usa-logo img{ 
+    width: 0.3in; 
+    position: relative; 
+    top: -0.05in;
   }
+
+  .layout--page .usa-logo-text{ font-size: 14pt; }
+
+  // Homepage print styles
+  
+  .layout--methods .usa-navbar{ margin-bottom: 0.5in; }
+
+  .layout--page.layout--methods .usa-logo img{ 
+    width: 0.67in;
+    top: 0.033in;
+  }
+  .layout--page.layout--methods .usa-logo-text{ font-size: 20pt; }
 
   .layout--methods .intro-header,
   .layout--methods .category .a-see-all,
@@ -73,20 +84,40 @@
     margin-bottom: 0.4em; 
   }
 
-  .layout--category .category {
-    background: white;
-    page-break-after: always;
+  // Method (individual, category) print styles
+
+  .layout--card .usa-header,
+  .layout--card .category--header,
+  .layout--card .card-header,
+  .layout--category .usa-header,
+  .layout--category .category--header,
+  .layout--category .card-header {
+    display: none;
   }
+
+  .layout--card .usa-grid,
+  .layout--category .usa-grid{
+    padding: 0 !important;
+    max-width: none !important;
+  }
+
+  .layout--card section.category,
+  .layout--category section.category {
+    background: white !important;
+  }
+
+  .layout--category .category { page-break-after: always;}
 
   .layout--category .method,
   .layout--card .method {
     border: 1px dashed #ccc;
     border-radius: 0;
     box-shadow: none;
-    height: 6.5in;
+    height: 6in;
+    position: fixed;
     margin: 0;
-    margin-left: 1.25in;
-    margin-top: 1.25in;
+    left: 1.5in;
+    top: 1.25in;
     page-break-after: always;
     width: 8in;
   }
@@ -227,11 +258,6 @@
     padding-right: .5in;
   }
 
-  .layout--example-usability-test-script .page,
-  .layout--example-design-research-participant-agreement .page,
-  .layout--interview-checklist .page {
-    font-size: 12pt;
-  }
 
   .layout--example-usability-test-script h1,
   .layout--example-usability-test-script p,

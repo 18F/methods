@@ -91,25 +91,30 @@
   .layout--card .card-header,
   .layout--category .usa-header,
   .layout--category .category--header,
-  .layout--category .card-header {
+  .layout--category .card-header,
+  .layout--print .usa-header,
+  .layout--print .category--header,
+  .layout--print .card-header {
     display: none;
   }
 
   .layout--card .usa-grid,
-  .layout--category .usa-grid{
+  .layout--category .usa-grid,
+  .layout--print .usa-grid{
     padding: 0 !important;
     max-width: none !important;
   }
 
   .layout--card section.category,
-  .layout--category section.category {
+  .layout--category section.category,
+  .layout--print section.category {
     background: white !important;
   }
 
-  .layout--category .category { page-break-after: always;}
+  .layout--category .category,
+  .layout--print .category { page-break-after: always;}
 
-  .layout--category .method,
-  .layout--card .method {
+  .method {
     border: 1px dashed #ccc;
     border-radius: 0;
     box-shadow: none;

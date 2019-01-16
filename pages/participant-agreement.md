@@ -52,7 +52,7 @@ By signing this document you agree to reading, understanding, and agreeing to it
 
 # Example Design Research Participant Agreement (Spanish version)
 
-Este acuerdo está vinculado con su participación en un estudio dirigido por `<organización>` para comprender mejor <área de consulta>. Léalo detenidamente y haga cualquier pregunta que tenga antes de firmar.
+Este acuerdo está vinculado con su participación en un estudio dirigido por `<organización>` para comprender mejor `<área de consulta>`. Léalo detenidamente y haga cualquier pregunta que tenga antes de firmar.
 
 ---
 

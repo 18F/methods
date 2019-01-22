@@ -2,7 +2,7 @@
   body {
     background: white !important;
     color: black;
-    font-size: 10pt;
+    font-size: 12pt;
     padding: 0;
     -webkit-print-color-adjust: exact;
   }
@@ -30,13 +30,13 @@
   .usa-section { padding: 0 !important; }
 
   .layout--page .usa-navbar,
-  .layout--page .category{
+  .layout--page .usa-header,
+  .layout--page .category {
     display: block;
     padding: 0;
     border: none; 
   }
 
-  .layout--page .usa-header{ display: block; }
   .layout--page .usa-logo img{ 
     width: 0.3in; 
     position: relative; 
@@ -292,9 +292,16 @@
 
   .layout--interview-checklist .page h1#interview-checklist{ margin-top: 0 ; }
 
+
+  .layout--page.layout--example-design-research-participant-agreement .usa-navbar,
+  .layout--page.layout--example-design-research-participant-agreement .usa-header,
+  .layout--page.layout--example-design-research-participant-agreement .category {
+    display: none;
+  }
+
   .layout--example-design-research-participant-agreement .page{
     height: 11in;
-    padding: 1in;
+    padding: 0.5in;
     width: 8.5in;
   }
 

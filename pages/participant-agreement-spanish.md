@@ -6,7 +6,8 @@ permalink: /participant-agreement-spanish/
 
 ---
 
-# Example Design Research Participant Agreement (Spanish version)
+# Example Design Research Participant Agreement 
+### Spanish version
 
 **_Find the English version of this Design Research Participant Agreement [here](https://methods.18f.gov/participant-agreement/)._**
 

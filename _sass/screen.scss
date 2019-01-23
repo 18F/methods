@@ -8,23 +8,26 @@ body {
   list-style-type: none;
 }
 
-.layout--card .method {
-  margin: 0 0 2em 0;
-}
+.layout--card .method { margin: 0 0 2em 0; }
 
 .layout--page main {
-  padding-bottom: 8em;
+    max-width: 1024px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0 20px 60px;
 }
 
-.layout--page .page{
-  margin: 0 auto;
+.layout--page.layout--methods main {
+  padding: 0;
+  max-width: none;
 }
+
 
 @media screen and (min-width: 853.33px) {
-  .layout--about .page,
-  .layout--example-design-research-participant-agreement .page {
-    max-width: 32em;
-  }
+
+  .layout--page main { padding-right: 25%; }
+  .layout--page.layout--methods main { padding-right: 0; }
+
   h3 {
     font-size: $h4-font-size;
     font-weight: 400;

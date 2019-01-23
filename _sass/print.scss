@@ -29,9 +29,17 @@
   .usa-logo { margin: 0 !important; }
   .usa-section { padding: 0 !important; }
 
+  .layout--page main .usa-grid{
+    margin-top: 1em; 
+  }
+
+  .layout--page .banner{ 
+    max-width: 1040px; 
+    margin: 0 auto;
+  }
+
   .layout--page .usa-navbar,
-  .layout--page .usa-header,
-  .layout--page .category {
+  .layout--page .usa-header {
     display: block;
     padding: 0;
     border: none; 
@@ -264,6 +272,13 @@
   }
 
 
+
+  .layout--example-usability-test-script.layout--page .banner,
+  .layout--example-interview-debrief-worksheet .banner,
+  .layout--interview-checklist .banner{ 
+    display: none;
+  }
+
   .layout--example-usability-test-script h1,
   .layout--example-usability-test-script p,
   .layout--example-interview-debrief-worksheet h1,
@@ -273,17 +288,20 @@
 
   .layout--example-usability-test-script h1,
   .layout--example-user-interview-script h1,
+  .layout--interview-checklist h1,
   .layout--example-interview-debrief-worksheet h1{
       font-size: 20pt;
       margin-top: 0 !important;
   }
 
+  .layout--interview-checklist h2,
   .layout--example-usability-test-script h2,
   .layout--example-interview-debrief-worksheet h2,
   .layout--example-user-interview-script h2{
-    font-size: 16pt;
+    font-size: 17pt;
   }
 
+  .layout--interview-checklist h3,
   .layout--example-usability-test-script h3,
   .layout--example-interview-debrief-worksheet h3,
   .layout--example-user-interview-script h3{
@@ -291,19 +309,6 @@
   }
 
   .layout--interview-checklist .page h1#interview-checklist{ margin-top: 0 ; }
-
-
-  .layout--page.layout--example-design-research-participant-agreement .usa-navbar,
-  .layout--page.layout--example-design-research-participant-agreement .usa-header,
-  .layout--page.layout--example-design-research-participant-agreement .category {
-    display: none;
-  }
-
-  .layout--example-design-research-participant-agreement .page{
-    height: 11in;
-    padding: 0.5in;
-    width: 8.5in;
-  }
 
   .layout--example-design-research-participant-agreement .page p,
   .layout--example-design-research-participant-agreement .page li,

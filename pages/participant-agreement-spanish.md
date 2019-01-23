@@ -1,7 +1,7 @@
 ---
 title: Example Design Research Participant Agreement — Spanish
 description: An example design research participant agreement in Spanish
-layout: example-design-research-participant-agreement
+layout: page
 permalink: /participant-agreement-spanish/
 
 ---

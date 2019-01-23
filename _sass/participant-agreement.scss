@@ -1,41 +1,49 @@
 /* @group layout--design-research-participant-agreement */
 
-.layout--example-design-research-participant-agreement .page h1{
+.layout--example-design-research-participant-agreement,
+.layout--example-design-research-participant-agreement-spanish .page h1{
   font-size: 2.3rem;
 }
 
 @media screen and (min-width: 853.33px) {
-  .layout--example-design-research-participant-agreement .page{
+  .layout--example-design-research-participant-agreement,
+  .layout--example-design-research-participant-agreement-spanish .page{
     max-width: 40em;
   }
-  .layout--example-design-research-participant-agreement .page h1{
+  .layout--example-design-research-participant-agreement,
+  .layout--example-design-research-participant-agreement-spanish .page h1{
     font-size: $h1-font-size;
   }
 
 }
 
-.layout--example-design-research-participant-agreement main hr{
+.layout--example-design-research-participant-agreement,
+.layout--example-design-research-participant-agreement-spanish main hr{
 	height: 5px;
 	background: #333;
 	border: none;
 }
 
-.layout--example-design-research-participant-agreement main ul+hr+p{
+.layout--example-design-research-participant-agreement,
+.layout--example-design-research-participant-agreement-spanish main ul+hr+p{
   font-size: 0.8em;
 	line-height: 1.4em;
 }
 
-.layout--example-design-research-participant-agreement .signature-block{
+.layout--example-design-research-participant-agreement,
+.layout--example-design-research-participant-agreement-spanish .signature-block{
   border: none;
   table-layout: fixed;
   cell-spacing: 0.5em;
   margin-top: 0;
 }
-.layout--example-design-research-participant-agreement .signature-block td{
+.layout--example-design-research-participant-agreement,
+.layout--example-design-research-participant-agreement-spanish .signature-block td{
 	border: none;
 }
 
-.layout--example-design-research-participant-agreement .signature-block .label{
+.layout--example-design-research-participant-agreement,
+.layout--example-design-research-participant-agreement-spanish .signature-block .label{
 	border-top: 2px solid #555;
 	padding-top: 0.2em;
 	font-weight: bold;
@@ -43,7 +51,8 @@
 	padding-left: 0;
 }
 
-.layout--example-design-research-participant-agreement code{
+.layout--example-design-research-participant-agreement,
+.layout--example-design-research-participant-agreement-spanish code{
 	background: yellow;
 }
 

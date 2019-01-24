@@ -6,7 +6,12 @@ permalink: /participant-agreement/
 
 ---
 
-# Example Design Research Participant Agreement
+# Example Design Research Participant Agreement 
+### English version
+
+### _([Spanish version](/participant-agreement-spanish/))_
+
+---
 
 This agreement relates to your participation in a study led by `<organization>` to better understand `<area of inquiry>`. Please read it carefully and ask any questions you have before signing.
 

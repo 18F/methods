@@ -1,0 +1,120 @@
+/* @group layout--design-research-participant-agreement-spanish */
+
+.layout--example-design-research-participant-agreement-spanish .page h1{
+  font-size: 2.3rem;
+}
+
+@media screen and (min-width: 853.33px) {
+  .layout--example-design-research-participant-agreement-spanish .page{
+    max-width: 40em;
+  }
+  .layout--example-design-research-participant-agreement-spanish .page h1{
+    font-size: $h1-font-size;
+  }
+
+}
+
+.layout--example-design-research-participant-agreement-spanish main hr{
+	height: 5px;
+	background: #333;
+	border: none;
+}
+
+.layout--example-design-research-participant-agreement-spanish main ul+hr+p{
+  font-size: 0.8em;
+	line-height: 1.4em;
+}
+
+.layout--example-design-research-participant-agreement-spanish .signature-block{
+  border: none;
+  table-layout: fixed;
+  cell-spacing: 0.5em;
+  margin-top: 0;
+}
+.layout--example-design-research-participant-agreement-spanish .signature-block td{
+	border: none;
+}
+
+.layout--example-design-research-participant-agreement-spanish .signature-block .label{
+	border-top: 2px solid #555;
+	padding-top: 0.2em;
+	font-weight: bold;
+	font-size: 0.8em;
+	padding-left: 0;
+}
+
+.layout--example-design-research-participant-agreement-spanish code{
+	background: yellow;
+}
+
+
+/* @end */
+
+
+
+/* @group footnotes */
+
+.layout--example-design-research-participant-agreement-spanish main { counter-reset: footnotes; }
+
+.layout--example-design-research-participant-agreement-spanish main footer {
+	border-top: 1px solid #ddd;
+	font-size: 0.75em;
+}
+
+.layout--example-design-research-participant-agreement-spanish main footer li:target { background: yellow; }
+
+.layout--example-design-research-participant-agreement-spanish main footer h1:first-child{
+	position: absolute;
+	left: -9999em;
+}
+
+.layout--example-design-research-participant-agreement-spanish main footer li{
+	position: relative;
+	padding-right: 1.4em;
+	padding-top: 8px;
+	margin-bottom: 0;
+}
+
+.layout--example-design-research-participant-agreement-spanish main footer li,
+.layout--example-design-research-participant-agreement-spanish main footer li p{
+	font-size: 14px;
+	line-height: 1.4em;
+}
+
+.layout--example-design-research-participant-agreement-spanish main footer li p:last-child{ margin-bottom: 0;}
+.layout--example-design-research-participant-agreement-spanish main footer a[aria-label]{
+	position: absolute;
+	right: 0;
+	top: 10px;
+	color: #555;
+	text-decoration: none;
+	background: #eee;
+	width: 1.6em;
+	height: 1.6em;
+	font-size: 12px;
+	line-height: 1.9em;
+	text-align: center;
+	border-radius: 100%;
+}
+
+.layout--example-design-research-participant-agreement a[aria-describedby="footnote-label"] {
+  counter-increment: footnotes;
+  text-decoration: none;
+  color: inherit;
+  cursor: default;
+  outline: none;
+}
+
+.layout--example-design-research-participant-agreement-spanish a[aria-describedby="footnote-label"]::after {
+  content: counter(footnotes);
+  font-size: 0.8em;
+  margin-left: 0.1em;
+  color: #888;
+  cursor: pointer;
+  margin-right: -0.1em;
+  position: relative;
+  top: -0.4em;
+  z-index: 1;
+}
+
+/* @end */

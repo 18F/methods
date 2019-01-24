@@ -9,7 +9,7 @@ permalink: /participant-agreement/
 # Example Design Research Participant Agreement 
 ### English version
 
-**_Find the Spanish version of this Design Research Participant Agreement [here](/participant-agreement-spanish/)._**
+### _([Spanish version](/participant-agreement-spanish/))_
 
 ---
 

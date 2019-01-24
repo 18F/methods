@@ -31,7 +31,7 @@ timeRequired: 2–3 hours
 
 ## Additional resources
 
-- <a href="http://www.uie.com/articles/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.
+- <a href="https://articles.uie.com/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.
 - <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper">"Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper."</a> Caroline Kraus.
 </section>
 

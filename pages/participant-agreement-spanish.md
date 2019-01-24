@@ -9,7 +9,7 @@ permalink: /participant-agreement-spanish/
 # Ejemplo del acuerdo para participantes en un estudio de diseño
 ### Spanish version
 
-**_Find the English version of this Design Research Participant Agreement [here](/participant-agreement/)._**
+**_([English version](/participant-agreement/))._**
 
 ---
 

@@ -5,12 +5,6 @@ layout: page
 permalink: /user-interview-script/
 ---
 
-<style type="text/css" media="print">
-@page {
-  margin: 1in;
-}
-</style>
-
 # Example user interview script
 
 This document is designed as a useful starting point for leading a user interview. It includes example questions grouped along the key moments often found in an interview: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your user’s time scarce, consider sharing some questions ahead of time.  See [this checklist](/interview-checklist/) for actually running an interview.

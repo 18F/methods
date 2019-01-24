@@ -14,10 +14,10 @@ timeRequired: 30 minutes to 1 hour per test
 ## How to do it
 
 1. Pick what you’ll test. Choose something, such as a sketch, [prototype](/prototyping/), or even a "competitor's product" that might help users accomplish their goals.
-1. Plan the test. Setup a meeting and invite anyone who has an interest in what you’d like to test (using your discretion, of course). Align the group on the scenarios the test will center around, which users should participate (and how you'll [recruit](/recruiting/) them), and which members of your team will moderate and observe. Prepare a usability test script ([example](/usability-test-script/)).
+1. Plan the test. Schedule a research-planning meeting and invite anyone who has an interest in what you’d like to test (using your discretion, of course). Align the group on the scenarios the test will center around, which users should participate (and how you'll [recruit](/recruiting/) them), and which members of your team will moderate and observe. Prepare a usability test script ([example](/usability-test-script/)).
 1. Recruit users and inform their consent. Provide a way for potential participants to sign up for the test. Pass along to participants an [agreement](/participant-agreement/) explaining what participation will entail. Clarify any logistical expectations, such as screen sharing, and pass along links or files of whatever it is you're testing.
-1. Run the tests. Moderators should verbally confirm with the participant that it’s okay to record the test, ask participants to think outloud, and otherwise remain silent.
-1. Discuss the results. After each interview, engage your team in a [post-interview debrief](/interview-debrief/). At the end of sessions Maintain a [rolling issues log](/rolling-issues-log/).
+1. Run the tests. Moderators should verbally confirm with the participant that it’s okay to record the test, ask participants to think outloud, and otherwise remain silent. Observers should contribute to a [rolling issues log](/rolling-issues-log/). Engage your team in a [post-interview debrief](/interview-debrief/) after each test.
+1. Discuss the results. Schedule a 90-minute collaborative synthesis meeting to discuss issues you observed, and any questions these tests raise concerning user needs. Conclude the meeting by determining how the team will use what it learned in service of future design decisions.
 
 <section class="method--section method--section--18f-example" markdown="1" >
 

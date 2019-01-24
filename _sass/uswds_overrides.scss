@@ -1,28 +1,15 @@
 html,
 body {
-  background: $color-inverse;
-  color: #555;
+  background: white;
+  color: #333;
 }
 
-main {
-  background: $color-inverse;
-  color: $color-gray-dark;
-  padding-bottom: 0;
+html,
+body,
+h1, h2, h3, h4{
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: inherit;
-}
-
-h1 {
-  margin-top: 1em;
-}
 .usa-banner {
   background-color: $color-gray-light;
   height: 2.3rem;
@@ -36,8 +23,8 @@ h1 {
   & img {
     margin-right: .7rem;
     position: relative;
-    top: .25em;
-    width: 1.33rem;
+    top: .33em;
+    width: 16px;
   }
 }
 
@@ -48,7 +35,7 @@ h1 {
 .usa-nav-primary button:hover,
 .usa-nav-secondary-links a:hover {
   background-color: $color-gray-lightest;
-  color: $color-black;
+  color: #333;
 }
 
 .usa-header-extended .usa-nav {

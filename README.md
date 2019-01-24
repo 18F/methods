@@ -46,6 +46,8 @@ You should be able to see the site at: `http://localhost:4000/`
 ### Contributing to the Methods
 For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
 
+Learn more about our goals and the way we work in our [wiki](https://github.com/18F/methods/wiki). 
+
 ## Current team
 
 - Product owner: Julia Lindpaintner

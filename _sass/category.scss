@@ -17,16 +17,6 @@
     margin-bottom: 2.5em;
     padding-left: 0;
 
-    ul {
-      margin-left: 1.4em;
-      padding-top: 1.4em;
-
-      li {
-        margin-bottom: .4em;
-      }
-
-    }
-
     a {
       font-weight: 600;
       text-decoration: underline;
@@ -68,18 +58,16 @@
     font-size: 2.5rem;
   }
 
-
-
 }
 
 
 
 
-.layout--introduction {
+.layout--methods {
   .category {
-    background-color:#fff;
+    background-color: #fff;
     .usa-width-two-thirds {
-      margin-right:0;
+      margin-right: 0;
       padding-right: 2.35765%;
     }
     .usa-width-one-third {

@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang='en'>
-{% include head.html %}
-<body class="layout--card">
-  {% include category-setup.html %} {% include header.html %}
-  <main id="main" role="main">
-    <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
-      <header class="category--header">
+  {% include head.html %}
+  <body class="layout--card">
+    {% include category-setup.html %} {% include header.html %}
+    <main id="main" role="main">
+      <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
+        <header class="category--header">
+          <div class="usa-grid">
+            {% assign method_category = site.pages | where: "title", page.category | first %}
+            <h1 class="category--title">{{method_category.title | capitalize }}</h1>
+            <p class="category--subtitle">{{method_category.description}}</p>
+          </div>
+        </header>
         <div class="usa-grid">
-          {% assign method_category = site.pages | where: "title", page.category | first %}
-          <h1 class="category--title">{{method_category.title | capitalize }}</h1>
-          <p class="category--subtitle">{{method_category.description}}</p>
+          {% include method-print-header.html %} {% include method.html %}
         </div>
-      </header>
-      <div class="usa-grid">
-        {% include method-print-header.html %} {% include method.html %}
-      </div>
-    </section>
-  </main>
-  {% include footer.html %}
-</body>
+      </section>
+    </main>
+    {% include footer.html %}
+  </body>
 </html>

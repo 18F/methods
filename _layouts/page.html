@@ -1,17 +1,12 @@
 <!DOCTYPE html>
 <html lang='en'>
-{% include head.html %}
-
-<body class="layout--page layout--{{ page.title | slugify }}">
-  {% include category-setup.html %}
-  {% include header.html %}
-  <main id="main" role="main">
-    <div class="usa-grid">
-      <div class="page">
-        {{ content }}
-      </div>
-    </div>
-  </main>
-  {% include footer.html %}
-</body>
+  {% include head.html %}
+  <body class="layout--page layout--{{ page.title | slugify }}">
+    {% include category-setup.html %}
+    {% include header.html %}
+    <main id="main" role="main">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
 </html>

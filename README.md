@@ -1,6 +1,6 @@
 # Methods
 
-The 18F Method Cards (“18F Methods”) describe how 18F puts human-centered design into practice. While this is primarily maintained as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design.
+The 18F Methods describe how 18F puts human-centered design into practice. While this is primarily maintained as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design.
 
 ## Why methods?
 

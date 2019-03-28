@@ -51,7 +51,12 @@ Learn more about our goals and the way we work in our [wiki](https://github.com/
 ## Current team
 
 - Product owner: Julia Lindpaintner
-- Designer (researcher): Andrew Maier
+- Tiffany Andrews
+- Amirah Aziz
+- Ron Bronson
+- Matt Dobson
+- Leah Gitter
+- Andrew Maier
 
 ## Past contributors
 

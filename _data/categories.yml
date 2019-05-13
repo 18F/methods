@@ -2,7 +2,6 @@
   category_description: Build a greater understanding of your problem and the people it impacts.
   category_info: Use the Discover Methods to build context for the problem you’re investigating. Get to know your potential users better and understand your stakeholders’ main concerns. The work you do during this phase will inform everything that follows, so take your time.
   methods:
-    - Bodystorming
     - Cognitive walkthrough
     - Contextual inquiry
     - Design studio

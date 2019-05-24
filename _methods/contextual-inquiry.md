@@ -27,6 +27,13 @@ A pair of 18F team members visited two Department of Labor/Wage Hour Division in
 
 </section>
 
+<section class="method--section method--section--additional-resources" markdown="1" >
+## Additional resources
+
+- [Observational research: 5 Tips for Improving Your Approach](https://hodigital.blog.gov.uk/2019/01/18/observational-research-5-tips-for-improving-your-approach%e2%80%af%e2%80%af/)
+
+</section>
+
 <section class="method--section method--section--government-considerations" markdown="1" >
 ## Applied in government research
 

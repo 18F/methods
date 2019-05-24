@@ -3,6 +3,7 @@ layout: card
 title: Dot voting
 permalink: /discover/dot-voting/
 redirect_from:
+  - /discover/feature-dot-voting/
   - /feature-dot-voting/
   - /dot-voting/
 description: A simple voting exercise to identify a group's collective priorities.
@@ -26,5 +27,5 @@ timeRequired: 15 minutes
 
 ## Applied in government research
 
-No PRA implications: feature dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications: dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
 </section>

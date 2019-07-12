@@ -50,13 +50,12 @@ Learn more about our goals and the way we work in our [wiki](https://github.com/
 
 ## Current team
 
-- Product owner: Julia Lindpaintner
 - Tiffany Andrews
 - Amirah Aziz
-- Ron Bronson
 - Matt Dobson
 - Leah Gitter
-- Andrew Maier
+- Julia Lindpaintner (product owner)
+- Eric Richards
 
 ## Past contributors
 
@@ -67,6 +66,7 @@ Learn more about our goals and the way we work in our [wiki](https://github.com/
 - Andre Francisco
 - James Hupp
 - Nicky Krause
+- Andrew Maier
 - Colin MacArthur
 - Brad Nunnally
 - Eric Ronne

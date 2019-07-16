@@ -1,6 +1,6 @@
 # Methods
 
-The 18F Methods describe how 18F puts human-centered design into practice. While this is primarily maintained as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design.
+The 18F Methods were created to describe how 18F puts human-centered design into practice. While this was developed primarily as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design. 
 
 ## Why methods?
 
@@ -8,7 +8,7 @@ In order to function well within cross-functional teams, designers need to know 
 
 ### Specific to 18F, specific to the federal government
 
-It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the Paperwork Reduction Act.
+It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the [Paperwork Reduction Act](pra.digital.gov).
 
 ## Getting started
 

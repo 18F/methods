@@ -51,14 +51,13 @@ Learn more about our goals and the way we work in our [wiki](https://github.com/
 ## Current team
 
 - Tiffany Andrews
-- Amirah Aziz
 - Matt Dobson
 - Leah Gitter
 - Julia Lindpaintner (product owner)
-- Eric Richards
 
 ## Past contributors
 
+- Amirah Aziz
 - Melissa Braxton
 - Jeremy Canfield
 - Erica Deahl
@@ -66,14 +65,15 @@ Learn more about our goals and the way we work in our [wiki](https://github.com/
 - Andre Francisco
 - James Hupp
 - Nicky Krause
-- Andrew Maier
 - Colin MacArthur
+- Andrew Maier
 - Brad Nunnally
+- Eric Richards
 - Eric Ronne
 - Jennifer Thibault
 - Russ Unger
-- Victor Zapanta
 - Scott Weber
+- Victor Zapanta
 
 ## Public domain
 

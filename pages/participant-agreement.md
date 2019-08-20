@@ -1,5 +1,5 @@
 ---
-title: Example Design Research Participant Agreement
+title: Example design research participant agreement
 description: An example design research participant agreement
 layout: page
 permalink: /participant-agreement/

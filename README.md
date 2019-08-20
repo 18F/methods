@@ -19,6 +19,11 @@ You’re presently looking at the Methods’ GitHub (code) repository. Please [v
 ### Printing the Methods
 To print a copy of the Methods for offline use, visit the [Methods print page](https://methods.18f.gov/print/). You may need to select `file → print…` from your web browser.
 
+### Contributing to the Methods
+For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md). If you would like to suggest a new Method be added to the collection, please follow the instructions [here](https://github.com/18F/methods/wiki/Contributing#suggesting-new-methods).
+
+Learn more about our goals and the way we work in our [wiki](https://github.com/18F/methods/wiki). 
+
 ### Running the Methods website on your local machine
 
 You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). You may consider using a Ruby version manager such as [rbenv](https://github.com/sstephenson/rbenv) or [rvm](https://rvm.io/) to help ensure that Ruby version upgrades don’t mean all your [gems](https://rubygems.org/) will need to be rebuilt.
@@ -43,17 +48,12 @@ jekyll serve
 
 You should be able to see the site at: `http://localhost:4000/`
 
-### Contributing to the Methods
-For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
-
-Learn more about our goals and the way we work in our [wiki](https://github.com/18F/methods/wiki). 
-
 ## Current team
 
 - Tiffany Andrews
 - Matt Dobson
 - Leah Gitter
-- Julia Lindpaintner (product owner)
+- Julia Lindpaintner
 
 ## Past contributors
 

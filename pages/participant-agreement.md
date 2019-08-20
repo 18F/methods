@@ -17,14 +17,13 @@ This agreement relates to your participation in a study led by `<organization>` 
 
 ---
 
-- **You may opt out.** If at any point you no longer wish to participate, please inform the study moderator. No hard feelings.
-- **You will neither be paid nor receive compensation for your participation.** You agree to perform all duties associated with your participation in this study during the period of `<project start date>` &ndash; `<project end date>` without expectation of payment. You acknowledge you will not receive &mdash; and have no expectation of receiving &mdash; either payment or any other form of compensation for your participation in this study. You waive any right, claim, or other recourse against `<organization>` relating to compensation for your participation in this study.
-- **`<organization>` may record this study.** `<organization>` may make video, audio, photographic, and written recordings of this study. These records will be kept in a secure location and shared only with persons with a valid need to know.
-- **`<organization>` will take appropriate precautions to protect your privacy,** as explained in our Privacy Act Statement and <a aria-describedby="footnote-label" href="#footnote-pia" id="footnote-pia-ref">Privacy Impact Assessment</a>. Unless otherwise agreed to, `<organization>` will take appropriate steps to remove sensitive and personally identifiable information captured during this research.
+- **You are not required to participate and may opt out at any time.** If at any point you no longer wish to participate, please inform the study moderator. 
+- **You will not receive payment or compensation for your participation.** You agree to perform all duties associated with your participation in this study during the period of `<project start date>` &ndash; `<project end date>` gratuitously and without expectation of payment or any other form of compensation from the United States Government. You freely and voluntarily agree to waive any right, claim, or other recourse against the United States federal Government relating to compensation for your participation in this study. Additionally, you agree to grant the United States Government with unlimited and unrestricted rights to use and reproduce all materials associated with your participation in this study.
+- **You agree to be recorded by `<organization>` may record this study.** `<Organization>` may make video, audio, photographic, and written recordings of this study. These records will be stored by `<organization>` and shared only with persons with a valid need to know for necessary, official purposes.
+
+- **`<Organization>` will take appropriate precautions to protect your privacy,** as explained in our Privacy Act Statement and <a aria-describedby="footnote-label" href="#footnote-pia" id="footnote-pia-ref">Privacy Impact Assessment</a>. `<Organization>` takes steps to minimize and remove any unnecessary sensitive personally identifiable information captured during this research.
 
 ---
-
-By signing this document you agree to reading, understanding, and agreeing to it. You expressly release `<organization>` from and against any and all claims that you have or may have for compensation, invasion of privacy, defamation, or any other cause of action arising out of the production, distribution, display, or publication of the results of the study, so long as the conditions of use described above are met.
 
 <table class="signature-block">
   <tr>
@@ -52,6 +51,10 @@ By signing this document you agree to reading, understanding, and agreeing to it
     <td>&nbsp;</td>
   </tr>
 </table>
+
+Privacy Act Notice: `<Organization>` is asking for your contact information so that we can decide if you are able to participate in design research studies. Your participation in a study is optional; nothing changes if you decline. By providing your contact information, you agree to receive follow-up communications about the study.  
+  
+`<Organization>`'s design research is conducted in the spirit of Executive Order 13571, Section 2B, which directs agencies to “establish mechanisms to solicit customer feedback on government services and use such feedback regularly to make service improvements”. `<Organization>`'s collection of contact information is authorized by the E-Government Act of 2002 (P.L. 107-347, 44 USC § 3501).
 
 <footer>
   <h1 id="footnote-label">Footnotes</h1>

@@ -54,6 +54,7 @@ You should be able to see the site at: `http://localhost:4000/`
 - Matt Dobson
 - Leah Gitter
 - Julia Lindpaintner
+- Peter Rowland
 
 ## Past contributors
 

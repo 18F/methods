@@ -29,13 +29,6 @@ timeRequired: 3–4 hours
 
 </section>
 
-<section class="method--section method--section--additional-resources" markdown="1">
-
-## Additional resources
-
-- [Presentation by Todd Zaki Warfel](https://vimeo.com/37861987/) explaining what a design studio is. Todd Zaki Warfel.
-</section>
-
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Applied in government research

@@ -25,9 +25,9 @@ Also, please don’t worry that you’re going to hurt our feelings. We’re doi
 
 If you have any questions as we go along, just ask. I may not be able to answer them right away, since we’re interested in how people do when they don’t have someone sitting next to them to help. But if you still have any questions when we’re done I’ll try to answer them then.
 
-With your permission, I’d like to record this call. The recording will only be used to help us figure out how to improve the site, and it won’t be seen by anyone except those with a need-to-know. Recording this call also helps me, because I don’t have to take as many notes! Is that okay?
+With your permission, I’d like to record this call. The recording will only be used to help us figure out how to improve the site, and it won’t be seen by anyone except those with a need-to-know. Recording this call also helps me, because I don’t have to take as many notes! Do I have your permission to record this call?
 
-Finally, I want to confirm that you’ve received a participant agreement — is that correct? Have you had a chance to review it? Did you have any questions? If you haven’t already, please sign it and send it back at your earliest convenience.
+Finally, I want to confirm that you’ve received and had a chance to review the participant agreement? Did you have any questions? If you have signed the agreement, please send me a copy. Otherwise, do you agree to the terms of the participant agreement? 
 
 Great. Do you have any questions for me at this time?
 

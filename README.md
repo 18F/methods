@@ -1,6 +1,6 @@
 # Methods
 
-The 18F Methods describe how 18F puts human-centered design into practice. While this is primarily maintained as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design.
+The 18F Methods were created to describe how 18F puts human-centered design into practice. While this was developed primarily as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design. 
 
 ## Why methods?
 
@@ -8,7 +8,7 @@ In order to function well within cross-functional teams, designers need to know 
 
 ### Specific to 18F, specific to the federal government
 
-It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the Paperwork Reduction Act.
+It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the [Paperwork Reduction Act](pra.digital.gov).
 
 ## Getting started
 
@@ -18,6 +18,11 @@ You’re presently looking at the Methods’ GitHub (code) repository. Please [v
 
 ### Printing the Methods
 To print a copy of the Methods for offline use, visit the [Methods print page](https://methods.18f.gov/print/). You may need to select `file → print…` from your web browser.
+
+### Contributing to the Methods
+For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md). If you would like to suggest a new Method be added to the collection, please follow the instructions [here](https://github.com/18F/methods/wiki/Contributing#suggesting-new-methods).
+
+Learn more about our goals and the way we work in our [wiki](https://github.com/18F/methods/wiki). 
 
 ### Running the Methods website on your local machine
 
@@ -43,23 +48,17 @@ jekyll serve
 
 You should be able to see the site at: `http://localhost:4000/`
 
-### Contributing to the Methods
-For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
-
-Learn more about our goals and the way we work in our [wiki](https://github.com/18F/methods/wiki). 
-
 ## Current team
 
-- Product owner: Julia Lindpaintner
 - Tiffany Andrews
-- Amirah Aziz
-- Ron Bronson
 - Matt Dobson
 - Leah Gitter
-- Andrew Maier
+- Julia Lindpaintner
+- Peter Rowland
 
 ## Past contributors
 
+- Amirah Aziz
 - Melissa Braxton
 - Jeremy Canfield
 - Erica Deahl
@@ -68,12 +67,14 @@ Learn more about our goals and the way we work in our [wiki](https://github.com/
 - James Hupp
 - Nicky Krause
 - Colin MacArthur
+- Andrew Maier
 - Brad Nunnally
+- Eric Richards
 - Eric Ronne
 - Jennifer Thibault
 - Russ Unger
-- Victor Zapanta
 - Scott Weber
+- Victor Zapanta
 
 ## Public domain
 

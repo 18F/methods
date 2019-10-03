@@ -7,8 +7,7 @@ redirect_from:
 description: An exercise that quickly surfaces a group’s hopes and fears for the future
 category: Discover
 what: An exercise that quickly surfaces a group’s hopes and fears for the future
-why: - To establish a baseline understanding of a group’s expectations and concerns about a project 
-- To give each person an opportunity to voice their perspective
+why: To establish a baseline understanding of a group’s expectations and concerns about a project and to give each person an opportunity to voice their perspective
 
 timeRequired: 30–60 mins
 ---

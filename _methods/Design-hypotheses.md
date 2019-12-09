@@ -21,24 +21,20 @@ timeRequired: 1-2 hours
 
     Here’s a common way to structure your hypothesis:
 
-    *We believe that doing/building/creating [this] for [this user] will result in [this outcome]. We’ll know we’re right when we see [this metric/signal].*
+    *We believe that doing/building/creating [this] for [this user] will result in [this outcome].*  
+    *We’ll know we’re right when we see [this metric/signal].*
+    
+1. Once you've formulated your hypothesis, consider the following "harm prompt." These can help the team think about the potential unintended consequences of your work and the limitations of your knowledge.  
 
-1. Identify the main entry points for the user need you're addressing. This could be external marketing, the homepage, a microsite, or another page.
-1. Build or do the thing, and measure. If you learned something unexpected, then create a new hypothesis and change course so you can continue working toward your goals.
+    *But, this could be harmful for [this user] if [this outcome happens].*
 
-<section class="method--section method--section--18f-example" markdown="1" >
-
-## Example from 18F
-
-- Example from the <a href="https://lean-product-design.18f.gov/7-break-down/">Lean product design guide</a>.
-
-</section>
+1. Identify a user touchpoint that will allow you to test your hypothesis. This could be external marketing, the homepage, a microsite, or something else. Build or do the thing, and measure. If you learned something unexpected, then create a new hypothesis and change course so you can continue working toward your goals.
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
 
-- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Getting out of the deliverables business</a>.
+- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Article from *Smashing Magazine*</a> on using design hypotheses in Lean UX
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

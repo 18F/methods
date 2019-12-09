@@ -24,11 +24,11 @@ timeRequired: 1-2 hours
     *We believe that doing/building/creating [this] for [this user] will result in [this outcome].*  
     *We’ll know we’re right when we see [this metric/signal].*
     
-1. Once you've formulated your hypothesis, consider the following "harm prompt." These can help the team think about the potential unintended consequences of your work and the limitations of your knowledge.  
+1. Once you've formulated your hypothesis, consider the following harm prompt to help the team think about and guard against potential unintended consequences of your work.   
 
     *But, this could be harmful for [this user] if [this outcome happens].*
 
-1. Identify a user touchpoint that will allow you to test your hypothesis. This could be external marketing, the homepage, a microsite, or something else. Build or do the thing, and measure. If you learned something unexpected, then create a new hypothesis and change course so you can continue working toward your goals.
+1. Identify a user touchpoint that will allow you to test your hypothesis, such as external marketing, the homepage, a microsite, or something else. Test your hypothesis. If you learn something unexpected, refine your hypothesis, test again, and continue to work incrementally towards your goals.
 
 <section class="method--section method--section--additional-resources" markdown="1">
 

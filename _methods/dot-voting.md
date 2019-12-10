@@ -25,7 +25,7 @@ timeRequired: 15 minutes
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 No PRA implications: dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
 </section>

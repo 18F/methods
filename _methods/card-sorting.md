@@ -34,6 +34,6 @@ There are two types of card sorting: open and closed. Most card sorts are perfor
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research
+## Considerations for use in government
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also explicitly excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a card sort tests (though in our case, a poor result is our fault).
 </section>

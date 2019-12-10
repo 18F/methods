@@ -28,7 +28,7 @@ timeRequired: 30 minutes to one hour per person
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research
+## Considerations for use in government
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that a cognitive walkthrough entails, 5 CFR 1320.3(h)3.
 
 If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.

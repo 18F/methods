@@ -42,7 +42,7 @@ This format can be adapted to include other categories. For example, asking part
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 No PRA implications. No information is collected from members of the public.
 </section>

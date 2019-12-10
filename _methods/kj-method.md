@@ -36,7 +36,7 @@ timeRequired: 1–2 hours
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agency's Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies.
 </section>

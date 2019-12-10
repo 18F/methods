@@ -28,14 +28,16 @@ A pair of 18F team members visited two Department of Labor/Wage Hour Division in
 </section>
 
 <section class="method--section method--section--additional-resources" markdown="1" >
-## Additional resources
+
+## Additional resources  
 
 - [Observational research: 5 Tips for Improving Your Approach](https://hodigital.blog.gov.uk/2019/01/18/observational-research-5-tips-for-improving-your-approach%e2%80%af%e2%80%af/)
 
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research
+
+## Applied in government research  
 
 No PRA implications, if done properly. Contextual interviews should be non-standardized, conversational, and based on observation. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
 

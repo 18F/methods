@@ -20,7 +20,7 @@ timeRequired: N/A
 
 ## Considerations for use in government  
 
-- No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.
-- If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
+No PRA implications. Even when users are present, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3.  
+If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
 
 </section>

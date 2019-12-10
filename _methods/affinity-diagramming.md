@@ -28,6 +28,6 @@ timeRequired: 1 hour
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research
+## Considerations for use in government
 No PRA implications. This method may use data gathered from members of the public, but does not require their involvement.
 </section>

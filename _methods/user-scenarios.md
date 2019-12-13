@@ -33,7 +33,13 @@ Keep in mind, the more realistic details you add, the richer and more useful you
 ## Additional resources
 
 - [Example user scenarios from Usability.gov](https://www.usability.gov/how-to-and-tools/methods/scenarios.html)
-- 
+- [Detailed explanation from usabilla.com](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
+- [Talk by Eric Meyer that highlights the importance of user scenarios](https://aneventapart.com/news/post/compassionate-design-by-eric-meyeran-event-apart-video)
+- [“Personas, scenarios, user stories and storyboards: what’s the difference?” from Justinmind.com](https://www.justinmind.com/blog/user-personas-scenarios-user-stories-and-storyboards-whats-the-difference/)
+
+## Time required
+1-3 hours
+
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

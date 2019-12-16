@@ -28,7 +28,7 @@ timeRequired: 1–2 weeks for 5–10 participants
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 No PRA implications. No information is collected from members of the public.
 </section>

@@ -43,7 +43,7 @@ timeRequired: 30 minutes to 1 hour per test
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 No PRA implications. First, any given usability test should involve nine or fewer users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a usability test tests. See the methods for [Recruiting](/recruiting/) and [Privacy](/privacy/) for more tips on taking input from the public.
 </section>

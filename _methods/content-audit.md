@@ -39,7 +39,8 @@ timeRequired: 3-8 hours
 </section>
 
 <section class="method--section method--section--additional-resources" markdown="1">
-## Additional resources
+
+## Additional resources  
 
 - <a href="http://uxmastery.com/how-to-conduct-a-content-audit/">"How to Conduct a Content Audit."</a> UX Mastery.
 - <a href="http://blog.braintraffic.com/2012/04/auditing-big-sites-doesn%E2%80%99t-have-to-be-taxing/">"Auditing Big Sites Doesn't Have to Be Taxing."</a> Christine Anameier.
@@ -47,6 +48,8 @@ timeRequired: 3-8 hours
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research
+
+## Considerations for use in government  
+
 No PRA implications. No information is collected from members of the public.
 </section>

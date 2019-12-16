@@ -31,7 +31,7 @@ timeRequired: 3–4 hours
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 </section>

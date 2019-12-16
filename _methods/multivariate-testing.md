@@ -28,7 +28,8 @@ timeRequired: 2–5 days of effort, 1–4 weeks elapsed through the testing peri
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research
+
+## Considerations for use in government  
 
 No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
 </section>

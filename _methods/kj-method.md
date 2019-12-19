@@ -23,7 +23,8 @@ timeRequired: 1–2 hours
 1. Combine duplicates and their points if the entire group agrees they're identical. Three or four groups usually rank higher than the rest - these are the priorities for the question.
 
 <section class="method--section method--section--18f-example" markdown="1" >
-## Example from 18F
+
+## Example from 18F  
 
 18F conducted this exercise with 20 Federal Election Commission staff members to define priorities around conflicting requests. We used this method to get data from staff (not the decision makers) about what they saw as the most pressing needs. We synthesized and presented the data back to the decision makers.
 </section>
@@ -36,7 +37,7 @@ timeRequired: 1–2 hours
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 At 18F, KJ participants are almost always federal employees. If there is any chance your KJ workshop could include participants who are not federal employees, consult OMB guidance on the Paperwork Reduction Act and the Privacy Act. Your agency's Office of General Counsel, and perhaps OIRA desk officers, also can ensure you are following the laws and regulations applicable to federal agencies.
 </section>

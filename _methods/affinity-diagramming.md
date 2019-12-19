@@ -21,13 +21,16 @@ timeRequired: 1 hour
 
 
 <section class="method--section method--section--additional-resources" markdown="1">
-## Additional resources
+
+## Additional resources  
 
 - [An explanation of what affinity diagramming is and how to do it.](http://www.usabilitybok.org/affinity-diagram) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 - [An explanation of affinity diagramming.](http://infodesign.com.au/usabilityresources/affinitydiagramming/) Information and Design.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
-## Applied in government research
+
+## Considerations for use in government  
+
 No PRA implications. This method may use data gathered from members of the public, but does not require their involvement.
 </section>

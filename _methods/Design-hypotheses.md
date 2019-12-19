@@ -21,29 +21,25 @@ timeRequired: 1-2 hours
 
     Here’s a common way to structure your hypothesis:
 
-    *We believe that doing/building/creating [this] for [this user] will result in [this outcome]. We’ll know we’re right when we see [this metric/signal].*
+    *We believe that doing/building/creating [this] for [this user] will result in [this outcome].*  
+    *We’ll know we’re right when we see [this metric/signal].*
+    
+1. Once you've formulated your hypothesis, consider the following harm prompt to help the team think about and guard against potential unintended consequences of your work.   
 
-1. Identify the main entry points for the user need you're addressing. This could be external marketing, the homepage, a microsite, or another page.
-1. Build or do the thing, and measure. If you learned something unexpected, then create a new hypothesis and change course so you can continue working toward your goals.
+    *But, this could be harmful for [this user] if [this outcome happens].*
 
-<section class="method--section method--section--18f-example" markdown="1" >
-
-## Example from 18F
-
-- Example from the <a href="https://lean-product-design.18f.gov/7-break-down/">Lean product design guide</a>.
-
-</section>
+1. Identify a user touchpoint that will allow you to test your hypothesis, such as external marketing, the homepage, a microsite, or something else. Test your hypothesis. If you learn something unexpected, refine your hypothesis, test again, and continue to work incrementally towards your goals.
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
 
-- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Getting out of the deliverables business</a>.
+- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Article from *Smashing Magazine*</a> on using design hypotheses in Lean UX
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government
 
 No PRA implications. No information is collected from members of the public.
 </section>

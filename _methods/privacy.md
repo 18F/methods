@@ -28,7 +28,7 @@ timeRequired: N/A
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Applied in government research
+## Considerations for use in government  
 
 The government's use of information about people is subject to a number of laws and policies, including: [the Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition), the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
 

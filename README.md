@@ -30,8 +30,7 @@ You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). You may con
 
 On OS X, you can use [Homebrew](http://brew.sh/) to install Ruby in `/usr/local/bin`, which may require you to update your `$PATH` environment variable:
 
-```
-shell
+```shell
 $ brew update
 $ brew install ruby
 ```
@@ -39,11 +38,11 @@ $ brew install ruby
 To serve 18F Methods locally, using `methods` as the name of your new repository:
 Run each of the following steps to get the site up and running.
 
-```
-git clone git@github.com:18F/methods
-cd methods
-bundle install
-jekyll serve
+```shell
+$ git clone git@github.com:18F/methods
+$ cd methods
+$ bundle install
+$ jekyll serve
 ```
 
 You should be able to see the site at: `http://localhost:4000/`

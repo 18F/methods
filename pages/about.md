@@ -17,7 +17,7 @@ The 18F Methods are broken up into the four broad design phases your team is lik
 We’ve included additional guidance for using these methods in government research, specifically around the [Paperwork Reduction Act (PRA)](https://www.opm.gov/about-us/open-government/digital-government-strategy/fitara/paperwork-reduction-act-guide.pdf). We’re only able to include brief guidance on the PRA, and federal workers should check with their agency counsel for additional guidance. You should also read the cards in the fundamentals section for more background on conducting design research as a government employee.
 
 ## Go behind the scenes
-As with all of 18F’s products, the 18F Methods are completely open source. You are free to copy, share, or reuse them [as you wish](https://github.com/18F/methods/blob/staging/LICENSE.md). We also welcome input from the public, whether it’s correcting a typo or suggesting a new method to include. You can see our [guidelines for contributing on GitHub](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
+As with all of 18F’s products, the 18F Methods are completely open source. You are free to copy, share, or reuse them [as you wish](https://github.com/18F/methods/blob/staging/LICENSE.md). We also welcome input from the public or our government colleagues, whether it’s correcting a typo or suggesting a new method to include. You can see our [guidelines for contributing on GitHub](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md). Please don't hesitate to reach out to the team at [18f-methods@gsa.gov](mailto:18f-methods@gsa.gov) with questions, comments, or suggestions. 
 
 ## Release notes
 

@@ -10,7 +10,7 @@ what: An iterative process for identifying the root cause of a problem by posing
 
 why: To identify the root cause(s) of an issue or problem.
 
-timeRequired: <1 hour
+timeRequired: Less than 1 hour
 
 ---
 
@@ -31,8 +31,7 @@ Starting problem: “We didn’t meet our goal for public feedback during the op
 5. *Why?*  
 “We didn’t formulate and publish a call to action to submit comments.”
 
-
-After getting to a root cause, frame or reframe your problem solving approach to address it (e.g. “how might we easily communicate how users’ donations will contribute to the cause?”) This should give a new perspective and approach to the problems that surfaced during research.
+After getting to a root cause, frame or reframe your problem solving approach to address it (e.g., “how might we create a call to action for comment submission?”).
 
 *Note: You may can “why” more or less than five times during this process. The purpose of this exercise is to help identify what is the root cause.  Ask “why” as many times as needed to get to what you think the root cause is.*
 

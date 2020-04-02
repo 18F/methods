@@ -24,7 +24,7 @@ timeRequired: 1 week, plus occasional refresher meetings
 <section class="method--section method--section--18f-example" markdown="1" >
 
 ## Example from 18F
-- <a href="https://pages.18f.gov/design-principles-guide/">18F Design Principles Guide</a>
+- 18F Design Principles Guide posts: [Create](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/create.md), [Define](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/define.md), [Resources](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/resources.md), [Usage](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/usage.md)
 - <a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/">"Making more consistent decisions with design principles: A new 18F guide"</a> Elizabeth Goodman and Brad Nunnally.  
 
 </section>

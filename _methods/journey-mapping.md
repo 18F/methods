@@ -7,7 +7,7 @@ redirect_from:
 description: A visualization of the major interactions shaping a user's experience of a product or service.
 category: Decide
 what: A visualization of the major interactions shaping a user's experience of a product or service.
-why: To provide design teams with a bird’s-eye view of a service that helps them see the sequence of interactions that make up a user’s experience including the complexity, successes, pain points, and emotions users experience along the way.
+why: To provide design teams with a bird’s-eye view of a service that helps them see the sequence of interactions that make up a user’s experience including the complexity, successes, pain points, and emotions users experience from the earliest phases of researching a product or service all the way through adoption.
 timeRequired: 4–12 hours
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: card
-title: Affinity diagramming
-permalink: /decide/affinity-diagramming/
+title: Affinity mapping
+permalink: /decide/affinity-mapping/
 redirect_from:
-  - /affinity-diagramming/
+  - /affinity-mapping/
 # Description is used for meta information and should be less than  
 description: A way of finding themes in collections of ideas, quotes, or observations.
 category: Decide
@@ -24,8 +24,8 @@ timeRequired: 1 hour
 
 ## Additional resources  
 
-- [An explanation of what affinity diagramming is and how to do it.](http://www.usabilitybok.org/affinity-diagram) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
-- [An explanation of affinity diagramming.](http://infodesign.com.au/usabilityresources/affinitydiagramming/) Information and Design.
+- [An explanation of what affinity mapping is and how to do it.](http://www.usabilitybok.org/affinity-diagram) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
+- [An explanation of affinity mapping.](http://infodesign.com.au/usabilityresources/affinitydiagramming/) Information and Design.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

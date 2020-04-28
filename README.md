@@ -50,8 +50,6 @@ You should be able to see the site at: `http://localhost:4000/`
 ## Current team
 
 - Tiffany Andrews
-- Elisa Chen
-- Leah Gitter
 - Julia Lindpaintner
 - Peter Rowland
 
@@ -60,10 +58,12 @@ You should be able to see the site at: `http://localhost:4000/`
 - Amirah Aziz
 - Melissa Braxton
 - Jeremy Canfield
+- Elisa Chen
 - Erica Deahl
 - Carolyn Dew
 - Matt Dobson
 - Andre Francisco
+- Leah Gitter
 - James Hupp
 - Nicky Krause
 - Colin MacArthur

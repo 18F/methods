@@ -61,3 +61,21 @@ $categories:
     color: #fff;
   }
 }
+.touchpoints-form-wrapper {
+  border-radius: 3px;
+}
+#fba-modal-dialog#fba-modal-dialog .usa-input { // repeating id b/c touchpoints uses highly specific id and we need to override
+  height: 40px; // touchpoints uses 2.5rem but this site's base font size is 10px and 25px is too small for the input height
+}
+#fba-modal-dialog#fba-modal-dialog .usa-input,
+#fba-modal-dialog#fba-modal-dialog .usa-textarea {
+  max-width: 100%;
+}
+#fba-modal-dialog#fba-modal-dialog .usa-button {
+  font-size: 1em;
+  background-color: #07648d; //$blue-cool-60v
+  padding: 12px 20px;
+}
+#fba-modal-dialog#fba-modal-dialog .usa-banner__header .usa-banner__header-text {
+  font-size: 12px;
+}

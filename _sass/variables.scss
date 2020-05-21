@@ -18,14 +18,26 @@ $paragraph-line-height: 1.5;
 
 
 // Colors
-$color-blue: #5CAED7;
-$color-green: #58B84F;
-$color-gold: #F3CD32;
-$color-red: #E67E37;
+$color-blue: #5CAED7; // closest to $blue-cool-30v
+$color-green: #58B84F; // closest to $green-30v
+$color-gold: #F3CD32; // closest to $yellow-20v
+$color-red: #E67E37; // closest to $orange-40
 $color-blue-dark: #1C304A; // 18F brand color $color-dark
 $color-gray-darkest: #222;
 $color-gray-dark: #333;
 $color-gray: #ddd;
+
+// Category colors
+$color-discover: $color-blue;
+$color-discover-text: #0d7ea2; // $blue-cool-50v
+$color-make: $color-gold;
+$color-make-text: #947100; // $yellow-50v
+$color-validate: $color-red;
+$color-validate-text: #a86437; // $orange-50
+$color-decide: $color-green;
+$color-decide-text: #538200; // $green-50v
+$color-fundamentals: $color-blue-dark;
+$color-fundamentals-text: $color-blue-dark;
 
 // 18F brand colors
 $color-light:        #b3efff; // $color-light / $color-secondary-light

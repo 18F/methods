@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='en'>
   {% include head.html %}
-  <body class="layout--card">
+  <body class="layout--card category--{{page.category | downcase }}">
     {% include category-setup.html %} {% include header.html %}
     <main id="main" role="main">
       <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">

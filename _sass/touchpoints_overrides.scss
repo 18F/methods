@@ -6,61 +6,25 @@
   border-radius: 3px;
 }
 
-$categories:
-  "discover" $color-discover $color-discover-text,
-  "make" $color-make $color-make-text,
-  "validate" $color-validate $color-validate-text,
-  "decide" $color-decide $color-decide-text,
-  "fundamentals" $color-fundamentals $color-fundamentals-text;
-
-@each $category, $category-color, $category-text-color in $categories {
-  .category--#{$category} .fixed-tab-button,
-  .category--#{$category} .fixed-tab-button:visited {
-    background-color: #fff;
-    color: #{$category-text-color};
-    border: 2px solid #{$category-color};
-  }
-  .category--#{$category} {
-    .fixed-tab-button:active,
-    .fixed-tab-button:hover
-       {
-        background-color: $category-text-color;
-        color: #fff;
-        border: 2px solid #fff;
-      }
-  }
-}
-
-.layout--page {
-  .fixed-tab-button,
-  .fixed-tab-button:visited {
-    background-color: #0d7ea2; //$blue-cool-50v
-    border: 2px solid #0d7ea2; //$blue-cool-50v
-    color: #fff;
-  }
-  .fixed-tab-button:active,
-  .fixed-tab-button:hover
-   {
-    background-color: #07648d; //$blue-cool-60v
-    border: 2px solid #07648d; //$blue-cool-60v
-    color: #fff;
-  }
-}
+.layout--card,
+.layout--category,
+.layout--page,
 .layout--print {
   .fixed-tab-button,
   .fixed-tab-button:visited {
-    background-color: #fff;
-    border: 2px solid $color-discover;
-    color: $color-discover-text;
+    background-color: #d72d79; //$magenta-40v
+    border: 2px solid #d72d79; //$magenta-40v
+    color: #fff;
   }
   .fixed-tab-button:active,
   .fixed-tab-button:hover
    {
-    background-color: $color-discover-text;
-    border: 2px solid #fff;
+    background-color: #ab2165; //$magenta-60v
+    border: 2px solid #ab2165; //$magenta-60v
     color: #fff;
   }
 }
+
 .touchpoints-form-wrapper {
   border-radius: 3px;
 }

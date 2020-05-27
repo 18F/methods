@@ -50,8 +50,11 @@ You should be able to see the site at: `http://localhost:4000/`
 ## Current team
 
 - Tiffany Andrews
-- Julia Lindpaintner
+- Carly Jugler
+- Ana Monroe
 - Peter Rowland
+- Julie Strothman
+- Omid Ghaffari-Tabrizi
 
 ## Past contributors
 
@@ -66,6 +69,7 @@ You should be able to see the site at: `http://localhost:4000/`
 - Leah Gitter
 - James Hupp
 - Nicky Krause
+- Julia Lindpaintner
 - Colin MacArthur
 - Andrew Maier
 - Brad Nunnally

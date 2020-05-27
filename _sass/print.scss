@@ -30,11 +30,11 @@
   .usa-section { padding: 0 !important; }
 
   .layout--page main .usa-grid{
-    margin-top: 1em; 
+    margin-top: 1em;
   }
 
-  .layout--page .banner{ 
-    max-width: 1040px; 
+  .layout--page .banner{
+    max-width: 1040px;
     margin: 0 auto;
   }
 
@@ -42,22 +42,22 @@
   .layout--page .usa-header {
     display: block;
     padding: 0;
-    border: none; 
+    border: none;
   }
 
-  .layout--page .usa-logo img{ 
-    width: 0.3in; 
-    position: relative; 
+  .layout--page .usa-logo img{
+    width: 0.3in;
+    position: relative;
     top: -0.05in;
   }
 
   .layout--page .usa-logo-text{ font-size: 14pt; }
 
   // Homepage print styles
-  
+
   .layout--methods .usa-navbar{ margin-bottom: 0.5in; }
 
-  .layout--page.layout--methods .usa-logo img{ 
+  .layout--page.layout--methods .usa-logo img{
     width: 0.67in;
     top: 0.033in;
   }
@@ -68,15 +68,15 @@
   .layout--methods .category .methods-listing h2 { display: none; }
 
 
-  .layout--methods .category .methods-listing { 
-    border: none; 
+  .layout--methods .category .methods-listing {
+    border: none;
     -webkit-column-count: 2;
     padding: 0;
     max-width: 53rem;
   }
 
-  .layout--methods .category .category--title { 
-    font-size: 16pt; 
+  .layout--methods .category .category--title {
+    font-size: 16pt;
     padding: 0;
     border-bottom-width: 2px;
   }
@@ -85,11 +85,11 @@
     border-top-width: 4px;
   }
 
-  .layout--methods .category .category--subtitle { 
-    font-size: 13pt; 
+  .layout--methods .category .category--subtitle {
+    font-size: 13pt;
     font-weight: inherit;
     margin-top: 0.4em;
-    margin-bottom: 0.4em; 
+    margin-bottom: 0.4em;
   }
 
   // Method (individual, category) print styles
@@ -275,7 +275,7 @@
 
   .layout--example-usability-test-script.layout--page .banner,
   .layout--example-interview-debrief-worksheet .banner,
-  .layout--interview-checklist .banner{ 
+  .layout--interview-checklist .banner{
     display: none;
   }
 
@@ -346,4 +346,7 @@
     display: none;
   }
 
+  .fixed-tab-button.fixed-tab-button {
+    display: none;
+  }
 }

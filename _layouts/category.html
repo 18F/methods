@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang='en'>
     {% include head.html %}
-    <body class="layout--category layout--{{ page.title | slugify }}">
+    <body class="layout--category layout--{{ page.title | slugify }} category--{{page.category | downcase }}">
       {% include category-setup.html %}
       {% include header.html %}
       <main id="main" role="main">
@@ -15,7 +15,7 @@
           <div class="usa-grid">
             {% include method-print-header.html %}
             {% for method in category_methods %}
-              {% include method.html method=method %} 
+              {% include method.html method=method %}
             {% endfor %}
           </div>
         </section>

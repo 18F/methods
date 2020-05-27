@@ -1,0 +1,45 @@
+// .fixed-tab-button.fixed-tab-button {
+//   right: 0;
+//   bottom: 0;
+// }
+.fixed-tab-button.fixed-tab-button { //class repeated to override touchpoints style w/greater specificity
+  border-radius: 3px;
+}
+
+.layout--card,
+.layout--category,
+.layout--page,
+.layout--print {
+  .fixed-tab-button,
+  .fixed-tab-button:visited {
+    background-color: #d72d79; //$magenta-40v
+    border: 2px solid #d72d79; //$magenta-40v
+    color: #fff;
+  }
+  .fixed-tab-button:active,
+  .fixed-tab-button:hover
+   {
+    background-color: #ab2165; //$magenta-60v
+    border: 2px solid #ab2165; //$magenta-60v
+    color: #fff;
+  }
+}
+
+.touchpoints-form-wrapper {
+  border-radius: 3px;
+}
+#fba-modal-dialog#fba-modal-dialog .usa-input { // repeating id b/c touchpoints uses highly specific id and we need to override
+  height: 40px; // touchpoints uses 2.5rem but this site's base font size is 10px and 25px is too small for the input height
+}
+#fba-modal-dialog#fba-modal-dialog .usa-input,
+#fba-modal-dialog#fba-modal-dialog .usa-textarea {
+  max-width: 100%;
+}
+#fba-modal-dialog#fba-modal-dialog .usa-button {
+  font-size: 1em;
+  background-color: #07648d; //$blue-cool-60v
+  padding: 12px 20px;
+}
+#fba-modal-dialog#fba-modal-dialog .usa-banner__header .usa-banner__header-text {
+  font-size: 12px;
+}

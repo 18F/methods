@@ -27,24 +27,26 @@
   <meta name="twitter:image" content="https://methods.18f.gov/images/18F-Logo.png" />
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.3.1/js/uswds.min.js"></script>
+  <script src="https://touchpoints.app.cloud.gov/touchpoints/d028f982/js" async></script>
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.3.1/css/uswds.css">
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/styles.css">
 
+
   {% if page.layout == "page" %}
     <style>
-      @page { 
-        size: portrait; 
+      @page {
+        size: portrait;
         margin: 1in;
       }
     </style>
   {% else %}
     <style>
-      @page { 
-        size: landscape; 
+      @page {
+        size: landscape;
         margin: 0;
         padding: 1px;
       }
-    </style>  
+    </style>
   {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

@@ -11,6 +11,8 @@ exclude:
 - go
 - vendor
 
+url: "https://methods.18f.gov"
+
 permalink: pretty
 highlighter: rouge
 
@@ -40,5 +42,6 @@ plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 google_analytics_ua: UA-48605964-19

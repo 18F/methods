@@ -44,3 +44,18 @@
 #fba-modal-dialog#fba-modal-dialog .usa-banner__header .usa-banner__header-text {
   font-size: 12px;
 }
+
+
+
+
+.fixed-tab-button {
+  position: fixed;
+  bottom: 0;
+  right: 50px;
+  background: #02bfe7;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 1em;
+  text-decoration: none;
+  z-index: 9999;
+}

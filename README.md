@@ -50,8 +50,11 @@ You should be able to see the site at: `http://localhost:4000/`
 ## Current team
 
 - Tiffany Andrews
+- Carly Jugler
 - Julia Lindpaintner
+- Megan Reed
 - Peter Rowland
+- Julie Strothman
 
 ## Past contributors
 

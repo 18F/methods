@@ -3,7 +3,8 @@
 //   bottom: 0;
 // }
 .fixed-tab-button.fixed-tab-button { //class repeated to override touchpoints style w/greater specificity
-  border-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
 }
 
 .layout--card,

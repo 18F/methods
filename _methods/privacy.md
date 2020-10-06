@@ -21,18 +21,18 @@ timeRequired: N/A
 <section class="method--section method--section--additional-resources" markdown="1">
 ## Additional resources
 
-- [Doing Research at 18F](https://handbook.18f.gov/research-guidelines/)
-- [18F's Before You Ship Guide: Privacy](https://before-you-ship.18f.gov/privacy/)
-- [National Strategy For Trusted Identities In Cyberspace &mdash; Appendix A: Fair Information Practice Principles (FIPPs)](https://cryptome.org/2014/11/nstic-fipps.pdf)
+- <a href="https://handbook.18f.gov/research-guidelines/" class="usa-link">Doing Research at 18F</a>
+- <a href="https://before-you-ship.18f.gov/privacy/" class="usa-link">18F's Before You Ship Guide: Privacy</a>
+- <a href="https://cryptome.org/2014/11/nstic-fipps.pdf" class="usa-link">National Strategy For Trusted Identities In Cyberspace &mdash; Appendix A: Fair Information Practice Principles (FIPPs)</a>
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
-The government's use of information about people is subject to a number of laws and policies, including: [the Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition), the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
+The government's use of information about people is subject to a number of laws and policies, including: <a href="https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition" class="usa-link">the Privacy Act of 1974</a>, the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
 
 Conduct a Privacy Threshold Analysis in collaboration your agency's privacy office whenever a design calls for the creation of a new data store (for example, a database).
 
-Ensure all collections of personally identifiable information (PII) are accompanied by a Privacy Act Notice. See, for example, [18F's Privacy Act Notice for Design Research](https://www.gsa.gov/portal/content/162010).
+Ensure all collections of personally identifiable information (PII) are accompanied by a Privacy Act Notice. See, for example, <a href="https://www.gsa.gov/portal/content/162010" class="usa-link">18F's Privacy Act Notice for Design Research</a>.
 </section>

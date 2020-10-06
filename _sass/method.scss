@@ -43,7 +43,7 @@
   border-radius: 6px;
   display: table;
   font-family: $font-sans;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   position: relative;
 
   &:target {
@@ -104,7 +104,7 @@
   }
 
   .method--section--category {
-    min-width: 15rem;
+    min-width: 10rem;
   }
 
   .method--section--time-required {
@@ -239,7 +239,7 @@
   }
 
   .method .method--panel--front {
-    padding-bottom: 15rem;
+    padding-bottom: 10rem;
     position: relative;
   }
 

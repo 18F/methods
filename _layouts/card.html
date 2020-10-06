@@ -4,15 +4,15 @@
   <body class="layout--card category--{{page.category | downcase }}">
     {% include category-setup.html %} {% include header.html %}
     <main id="main" role="main">
-      <section class="category category--{{page.category | downcase }} usa-section" id="{{page.category | downcase }}">
+      <section class="category category--{{page.category | downcase }} usa-section usa-prose" id="{{page.category | downcase }}">
         <header class="category--header">
-          <div class="usa-grid">
+          <div class="grid-container">
             {% assign method_category = site.pages | where: "title", page.category | first %}
             <h1 class="category--title">{{method_category.title | capitalize }}</h1>
             <p class="category--subtitle">{{method_category.description}}</p>
           </div>
         </header>
-        <div class="usa-grid">
+        <div class="grid-container">
           {% include method-print-header.html %} {% include method.html %}
         </div>
       </section>

@@ -5,54 +5,91 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <a class="usa-skipnav" href="#main">Skip to main content</a>
 <!-- Gov banner BEGIN -->
-
-<div class="usa-banner">
-    <header class="usa-banner-header">
-      <div class="usa-grid usa-banner-inner">
-      <img src="{{site.baseurl}}/images/uswds-0.14.0/us_flag_small.png" alt="U.S. flag">
-      <p>An official website of the United States government</p>
+<section class="usa-banner" aria-label="Official government website">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" src="/images/uswds-2.9.0/us_flag_small.png" alt="U.S. flag">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
       </div>
     </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner" hidden="">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/assets/uswds/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>The .gov means it’s official.</strong>
+              <br>
+              Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/assets/uswds/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>The site is secure.</strong>
+              <br>
+              The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
+</section>
 <!-- Gov banner END -->
 <header role="banner" class="banner">
-<div class="usa-header usa-header-extended">
+<div class="usa-header usa-header--extended">
 <div class="usa-navbar">
   <button class="usa-menu-btn">Menu</button>
   <div class="usa-logo" id="logo">
-    <em class="usa-logo-text">
+    <em class="usa-logo__text">
       <a href="{{site.baseurl}}/" accesskey="1" title="Home" aria-label="Home">  <img src="{{site.baseurl}}/images/18F.svg" width="72"> Methods</a>
     </em>
   </div>
 </div>
 </div>
 </header>
-<div class="usa-header usa-header-extended sticky">
+<div class="usa-header usa-header--extended sticky">
 <nav role="navigation" class="usa-nav">
-  <div class="usa-nav-inner">
+  <div class="usa-nav__inner">
 
-        <button class="usa-nav-close">
+        <button class="usa-nav__close">
           <img src="{{site.baseurl}}/images/uswds-0.14.0/close.svg" alt="close">
         </button>
-        <ul class="usa-nav-primary usa-accordion">
-          <li>
+        <ul class="usa-nav__primary usa-accordion">
+          <li class="usa-nav__primary-item">
             <button class="
-            usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="side-nav-1">
+            usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="side-nav-1">
               <span>Discover</span>
             </button>
-            <ul id="side-nav-1" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="side-nav-1" class="usa-nav__submenu" >
               {% assign discovermethods = discover_methods | sort:"title"  %}
               {% for method in discovermethods %}
-                <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
+                <li class="usa-nav__submenu-item">
+                    <a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a>
+                </li>
               {% endfor %}
-              <li><a href="{{site.baseurl}}/discover">See all Discover cards</a></li>
+              <li class="usa-nav__submenu-item">
+                  <a href="{{site.baseurl}}/discover">See all Discover cards</a>
+              </li>
             </ul>
           </li>
           <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-2">
               <span>Decide</span>
             </button>
-            <ul id="sidenav-2" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-2" class="usa-nav__submenu" aria-hidden="true">
               {% assign decidemethods = decide_methods | sort:"title"  %}
               {% for method in decidemethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
@@ -61,10 +98,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
           </li>
           <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-3">
               <span>Make</span>
             </button>
-            <ul id="sidenav-3" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-3" class="usa-nav__submenu" aria-hidden="true">
               {% assign makemethods = make_methods | sort:"title"  %}
               {% for method in makemethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
@@ -73,10 +110,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
           </li>
           <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-4">
               <span>Validate</span>
             </button>
-            <ul id="sidenav-4" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-4" class="usa-nav__submenu" aria-hidden="true">
               {% assign validatemethods = validate_methods | sort:"title"  %}
               {% for method in validatemethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
@@ -85,10 +122,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
           </li>
           <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-5">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-5">
               <span>Fundamentals</span>
             </button>
-            <ul id="sidenav-5" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-5" class="usa-nav__submenu" aria-hidden="true">
               {% assign fundamentalsmethods = fundamentals_methods | sort:"title"  %}
               {% for method in fundamentalsmethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
@@ -100,12 +137,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           </li>
         </ul>
-        <div class="usa-nav-secondary">
-         <ul class="usa-unstyled-list usa-nav-secondary-links">
-           <li>
+        <div class="usa-nav__secondary">
+         <ul class="usa-nav__secondary-links">
+           <li class="usa-nav__secondary-item">
                <a href="{{site.baseurl}}/about">About</a>
            </li>
-           <li>
+           <li class="usa-nav__secondary-item">
              <a href="{{site.baseurl}}/print/">
                Print the Methods
              </a>

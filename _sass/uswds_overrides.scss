@@ -38,12 +38,14 @@ h1, h2, h3, h4{
   color: #333;
 }
 
-.usa-header-extended .usa-nav {
+.usa-header--extended .usa-nav {
   border: 0;
+  background: #ffffff;
+  border-bottom: 1px solid $color-gray;
 }
 
-.usa-header-extended .usa-logo {
-  margin-bottom: 1.5rem;
+.usa-header--extended .usa-logo {
+  margin-bottom: 1rem;
   margin-top: 0;
 }
 
@@ -67,9 +69,9 @@ h1, h2, h3, h4{
 }
 
 .usa-logo img {
-  margin-bottom: -1rem;
+  margin-bottom: -0.65rem;
   margin-top: 1rem;
-  max-width: 4.4rem;
+  max-width: 2.8rem;
 }
 
 // bottom border for nav hover state

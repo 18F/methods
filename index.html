@@ -22,7 +22,7 @@ layout: page
         </div>
         <div class="grid-col-4 methods-listing">
           <h2>Methods include</h2>
-          <ul>
+          <ul class="usa-list">
             {% for method in category.methods %}
             <li>
               <a href="{{ site.baseurl }}/{{ method | slugify }}" class="usa-link">{{ method }}</a>

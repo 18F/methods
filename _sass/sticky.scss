@@ -2,21 +2,20 @@
   .banner {
     position: sticky;
     top: 0;
-    z-index: 9000;
+    z-index: 300; // matches 300 z-index of .usa-header
     background-color: $color-inverse;
   }
 }
 @media screen and (min-width: 950px) {
   .banner {
     position: relative;
-    z-index: 9000;
   }
 
   .usa-header {
     &.sticky {
       position: sticky;
       top: 0;
-      z-index: 9000;
+      z-index: 300; // matches 300 z-index of .usa-header
     }
   }
 }

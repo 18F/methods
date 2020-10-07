@@ -13,6 +13,12 @@ h1, h2, h3, h4{
 .usa-banner {
   background-color: $color-gray-light;
   height: 2.3rem;
+  position: relative;
+  z-index: 400; // this supercedes the 300 z-index on .usa-header
+}
+
+.usa-banner .usa-accordion {
+  background-color: $color-gray-light;
 }
 
 .usa-banner-header {
@@ -139,7 +145,7 @@ h1, h2, h3, h4{
 }
 
 @media screen and (max-width: 950px) {
-  .usa-logo-text {
+  .usa-logo__text {
     font-size: 2rem;
   }
 
@@ -194,14 +200,12 @@ h1, h2, h3, h4{
   float: right;
   font-size: $h6-font-size;
   font-weight: bold;
-  height: 4rem;
-  line-height: 4rem;
-  margin-right: 2rem;
-  margin-top: 1.2rem;
+  height: 3rem;
+  line-height: 2rem;
+  margin-right: 1rem;
   text-align: center;
   text-decoration: none;
   text-transform: none;
-  width: 5.8rem;
 
   @media screen and (min-width: 951px) {
     display: none;

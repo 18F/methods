@@ -12,7 +12,6 @@ h1, h2, h3, h4{
 
 .usa-banner {
   background-color: $color-gray-light;
-  height: 2.3rem;
   position: relative;
   z-index: 400; // this supercedes the 300 z-index on .usa-header
 }

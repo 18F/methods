@@ -1,37 +1,3 @@
-html,
-body {
-  background: white;
-  color: #333;
-}
-
-html,
-body,
-h1, h2, h3, h4{
-  font-family: $theme-font-type-sans;
-}
-
-.usa-banner {
-  background-color: $color-gray-light;
-  position: relative;
-  z-index: 400; // this supercedes the 300 z-index on .usa-header
-}
-
-.usa-banner .usa-accordion {
-  background-color: $color-gray-light;
-}
-
-.usa-banner-header {
-  font-size: 1.1rem;
-  line-height: 1.2em;
-  padding-bottom: .4em;
-
-  & img {
-    margin-right: .7rem;
-    position: relative;
-    top: .33em;
-    width: 16px;
-  }
-}
 
 .usa-skipnav:focus {
   z-index: 10000;

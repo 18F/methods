@@ -126,7 +126,7 @@ $theme-typeface-tokens: (
     display-name: "Example Serif Display Name",
     cap-height: 364px,
   ),
-  example-sans-token: (
+  methods-sans-token: (
     display-name: "Example Sans Display Name",
     cap-height: 364px,
   ),
@@ -167,7 +167,7 @@ $theme-font-type-lang: false;
 $theme-font-type-mono: "roboto-mono";
 
 // sans-serif
-$theme-font-type-sans: "public-sans";
+$theme-font-type-sans: "helvetica";
 
 // serif
 $theme-font-type-serif: "merriweather";
@@ -284,7 +284,7 @@ tokens.
 */
 
 $theme-font-role-ui: "sans";
-$theme-font-role-heading: "serif";
+$theme-font-role-heading: "sans";
 $theme-font-role-body: "sans";
 $theme-font-role-code: "mono";
 $theme-font-role-alt: "serif";

@@ -20,7 +20,7 @@
 
     h1 {
       color: $color-gray-dark;
-      font-family: $font-sans;
+      font-family: $theme-font-type-sans;
       font-size: $h4-font-size;
       font-weight: bold;
       margin-bottom: .6em;
@@ -42,7 +42,7 @@
   box-shadow: 1px 1px 0 rgba(0,0,0,0.08);
   border-radius: 6px;
   display: table;
-  font-family: $font-sans;
+  font-family: $theme-font-type-sans;
   margin-bottom: 2rem;
   position: relative;
 
@@ -64,7 +64,7 @@
 
   .method--title {
     border-top: 8px solid;
-    font-family: $font-sans;
+    font-family: $theme-font-type-sans;
     font-size: $h2-font-size;
     font-weight: bold;
     margin-bottom: .5em;
@@ -83,7 +83,7 @@
   }
 
   h2 {
-    font-family: $font-sans;
+    font-family: $theme-font-type-sans;
     font-size: $h4-font-size;
     font-weight: bold;
     margin-bottom: .6em;
@@ -98,7 +98,7 @@
 
   .method--section--what,
   .method--section--why {
-    font-family: $font-sans;
+    font-family: $theme-font-type-sans;
     font-size: $base-font-size;
     line-height: 1.4;
   }
@@ -155,7 +155,7 @@
     }
 
     h2 {
-      font-family: $font-sans;
+      font-family: $theme-font-type-sans;
       font-size: $h4-font-size;
       margin-top: 1em;
     }
@@ -171,7 +171,7 @@
     }
 
     em {
-      font-family: $font-sans;
+      font-family: $theme-font-type-sans;
     }
 
     ol,
@@ -199,7 +199,7 @@
     }
 
     .method--section--government-considerations {
-      font-family: $font-sans;
+      font-family: $theme-font-type-sans;
       font-size: $tiny-font-size;
       line-height: 1.3em;
 

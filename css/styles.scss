@@ -1,7 +1,13 @@
 ---
 ---
 @import 'settings';
+@import './assets/uswds/scss/theme/uswds-theme-general';
+@import './assets/uswds/scss/theme/uswds-theme-typography';
+@import './assets/uswds/scss/theme/uswds-theme-spacing';
+@import './assets/uswds/scss/theme/uswds-theme-color';
+@import './assets/uswds/scss/theme/uswds-theme-utilities';
 @import './assets/uswds/scss/uswds';
+@import './assets/uswds/scss/theme/uswds-theme-custom-styles';
 @import 'variables';
 @import 'uswds_overrides';
 @import 'screen';

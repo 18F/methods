@@ -152,3 +152,54 @@ iframe:focus,
     color: white;
   }
 }
+
+// intro headers
+.usa-intro {
+  font-size: font-size(sans,12);
+  font-weight: font-weight('bold');
+  line-height: line-height('sans',3);
+  max-width: measure(1);
+  margin: 0;
+}
+
+// footer
+.usa-footer__return-to-top a {
+  color: black;
+  &:visited {
+    color: black;
+  }
+  &:hover,
+  &:active {
+    background-color: color('base-lightest');
+    color: color('base-darker');
+    text-decoration: none;
+  }
+}
+
+// 18F Button styles
+.usa-button,
+.usa-button:visited,
+button,
+[type='button'],
+[type='submit'],
+[type='reset'],
+[type='image'] {
+  background-color: color('accent-cool-darker');
+  font-family: family('sans');;
+  width: auto;
+  display: inline-block;
+
+  &:hover {
+    background-color: color('primary-dark');
+  }
+
+  &.usa-button--secondary,
+  &.usa-button--secondary:visited {
+    background-color: white;
+    color:  black;
+
+    &:hover {
+      background-color: color('base-lightest');
+    }
+  }
+}

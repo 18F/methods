@@ -1,24 +1,26 @@
 .category {
 
   .category--title {
-    font-family: $theme-font-type-sans;
-    font-size: $h2-font-size;
-    margin-top: 0;
-    margin-bottom: .2em;
+    font-family: family('heading');
+    font-size: font-size('heading',12);
+    line-height: line-height('sans',3);
+    margin: 0;
   }
 
   .category--subtitle {
-    font-family: $theme-font-type-sans;
-    font-size: $h3-font-size;
-    font-weight: 600;
+    font-family: family('heading');
+    font-size: font-size('heading',lg);
+    font-weight: font-weight('semibold');
+    line-height: line-height('sans',4);
+    max-width: measure(1);
   }
 
   .category--header {
-    margin-bottom: 2.5em;
+    margin-bottom: units(5);
     padding-left: 0;
 
     a {
-      font-weight: 600;
+      font-weight: font-weight('semibold');
       text-decoration: underline;
 
       &:hover {
@@ -51,13 +53,6 @@
 
 .intro-header {
   color: $color-inverse;
-}
-
-@media screen and (max-width: 950px) {
-  .category--intro .usa-intro {
-    font-size: 2.5rem;
-  }
-
 }
 
 

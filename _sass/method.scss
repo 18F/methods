@@ -48,8 +48,14 @@
 .method--title a,
 .method--title a:visited {
   color: color('base-darker');
-  text-decoration-skip: ink;
 
+  &:hover {
+    text-decoration: none;
+  }
+}
+.layout--card .method--title a,
+.layout--card .method--title a:visited {
+  text-decoration: none;
   &:hover {
     text-decoration: none;
   }

@@ -33,6 +33,9 @@ timeRequired: 2–3 hours
 
 - <a href="https://articles.uie.com/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.
 - <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper">"Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper."</a> Caroline Kraus.
+- [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/) Whitney Quesenbery
+- [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31) Anne Gibson
+
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

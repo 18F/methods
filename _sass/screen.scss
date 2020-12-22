@@ -33,7 +33,7 @@ body {
   .layout--page.layout--methods main { padding-right: 0; }
 
   h3 {
-    font-size: $h4-font-size;
+    font-size: font-size('heading',md);
     font-weight: 400;
     margin-top: 0;
     margin-bottom: .6rem;

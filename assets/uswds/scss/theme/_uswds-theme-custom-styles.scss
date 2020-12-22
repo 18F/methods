@@ -164,16 +164,7 @@ iframe:focus,
 
 // footer
 .usa-footer__return-to-top a {
-  color: black;
-  &:visited {
-    color: black;
-  }
-  &:hover,
-  &:active {
-    background-color: color('base-lightest');
-    color: color('base-darker');
-    text-decoration: none;
-  }
+  text-decoration: none;
 }
 
 // 18F Button styles
@@ -185,7 +176,7 @@ button,
 [type='reset'],
 [type='image'] {
   background-color: color('accent-cool-darker');
-  font-family: family('sans');;
+  font-family: family('sans');
   width: auto;
   display: inline-block;
 

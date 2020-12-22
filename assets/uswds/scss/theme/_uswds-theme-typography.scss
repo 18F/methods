@@ -304,10 +304,10 @@ $theme-type-scale-3xs: 2;
 $theme-type-scale-2xs: 3;
 $theme-type-scale-xs: 4;
 $theme-type-scale-sm: 5;
-$theme-type-scale-md: 6;
-$theme-type-scale-lg: 9;
+$theme-type-scale-md: 9;
+$theme-type-scale-lg: 10;
 $theme-type-scale-xl: 12;
-$theme-type-scale-2xl: 14;
+$theme-type-scale-2xl: 13;
 $theme-type-scale-3xl: 15;
 
 /*
@@ -399,24 +399,24 @@ $theme-body-line-height: 5;
 $theme-style-body-element: false;
 
 // Headings
-$theme-h1-font-size: "2xl";
-$theme-h2-font-size: "xl";
-$theme-h3-font-size: "lg";
-$theme-h4-font-size: "sm";
-$theme-h5-font-size: "xs";
-$theme-h6-font-size: "3xs";
-$theme-heading-line-height: 2;
-$theme-small-font-size: "2xs";
-$theme-display-font-size: "3xl";
+$theme-h1-font-size: "2xl"; // 36px
+$theme-h2-font-size: "xl"; // 32px
+$theme-h3-font-size: "lg"; // 24px
+$theme-h4-font-size: "md"; // 22px
+$theme-h5-font-size: "xs"; // 15px
+$theme-h6-font-size: "3xs"; // 13px
+$theme-heading-line-height: 2; // 1.15
+$theme-small-font-size: "2xs"; // 14px
+$theme-display-font-size: "3xl"; // 48px
 
 // Text and prose
 $theme-text-measure-narrow: 1;
-$theme-text-measure: 4;
-$theme-text-measure-wide: 6;
+$theme-text-measure: 4; //68ex
+$theme-text-measure-wide: 6; // 88ex
 $theme-prose-font-family: "body";
 
 // Lead text
 $theme-lead-font-family: "heading";
-$theme-lead-font-size: "lg";
-$theme-lead-line-height: 6;
-$theme-lead-measure: 6;
+$theme-lead-font-size: "lg"; // 24px
+$theme-lead-line-height: 6; //1.75
+$theme-lead-measure: 6;  // 88ex

@@ -1,5 +1,4 @@
 .site-footer {
-  font-size: $small-font-size;
-  padding-bottom: 3rem;
-  padding-top: 3rem;
+  font-size: font-size(sans,2xs);
+  padding: units(6) 0;
 }

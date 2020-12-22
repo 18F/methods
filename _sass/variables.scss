@@ -4,16 +4,16 @@
 // $theme-font-type-sans: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
 
-$h1-font-size: 3.4rem;
-$h2-font-size: 2.2rem;
-$h3-font-size: 1.6rem;
-$h4-font-size: 1.4rem;
-$h5-font-size: 0.9rem;
-$h6-font-size: 0.8rem;
+$h1-font-size: 3.4rem; //font-size('heading',)
+$h2-font-size: 2.2rem; //font-size('heading',xl)
+$h3-font-size: 1.6rem; //font-size('heading',)
+$h4-font-size: 1.4rem; //font-size('heading',)
+$h5-font-size: 0.9rem; //font-size('heading',)
+$h6-font-size: 0.8rem; //font-size('heading',)
 
-$base-font-size: 1.7rem;
-$small-font-size: 0.9rem;
-$tiny-font-size: 0.75rem;
+$base-font-size: 1.7rem; //font-size('sans',)
+$small-font-size: 0.9rem; //font-size('sans',)
+$tiny-font-size: 0.75rem; //font-size('sans',)
 
 $paragraph-line-height: 1.5;
 
@@ -25,7 +25,7 @@ $color-gold: #F3CD32; // closest to $yellow-20v
 $color-red: #E67E37; // closest to $orange-40
 $color-blue-dark: #1C304A; // 18F brand color $color-dark
 $color-gray-darkest: #222;
-$color-gray-dark: #333;
+$color-gray-dark: #333; // closest to $gray-80
 $color-gray: #ddd;
 
 // Category colors

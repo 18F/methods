@@ -24,8 +24,8 @@ timeRequired: 1 week, plus occasional refresher meetings
 <section class="method--section method--section--18f-example" markdown="1" >
 
 ## Example from 18F
-- 18F Design Principles Guide posts: [Create](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/create.md), [Define](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/define.md), [Resources](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/resources.md), [Usage](https://github.com/18F/design-principles-guide/blob/18f-pages/pages/usage.md)
-- <a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/">"Making more consistent decisions with design principles: A new 18F guide"</a> Elizabeth Goodman and Brad Nunnally.  
+- 18F Design Principles Guide posts:  <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/create.md" class="usa-link">Create</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/define.md" class="usa-link">Define</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/resources.md" class="usa-link">Resources</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/usage.md" class="usa-link">Usage</a>
+- <a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/" class="usa-link">"Making more consistent decisions with design principles: A new 18F guide"</a> Elizabeth Goodman and Brad Nunnally.
 
 </section>
 
@@ -33,12 +33,12 @@ timeRequired: 1 week, plus occasional refresher meetings
 
 ## Additional resources
 
-- <a href="http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/">"Design Principles: Dominance, Focal Points And Hierarchy."</a> Steven Bradley.  
+- <a href="http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/" class="usa-link">"Design Principles: Dominance, Focal Points And Hierarchy."</a> Steven Bradley.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
 No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
 </section>

@@ -34,7 +34,7 @@ timeRequired: 1-2 hours
 
 ## Additional resources
 
-- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Article from *Smashing Magazine*</a> on using design hypotheses in Lean UX
+- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/" class="usa-link">Article from *Smashing Magazine*</a> on using design hypotheses in Lean UX
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

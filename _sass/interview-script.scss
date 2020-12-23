@@ -1,16 +1,9 @@
 /* @group .layout--example-user-interview-script */
 
-.layout--example-user-interview-script h1,
-.layout--example-user-interview-script h4,
-.layout--example-user-interview-script p{
-  max-width: 34em;
-}
-
-
 .layout--example-user-interview-script h1+p{
-  font-size: 1.1em;
-  max-width: 38em;
-  color: #444;
+  font-size: font-size('body',6);
+  max-width: none;
+  color: color('base-darker');
 }
 
 .layout--example-user-interview-script code{ background: yellow; }

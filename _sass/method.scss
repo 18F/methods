@@ -1,35 +1,10 @@
 .card-header {
-  margin-bottom: 2.5rem;
-  margin-top: 1em;
+  margin-bottom: units(3);
+  margin-top: units(1.5);
   text-align: left;
-
-  nav {
-    ol {
-      align-items: stretch;
-      justify-content: center;
-    }
-
-    li {
-      border-radius: 3px;
-    }
-  }
-
-  .footer {
-    line-height: 1.33em;
-    margin: 0 auto;
-
-    h1 {
-      color: $color-gray-dark;
-      font-family: $font-sans;
-      font-size: $h4-font-size;
-      font-weight: bold;
-      margin-bottom: .6em;
-      margin-top: 1.2em;
-    }
-  }
 }
 
-.anchor {
+.anchor { // maybe this is used for linking to a specific card when you're displaying a whole category
   content: '';
   display: block;
   height: 7rem;
@@ -38,193 +13,164 @@
 }
 
 .method {
-  background: $color-inverse;
+  background: white;
   box-shadow: 1px 1px 0 rgba(0,0,0,0.08);
   border-radius: 6px;
   display: table;
-  font-family: $font-sans;
-  margin-bottom: 3rem;
+  margin-bottom: units(2.5);
   position: relative;
 
   &:target {
     box-shadow: 0 5px 5px -2px rgba(0, 0, 0, .25);
   }
+}
 
-  p,
-  li {
-    line-height: 1.3em;
-    margin-bottom: .6em;
+.method p,
+.method li {
+  line-height: line-height('sans',3);
+  margin-bottom: units(1);
+  margin-top: 0;
+}
+
+.method ol,
+.method ul {
+  margin-left: units(3);
+}
+
+.method--title {
+  border-top: 8px solid;
+  font-size: font-size('heading',xl);
+  font-weight: font-weight('bold');
+  margin-top: units(2);
+  padding-top: units(3);
+}
+
+.method--title a,
+.method--title a:visited {
+  color: color('base-darker');
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+.layout--card .method--title a,
+.layout--card .method--title a:visited {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.method h2 {
+  font-size: font-size('heading',md);
+  font-weight: font-weight('bold');
+}
+
+.method--panel {
+  display: block;
+  padding: units(2.5) units(5);
+  width: auto;
+}
+
+.method--section--category {
+  min-width: 10rem;
+}
+
+.method--section--time-required {
+  width: 100%;
+}
+
+.method--section--category,
+.method--section--time-required {
+  border-top: 1px solid color('base-lightest');
+  display: table-cell;
+
+  p {
+    font-size: font-size(sans,2xs);
+  }
+}
+
+// method--panel--front
+.method--panel--front {
+  position: relative;
+}
+
+.method footer {
+  display: table;
+  margin-top: units(6);
+  position: relative;
+  width: 100%;
+}
+
+.method footer h1 {
+  font-size: font-size('heading',3xs);
+  text-transform: uppercase;
+}
+
+// method--panel--back
+.method--panel--back {
+  background: color('base-lightest');
+  font-size: font-size('heading',2xs);
+  border-radius: 0 0 6px 6px;
+  padding-top: units(4);
+  :first-child {
     margin-top: 0;
   }
+}
+
+.method--panel--back h1 {
+  font-size: font-size('heading',md);
+  margin-top: .6em;
+}
+
+.method--panel--back h2 {
+  font-size: font-size('heading',md);
+  margin-top: 1em;
+}
+
+.method--panel--back h4 {
+  font: inherit;
+  font-weight: font-weight('semibold');
+  margin-top: 1em;
+}
+
+.method--panel--back ol,
+.method--panel--back ul {
+  margin: 0 0 1rem 1.5rem;
+  padding-left: 0;
+  padding-top: 0;
 
   ol,
   ul {
+    list-style: disc;
     margin-left: 1.4em;
-  }
-
-  .method--title {
-    border-top: 8px solid;
-    font-family: $font-sans;
-    font-size: $h2-font-size;
-    font-weight: bold;
-    margin-bottom: .5em;
-    margin-top: .5em;
-    padding-top: .8em;
-
-    a,
-    a:visited {
-      color: $color-gray-dark;
-      text-decoration-skip: ink;
-
-      &:hover {
-        text-decoration: none;
-      }
-    }
-  }
-
-  h2 {
-    font-family: $font-sans;
-    font-size: $h4-font-size;
-    font-weight: bold;
-    margin-bottom: .6em;
-    margin-top: 1.2em;
-  }
-
-  .method--panel {
-    display: block;
-    padding: 20px 40px;
-    width: auto;
-  }
-
-  .method--section--what,
-  .method--section--why {
-    font-family: $font-sans;
-    font-size: $base-font-size;
-    line-height: 1.4;
-  }
-
-  .method--section--category {
-    min-width: 15rem;
-  }
-
-  .method--section--time-required {
-    width: 100%;
-  }
-
-  .method--section--category,
-  .method--section--time-required {
-    border-top: 1px solid $color-gray-light;
-    display: table-cell;
-
-    p {
-      font-size: $small-font-size;
-    }
-  }
-
-  // method--panel--front
-  .method--panel--front {
-    position: relative;
-
-    footer {
-      display: table;
-      margin-top: 3rem;
-      position: relative;
-      width: 100%;
-
-      h1 {
-        font-size: $h6-font-size;
-        text-transform: uppercase;
-      }
-    }
-
-  }
-
-  // method--panel--back
-  .method--panel--back {
-    background: $color-gray-lightest;
-    font-size: $small-font-size;
-    border-radius: 0 0 6px 6px;
-    padding-top: 32px;
-    :first-child {
-      margin-top: 0;
-    }
-
-    h1 {
-      font-size: $h4-font-size;
-      margin-top: .6em;
-    }
-
-    h2 {
-      font-family: $font-sans;
-      font-size: $h4-font-size;
-      margin-top: 1em;
-    }
-
-    h4 {
-      font: inherit;
-      font-weight: 600;
-      margin-top: 1em;
-    }
-
-    a {
-      text-decoration: underline;
-    }
-
-    em {
-      font-family: $font-sans;
-    }
-
-    ol,
-    ul {
-      margin: 0 0 1rem 1.5rem;
-      padding-left: 0;
-      padding-top: 0;
-
-      ol,
-      ul {
-        list-style: disc;
-        margin-left: 1.4em;
-        padding-top: 0.4em;
-      }
-    }
-
-    p,
-    li {
-      line-height: 1.4em;
-      margin-bottom: .6em;
-    }
-
-    .method--section {
-      margin-bottom: 1.4em
-    }
-
-    .method--section--government-considerations {
-      font-family: $font-sans;
-      font-size: $tiny-font-size;
-      line-height: 1.3em;
-
-      h2 {
-        font-size: $h5-font-size;
-        margin-top: 1em;
-      }
-
-      ul {
-        list-style: none;
-        padding-left: 0;
-      }
-    }
-
-    :last-child {
-      margin-bottom: 0;
-    }
-  }
-
-  &::after {
-    clear: both;
-    content: '';
-    display: table;
+    padding-top: 0.4em;
   }
 }
+
+.method--panel--back p,
+.method--panel--back li {
+  line-height: 1.4;
+  margin-bottom: .6em;
+}
+
+.method--panel--back .method--section {
+  margin-bottom: 1.4em
+}
+
+.method--section--government-considerations {
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+}
+
+.method::after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
 
 @media screen and (min-width: 800px) {
   .card-header {
@@ -233,13 +179,13 @@
 
   .method .method--panel {
     display: table-cell;
-    padding: 20px 40px;
+    padding: units(2.5) units(5);
     vertical-align: top;
     width: 50%;
   }
 
   .method .method--panel--front {
-    padding-bottom: 15rem;
+    padding-bottom: 10rem;
     position: relative;
   }
 
@@ -247,14 +193,14 @@
       bottom: 0;
       display: table;
       left: 0;
-      padding: 0 40px 20px;
+      padding: 0 units(5) units(2.5);
       position: absolute;
       width: 100%;
   }
 
   .method .method--panel--back {
     border-radius: 0 6px 6px 0;
-    padding-top: 30px;
+    padding-top: units(4);
   }
 }
 
@@ -272,8 +218,4 @@
 }
 .category--fundamentals .method--title {
   border-color: $color-blue-dark;
-}
-
-.method--section--additional-resources {
-  margin-bottom: 10px;
 }

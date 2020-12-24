@@ -7,7 +7,7 @@ redirect_from:
 description: A comprehensive rendering of how a website's pages relate to one another.
 category: Decide
 what: A comprehensive rendering of how a website's pages relate to one another.
-why: To audit an existing website by assessing its structure and content. Site maps also help you plan and organize the contents of a new website prior to <a href="/make/wireframing/">wireframing</a> and building it.
+why: To audit an existing website by assessing its structure and content. Site maps also help you plan and organize the contents of a new website prior to <a href="/make/wireframing/" class="usa-link">wireframing</a> and building it.
 timeRequired: 2–3 hours
 ---
 

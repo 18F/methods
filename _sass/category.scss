@@ -1,24 +1,26 @@
 .category {
 
   .category--title {
-    font-family: $font-sans;
-    font-size: $h2-font-size;
-    margin-top: 0;
-    margin-bottom: .2em;
+    font-family: family('heading');
+    font-size: font-size('heading',12);
+    line-height: line-height('sans',3);
+    margin: 0;
   }
 
   .category--subtitle {
-    font-family: $font-sans;
-    font-size: $h3-font-size;
-    font-weight: 600;
+    font-family: family('heading');
+    font-size: font-size('heading',lg);
+    font-weight: font-weight('semibold');
+    line-height: line-height('sans',4);
+    // max-width: measure(1);
   }
 
   .category--header {
-    margin-bottom: 2.5em;
+    margin-bottom: units(5);
     padding-left: 0;
 
     a {
-      font-weight: 600;
+      font-weight: font-weight('semibold');
       text-decoration: underline;
 
       &:hover {
@@ -45,19 +47,12 @@
   .category--header .category--subtitle,
   .category--header .category--title,
   .category--header p {
-    color: $color-inverse;
+    color: white;
   }
 }
 
 .intro-header {
-  color: $color-inverse;
-}
-
-@media screen and (max-width: 950px) {
-  .category--intro .usa-font-lead {
-    font-size: 2.5rem;
-  }
-
+  color: white;
 }
 
 
@@ -66,46 +61,46 @@
 .layout--methods {
   .category {
     background-color: #fff;
-    .usa-width-two-thirds {
+    .grid-col-8 {
       margin-right: 0;
       padding-right: 2.35765%;
     }
-    .usa-width-one-third {
+    .grid-col-4 {
       padding-left: 2.35765%;
     }
   }
   .category--discover {
-      .usa-width-two-thirds
+      .grid-col-8
       { border-color: $color-blue; }
-      .usa-width-one-third {
+      .grid-col-4 {
         border-color: lighten( $color-blue, 25% )
       }
     }
   .category--make {
-    .usa-width-two-thirds
+    .grid-col-8
     { border-color: $color-gold; }
-    .usa-width-one-third {
+    .grid-col-4 {
       border-color: lighten( $color-gold, 25% )
     }
   }
   .category--validate {
-    .usa-width-two-thirds
+    .grid-col-8
     { border-color: $color-red; }
-    .usa-width-one-third {
+    .grid-col-4 {
       border-color: lighten( $color-red, 25% )
     }
   }
   .category--decide {
-    .usa-width-two-thirds
+    .grid-col-8
     { border-color: $color-green; }
-    .usa-width-one-third {
+    .grid-col-4 {
       border-color: lighten( $color-green, 25% )
     }
   }
   .category--fundamentals {
-    .usa-width-two-thirds
+    .grid-col-8
     { border-color: $color-blue-dark; }
-    .usa-width-one-third {
+    .grid-col-4 {
       border-color: lighten( $color-blue-dark, 25% )
     }
     .category--header .category--subtitle,
@@ -115,22 +110,22 @@
     }
   }
   .category {
-    padding: 3rem;
-    margin-bottom: 3rem;
     border-radius: 6px;
+    padding-top: 1em;
 
     .category--header {
       margin-bottom: 0;
     }
-    .usa-width-two-thirds, .usa-width-one-third {
+    .grid-col-8, .grid-col-4 {
       border-top-width: 8px;
       border-top-style: solid;
     }
     .category--subtitle {
-        margin-top: 2rem;
+      font-size: 1.5rem;
+      margin-top: 2rem;
     }
     h2 {
-      font-size: 2rem;
+      font-size: 1.3rem;
       margin-top: 2rem;
     }
     .method-listing {
@@ -145,11 +140,11 @@
 @media screen and (max-width: 600px) {
   .layout--introduction {
     .category {
-      .usa-width-two-thirds {
+      .grid-col-8 {
         padding-bottom: 2rem;
       }
 
-      .usa-width-one-third {
+      .grid-col-4 {
         padding-left: 0;
       }
     }

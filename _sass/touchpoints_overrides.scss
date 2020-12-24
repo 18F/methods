@@ -3,7 +3,8 @@
 //   bottom: 0;
 // }
 .fixed-tab-button.fixed-tab-button { //class repeated to override touchpoints style w/greater specificity
-  border-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
 }
 
 .layout--card,
@@ -34,6 +35,7 @@
 #fba-modal-dialog#fba-modal-dialog .usa-input,
 #fba-modal-dialog#fba-modal-dialog .usa-textarea {
   max-width: 100%;
+  font-size: 1em;
 }
 #fba-modal-dialog#fba-modal-dialog .usa-button {
   font-size: 1em;
@@ -42,4 +44,19 @@
 }
 #fba-modal-dialog#fba-modal-dialog .usa-banner__header .usa-banner__header-text {
   font-size: 12px;
+}
+
+
+
+
+.fixed-tab-button {
+  position: fixed;
+  bottom: 0;
+  right: 50px;
+  background: #02bfe7;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 1rem;
+  text-decoration: none;
+  z-index: 9999;
 }

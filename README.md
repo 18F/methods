@@ -51,14 +51,14 @@ You should be able to see the site at: `http://localhost:4000/`
 
 - Tiffany Andrews
 - Carly Jugler
-- Ana Monroe
+- Megan Reed
 - Peter Rowland
 - Julie Strothman
-- Omid Ghaffari-Tabrizi
 
 ## Past contributors
 
 - Amirah Aziz
+- Ana Monroe
 - Melissa Braxton
 - Jeremy Canfield
 - Elisa Chen
@@ -69,6 +69,7 @@ You should be able to see the site at: `http://localhost:4000/`
 - Leah Gitter
 - James Hupp
 - Nicky Krause
+- Omid Ghaffari-Tabrizi
 - Julia Lindpaintner
 - Colin MacArthur
 - Andrew Maier

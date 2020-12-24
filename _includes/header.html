@@ -4,108 +4,117 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <a class="usa-skipnav" href="#main">Skip to main content</a>
-<!-- Gov banner BEGIN -->
 
-<div class="usa-banner">
-    <header class="usa-banner-header">
-      <div class="usa-grid usa-banner-inner">
-      <img src="{{site.baseurl}}/images/uswds-0.14.0/us_flag_small.png" alt="U.S. flag">
-      <p>An official website of the United States government</p>
-      </div>
-    </header>
-  </div>
-<!-- Gov banner END -->
+{% include gov-banner.html %}
+
 <header role="banner" class="banner">
-<div class="usa-header usa-header-extended">
-<div class="usa-navbar">
-  <button class="usa-menu-btn">Menu</button>
-  <div class="usa-logo" id="logo">
-    <em class="usa-logo-text">
-      <a href="{{site.baseurl}}/" accesskey="1" title="Home" aria-label="Home">  <img src="{{site.baseurl}}/images/18F.svg" width="72"> Methods</a>
-    </em>
+  <div class="usa-header usa-header--extended">
+    <div class="usa-navbar">
+      <div class="usa-logo" id="logo">
+        <em class="usa-logo__text">
+          <a href="{{site.baseurl}}/" accesskey="1" title="Home" aria-label="Home">  <img src="{{site.baseurl}}/images/18F.svg" width="72"> Methods</a>
+        </em>
+      </div>
+      <button class="usa-menu-btn">Menu</button>
+    </div>
   </div>
-</div>
-</div>
 </header>
-<div class="usa-header usa-header-extended sticky">
+<div class="usa-header usa-header--extended sticky">
 <nav role="navigation" class="usa-nav">
-  <div class="usa-nav-inner">
+  <div class="usa-nav__inner">
 
-        <button class="usa-nav-close">
-          <img src="{{site.baseurl}}/images/uswds-0.14.0/close.svg" alt="close">
+        <button class="usa-nav__close">
+          <img src="{{site.baseurl}}/assets/uswds/img/close.svg" alt="close">
         </button>
-        <ul class="usa-nav-primary usa-accordion">
-          <li>
+        <ul class="usa-nav__primary usa-accordion">
+          <li class="usa-nav__primary-item">
             <button class="
-            usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="side-nav-1">
+            usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="side-nav-1">
               <span>Discover</span>
             </button>
-            <ul id="side-nav-1" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="side-nav-1" class="usa-nav__submenu" >
               {% assign discovermethods = discover_methods | sort:"title"  %}
               {% for method in discovermethods %}
-                <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
+                <li class="usa-nav__submenu-item">
+                    <a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a>
+                </li>
               {% endfor %}
-              <li><a href="{{site.baseurl}}/discover">See all Discover cards</a></li>
+              <li class="usa-nav__submenu-item">
+                  <a href="{{site.baseurl}}/discover">See all Discover cards</a>
+              </li>
             </ul>
           </li>
-          <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+          <li class="usa-nav__primary-item">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-2">
               <span>Decide</span>
             </button>
-            <ul id="sidenav-2" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-2" class="usa-nav__submenu">
               {% assign decidemethods = decide_methods | sort:"title"  %}
               {% for method in decidemethods %}
-                <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a>
+                </li>
               {% endfor %}
-                <li><a href="{{site.baseurl}}/decide">See all Decide cards</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{site.baseurl}}/decide">See all Decide cards</a>
+                </li>
             </ul>
           </li>
-          <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+          <li class="usa-nav__primary-item">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-3">
               <span>Make</span>
             </button>
-            <ul id="sidenav-3" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-3" class="usa-nav__submenu">
               {% assign makemethods = make_methods | sort:"title"  %}
               {% for method in makemethods %}
-                <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a>
+                </li>
               {% endfor %}
-                <li><a href="{{site.baseurl}}/make">See all Make cards</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{site.baseurl}}/make">See all Make cards</a>
+                </li>
             </ul>
           </li>
-          <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
+          <li class="usa-nav__primary-item">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-4">
               <span>Validate</span>
             </button>
-            <ul id="sidenav-4" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-4" class="usa-nav__submenu">
               {% assign validatemethods = validate_methods | sort:"title"  %}
               {% for method in validatemethods %}
-                <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a>
+                </li>
               {% endfor %}
-                <li><a href="{{site.baseurl}}/validate">See all Validate cards</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{site.baseurl}}/validate">See all Validate cards</a>
+                </li>
             </ul>
           </li>
-          <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-5">
+          <li class="usa-nav__primary-item">
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="sidenav-5">
               <span>Fundamentals</span>
             </button>
-            <ul id="sidenav-5" class="usa-nav-submenu" aria-hidden="true">
+            <ul id="sidenav-5" class="usa-nav__submenu">
               {% assign fundamentalsmethods = fundamentals_methods | sort:"title"  %}
               {% for method in fundamentalsmethods %}
-                <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a>
+                </li>
               {% endfor %}
-                <li><a href="{{site.baseurl}}/fundamentals">See all Fundamentals cards</a></li>
+                <li class="usa-nav__submenu-item">
+                  <a href="{{site.baseurl}}/fundamentals">See all Fundamentals cards</a>
+                </li>
             </ul>
           </li>
-          <li>
-
-          </li>
         </ul>
-        <div class="usa-nav-secondary">
-         <ul class="usa-unstyled-list usa-nav-secondary-links">
-           <li>
+        <div class="usa-nav__secondary">
+         <ul class="usa-nav__secondary-links">
+           <li class="usa-nav__secondary-item">
                <a href="{{site.baseurl}}/about">About</a>
            </li>
-           <li>
+           <li class="usa-nav__secondary-item">
              <a href="{{site.baseurl}}/print/">
                Print the Methods
              </a>

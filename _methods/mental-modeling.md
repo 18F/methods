@@ -22,13 +22,13 @@ timeRequired: 1–2 hours
 
 ## Additional resources
 
-- Book: <a href="http://rosenfeldmedia.com/books/mental-models/"><em>Mental Models: Aligning Design Strategy with Human Behavior.</em></a> Indi Young.
-- <a href="http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience">"The Secret to Designing an Intuitive UX: Match the Mental Model to the Conceptual Model."</a> Susan Weinschenk, UX Magazine.
+- Book: <a href="http://rosenfeldmedia.com/books/mental-models/" class="usa-link"><em>Mental Models: Aligning Design Strategy with Human Behavior.</em></a> Indi Young.
+- <a href="http://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience" class="usa-link">"The Secret to Designing an Intuitive UX: Match the Mental Model to the Conceptual Model."</a> Susan Weinschenk, UX Magazine.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
 No PRA implications. No information is collected from members of the public.
 </section>

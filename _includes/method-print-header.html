@@ -2,24 +2,24 @@
   <nav>
 
       {% if page.layout == "category" %}
-      <a href="{{site.baseurl}}/" class="usa-button usa-button-secondary">
+      <a href="{{site.baseurl}}/" class="usa-button usa-button--secondary">
         <img src="{{site.baseurl}}/images/cards.png" alt="" width="22">
         See all cards
       </a>
       {% else %}
-      <a href="{{site.baseurl}}/{{ page.category | downcase}}" class="usa-button usa-button-secondary" onclick="ga('send', 'event', 'Navigate', 'Click method category link','Navigate to method categoy page');">
+      <a href="{{site.baseurl}}/{{ page.category | downcase}}" class="usa-button usa-button--secondary margin-bottom-1" onclick="ga('send', 'event', 'Navigate', 'Click method category link','Navigate to method categoy page');">
         <img src="{{site.baseurl}}/images/cards.png" alt="" width="22">
         See all {{ page.category | capitalize }} cards
           </a>
       {% endif %}
 
       {% if page.layout == "category" %}
-      <a href="javascript:window.print()" class="usa-button usa-button-secondary">
+      <a href="javascript:window.print()" class="usa-button usa-button--secondary">
         <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
         Print all {{ page.category | capitalize }} cards
         </a>
       {% else %}
-      <a href="javascript:window.print()" class="usa-button usa-button-secondary">
+      <a href="javascript:window.print()" class="usa-button usa-button--secondary">
         <img src="{{site.baseurl}}/images/printer.png" alt="" width="20">
         Print this card
       </a>

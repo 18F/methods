@@ -9,7 +9,7 @@ category: Validate
 what: A method that allows potential users to review and provide feedback on a solution's visual direction.
 why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
 timeRequired: |
-  4-12 hours for [style tiles](/decide/style-tiles/#style-tiles). 30 minutes per participant to get feedback.
+  4-12 hours for <a href="/decide/style-tiles/#style-tiles" class="usa-link">style tiles</a>. 30 minutes per participant to get feedback.
 ---
 
 ## How to do it
@@ -24,15 +24,15 @@ timeRequired: |
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
-## Additional resources  
+## Additional resources
 
-- [Rapid Desirability Testing: A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley.
-- [Preference and Desirability Testing: Measuring Emotional Response to Guide Design.](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design) Michael Hawley and Paul Doncaster.
+- <a href="http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php" class="usa-link">Rapid Desirability Testing: A Case Study.</a> Michael Hawley.
+- <a href="http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design" class="usa-link">Preference and Desirability Testing: Measuring Emotional Response to Guide Design.</a> Michael Hawley and Paul Doncaster.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="/fundamentals/recruiting/#recruiting" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/#privacy" class="usa-link">Privacy</a> for more tips on taking input from the public.
 </section>

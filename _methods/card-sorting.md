@@ -30,12 +30,15 @@ There are two types of card sorting: open and closed. Most card sorts are perfor
 
 ## Example from 18F
 
-- [Research plan including card sorting from 18F's C2 project](https://github.com/18F/C2/wiki/Sprint-5:-Interaction-model-June-2016)
+- <a href="https://github.com/18F/C2/wiki/Sprint-5:-Interaction-model-June-2016" class="usa-link">
+      Research plan including card sorting from 18F's C2 project
+    </a>
+
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" > 
+<section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
 No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also explicitly excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a card sort tests (though in our case, a poor result is our fault).
 </section>

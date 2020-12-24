@@ -1,19 +1,5 @@
 /* @group layout--design-research-participant-agreement-spanish */
 
-.layout--example-design-research-participant-agreement-spanish .page h1{
-  font-size: 2.3rem;
-}
-
-@media screen and (min-width: 853.33px) {
-  .layout--example-design-research-participant-agreement-spanish .page{
-    max-width: 40em;
-  }
-  .layout--example-design-research-participant-agreement-spanish .page h1{
-    font-size: $h1-font-size;
-  }
-
-}
-
 .layout--example-design-research-participant-agreement-spanish main hr{
 	height: 5px;
 	background: #333;

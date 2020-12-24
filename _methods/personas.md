@@ -31,8 +31,9 @@ timeRequired: 2–3 hours
 
 ## Additional resources
 
-- <a href="https://articles.uie.com/perfecting_personas/" class="usa-link">"Perfecting Your Personas."</a> Kim Goodwin.
-- <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper" class="usa-link">"Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper."</a> Caroline Kraus.
+- <a href="https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/">Improving Customer Experience with Digital Personas.</a> Archivist of the United States.
+- <a href="https://articles.uie.com/perfecting_personas/">Perfecting Your Personas.</a> Kim Goodwin.
+- <a href="https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/">Personas for Accessible UX.</a> Whitney Quesenbery.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

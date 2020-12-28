@@ -22,7 +22,10 @@ timeRequired: 1-2 hours
 
 ## Additional resources
 
-- [An explanation of bodystorming on Wicked Problems: Problems Worth Solving. Austin Center for Design.](https://www.wickedproblems.com/6_bodystorming.php)
+- <a href="https://www.wickedproblems.com/6_bodystorming.php" class="usa-link">
+      An explanation of bodystorming on Wicked Problems: Problems Worth Solving. Austin Center for Design.
+    </a>
+
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

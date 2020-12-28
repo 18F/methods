@@ -14,22 +14,22 @@ timeRequired: 2–5 days of effort, 1–4 weeks elapsed through the testing peri
 ## How to do it
 
 1. Identify the call to action, content section, or feature that needs to be improved to increase conversion rates or user engagement.
-1. Develop a list of possible issues that may be hurting conversion rates or engagement. Specify in advance what you are optimizing for (possibly through [design hypothesis](/decide/design-hypothesis/)).
+1. Develop a list of possible issues that may be hurting conversion rates or engagement. Specify in advance what you are optimizing for (possibly through <a href="/decide/design-hypothesis/" class="usa-link">design hypothesis</a>).
 1. Design several solutions that aim to address the issues listed. Each solution should attempt to address every issue by using a unique combination of variants so each solution can be compared fairly.
 1. Use a web analytics tool that supports multivariate testing, such as Google Website Optimizer or Visual Website Optimizer, to set up the testing environment. Conduct the test for long enough to produce statistically significant results.
-1. Analyze the testing results to determine which solution produced the best conversion or engagement rates. Review the other solutions, as well, to see if there is information worth examining in with future studies.  
+1. Analyze the testing results to determine which solution produced the best conversion or engagement rates. Review the other solutions, as well, to see if there is information worth examining in with future studies.
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
 
-- [Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates. Paras Chopra.](http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/)
-- [Multivariate Testing 101: A Scientific Method of Optimizing Design. Paras Chopra.](http://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/)
+- <a href="http://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/" class="usa-link">Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates. Paras Chopra.</a>
+- <a href="http://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/" class="usa-link">Multivariate Testing 101: A Scientific Method of Optimizing Design. Paras Chopra.</a>
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
-No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
+No PRA implications. No one asks the users questions, so the PRA does not apply. See the methods for <a href="/fundamentals/recruiting/#recruiting" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/#privacy" class="usa-link">Privacy</a> for more tips on taking input from the public.
 </section>

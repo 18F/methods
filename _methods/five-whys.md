@@ -4,7 +4,7 @@ title: Five whys
 permalink: /discover/five-whys/
 redirect_from:
   - /five-whys/
-description: 
+description:
 category: Discover
 what: An iterative process for identifying the root cause of a problem by posing the question “Why?” at least five times to help separate symptoms from causes.
 
@@ -33,7 +33,7 @@ Starting problem: “We didn’t meet our goal for public feedback during the op
 
 After getting to a root cause, frame or reframe your problem solving approach to address it (e.g., “how might we create a call to action for comment submission?”).
 
-*Note: You may can “why” more or less than five times during this process. The purpose of this exercise is to help identify what is the root cause.  Ask “why” as many times as needed to get to what you think the root cause is.*
+*Note: You may ask “why” more or less than five times during this process. The purpose of this exercise is to help identify what is the root cause.  Ask “why” as many times as needed to get to what you think the root cause is.*
 
 <!-- <section class="method--section method--section--18f-example" markdown="1" >
 ## Example from 18F
@@ -45,15 +45,15 @@ After getting to a root cause, frame or reframe your problem solving approach to
 
 ## Additional resources
 
-- Five Whys Tree Diagrams — [Example 1](https://www.xmind.net/m/n5cq/) and [Example 2](https://www.xmind.net/m/SeKk/)
-- [Five Whys](https://en.wikipedia.org/wiki/Five_whys) on Wikipedia
-- [Root cause analysis](https://en.wikipedia.org/wiki/Five_whys) on Wikipedia
+- Five Whys Tree Diagrams — <a href="https://www.xmind.net/m/n5cq/" class="usa-link">Example 1</a> and <a href="https://www.xmind.net/m/SeKk/" class="usa-link">Example 2</a>
+- <a href="https://en.wikipedia.org/wiki/Five_whys" class="usa-link">Five Whys</a> on Wikipedia
+- <a href="https://en.wikipedia.org/wiki/Five_whys" class="usa-link">Root cause analysis</a> on Wikipedia
 
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
 No PRA implications. No information is collected from members of the public.
 

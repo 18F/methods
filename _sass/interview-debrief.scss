@@ -1,20 +1,22 @@
 /* @group .interview-debrief */
 
+.layout--example-interview-debrief-worksheet h1:first-of-type {
+  margin-top: 0;
+}
 .layout--example-interview-debrief-worksheet h1,
-.layout--example-interview-debrief-worksheet h1+p{
-  max-width: 38em;
+.layout--example-interview-debrief-worksheet h1 + p{
+  max-width: none;
 }
 
 .layout--example-interview-debrief-worksheet h1 + p{
-  font-size: 1.1em;
-  color: #444;
+  font-size: font-size('body',6);
+  max-width: none;
+  color: color('base-darker');
 }
 
 .layout--example-interview-debrief-worksheet p,
 .layout--example-interview-debrief-worksheet li {
-  max-width: 32em;
+  max-width: none;
 }
-
-.layout--example-interview-debrief-worksheet h3#references{ margin-top: 2em;}
 
 /* @end */

@@ -1,0 +1,227 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+!! Copy this file to your project's
+   sass root. Don't edit the version
+   in node_modules.
+----------------------------------------
+Custom project SASS goes here.
+
+i.e.
+@include u-padding-right('05');
+----------------------------------------
+*/
+// layout--methods
+.methods-listing ul { // landing page method categories methods navigation
+  padding: 0;
+  list-style-type: none;
+}
+
+.layout--card .method {
+  margin: 0 0 units(4) 0;
+}
+
+.layout--page main {
+    max-width: 1024px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: units(6) units(2.5) units(7);
+}
+
+.layout--page.layout--methods main {
+  padding: 0;
+  max-width: none;
+}
+
+
+@media screen and (min-width: 853.33px) {
+
+  .layout--page main { padding-right: 25%; }
+  .layout--page.layout--methods main { padding-right: 0; }
+
+}
+
+
+
+// general
+iframe:focus,
+[href]:focus,
+[tabindex]:focus,
+[contentEditable="true"]:focus,
+.usa-nav__primary button:focus {
+  box-shadow: 0 0 3px color('accent-cool-dark'), 0 0 7px color('accent-cool-dark');
+  outline: 0;
+}
+
+
+// header
+.usa-skipnav:focus {
+  z-index: 10000;
+}
+.usa-logo__text {
+  font-size: size('sans', 12);
+}
+.usa-logo img {
+  margin-bottom: -0.65rem;
+  margin-top: 10px;
+  max-width: 2.8rem;
+}
+.usa-header--extended .usa-logo {
+  @include u-margin-right(3);
+  margin-top: 0;
+}
+.usa-navbar {
+  height: 6.5rem;
+}
+@include at-media($theme-header-min-width) {
+  .usa-logo {
+    line-height: line-height('heading', 1);
+  }
+}
+.usa-nav__primary-item:last-of-type {
+  border-bottom: 1px solid color('base-lighter');
+}
+.usa-nav__primary button:hover,
+.usa-nav__secondary-links a:hover {
+  background-color: color('base-lightest');
+  color: black;
+  text-decoration: none;
+}
+.usa-nav__secondary {
+  font-weight: font-weight('bold');
+  margin-top: 0;
+}
+.usa-nav__secondary-links {
+  margin-top: 0;
+}
+.usa-nav__secondary a {
+  padding: units(2);
+}
+.usa-nav__secondary-links a {
+  color: color('base-dark');
+  font-size: font-size($theme-navigation-font-family, "xs");
+  padding-top: units(2);
+  padding-bottom: units(1);
+}
+.usa-nav__submenu {
+  border: 1px solid white;
+  border-top: none;
+}
+@include at-media($theme-header-min-width) {
+  .usa-nav__submenu {
+    border-top: none;
+    background-color: $color-blue-dark;
+  }
+  .usa-nav__primary button[aria-expanded="true"] {
+    background-color: $color-blue-dark;
+    color: white;
+  }
+  .usa-nav__primary-item:last-of-type {
+    border-bottom: none;
+  }
+  .usa-nav__secondary {
+    bottom: 3.75rem;
+  }
+  .usa-nav__secondary-links {
+    margin-bottom: 0;
+  }
+  .usa-nav__secondary-links a {
+    padding-bottom: units(2);
+  }
+  .usa-nav__secondary-links .usa-nav__secondary-item {
+    padding-left: 0;
+  }
+  .usa-nav__secondary-links .usa-nav__secondary-item+.usa-nav__secondary-item::before {
+    content: none;
+  }
+  .usa-header--extended .usa-nav__primary-item>.usa-current::after,
+  .usa-header--extended .usa-nav__primary-item>.usa-nav__link:hover::after {
+    background-color: color('primary');
+  }
+}
+@include at-media($theme-site-max-width) {
+  .usa-header+.usa-section,
+  .usa-header+main {
+    border-top: none;
+  }
+  .usa-header--extended .usa-nav {
+    border: none;
+    background-color: white;
+  }
+}
+// Mobile menu button styles
+.usa-menu-btn {
+  background-color: color('accent-cool-darker');
+  @include u-radius('md');
+  color: white;
+  display: inline;
+  float: right;
+  font-size: font-size(sans,1);
+  font-weight: font-weight('bold');
+  @include u-height(6);
+  line-height: line-height('sans', 6);
+  @include u-margin-right(2);
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+  @include at-media($theme-site-max-width) {
+    display: none;
+  }
+  &:hover {
+    background-color: color('primary-darker');
+    color: white;
+  }
+  &:visited {
+    color: white;
+  }
+}
+
+// intro headers
+.usa-intro {
+  font-size: font-size(sans,12);
+  font-weight: font-weight('bold');
+  line-height: line-height('sans',3);
+  max-width: measure(1);
+  margin: 0;
+}
+
+// footer
+.usa-footer__return-to-top a {
+  text-decoration: none;
+}
+
+// 18F Button styles
+.usa-button,
+.usa-button:visited,
+button,
+[type='button'],
+[type='submit'],
+[type='reset'],
+[type='image'] {
+  background-color: color('accent-cool-darker');
+  font-family: family('sans');
+  width: auto;
+  display: inline-block;
+
+  &:hover {
+    background-color: color('primary-dark');
+  }
+
+  &.usa-button--secondary,
+  &.usa-button--secondary:visited {
+    background-color: white;
+    color:  black;
+
+    &:hover {
+      background-color: color('base-lightest');
+    }
+  }
+}

@@ -1,8 +1,6 @@
 ---
 ---
-@import 'variables';
-@import 'uswds_overrides';
-@import 'screen';
+@import './assets/uswds/scss/theme/styles';
 @import 'touchpoints_overrides';
 @import 'participant-agreement';
 @import 'participant-agreement-spanish';
@@ -14,6 +12,5 @@
 @import 'category';
 @import 'method';
 @import 'sticky';
-@import 'intro-panel';
 @import 'footer';
 @import 'print';

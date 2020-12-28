@@ -23,7 +23,7 @@ layout: page
         <h2>Methods include</h2>
         <ul>
           {% for method in category.methods %}
-          <li><a href="{{ method | slugify | relative_url }}">{{ method }}</a></li>
+          <li><a href="{{ site.baseurl }}/{{ method | slugify }}">{{ method }}</a></li>
           {% endfor %}
         </ul>
       </div>

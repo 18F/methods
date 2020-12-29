@@ -25,7 +25,7 @@ layout: page
           <ul class="usa-list">
             {% for method in category.methods %}
             <li>
-              <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}/{{ method | slugify }}">{{ method }}</a>
+              <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}/{{ method | slugify }}" class="usa-link">{{ method }}</a>
             </li>
             {% endfor %}
           </ul>

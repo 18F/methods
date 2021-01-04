@@ -8,7 +8,7 @@ description: A listing and analysis of all the components, design patterns, and 
 
 category: Decide
 what: A listing and analysis of all the components, design patterns, and interface features of an existing website (including typography, color, graphics/illustration/icons)
-why: To identify components that need to be revised in new versions of a website to create consistency and fill gaps. Interface audits can also help you establish and document a design system for a website. 
+why: To identify components that need to be revised in new versions of a website to create consistency and fill gaps. Interface audits can also help you establish and document a design system for a website.
 timeRequired: Depends on scope of audit (how many pages, how many contributors, etc)
 ---
 
@@ -29,11 +29,9 @@ An interface audit can be conducted by an individual or in a group setting. Eith
 <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
-- [Conducting an Interface Inventory](https://bradfrost.com/blog/post/conducting-an-interface-inventory/), including sample interface inventory categories for a checklist. Brad Frost.
-- [Interface Inventory](https://bradfrost.com/blog/post/interface-inventory/). Brad Frost.
-- [Design Systems Sprint 1: The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a). Marcin Treder.
-
-
+- <a href="https://bradfrost.com/blog/post/conducting-an-interface-inventory/" class="usa-link">Conducting an Interface Inventory</a>, including sample interface inventory categories for a checklist. Brad Frost.
+- <a href="https://bradfrost.com/blog/post/interface-inventory/" class="usa-link">Interface Inventory</a>. Brad Frost.
+- <a href="https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a" class="usa-link">Design Systems Sprint 1: The Interface Inventory</a>. Marcin Treder.
 
 </section>
 

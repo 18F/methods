@@ -13,7 +13,7 @@ timeRequired: 2–3 hours
 
 ## How to do it
 
-1. Gather research from earlier activities like [contextual inquiry](/discover/contextual-inquiry/) or [stakeholder interviews](/discover/stakeholder-and-user-interviews/) in a way that's easy to review. You can create placeholder personas without research to teach user-centered thinking, but because they're effectively stereotypes, avoid using them for implementable design decisions.
+1. Gather research from earlier activities like <a href="/discover/contextual-inquiry/" class="usa-link">contextual inquiry</a> or <a href="/discover/stakeholder-and-user-interviews/" class="usa-link">stakeholder interviews</a> in a way that's easy to review. You can create placeholder personas without research to teach user-centered thinking, but because they're effectively stereotypes, avoid using them for implementable design decisions.
 1. Create a set of user archetypes based on how you believe people will use your solution. These typically get titles (for example, "data administrators" rather than "those who submit data").
 1. Analyze your records for patterns as they relate to user archetypes. Specifically note frequently observed goals, motivations, behaviors, and pain points.
 1. Pair recurring goals, behaviors, and pain points with archetypes. Give each archetype a name and a fictional account of their day. Add a photo of someone who fits the description, but ideally not an image of someone you've actually interviewed and who may be recognized.
@@ -23,7 +23,7 @@ timeRequired: 2–3 hours
 
 ## Example from 18F
 
-- <a href="https://github.com/18F/federalist-design/wiki/Personas">Personas for Federalist</a>
+- <a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist</a>
 
 </section>
 
@@ -31,13 +31,14 @@ timeRequired: 2–3 hours
 
 ## Additional resources
 
-- <a href="https://articles.uie.com/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.
-- <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper">"Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper."</a> Caroline Kraus.
+- <a href="https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/">Improving Customer Experience with Digital Personas.</a> Archivist of the United States.
+- <a href="https://articles.uie.com/perfecting_personas/">Perfecting Your Personas.</a> Kim Goodwin.
+- <a href="https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/">Personas for Accessible UX.</a> Whitney Quesenbery.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
 No PRA implications. No information is collected from members of the public.
 </section>

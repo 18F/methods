@@ -16,19 +16,19 @@ timeRequired: 1–2 hours to analyze and write an evaluation about each competit
 1. Establish which criteria or heuristics you will use to evaluate each competing service.
 1. Break down the analysis of each selected competitor into specific focal areas for evaluation. For example, how relevant are search results?
 1. Use a spreadsheet to capture the evaluation and determine how the targeted services and agencies perform based on the identified heuristics.
-1. Present the analysis, which should showcase areas of opportunities that you can take advantage of and design patterns you might adopt or avoid.  
+1. Present the analysis, which should showcase areas of opportunities that you can take advantage of and design patterns you might adopt or avoid.
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
 ## Example from 18F
 
-- <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis">Draft U.S. Web Design Standards Comparative Analysis</a>
+- <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis" class="usa-link">Draft U.S. Web Design Standards Comparative Analysis</a>
 
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
 No PRA implications. No information is collected from members of the public.
 </section>

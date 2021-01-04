@@ -25,13 +25,13 @@ timeRequired: 3–4 hours
 
 ## Example from 18F
 
-- ["User-centered design at 18F: a design studio for natural resource revenues"](https://18f.gsa.gov/2014/09/25/design-studio-onrr/) Chris Cairns , Michelle Hertzfeld , Nick Bristow.
+- <a href="https://18f.gsa.gov/2014/09/25/design-studio-onrr/" class="usa-link">"User-centered design at 18F: a design studio for natural resource revenues"</a> Chris Cairns , Michelle Hertzfeld , Nick Bristow.
 
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
-## Considerations for use in government  
+## Considerations for use in government
 
 No PRA implications. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply.
 </section>

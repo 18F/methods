@@ -4,28 +4,32 @@ title: Methods
 layout: page
 ---
 <div class="usa-section intro-header">
-  <div class="usa-grid">
-    <p class="usa-font-lead no-print">A collection of tools to bring human-centered design into your project.</p>
+  <div class="grid-container">
+    <p class="usa-intro no-print">A collection of tools to bring human-centered design into your project.</p>
   </div>
 </div>
 <div class="usa-section">
   {% for category in site.data.categories %}
-    <section class="usa-grid category usa-section category--{{ category.category_name | downcase }}" id="{{ category.category_name | downcase }}">
+    <section class="usa-prose grid-container category usa-section category--{{ category.category_name | downcase }}" id="{{ category.category_name | downcase }}">
       <h1 class="category--title category--{{ category.category_name | downcase }}--title">{{ category.category_name }}</h1>
-      <div class="usa-width-two-thirds">
-        <div class="category--header usa-content">
-          <p class="category--subtitle">{{ category.category_description }}</p>
-          <p>{{ category.category_info }}</p>
-          <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}" class="a-see-all">See all {{ category.category_name | downcase }} methods</a>
+      <div class="grid-row">
+        <div class="grid-col-8">
+          <div class="category--header usa-content">
+            <p class="category--subtitle">{{ category.category_description }}</p>
+            <p>{{ category.category_info }}</p>
+            <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}" class="usa-link a-see-all">See all {{ category.category_name | downcase }} methods</a>
+          </div>
         </div>
-      </div>
-      <div class="usa-width-one-third methods-listing">
-        <h2>Methods include</h2>
-        <ul>
-          {% for method in category.methods %}
-          <li><a href="{{ site.baseurl }}/{{ method | slugify }}">{{ method }}</a></li>
-          {% endfor %}
-        </ul>
+        <div class="grid-col-4 methods-listing">
+          <h2>Methods include</h2>
+          <ul class="usa-list">
+            {% for method in category.methods %}
+            <li>
+              <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}/{{ method | slugify }}" class="usa-link">{{ method }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </section>
   {% endfor %}

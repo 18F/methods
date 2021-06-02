@@ -34,7 +34,7 @@ timeRequired: 30 minutes to 1 hour per test
 
 ## Additional resources
 
-- Example Design Research Participant Agreement (<a href="(/participant-agreement/" class="usa-link">English</a>/<a href="/participant-agreement-spanish/" class="usa-link">Spanish</a>)
+- Example Design Research Participant Agreement (<a href="/participant-agreement/" class="usa-link">English</a>/<a href="/participant-agreement-spanish/" class="usa-link">Spanish</a>)
 - <a href="/interview-checklist/" class="usa-link">Interview checklist</a>
 - <a href="/usability-test-script/" class="usa-link">Example usability test script</a>
 - <a href="/rolling-issues-log/" class="usa-link">Rolling issues log</a>

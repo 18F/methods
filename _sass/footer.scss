@@ -1,4 +1,10 @@
 .site-footer {
-  font-size: font-size(sans,2xs);
-  padding: units(6) 0;
+  background-color: color('gray-cool-10');
+  font-size: size('body', 'sm');
+  padding: units(1) 0;
+
+  .usa-footer__primary-container
+  {
+    padding-left: units(3);
+  }
 }

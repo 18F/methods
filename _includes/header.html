@@ -110,7 +110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </li>
         </ul>
         <div class="usa-nav__secondary">
-         <ul class="usa-nav__secondary-links">
+          <ul class="usa-nav__secondary-links">
            <li class="usa-nav__secondary-item">
                <a href="{{site.baseurl}}/about">About</a>
            </li>
@@ -119,7 +119,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                Print the Methods
              </a>
            </li>
-         </ul>
+          </ul>
+          {% if site.search_site_handle %}
+            {% include search.html %}
+          {% endif %}
+
        </div>
   </div>
 </nav>

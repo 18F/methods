@@ -284,4 +284,10 @@ $z-index-overlay: 400;
       padding-left: units($theme-site-margins-width);
     }
   }
+
+  .usa-nav__secondary {
+    @include at-media($theme-header-min-width) {
+      bottom: units(1);
+    }
+  }
 }

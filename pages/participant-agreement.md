@@ -13,17 +13,29 @@ permalink: /participant-agreement/
 
 ---
 
-This agreement relates to your participation in a study led by `<organization>` to better understand `<area of inquiry>`. Please read it carefully and ask any questions you have before signing.
+This agreement relates to your participation in a U.S. General Services Administration (GSA) design research project. The project will take place between `<project start date>` and `<project end date>`. Our session with you is scheduled for `<session duration>`. The project’s purpose is to better understand `<area of inquiry>`. We ask that you read, sign, and return this agreement so you know your rights and what to expect from us. 
 
----
+**Please email or call us if you have any questions, concerns, or technical issues with signing.**
+Contact info: `<researcher name>` `<researcher email>` `<researcher phone>`
 
-- **You are not required to participate and may opt out at any time.** If at any point you no longer wish to participate, please inform the study moderator. 
-- **You will not receive payment or compensation for your participation.** You agree to perform all duties associated with your participation in this study during the period of `<project start date>` &ndash; `<project end date>` gratuitously and without expectation of payment or any other form of compensation from the United States Government. You freely and voluntarily agree to waive any right, claim, or other recourse against the United States federal Government relating to compensation for your participation in this study. Additionally, you agree to grant the United States Government with unlimited and unrestricted rights to use and reproduce all materials associated with your participation in this study.
-- **`<organization>` may record this study.** `<Organization>` may make video, audio, photographic, and written recordings of this study. These records will be stored by `<organization>` and shared only with persons with a valid need to know for necessary, official purposes.
+**You’re not required to take part in this research project. You can end your participation or skip a question at any time.** While we’d love to hear your perspective, your participation is completely voluntary. If at any point you no longer wish to take part or want to skip a question, please let us know. 
 
-- **`<Organization>` will take appropriate precautions to protect your privacy,** as explained in our Privacy Act Statement and <a aria-describedby="footnote-label" href="#footnote-pia" id="footnote-pia-ref">Privacy Impact Assessment</a>. `<Organization>` takes steps to minimize and remove any unnecessary sensitive personally identifiable information captured during this research.
+**We appreciate your participation. Your participation will be unpaid. You won’t receive any form of compensation for joining us for this session.** Your time and input make it possible for us to improve our services. Unfortunately we’re not able to provide compensation for this session. By participating in this study, you agree to waive any right or claim relating to compensation for your participation in this study. 
 
----
+**We’ll be using information from the sessions to understand what people expect and want from government programs and services.** We use what we learn to help others understand what’s important to support. You give us unlimited rights to use materials associated with your participation, except for some limitations on recordings as explained below.
+
+**We’d like to record this session.** We may record video, audio, or photo recordings from this session to help us review our time together and make sure we understood what you shared. We may also share recordings to help tell stories about what people want and need. In all cases we’ll take written notes. We might share quotes from people we interviewed. **Nothing shared will include your face or name.** When the design research project is completed, we’ll delete the full recordings. 
+
+Please check below if you approve recording this session. At any time during the session, you can ask us to stop recording, or you can end the discussion.
+- [ ] I approve recording this session
+
+**We’ll work to protect your privacy.** We’ll remove information that could be used to identify you, such as your face or name. (Your voice won’t be removed if you approved recording above.) There’s more information in this [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research).
+
+**You can withdraw your consent or change your mind about what you have shared with us.** You can do this during the session, at the end of the session, or up to <number days> after the session by contacting `<researcher name>` `<researcher email>` `<researcher phone>`.
+
+**We appreciate you taking part in this session.** Your perspective will help shape products and services for the American public. Thank you very much for your time and feedback!
+
+Your signature below means that you understand your rights and agree to the above.
 
 <table class="signature-block">
   <tr>
@@ -51,17 +63,3 @@ This agreement relates to your participation in a study led by `<organization>` 
     <td>&nbsp;</td>
   </tr>
 </table>
-
-Privacy Act Notice: `<Organization>` is asking for your contact information so that we can decide if you are able to participate in design research studies. Your participation in a study is optional; nothing changes if you decline. By providing your contact information, you agree to receive follow-up communications about the study.  
-  
-`<Organization>`'s design research is conducted in the spirit of Executive Order 13571, Section 2B, which directs agencies to “establish mechanisms to solicit customer feedback on government services and use such feedback regularly to make service improvements”. `<Organization>`'s collection of contact information is authorized by the E-Government Act of 2002 (P.L. 107-347, 44 USC § 3501).
-
-<footer>
-  <h1 id="footnote-label">Footnotes</h1>
-  <ol>
-    <li id="footnote-pia">
-      <p>See <a href="https://www.gsa.gov/portal/content/162010">https://www.gsa.gov/portal/content/162010</a> and <a href="https://www.gsa.gov/portal/content/102237">https://www.gsa.gov/portal/content/102237</a></p>
-      <a href="#footnote-pia-ref" aria-label="Back to content">↩</a>
-    </li>
-  </ol>
-</footer>

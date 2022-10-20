@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.3.1)
+    activesupport (7.0.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
-    addressable (2.8.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (9.8.6.5)
       execjs
     colorator (1.1.0)
@@ -22,7 +22,7 @@ GEM
     gemoji (3.0.1)
     hash-joiner (0.0.7)
       safe_yaml
-    html-pipeline (2.14.2)
+    html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.8.0)
@@ -73,16 +73,16 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_portile2 (2.8.0)
-    minitest (5.16.2)
-    nokogiri (1.13.8)
+    minitest (5.16.3)
+    nokogiri (1.13.9)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     posix-spawn (0.3.15)
-    public_suffix (4.0.7)
+    public_suffix (5.0.0)
     racc (1.6.0)
-    rb-fsevent (0.11.1)
+    rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.1)
@@ -113,4 +113,4 @@ DEPENDENCIES
   rouge
 
 BUNDLED WITH
-   1.17.3
+   2.1.4

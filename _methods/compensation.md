@@ -1,6 +1,6 @@
 ---
 layout: card
-title: Participant compensation
+title: Compensation
 permalink: /fundamentals/compensation/
 redirect_from:
   - /compensation/

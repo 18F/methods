@@ -19,8 +19,7 @@ timeRequired: 1–2 hours
 1. Ask each person to individually create a list of "heuristics" or general usability best practices. Examples of heuristics from Nielsen's "10 Usability Heuristics for User Interface Design" include:
     1.  The website should keep users informed about what is going on, through appropriate feedback within reasonable time.
     1.  The system should speak the user's language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.
-    1. Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue.
-1. Consider what hazards the service or product might hold for its users, such as a privacy breach, exclusion, or misinformation. Include heuristics to evaluate whether the site protects against harms from the identified hazards.
+1. Consider what hazards the service or product might hold for its users, and nclude heuristics to evaluate whether the site protects against possible harms.
 1. Ask each person to evaluate the website against their list and write down possible problems.
 1. After individual evaluations, gather people to discuss what they found and prioritize potential problems.
 

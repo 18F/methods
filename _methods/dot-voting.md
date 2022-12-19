@@ -20,8 +20,8 @@ timeRequired: 15 minutes
 1. Quickly review the project's goals and the conclusions of any prior user research.
 1. Ask team members to take five minutes to write important features or user needs on sticky notes. (One feature per sticky note.)
 1. After five minutes, ask participants to put their stickies on a board. If there are many sticky notes, ask participants to put their features next to similar ones. Remove exact duplicates.
-1. Give participants three to five colored stickers and instruct them to place their stickers on features they feel are most important to meeting the project's goals and user needs.
-1. Identify the features with the largest number of stickers (votes).
+1. Give participants three to five colored stickers and instruct them to place their stickers on features they feel are most important to meeting the project's goals and user needs. If the group is recently formed, or for other reasons has a low level of established trust and equity, consider a set-up where people can vote privately, e.g. on paper. You’ll need a few extra minutes to compile and display.
+1. Identify the features with the largest number of stickers (votes). Have the team review the voting for whether familiarity bias is resulting in enshrining the status quo.
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 

@@ -19,6 +19,7 @@ timeRequired: 4–12 hours
   - Information, devices, and services that support their behaviors
   - Important moments in how they experience a service or major decisions they make
   - The emotions associated with these moments or decisions
+  - Potential harms (e.g. financial penalties, anxiety, damaged reputation) associated with these moments or decisions
 2. Visualize the order in which people exhibit behaviors, use information, make decisions, and feel emotions. Group elements into a table of "phases" related to the personal narrative of each <a href="/decide/personas/#personas" class="usa-link">persona</a>. Identify where personas share contextual components.
 3. Discuss the map with stakeholders. Point out insights it offers. Use these insights to establish <a href="/decide/design-principles/#design-principles" class="usa-link">design principles</a>. Think about how to collapse or accelerate a customer's journey through the various phases. Incorporate this information into the project's scope.
 

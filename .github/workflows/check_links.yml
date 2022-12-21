@@ -13,7 +13,7 @@ jobs:
       - name: check that root-relative internal links are prefixed
         uses: mgwalker/action-no-root-relative-links@v1
         with:
-          path: _pages
+          path: pages
           message: Internal link begins with /, but should begin with {{ site.baseurl }}/
 
   internal-links:
@@ -27,6 +27,8 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
+      - name: build the site
+        run: bundle exec jekyll build
       - name: check for broken links
         uses: mgwalker/action-htmlproofer@v1
         with:

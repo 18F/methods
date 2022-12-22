@@ -44,6 +44,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-autoprefixer
+  - jekyll-liquify
 
 google_analytics_ua: UA-48605964-19
 dap_agency: GSA    # Change this to your agency

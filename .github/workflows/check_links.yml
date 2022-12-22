@@ -10,10 +10,15 @@ jobs:
       LANG: C.UTF-8
     steps:
       - uses: actions/checkout@v3
-      - name: check that root-relative internal links are prefixed
+      - name: check that root-relative internal links are prefixed (pages)
         uses: mgwalker/action-no-root-relative-links@v1
         with:
           path: pages
+          message: Internal link begins with /, but should begin with {{ site.baseurl }}/
+      - name: check that root-relative internal links are prefixed (methods)
+        uses: mgwalker/action-no-root-relative-links@v1
+        with:
+          path: _methods
           message: Internal link begins with /, but should begin with {{ site.baseurl }}/
 
   internal-links:

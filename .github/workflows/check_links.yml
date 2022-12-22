@@ -3,8 +3,8 @@ name: invalid links check
 on: [pull_request]
 
 jobs:
-  root-relative-links:
-    name: no root-relative links in source
+  root-relative-links-pages:
+    name: no root-relative links in source (pages)
     runs-on: ubuntu-latest
     env:
       LANG: C.UTF-8
@@ -15,6 +15,14 @@ jobs:
         with:
           path: pages
           message: Internal link begins with /, but should begin with {{ site.baseurl }}/
+
+  root-relative-links-methods:
+    name: no root-relative links in source (methods)
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v3
       - name: check that root-relative internal links are prefixed (methods)
         uses: mgwalker/action-no-root-relative-links@v1
         with:

@@ -9,7 +9,7 @@ category: Validate
 what: A method that allows potential users to review and provide feedback on a solution's visual direction.
 why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
 timeRequired: |
-  4-12 hours for <a href="/decide/style-tiles/#style-tiles" class="usa-link">style tiles</a>. 30 minutes per participant to get feedback.
+  4-12 hours for <a href="{{site.baseurl}}/decide/style-tiles/#style-tiles" class="usa-link">style tiles</a>. 30 minutes per participant to get feedback.
 ---
 
 ## How to do it
@@ -34,5 +34,5 @@ timeRequired: |
 
 ## Considerations for use in government
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="/fundamentals/recruiting/#recruiting" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/#privacy" class="usa-link">Privacy</a> for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for <a href="{{site.baseurl}}/fundamentals/recruiting/#recruiting" class="usa-link">Recruiting</a> and <a href="{{site.baseurl}}/fundamentals/privacy/#privacy" class="usa-link">Privacy</a> for more tips on taking input from the public.
 </section>

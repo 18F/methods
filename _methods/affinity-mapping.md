@@ -15,7 +15,7 @@ timeRequired: 1 hour
 
 ## How to do it
 
-1. Record ideas, quotes, or observations from <a href="/discover/stakeholder-and-user-interviews/" class="usa-link">interviews</a>, <a href="/discover/contextual-inquiry" class="usa-link">contextual inquiry</a>, or other sources of research on sticky notes.
+1. Record ideas, quotes, or observations from <a href="{{site.baseurl}}/discover/stakeholder-and-user-interviews/" class="usa-link">interviews</a>, <a href="{{site.baseurl}}/discover/contextual-inquiry" class="usa-link">contextual inquiry</a>, or other sources of research on sticky notes.
 1. Place the sticky notes on a white board (in no particular arrangement). Move the sticky notes into related groups.
 1. Use larger notes (or white board markers, if you're using a white board), to write titles or catch phrases for each group.
 

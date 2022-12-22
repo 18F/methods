@@ -7,7 +7,7 @@ permalink: /user-interview-script/
 
 # Example user interview script
 
-This document is designed as a useful starting point for leading a user interview. It includes example questions grouped along the key moments often found in an interview: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your user’s time scarce, consider sharing some questions ahead of time.  See [this checklist](/interview-checklist/) for actually running an interview.
+This document is designed as a useful starting point for leading a user interview. It includes example questions grouped along the key moments often found in an interview: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your user’s time scarce, consider sharing some questions ahead of time.  See [this checklist]({{site.baseurl}}/interview-checklist/) for actually running an interview.
 
 ## Introduction
 
@@ -50,7 +50,7 @@ What’s one thing you wish were more straightforward about `[topic]`?
 
 ## Demo
 
-**Note:** If you’re running a usability test, consider reviewing this [example usability test script](/usability-test-script/). Its introduction is slightly different, and the body of the script asks users to respond to scenarios.
+**Note:** If you’re running a usability test, consider reviewing this [example usability test script]({{site.baseurl}}/usability-test-script/). Its introduction is slightly different, and the body of the script asks users to respond to scenarios.
 
 When was the last time you did `[task]`? Tell me more.
 

@@ -1,0 +1,39 @@
+name: Synchronize issue and pull request templates
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/sync.yml
+      - .github/ISSUE_TEMPLATE/*
+      - .github/ISSUE_TEMPLATE.md
+      - .github/PULL_REQUEST_TEMPLATE/*
+      - .github/PULL_REQUEST_TEMPLATE.md
+
+jobs:
+  initialize:
+    name: Synchronize issue and pull request templates
+    runs-on: ubuntu-latest
+    steps:
+      # Rather than use a personal access token to interact with the project, we
+      # can use this GitHub App. There's an API for exchanging app credentials
+      # for a short-term token, and we use that API here.
+      - name: get token
+        uses: tibdex/github-app-token@v1
+        id: app_token
+        with:
+          app_id: ${{ secrets.PROJECT_APP_ID }}
+          installation_id: ${{ secrets.PROJECT_INSTALLATION_ID }}
+          private_key: ${{ secrets.PROJECT_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v3
+
+      # Now we can synchronize
+      - name: sync outwards
+        uses: BetaHuhn/repo-file-sync-action@v1.21.0
+        with:
+          GH_INSTALLATION_TOKEN: ${{ steps.app_token.outputs.token }}
+          GIT_EMAIL: bot@tts.gsa.gov
+          GIT_USERNAME: Guides Sync Bot
+          PR_LABELS: false

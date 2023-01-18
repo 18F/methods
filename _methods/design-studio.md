@@ -13,7 +13,7 @@ timeRequired: 3–4 hours
 
 ## How to do it
 
-1. Invite between six and 12 participants: stakeholders, users, and team members who need to build a shared understanding. Before the meeting, share applicable research, [user personas](/decide/personas/) (unless users will be present), and the design prompt for the exercise.
+1. Invite between six and 12 participants: stakeholders, users, and team members who need to build a shared understanding. Before the meeting, share applicable research, [user personas]({{site.baseurl}}/decide/personas/) (unless users will be present), and the design prompt for the exercise.
 1. Bring drawing materials. At the start of the meeting, review the design prompt and research you shared.
 1. Distribute drawing materials. Ask participants to individually sketch concepts that address the prompt. Remind them that anyone can draw and artistic accuracy is not the goal of the exercise. 15–20 minutes.
 1. Have participants present their ideas to one another in groups of three and solicit critiques.

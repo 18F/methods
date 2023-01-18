@@ -35,5 +35,5 @@ timeRequired: 1–2 hours
 
 ## Considerations for use in government
 
-No PRA Implications, as heuristic evaluations usually include a small number of evaluators. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply. See the methods for <a href="/fundamentals/recruiting/" class="usa-link">Recruiting</a> and <a href="/fundamentals/privacy/" class="usa-link">Privacy</a> for more tips on taking input from the public.
+No PRA Implications, as heuristic evaluations usually include a small number of evaluators. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply. See the methods for <a href="{{site.baseurl}}/fundamentals/recruiting/" class="usa-link">Recruiting</a> and <a href="{{site.baseurl}}/fundamentals/privacy/" class="usa-link">Privacy</a> for more tips on taking input from the public.
 </section>

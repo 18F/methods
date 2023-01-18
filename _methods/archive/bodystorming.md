@@ -14,7 +14,7 @@ timeRequired: 1-2 hours
 
 1. Gather three to six members of the project team who are ready to think on their feet. If possible, identify a few users who can play along.
 1. Bring the project team to the user's environment. If that's not practical, model the user's environment in a conference room.
-1. Assign each member of the project team to a role, interface, or "touchpoint" that you have identified in a [journey map](/decide/journey-mapping/). If users are present, ask them to pretend to accomplish their goals as usual. Otherwise, assign a [persona](/decide/personas/) to each member of the product team who isn't serving as a touchpoint. If you anticipate discomfort, assign roles in advance and start with a basic script.
+1. Assign each member of the project team to a role, interface, or "touchpoint" that you have identified in a [journey map]({{site.baseurl}}/decide/journey-mapping/). If users are present, ask them to pretend to accomplish their goals as usual. Otherwise, assign a [persona]({{site.baseurl}}/decide/personas/) to each member of the product team who isn't serving as a touchpoint. If you anticipate discomfort, assign roles in advance and start with a basic script.
 1. Use props to role play how users accomplish their goals. "Speak the interface" to one another. For example, one of the touchpoints might say "Submit all of your required forms," and the user might respond "Arg! I don't know what forms are required!"
 1. Review the exercise as a team and document the opportunities/challenges that this exercise suggests.
 

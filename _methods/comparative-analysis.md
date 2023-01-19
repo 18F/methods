@@ -20,9 +20,9 @@ timeRequired: 1–2 hours to analyze and write an evaluation about each competit
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
-## Example from 18F
+## Example from TTS
 
-- <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis" class="usa-link">Draft U.S. Web Design Standards Comparative Analysis</a>
+- <a href="https://github.com/18F/web-design-standards/wiki/Comparative-Analysis" class="usa-link">Draft U.S. Web Design Standards comparative analysis — USWDS GitHub</a>
 
 </section>
 

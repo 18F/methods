@@ -1,0 +1,11 @@
+group:
+  # Add each repo that should be synced here. One per line.
+  - repos: |
+      18f/methods
+      18f/ux-guide
+    files:
+      - .github/sync.yml
+      - .github/ISSUE_TEMPLATE/
+      - .github/ISSUE_TEMPLATE.md
+      - .github/PULL_REQUEST_TEMPLATE/
+      - .github/PULL_REQUEST_TEMPLATE.md

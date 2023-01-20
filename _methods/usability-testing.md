@@ -21,12 +21,9 @@ timeRequired: 30 minutes to 1 hour per test
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
-## Example from 18F
+## Examples from 18F
 
-- <a href="https://github.com/18F/doi-extractives-data/tree/research/research" class="usa-link">Usability testing plans from 18F's Extractive Industries Transparency Initiative project with Department of the Interior</a>
-- <a href="https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/" class="usa-link">Introduction to remote moderated usability testing, part 1&#58; What and why</a>
-- <a href="https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/" class="usa-link">Introduction to remote moderated usability testing, part 2&#58; How</a>
-
+- [Usability testing plans from 18F’s Extractive Industries Transparency Initiative project with Department of the Interior — Office of Natural Resources Revenue GitHub](https://github.com/ONRR/doi-extractives-data/blob/research/research/summary-jan2016.md)
 
 </section>
 
@@ -34,10 +31,14 @@ timeRequired: 30 minutes to 1 hour per test
 
 ## Additional resources
 
-- Example Design Research Participant Agreement (<a href="{{site.baseurl}}/participant-agreement/" class="usa-link">English</a>/<a href="{{site.baseurl}}/participant-agreement-spanish/" class="usa-link">Spanish</a>)
-- <a href="{{site.baseurl}}/interview-checklist/" class="usa-link">Interview checklist</a>
+- [Introduction to remote moderated usability testing, part 1: What and why — 18F Blog](https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/)
+- [Introduction to remote moderated usability testing, part 2: How — 18F Blog](https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/)
+- [Example design research participant agreement]({{site.baseurl}}/participant-agreement/)
+- [Ejemplo de acuerdo de participante de investigación de diseño]({{site.baseurl}}/participant-agreement-spanish/) 
+- <a href="{{site.baseurl}}/interview-checklist/" class="usa-link">Example interview checklist</a>
 - <a href="{{site.baseurl}}/usability-test-script/" class="usa-link">Example usability test script</a>
-- <a href="{{site.baseurl}}/rolling-issues-log/" class="usa-link">Rolling issues log</a>
+- <a href="{{site.baseurl}}/rolling-issues-log/" class="usa-link">Example rolling issues log</a>
+- [Example interview debrief worksheet]({{site.baseurl}}/interview-debrief/)
 
 </section>
 

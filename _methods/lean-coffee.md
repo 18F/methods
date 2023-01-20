@@ -35,7 +35,7 @@ At 18F, Lean coffee is often used to facilitate community of practice meetings a
 
 ## Additional resources
 
-- <a href="http://agilecoffee.com/leancoffee/" class="usa-link">Extended description of Lean coffee</a> from Agile Coffee
+- <a href="https://agilecoffee.com/leancoffee/" class="usa-link">Extended description of Lean coffee</a> from Agile Coffee
 
 </section>
 

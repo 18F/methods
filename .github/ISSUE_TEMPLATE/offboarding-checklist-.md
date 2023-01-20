@@ -2,7 +2,7 @@
 name: 'Offboarding checklist '
 about: 'A checklist to make sure we do what we need to do to support team members
   as they roll off the project. '
-title: Offboarding issue for [name]
+title: ''
 labels: ''
 assignees: ''
 

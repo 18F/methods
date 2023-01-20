@@ -22,10 +22,10 @@ timeRequired: 1–2 hours per interviewee
 
 ## Additional resources
 
-- <a href="{{site.baseurl}}/interview-checklist/" class="usa-link">"Interview checklist"</a>
-- <a href="https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/" class="usa-link">"Tips for capturing the best data from user interviews"</a> Ryan Sibley.
-- <a href="https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/" class="usa-link">"Build empathy with stakeholder interviews, part 1: Preparation."</a> Andrew Maier.
-- <a href="https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/" class="usa-link">"Build empathy with stakeholder interviews, part 2: Conversation."</a> Andrew Maier.
+- <a href="{{site.baseurl}}/interview-checklist/" class="usa-link">Interview checklist template</a>
+- <a href="https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/" class="usa-link">Tips for capturing the best data from user interviews — 18F Blog</a>
+- <a href="https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/" class="usa-link">Build empathy with stakeholder interviews, part 1: Preparation — 18F Blog</a>
+- <a href="https://18f.gsa.gov/2016/07/22/building-empathy-with-stakeholder-interviews-part-2-conversation/" class="usa-link">Build empathy with stakeholder interviews, part 2: Conversation — 18F Blog</a>
 
 </section>
 

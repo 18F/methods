@@ -28,10 +28,8 @@ timeRequired: 4–12 hours
 
 ## Additional resources
 
-- <a href="https://coe.gsa.gov/2019/04/17/cx-update-9.html" class="usa-link">3-part series on the what, why, and how of journey mapping</a> by GSA's Customer Experience Center of Excellence
-- <a href="http://adaptivepath.s3.amazonaws.com/apguide/download/Adaptive_Paths_Guide_to_Experience_Mapping.pdf" class="usa-link">Adaptive Path's Guide to Experience Mapping.</a> Adaptive Path (PDF).
-- <a href="https://www.wickedproblems.com/6_journey_maps.php" class="usa-link">An explanation of journey mapping on Wicked Problems Worth Solving.</a> Austin Center for Design.
-- <a href="http://www.uxbooth.com/articles/designing-digital-strategies-part-1-cartography/" class="usa-link">"Designing Digital Strategies, Part 1: Cartography."</a> UX Booth.
+- <a href="https://coe.gsa.gov/2019/04/17/cx-update-9.html" class="usa-link">3-part series on the what, why, and how of journey mapping  — GSA Customer Experience Center of Excellence</a>
+
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

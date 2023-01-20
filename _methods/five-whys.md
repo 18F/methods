@@ -41,15 +41,11 @@ After getting to a root cause, frame or reframe your problem solving approach to
 
 </section> -->
 
-<section class="method--section method--section--additional-resources" markdown="1">
+<!-- <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
 
-- Five Whys Tree Diagrams — <a href="https://www.xmind.net/m/n5cq/" class="usa-link">Example 1</a> and <a href="https://www.xmind.net/m/SeKk/" class="usa-link">Example 2</a>
-- <a href="https://en.wikipedia.org/wiki/Five_whys" class="usa-link">Five Whys</a> on Wikipedia
-- <a href="https://en.wikipedia.org/wiki/Five_whys" class="usa-link">Root cause analysis</a> on Wikipedia
-
-</section>
+</section> -->
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 

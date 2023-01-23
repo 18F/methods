@@ -5,7 +5,7 @@
     {% include category-setup.html %}
     {% include header.html %}
     <main id="main" role="main" class="usa-prose">
-      {{ content }}
+      {% include anchor_headings.html html=content anchorBody="#" %}
     </main>
     {% include footer.html %}
   </body>

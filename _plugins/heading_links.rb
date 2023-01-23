@@ -1,5 +1,10 @@
 Jekyll::Hooks.register :documents, :post_render do |doc|
   if doc.output_ext == ".html"
-    doc.output = "<!-- HOWDY -->" + doc.output.gsub(/<h[1-6].*?>.*?<\/h[1-6]>/m, '<a href="#" class="heading">\0</a>')
+    doc.output = doc.output.gsub(
+      /<h[1-6].*?>.*?<\/h[1-6]>/m,
+      '<a href="#" class="heading">\0</a>'
+    )
+  else
+    doc.ooutput = "<!-- HOWDY! -->" + doc.output
   end
 end

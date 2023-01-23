@@ -1,0 +1,8 @@
+a.heading-link {
+  color: inherit;
+  text-decoration: none;
+
+  .heading-link--symbol {
+    @extend .usa-link;
+  }
+}

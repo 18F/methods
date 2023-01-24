@@ -25,7 +25,7 @@ timeRequired: 30 minutes to one hour per person
 
 ## Additional resources
 
-- <a href="http://www.usabilitybok.org/cognitive-walkthrough" class="usa-link">
+- <a href="https://www.usabilitybok.org/cognitive-walkthrough" class="usa-link">
       An explanation of cognitive walkthroughs and how to conduct one.
     </a> The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 

@@ -23,9 +23,9 @@ timeRequired: 1–2 days depending on the complexity of the scenario(s)
 
 ## Additional resources
 
-- Tool: <a href="http://www.servicedesigntools.org/tools/13" class="usa-link">Communication Methods Supporting Design Processes.</a> Service Design Tools.
-- <a href="http://uxmag.com/articles/storyboarding-in-the-software-design-process" class="usa-link">"Storyboarding in the Software Design Process."</a> Ambrose Little.
-- <a href="http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard" class="usa-link">"The 8 Steps to Creating a Great Storyboard."</a> Jake Knapp.
+- Tool: <a href="https://www.servicedesigntools.org/tools/13" class="usa-link">Communication Methods Supporting Design Processes.</a> Service Design Tools.
+- <a href="https://uxmag.com/articles/storyboarding-in-the-software-design-process" class="usa-link">"Storyboarding in the Software Design Process."</a> Ambrose Little.
+- <a href="https://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard" class="usa-link">"The 8 Steps to Creating a Great Storyboard."</a> Jake Knapp.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

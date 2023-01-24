@@ -42,7 +42,7 @@ timeRequired: 3-8 hours
 
 ## Additional resources
 
-- <a href="http://uxmastery.com/how-to-conduct-a-content-audit/" class="usa-link">"How to Conduct a Content Audit."</a> UX Mastery.
+- <a href="https://uxmastery.com/how-to-conduct-a-content-audit/" class="usa-link">"How to Conduct a Content Audit."</a> UX Mastery.
 - <a href="https://www.braintraffic.com/blog/how-to-audit-big-websites" class="usa-link">"How to Audit Big Websites"</a> Christine Anameier.
 - <a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html" class="usa-link">"Content Inventory."</a> usability.gov
 </section>

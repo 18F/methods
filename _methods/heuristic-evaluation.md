@@ -27,8 +27,8 @@ timeRequired: 1–2 hours
 
 ## Additional resources
 
-- <a href="http://www.nngroup.com/articles/ten-usability-heuristics/" class="usa-link">"10 Usability Heuristics for User Interface Design."</a> Jakob Nielsen.
-- <a href="http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" class="usa-link">"How to Conduct a Heuristic Evaluation."</a> Jakob Nielsen.
+- <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" class="usa-link">"10 Usability Heuristics for User Interface Design."</a> Jakob Nielsen.
+- <a href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" class="usa-link">"How to Conduct a Heuristic Evaluation."</a> Jakob Nielsen.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

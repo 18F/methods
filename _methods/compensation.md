@@ -16,6 +16,14 @@ timeRequired: N/A
 1. Consider contracting for a recruiting service to help you get an effective research pool.
 1. If compensation is allowed, clearly communicate when and how participants will receive compensation. In the emails, postings, or other materials you use to recruit your participants, describe the compensation and how participants will receive it (via mail, pick up at an office, etc.). This is particularly important for "remote" research.
 
+<section class="method--section method--section--18f-example" markdown="1">
+
+## Example
+
+- [Compensating research participants — TTS Handbook](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants)
+
+</section>
+
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government  

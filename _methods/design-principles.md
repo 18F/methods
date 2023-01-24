@@ -23,17 +23,10 @@ timeRequired: 1 week, plus occasional refresher meetings
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
-## Example from 18F
-- 18F Design Principles Guide posts:  <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/create.md" class="usa-link">Create</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/define.md" class="usa-link">Define</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/resources.md" class="usa-link">Resources</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/usage.md" class="usa-link">Usage</a>
-- <a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/" class="usa-link">"Making more consistent decisions with design principles: A new 18F guide"</a> Elizabeth Goodman and Brad Nunnally.
+## Examples
+- 18F Design Principles Guide — <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/create.md" class="usa-link">Create</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/define.md" class="usa-link">Define</a>, <a href="https://github.com/18F/design-principles-guide/blob/18f-pages/pages/usage.md" class="usa-link">Usage</a>
+- <a href="https://18f.gsa.gov/2016/04/08/making-more-consistent-decisions-with-design-principles-a-new-18f-guide/" class="usa-link">Making more consistent decisions with design principles: A new 18F guide — 18F Blog</a>
 
-</section>
-
-<section class="method--section method--section--additional-resources" markdown="1">
-
-## Additional resources
-
-- <a href="https://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/" class="usa-link">"Design Principles: Dominance, Focal Points And Hierarchy."</a> Steven Bradley.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

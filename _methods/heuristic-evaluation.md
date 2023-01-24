@@ -27,8 +27,8 @@ timeRequired: 1–2 hours
 
 ## Additional resources
 
-- <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" class="usa-link">"10 Usability Heuristics for User Interface Design."</a> Jakob Nielsen.
-- <a href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" class="usa-link">"How to Conduct a Heuristic Evaluation."</a> Jakob Nielsen.
+- <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" class="usa-link">10 usability heuristics for user interface design — Nielsen Norman Group</a>
+- [USDA Digital strategy tools — Research — Heuristic review template](https://www.usda.gov/digital-strategy/tools)
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

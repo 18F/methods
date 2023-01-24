@@ -21,9 +21,9 @@ timeRequired: 2–3 hours
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
-## Example from 18F
+## Example
 
-- <a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist</a>
+- <a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist — 18F GitHub</a>
 
 </section>
 
@@ -31,10 +31,7 @@ timeRequired: 2–3 hours
 
 ## Additional resources
 
-- <a href="https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/">Improving Customer Experience with Digital Personas.</a> Archivist of the United States.
-- <a href="https://articles.uie.com/perfecting_personas/">Perfecting Your Personas.</a> Kim Goodwin.
-- <a href="https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/">Personas for Accessible UX.</a> Whitney Quesenbery.
-</section>
+- <a href="https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/">Improving customer experience with digital personas — Digital.gov</a> 
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 

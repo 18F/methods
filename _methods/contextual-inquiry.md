@@ -22,7 +22,7 @@ governmentConsiderations:
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
-## Example from 18F
+## Example
 
 A pair of 18F team members visited two Department of Labor/Wage Hour Division investigators as they interviewed home health care workers who were subject to unpaid overtime and other infractions. Since it was a sensitive subject, the 18F team did not question the health care workers directly, but instead asked the investigators clarifying questions in private. 18F staff also made sure that photos did not include faces.
 
@@ -33,7 +33,7 @@ A pair of 18F team members visited two Department of Labor/Wage Hour Division in
 ## Additional resources
 
 - <a href="https://hodigital.blog.gov.uk/2019/01/18/observational-research-5-tips-for-improving-your-approach%e2%80%af%e2%80%af/" class="usa-link">
-      Observational research: 5 Tips for Improving Your Approach
+     Observational research: 5 tips for improving your approach - GOV.UK
     </a>
 
 </section>

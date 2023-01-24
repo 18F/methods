@@ -1,6 +1,9 @@
 name: Sync labels
 
-on: [label]
+on:
+ schedule:
+   # daily at 3am UTC so as to probably not disrupt anyone
+   - cron: '0 3 * * *'
 
 jobs:
   labels:

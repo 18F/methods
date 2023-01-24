@@ -40,7 +40,7 @@ const markExternalLinks = () => {
   const externalLinkIcon = document.createElement("img");
   externalLinkIcon.setAttribute(
     "src",
-    `{{ site.baseurl }}/assets/uswds/img/usa-icons/launch.svg`
+    `{{ site.baseurl }}/assets/uswds/img/launch.svg`
   );
   externalLinkIcon.setAttribute("alt", "(external link)");
   externalLinkIcon.setAttribute("style", "width: 1rem;");

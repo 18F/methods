@@ -45,7 +45,7 @@ const markExternalLinks = () => {
   externalLinkIcon.setAttribute("alt", "(external link)");
   externalLinkIcon.setAttribute("style", "width: 1rem;");
 
-  Array.from(document.querySelectorAll("a[href]"))
+  Array.from(document.querySelectorAll("main a[href]"))
     .filter((a) => {
       const href = a.getAttribute("href");
       return (

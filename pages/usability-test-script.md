@@ -72,4 +72,4 @@ Who else should we talk to?
 
 ### References
 
-- [Steve Krug’s Usability Test Script](http://sensible.com/downloads/test-script-web.pdf)
+- [Steve Krug’s Usability Test Script](https://sensible.com/downloads/test-script-web.pdf)

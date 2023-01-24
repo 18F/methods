@@ -24,7 +24,9 @@ timeRequired: 2-3 hours per user goal
 ## Additional resources
 
 - <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html" class="usa-link">Task Analysis - Usability.gov</a> 
+
 </section>
+
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government

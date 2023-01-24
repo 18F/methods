@@ -19,9 +19,6 @@ timeRequired: 1 hour
 1. Place the sticky notes on a white board (in no particular arrangement). Move the sticky notes into related groups.
 1. Use larger notes (or white board markers, if you're using a white board), to write titles or catch phrases for each group.
 
-
-</section>
-
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government

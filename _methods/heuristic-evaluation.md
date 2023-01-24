@@ -29,6 +29,7 @@ timeRequired: 1–2 hours
 
 - <a href="http://www.nngroup.com/articles/ten-usability-heuristics/" class="usa-link">10 usability heuristics for user interface design — Nielsen Norman Group</a>
 - [USDA Digital strategy tools — Research — Heuristic review template](https://www.usda.gov/digital-strategy/tools)
+</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 

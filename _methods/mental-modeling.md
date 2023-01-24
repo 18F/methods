@@ -18,7 +18,6 @@ timeRequired: 1–2 hours
 1. In the left-hand column (Past), list the products, services, features, and/or interfaces that the user encounters as they go about what's listed in the Present behavior column.
 1. In the right-hand column (Future), list possible products, services, features, and/or interface elements that in the future might change behaviors and pain points in the Present behavior column.
 
-
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government

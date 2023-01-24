@@ -29,7 +29,6 @@ timeRequired: 4–12 hours
 ## Additional resources
 
 - <a href="https://coe.gsa.gov/2019/04/17/cx-update-9.html" class="usa-link">3-part series on the what, why, and how of journey mapping  — GSA Customer Experience Center of Excellence</a>
-
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

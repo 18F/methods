@@ -44,6 +44,8 @@ timeRequired: 3-8 hours
 
 - <a href="https://www.usda.gov/digital-strategy/content/plays#content3">Content plays: Audit your content — USDA</a>
 
+</section>
+
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government

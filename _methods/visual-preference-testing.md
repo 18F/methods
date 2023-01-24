@@ -22,7 +22,6 @@ timeRequired: |
 1. Compare the results of your research with the agency's published branding guidelines and attributes.
 1. Publish the results to the complete product team and decide which direction will guide future design efforts.
 
-
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government

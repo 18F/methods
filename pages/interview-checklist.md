@@ -87,7 +87,7 @@ permalink: /interview-checklist/
 - [ ] Thank the participant for their time and reiterate the value of their contributions
 - [ ] Ask the participant if there was anything they think we missed or that they would like to add
 - [ ] Ask if it would be okay to contact them again with any follow up questions
-- [ ] Provide any agreed-upon [incentives]({{site.baseurl}}/incentives)
+- [ ] Provide any agreed-upon [compensation]({{site.baseurl}}/compensation)
 - [ ] Turn off the recorder
 - [ ] If possible, ensure the participant that they will receive a copy of what you’ve found during the research (so they know what happened with the input they gave)
 - [ ] If desired, ask them who else you might talk to (fun fact: this is called snowball sampling)

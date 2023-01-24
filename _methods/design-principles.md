@@ -33,7 +33,7 @@ timeRequired: 1 week, plus occasional refresher meetings
 
 ## Additional resources
 
-- <a href="http://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/" class="usa-link">"Design Principles: Dominance, Focal Points And Hierarchy."</a> Steven Bradley.
+- <a href="https://www.smashingmagazine.com/2015/02/27/design-principles-dominance-focal-points-hierarchy/" class="usa-link">"Design Principles: Dominance, Focal Points And Hierarchy."</a> Steven Bradley.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

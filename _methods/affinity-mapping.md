@@ -24,7 +24,7 @@ timeRequired: 1 hour
 
 ## Additional resources
 
-- <a href="http://www.usabilitybok.org/affinity-diagram" class="usa-link">
+- <a href="https://www.usabilitybok.org/affinity-diagram" class="usa-link">
       An explanation of what affinity mapping is and how to do it.
     </a> The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
 - <a href="http://infodesign.com.au/usabilityresources/affinitydiagramming/" class="usa-link">An explanation of affinity mapping</a> information and Design.

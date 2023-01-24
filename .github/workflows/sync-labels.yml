@@ -1,4 +1,4 @@
-name: Sync labels from UX Guide repo
+name: Sync labels
 
 on:
  schedule:
@@ -7,10 +7,10 @@ on:
 
 jobs:
   labels:
-    name: synchronize labels from UX Guide repo
+    name: synchronize labels between repos
     runs-on: ubuntu-latest
     steps:
-      - name: sync labels from UX Guide repo
+      - name: sync labels between repos
         uses: EndBug/label-sync@v2
         with:
           source-repo: 18F/ux-guide

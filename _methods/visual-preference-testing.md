@@ -26,8 +26,8 @@ timeRequired: |
 
 ## Additional resources
 
-- <a href="http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php" class="usa-link">Rapid Desirability Testing: A Case Study.</a> Michael Hawley.
-- <a href="http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design" class="usa-link">Preference and Desirability Testing: Measuring Emotional Response to Guide Design.</a> Michael Hawley and Paul Doncaster.
+- <a href="https://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php" class="usa-link">Rapid Desirability Testing: A Case Study.</a> Michael Hawley.
+- <a href="https://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design" class="usa-link">Preference and Desirability Testing: Measuring Emotional Response to Guide Design.</a> Michael Hawley and Paul Doncaster.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

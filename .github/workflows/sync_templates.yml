@@ -4,7 +4,13 @@ on:
   push:
     branches:
       - main
-      - repo-sync
+    paths:
+      - .github/sync.yml
+      - .github/ISSUE_TEMPLATE/*
+      - .github/ISSUE_TEMPLATE.md
+      - .github/PULL_REQUEST_TEMPLATE/*
+      - .github/PULL_REQUEST_TEMPLATE.md
+      - .github/workflows/sync_templates.yml
 
 jobs:
   initialize:

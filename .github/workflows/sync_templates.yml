@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - repo-sync
     paths:
       - .github/sync.yml
       - .github/ISSUE_TEMPLATE/*

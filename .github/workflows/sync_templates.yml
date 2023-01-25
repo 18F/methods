@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - repo-sync
 
 jobs:
   initialize:
@@ -31,3 +32,4 @@ jobs:
           GIT_EMAIL: bot@tts.gsa.gov
           GIT_USERNAME: Guides Sync Bot
           PR_LABELS: false
+          COMMIT_EACH_FILE: false

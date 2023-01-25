@@ -4,7 +4,7 @@ group:
       18f/methods
       18f/ux-guide
     files:
-      - source: .github/workflows/sync_templates.yml
+      # - source: .github/workflows/sync_templates.yml
       - source: .github/sync.yml
       - source: .github/ISSUE_TEMPLATE/
         deleteOrphaned: true

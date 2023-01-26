@@ -1,0 +1,78 @@
+name: Synchronize wiki pages
+
+################################################################################
+#
+#   🚨  🚨  🚨
+#
+#   If you edit this file, be sure to make the same edit in all of the other
+#   repos whose wikis should participate in synchronization. The GitHub App we
+#   use to synchronize the repos themselves does not have permission to sync
+#   workflow files, so this file (and others in .github/workflows) must be
+#   manually copied.
+#
+################################################################################
+
+on:
+  gollum:
+
+jobs:
+  synchronize:
+    strategy:
+      matrix:
+        # The list of wikis to be synced. A GitHub wiki address has the same
+        # format as a regular repo, but with ".wiki" added to the end. Whenever
+        # this repo's wiki is updated, the changes will be pushed to the repos
+        # in this list as well. This list should include this repo.
+        target: [18f/methods.wiki, 18f/ux-guide.wiki]
+
+    name: Syncronize wikis
+    runs-on: ubuntu-latest
+    steps:
+      # Rather than use a personal access token to interact with the project, we
+      # can use this GitHub App. There's an API for exchanging app credentials
+      # for a short-term token, and we use that API here.
+      - name: get token
+        uses: tibdex/github-app-token@v1
+        id: app_token
+        with:
+          app_id: ${{ secrets.PROJECT_APP_ID }}
+          installation_id: ${{ secrets.PROJECT_INSTALLATION_ID }}
+          private_key: ${{ secrets.PROJECT_PRIVATE_KEY }}
+
+      # Checkout the local repo so we can get the config from it
+      - uses: actions/checkout@v3
+
+      - name: checkout the source wiki
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.repository }}.wiki
+          token: ${{ steps.app_token.outputs.token }}
+          path: source
+
+      - name: checkout the target wiki
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ matrix.target }}
+          token: ${{ steps.app_token.outputs.token }}
+          path: target
+
+      - name: copy files
+        # These are the files within the wiki that should be synced. We assume
+        # not everything should be synced, but some content should be consistent
+        # across repos.
+        run: |
+          cp source/Automated-testing.md target/
+          cp source/Guiding-principles-and-practices.md target/
+          cp source/Releases.md target/
+          cp source/Syncing-across-repos.md target/
+          cp source/Team-roster.md target/
+          cp source/images/* target/images/
+      
+      - name: push changes
+        run: |
+          cd target
+          git config --global user.email "bot@tts.gsa.gov"
+          git config --global user.name "Guides Sync Bot"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "sync update" && git push
+

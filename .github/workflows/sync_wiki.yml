@@ -39,9 +39,6 @@ jobs:
           installation_id: ${{ secrets.PROJECT_INSTALLATION_ID }}
           private_key: ${{ secrets.PROJECT_PRIVATE_KEY }}
 
-      # Checkout the local repo so we can get the config from it
-      - uses: actions/checkout@v3
-
       - name: checkout the source wiki
         uses: actions/checkout@v3
         with:

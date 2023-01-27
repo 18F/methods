@@ -10,9 +10,14 @@ name: Synchronize wiki pages
 #   workflow files, so this file (and others in .github/workflows) must be
 #   manually copied.
 #
+#   See this wiki page for more information about why and how we sync repos:
+#   https://github.com/18F/methods/wiki/Syncing-across-repos
+#
 ################################################################################
 
 on:
+  # Gollum events fire when a page in a repo's wiki is added, modified, or
+  # deleted. See: https://github.com/gollum/gollum
   gollum:
 
 jobs:
@@ -23,6 +28,8 @@ jobs:
         # format as a regular repo, but with ".wiki" added to the end. Whenever
         # this repo's wiki is updated, the changes will be pushed to the repos
         # in this list as well. This list should include this repo.
+        #
+        # https://github.com/18F/methods/wiki/Syncing-across-repos#1-get-a-temporary-access-token
         target: [18f/methods.wiki, 18f/ux-guide.wiki]
 
     name: Syncronize wikis

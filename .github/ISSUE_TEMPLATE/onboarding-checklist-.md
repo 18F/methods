@@ -17,4 +17,5 @@ Your onboarding buddy is [name]. They’ll be touching base with you to help you
 - [ ] Invite them to #co-working-adventure in Slack
 
 ## For you
-- [ ] Add yourself under this [“who’s on the team” section of README](https://docs.google.com/document/d/1dRKIZld_QmohUeDLQ8RbiHTweqHsJEjsn2akNMzQRUI/edit#bookmark=id.y4t1lhlwws4z)
+- [ ] Add yourself under the [Team roster](https://docs.google.com/document/d/1dRKIZld_QmohUeDLQ8RbiHTweqHsJEjsn2akNMzQRUI/edit#bookmark=id.y4t1lhlwws4z)
+- [ ] Read over the GitHub wiki

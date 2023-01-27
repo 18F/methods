@@ -64,13 +64,16 @@ jobs:
         # These are the files within the wiki that should be synced. We assume
         # not everything should be synced, but some content should be consistent
         # across repos.
+        #
+        # Prefer rsync to cp:
+        # https://github.com/18F/methods/pull/620#discussion_r1089097842
         run: |
-          cp source/Automated-testing.md target/
-          cp source/Guiding-principles-and-practices.md target/
-          cp source/Releases.md target/
-          cp source/Syncing-across-repos.md target/
-          cp source/Team-roster.md target/
-          cp source/images/* target/images/
+          rsync -aq source/Automated-testing.md target/
+          rsync -aq source/Guiding-principles-and-practices.md target/
+          rsync -aq source/Releases.md target/
+          rsync -aq source/Syncing-across-repos.md target/
+          rsync -aq source/Team-roster.md target/
+          rsync -aq source/images/ target/images/
       
       - name: push changes
         run: |

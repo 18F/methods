@@ -14,9 +14,9 @@ timeRequired: 30 minutes to 1 hour per test
 ## How to do it
 
 1. Pick what you’ll test. Choose something, such as a sketch, <a href="{{site.baseurl}}/prototyping/" class="usa-link">prototype</a>, or even a "competitor's product" that might help users accomplish their goals.
-1. Plan the test. Schedule a research-planning meeting and invite anyone who has an interest in what you’d like to test (using your discretion, of course). Align the group on the scenarios the test will center around, which users should participate (and how you'll <a href="{{site.baseurl}}/recruiting/" class="usa-link">recruit</a> them), and which members of your team will moderate and observe. Prepare a <a href="{{site.baseurl}}/usability-test-script/" class="usa-link">usability test script</a>.
-1. Recruit users and inform their consent. Provide a way for potential participants to sign up for the test. Pass along to participants an <a href="{{site.baseurl}}/participant-agreement/" class="usa-link">agreement</a> explaining what participation will entail. Clarify any logistical expectations, such as screen sharing, and pass along links or files of whatever it is you're testing.
-1. Run the tests. Moderators should verbally confirm with the participant that it’s okay to record the test, ask participants to think outloud, and guide the participant through the session. Observers should contribute to a <a href="{{site.baseurl}}/rolling-issues-log/" class="usa-link">rolling issues log</a> and relay any in-session questions to the moderator, refraining from interrupting the session from the participant's point of view. Engage your team in a <a href="{{site.baseurl}}/interview-debrief/" class="usa-link">post-interview debrief</a> after each test.
+1. Plan the test. Schedule a research-planning meeting and invite anyone who has an interest in what you’d like to test (using your discretion, of course). Align the group on the scenarios the test will center around, which users should participate (and how you'll <a href="{{site.baseurl}}/recruiting/" class="usa-link">recruit</a> them), and which members of your team will moderate and observe. Prepare a [usability test script](https://ux-guide.18f.gov/usability-test-script/).
+1. Recruit users and inform their consent. Provide a way for potential participants to sign up for the test. Pass along to participants an [design research participant agreement](https://ux-guide.18f.gov/participant-agreement/) explaining what participation will entail. Clarify any logistical expectations, such as screen sharing, and pass along links or files of whatever it is you're testing.
+1. Run the tests. Moderators should verbally confirm with the participant that it’s okay to record the test, ask participants to think outloud, and guide the participant through the session. Observers should contribute to a <a href="{{site.baseurl}}/rolling-issues-log/" class="usa-link">rolling issues log</a> and relay any in-session questions to the moderator, refraining from interrupting the session from the participant's point of view. Engage your team in a [interview debrief](https://ux-guide.18f.gov/interview-debrief/) after each test.
 1. Discuss the results. Schedule a 90-minute collaborative synthesis meeting to discuss issues you observed, and any questions these tests raise concerning user needs. Conclude the meeting by determining how the team will use what it learned in service of future design decisions.
 
 <section class="method--section method--section--18f-example" markdown="1" >
@@ -33,11 +33,12 @@ timeRequired: 30 minutes to 1 hour per test
 
 - [Introduction to remote moderated usability testing, part 1: What and why — 18F Blog](https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/)
 - [Introduction to remote moderated usability testing, part 2: How — 18F Blog](https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/)
-- [Example design research participant agreement]({{site.baseurl}}/participant-agreement/) / [Ejemplo de acuerdo de participante de investigación de diseño]({{site.baseurl}}/participant-agreement-spanish/) 
-- <a href="{{site.baseurl}}/interview-checklist/" class="usa-link">Example interview checklist</a>
-- <a href="{{site.baseurl}}/usability-test-script/" class="usa-link">Example usability test script</a>
+- [Example design research participant agreement](https://ux-guide.18f.gov/participant-agreement/) / [Ejemplo de acuerdo de participante de investigación de diseño](https://ux-guide.18f.gov/participant-agreement-spanish/) 
+- [Example interview checklist](https://ux-guide.18f.gov/interview-checklist/)
+- [Example usability test guide](https://ux-guide.18f.gov/usability-test-script/)
 - <a href="{{site.baseurl}}/rolling-issues-log/" class="usa-link">Example rolling issues log</a>
-- [Example interview debrief worksheet]({{site.baseurl}}/interview-debrief/)
+- [Example interview debrief worksheet](https://ux-guide.18f.gov/interview-debrief/)
+- [Usability test quality heuristics](https://ux-guide.18f.gov/usability-test-quality-heuristics/)
 
 </section>
 

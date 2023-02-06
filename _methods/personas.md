@@ -33,6 +33,8 @@ timeRequired: 2–3 hours
 
 - <a href="https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/">Improving customer experience with digital personas — Digital.gov</a> 
 
+</section>
+
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government

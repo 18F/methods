@@ -25,14 +25,16 @@ const addHeadingLinks = () => {
   };
 
   const headings = document.querySelectorAll(
-    "main h1, main h2, main h3, main h4, main h5, main h6"
+    "main h2, main h3, main h4, main h5, main h6"
   );
   for (const heading of headings) {
     if (!heading.id) {
       heading.id = slugify(heading.innerText);
     }
 
-    heading.innerHTML = `${heading.innerText} <a href="#${heading.id}" aria-hidden="true" tabindex="-1" class="usa-link heading-link--symbol">#</a>`;
+    heading.innerHTML = `${heading.innerText} <span aria-hidden="true"><a href="#${heading.id}" aria-label="Permanent link to ${heading.innerText}" class="usa-link heading-permalink heading-link--symbol"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+    <use xlink:href="#svg-link"></use>
+    </svg></a></span>`;
   }
 };
 

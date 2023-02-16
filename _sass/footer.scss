@@ -8,3 +8,14 @@
     padding-left: units(3);
   }
 }
+
+// Styling for heading links
+.heading-permalink {
+  text-decoration: none;
+  opacity: 0.2;
+}
+
+a.heading-permalink:hover,
+a.heading-permalink:focus {
+  opacity: 1;
+}

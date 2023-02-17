@@ -8,7 +8,7 @@
         <header class="category--header" aria-labelledby="{{method_category.title | downcase }}">
           <div class="grid-container">
             {% assign method_category = site.pages | where: "title", page.category | first %}
-            <span class="category--title" id="{{method_category.title | downcase }">{{method_category.title | capitalize }}</span>
+            <span class="category--title" id="{{method_category.title | downcase }}">{{method_category.title | capitalize }}</span>
             <p class="category--subtitle">{{method_category.description}}</p>
           </div>
         </header>

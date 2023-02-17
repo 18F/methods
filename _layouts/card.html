@@ -4,11 +4,11 @@
   <body class="layout--card category--{{page.category | downcase }}">
     {% include category-setup.html %} {% include header.html %}
     <main id="main" role="main">
-      <section class="category category--{{page.category | downcase }} usa-section usa-prose" id="{{page.category | downcase }}">
-        <header class="category--header">
+      <section class="category category--{{page.category | downcase }} usa-section usa-prose">
+        <header class="category--header" aria-labelledby="{{method_category.title | downcase }}">
           <div class="grid-container">
             {% assign method_category = site.pages | where: "title", page.category | first %}
-            <h1 class="category--title">{{method_category.title | capitalize }}</h1>
+            <span class="category--title" id="{{method_category.title | downcase }">{{method_category.title | capitalize }}</span>
             <p class="category--subtitle">{{method_category.description}}</p>
           </div>
         </header>

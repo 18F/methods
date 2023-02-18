@@ -16,13 +16,11 @@
 }
 
 .heading-permalink {
-  position:absolute;
-  left:0;
   opacity: 0.2;
 }
 
-a.heading-permalink:hover,
-a.heading-permalink:focus {
+.heading-permalink:hover,
+.heading-permalink:focus {
   opacity: 1;
 }
 

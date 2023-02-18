@@ -10,8 +10,14 @@
 }
 
 // Styling for heading links
+.usa-icon {
+  height: 1em;
+  width:1em;
+}
+
 .heading-permalink {
-  text-decoration: none;
+  position:absolute;
+  left:0;
   opacity: 0.2;
 }
 

@@ -33,7 +33,7 @@ jobs:
             console.log(syncTargets.join(", "));
 
             const myMilestones = await github
-              .paginate(`GET /repos/${owner}/${"methods"}/milestones`)
+              .paginate(`GET /repos/${owner}/${repo}/milestones`)
               .then((milestones) =>
                 milestones.map(({ title, description, due_on, state }) => ({
                   title,
@@ -50,7 +50,7 @@ jobs:
             for await (const target of syncTargets) {
               const theirMilestones = new Set(
                 await github
-                  .paginate(`GET /repos/${owner}/${"methods"}/milestones`)
+                  .paginate(`GET /repos/${owner}/${target}/milestones`)
                   .then((milestones) => milestones.map(({ title }) => title))
               );
               console.log(theirMilestones);

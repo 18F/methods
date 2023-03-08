@@ -23,7 +23,7 @@ timeRequired: 2–3 hours
 
 ## Example
 
-- <a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Federalist — 18F GitHub</a>
+- <a href="https://github.com/18F/federalist-design/wiki/Personas" class="usa-link">Personas for Cloud.gov — 18F GitHub</a>
 
 </section>
 

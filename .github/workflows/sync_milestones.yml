@@ -51,7 +51,7 @@ jobs:
               for await (const milestone of myMilestones) {
                 if (!theirMilestones.has(milestone.title)) {
                   // create this milestone over there
-                  await github.issues.createMilestone({ owner, repo: target, ...milestone });
+                  await github.rest.issues.createMilestone({ owner, repo: target, ...milestone });
                   break;
                 }
               }

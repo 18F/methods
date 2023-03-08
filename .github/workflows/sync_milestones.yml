@@ -29,8 +29,6 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
             const syncTargets = ["methods", "ux-guide"].filter((r) => r !== repo);
-            console.log("Targets:");
-            console.log(syncTargets.join(", "));
 
             const myMilestones = await github
               .paginate(`GET /repos/${owner}/${repo}/milestones`)
@@ -42,10 +40,6 @@ jobs:
                   state,
                 }))
               );
-            const milestoneNames = new Set(myMilestones.map(({ title }) => title));
-            console.log("My milestones:")
-            console.log(milestoneNames);
-            console.log("============")
 
             for await (const target of syncTargets) {
               const theirMilestones = new Set(
@@ -53,12 +47,12 @@ jobs:
                   .paginate(`GET /repos/${owner}/${target}/milestones`)
                   .then((milestones) => milestones.map(({ title }) => title))
               );
-              console.log(theirMilestones);
 
               for await (const milestone of myMilestones) {
                 if (!theirMilestones.has(milestone.title)) {
                   // create this milestone over there
-                  console.log(`add milestone ${milestone.title} to ${target}`);
+                  await github.issues.createMilestone({ owner, repo: target, ...milestone });
+                  break;
                 }
               }
             }

@@ -1,9 +1,8 @@
 name: sync milestones
 
 on:
-  push:
-    branches:
-      - 374-milestone-syncing
+  milestone:
+    types: [created]
 
 jobs:
   synchronize:

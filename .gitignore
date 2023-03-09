@@ -2,5 +2,4 @@ _site/
 .sass-cache/
 .DS_store
 .*.swp
-.ruby-version
 .jekyll-cache/

@@ -29,9 +29,7 @@ An interface audit can be conducted by an individual or in a group setting. Eith
 <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
-- <a href="https://bradfrost.com/blog/post/conducting-an-interface-inventory/" class="usa-link">Conducting an Interface Inventory</a>, including sample interface inventory categories for a checklist. Brad Frost.
-- <a href="https://bradfrost.com/blog/post/interface-inventory/" class="usa-link">Interface Inventory</a>. Brad Frost.
-- <a href="https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a" class="usa-link">Design Systems Sprint 1: The Interface Inventory</a>. Marcin Treder.
+- <a href="https://bradfrost.com/blog/post/conducting-an-interface-inventory/" class="usa-link">Conducting an interface inventory — Brad Frost</a>
 
 </section>
 

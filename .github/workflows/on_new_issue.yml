@@ -1,0 +1,39 @@
+name: Add new issues to the project board and label as new
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  initialize:
+    name: Initialize new issue
+    runs-on: ubuntu-latest
+    steps:
+      # Rather than use a personal access token to interact with the project, we
+      # can use this GitHub App. There's an API for exchanging app credentials
+      # for a short-term token, and we use that API here.
+      - name: get token
+        uses: tibdex/github-app-token@v1
+        id: app_token
+        with:
+          app_id: ${{ secrets.PROJECT_APP_ID }}
+          installation_id: ${{ secrets.PROJECT_INSTALLATION_ID }}
+          private_key: ${{ secrets.PROJECT_PRIVATE_KEY }}
+      # Now we can add the issue to the project board.
+      - name: add to project board
+        uses: actions/add-to-project@v0.4.0
+        with:
+          project-url: https://github.com/orgs/18F/projects/35
+          github-token: ${{ steps.app_token.outputs.token }}
+      # And add the "new issue" label too.
+      - name: add label
+        uses: actions/github-script@9ac08808f993958e9de277fe43a64532a609130e
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ["new issue"]
+            });

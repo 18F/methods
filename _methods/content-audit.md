@@ -32,9 +32,9 @@ timeRequired: 3-8 hours
 
 <section class="method--section method--section--18f-example" markdown="1">
 
-## Example from 18F
+## Example
 
-- <a href="https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/" class="usa-link">"Content debt: What it is, where to find it, and how to prevent it in the first place"</a> Melody Kramer.
+- <a href="https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/" class="usa-link">Content debt: What it is, where to find it, and how to prevent it in the first place — 18F Blog</a>
 
 </section>
 
@@ -42,9 +42,8 @@ timeRequired: 3-8 hours
 
 ## Additional resources
 
-- <a href="http://uxmastery.com/how-to-conduct-a-content-audit/" class="usa-link">"How to Conduct a Content Audit."</a> UX Mastery.
-- <a href="https://www.braintraffic.com/blog/how-to-audit-big-websites" class="usa-link">"How to Audit Big Websites"</a> Christine Anameier.
-- <a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html" class="usa-link">"Content Inventory."</a> usability.gov
+- <a href="https://www.usda.gov/digital-strategy/content/plays#content3">Content plays: Audit your content — USDA</a>
+
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

@@ -1,12 +1,11 @@
-@media screen and (min-width: 100px) {
-  .banner {
-    position: sticky;
-    top: 0;
-    z-index: 300; // matches 300 z-index of .usa-header
-    background-color: white;
-  }
+.banner {
+  position: sticky;
+  top: 0;
+  z-index: 300; // matches 300 z-index of .usa-header
+  background-color: white;
 }
-@media screen and (min-width: 950px) {
+
+@include at-media('desktop') {
   .banner {
     position: relative;
   }

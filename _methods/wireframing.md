@@ -15,7 +15,7 @@ timeRequired: 1-3 hours
 
 1. Build preliminary blueprints that show structure, placement, and hierarchy for your product. Steer clear of font choices, color, or other elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. A few helpful tools for building wireframes are OmniGraffle and Balsamiq, which purposefully keep the wireframe looking like rough sketches.
 1. Use this opportunity to start listing what UX/UI patterns you will need.
-1. Review your wireframes with specific <a href="/decide/user-scenarios/#user-scenarios" class="usa-link">user scenarios</a> and <a href="/decide/personas/#personas" class="usa-link">personas</a> in mind. Can users accomplish their task with the wireframe you are sketching out?
+1. Review your wireframes with specific <a href="{{site.baseurl}}/decide/user-scenarios/#user-scenarios" class="usa-link">user scenarios</a> and <a href="{{site.baseurl}}/decide/personas/#personas" class="usa-link">personas</a> in mind. Can users accomplish their task with the wireframe you are sketching out?
 1. Use the wireframes to get the team's feedback on feasibility and structure.
 
 <section class="method--section method--section--government-considerations" markdown="1" >

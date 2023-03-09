@@ -31,7 +31,7 @@ There are two types of card sorting: open and closed. Most card sorts are perfor
 ## Example from 18F
 
 - <a href="https://github.com/18F/C2/wiki/Sprint-5:-Interaction-model-June-2016" class="usa-link">
-      Research plan including card sorting from 18F's C2 project
+      Research plan including card sorting from 18F’s C2 project — 18F GitHub
     </a>
 
 </section>

@@ -5,13 +5,16 @@ layout: page
 ---
 <div class="usa-section intro-header">
   <div class="grid-container">
+    <h1 class="visually-hidden">{% if page.title %}
+      {{ page.title }}
+    {% endif %}    </h1>
     <p class="usa-intro no-print">A collection of tools to bring human-centered design into your project.</p>
   </div>
 </div>
 <div class="usa-section">
   {% for category in site.data.categories %}
     <section class="usa-prose grid-container category usa-section category--{{ category.category_name | downcase }}" id="{{ category.category_name | downcase }}">
-      <h1 class="category--title category--{{ category.category_name | downcase }}--title">{{ category.category_name }}</h1>
+      <h2 class="category--title category--{{ category.category_name | downcase }}--title">{{ category.category_name }}</h2>
       <div class="grid-row">
         <div class="grid-col-8">
           <div class="category--header usa-content">
@@ -21,7 +24,7 @@ layout: page
           </div>
         </div>
         <div class="grid-col-4 methods-listing">
-          <h2>Methods include</h2>
+          <h3>Methods include</h3>
           <ul class="usa-list">
             {% for method in category.methods %}
             <li>

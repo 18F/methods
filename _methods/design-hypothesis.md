@@ -30,12 +30,6 @@ timeRequired: 1-2 hours
 
 1. Identify a user touchpoint that will allow you to test your hypothesis, such as external marketing, the homepage, a microsite, or something else. Test your hypothesis. If you learn something unexpected, refine your hypothesis, test again, and continue to work incrementally towards your goals.
 
-<section class="method--section method--section--additional-resources" markdown="1">
-
-## Additional resources
-
-- <a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/" class="usa-link">Article from *Smashing Magazine*</a> on using design hypotheses in Lean UX
-</section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 

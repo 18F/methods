@@ -14,7 +14,7 @@ timeRequired: 1-3 hours
 
 ## How to do it
 
-1. Determine a few <a href="https://methods.18f.gov/decide/personas/" class="usa-link">personas</a> or user groups to focus on. Consider what scenario(s) might be the most critical for that user, including scenarios in which users face limited <a href="https://accessibility.18f.gov/" class="usa-link">accessibility</a>.
+1. Determine a few <a href="{{site.baseurl}}/decide/personas/" class="usa-link">personas</a> or user groups to focus on. Consider what scenario(s) might be the most critical for that user, including scenarios in which users face limited <a href="https://accessibility.18f.gov/" class="usa-link">accessibility</a>.
 1. For each user, list out their goals, motivations, and the context/environment in which they interact with your product, service, or website.
 1. Put the details you came up with in step 2 into a story format that includes the following information:
     * who they are (persona or user group)
@@ -28,18 +28,12 @@ timeRequired: 1-3 hours
 1. Share the user scenarios that you’ve written with the user group (and other relevant team members) for validation, feedback, and refinement.
 1. Examine your product, service, or website in light of these user scenarios and identify opportunities to make adjustments that would improve users’ experiences.
 
-
 <section class="method--section method--section--additional-resources" markdown="1">
 
 ## Additional resources
 
-- <a href="https://www.usability.gov/how-to-and-tools/methods/scenarios.html" class="usa-link">Example user scenarios from Usability.gov</a>
--  <a href="https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/" class="usa-link">Detailed explanation from usabilla.com</a>
-- <a href="https://aneventapart.com/news/post/compassionate-design-by-eric-meyeran-event-apart-video" class="usa-link">Talk by Eric Meyer that highlights the importance of user scenarios</a>
-- <a href="https://www.justinmind.com/blog/user-personas-scenarios-user-stories-and-storyboards-whats-the-difference/" class="usa-link">"Personas, scenarios, user stories and storyboards: what’s the difference?" from Justinmind.com</a>
+- <a href="https://www.usability.gov/how-to-and-tools/methods/scenarios.html" class="usa-link">Scenarios — Usability.gov</a>
 
-## Time required
-1-3 hours
 
 </section>
 

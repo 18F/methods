@@ -24,21 +24,13 @@ timeRequired: 30–60 mins
 This format can be adapted to include other categories. For example, asking participants to write down skills and experiences can help contextualize each person’s place in the group.
 
 <section class="method--section method--section--18f-example" markdown="1" >
-## Example from 18F
 
-- <a href="https://18f.gsa.gov/2016/10/25/three-small-steps-you-can-take-to-reboot-agile-in-your-organization/" class="usa-link">Three small steps you can take to reboot agile in your organization</a>
+## Example
 
-</section>
-
-<section class="method--section method--section--additional-resources" markdown="1">
-
-## Additional resources
-
-- Step-by-step with images from <a href="https://www.ibm.com/design/thinking/page/toolkit/activity/hopes-and-fears" class="usa-link">ibm.com</a>
-- Video tutorial from <a href="https://www.freshtilledsoil.com/design-sprint-shorts-episode-6-hopes-and-fears/" class="usa-link">freshtilledsoil.com</a>
-- Detailed instructions from <a href="https://www.iamnotmypixels.com/design-sprints-hopes-and-fears/" class="usa-link">iamnotmypixels.com</a>
+- <a href="https://18f.gsa.gov/2016/10/25/three-small-steps-you-can-take-to-reboot-agile-in-your-organization/" class="usa-link">Three small steps you can take to reboot agile in your organization — 18F Blog</a>
 
 </section>
+
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 

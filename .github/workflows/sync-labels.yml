@@ -1,0 +1,16 @@
+name: Sync labels
+
+on:
+ schedule:
+   # daily at 3am UTC so as to probably not disrupt anyone
+   - cron: '0 3 * * *'
+
+jobs:
+  labels:
+    name: synchronize labels between repos
+    runs-on: ubuntu-latest
+    steps:
+      - name: sync labels between repos
+        uses: EndBug/label-sync@v2
+        with:
+          source-repo: 18F/ux-guide

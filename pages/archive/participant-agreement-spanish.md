@@ -9,7 +9,7 @@ permalink: /participant-agreement-spanish/
 # Ejemplo de acuerdo de participante de investigación de diseño
 ### Spanish version
 
-### _([English version](/participant-agreement/))_
+### _([English version]({{site.baseurl}}/participant-agreement/))_
 
 ---
 
@@ -62,7 +62,7 @@ La investigación de diseño de `<Organización>` se lleva a cabo en el espírit
   <ol>
     <li id="footnote-pia">
       <p>See <a href="https://www.gsa.gov/portal/content/162010">https://www.gsa.gov/portal/content/162010</a> and <a href="https://www.gsa.gov/portal/content/102237">https://www.gsa.gov/portal/content/102237</a></p>
-      <a href="#footnote-pia-ref" aria-label="Back to content">↩</a>
+      <a href="#footnote-pia" aria-label="Back to content">↩</a>
     </li>
   </ol>
 </footer>

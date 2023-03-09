@@ -26,6 +26,15 @@ Learn more about our goals and the way we work in our [wiki](https://github.com/
 
 ### Running the Methods website on your local machine
 
+#### Using Docker (recommended)
+
+1. Install [Docker for Mac](https://docs.docker.com/desktop/install/mac-install/)
+1. Clone this repository
+1. From this repository's root directory, run `docker-compose up --build`
+1. Open http://localhost:4000
+
+#### Without Docker
+
 You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). You may consider using a Ruby version manager such as [rbenv](https://github.com/sstephenson/rbenv) or [rvm](https://rvm.io/) to help ensure that Ruby version upgrades don’t mean all your [gems](https://rubygems.org/) will need to be rebuilt.
 
 On OS X, you can use [Homebrew](http://brew.sh/) to install Ruby in `/usr/local/bin`, which may require you to update your `$PATH` environment variable:

@@ -1,0 +1,60 @@
+name: invalid links check
+
+on: [pull_request]
+
+jobs:
+  root-relative-links-pages:
+    name: no root-relative links in source (pages)
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v3
+      - name: check that root-relative internal links are prefixed (pages)
+        uses: mgwalker/action-no-root-relative-links@v1
+        with:
+          path: pages
+          message: Internal link begins with /, but should begin with {{ site.baseurl }}/
+
+  root-relative-links-methods:
+    name: no root-relative links in source (methods)
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v3
+      - name: check that root-relative internal links are prefixed (methods)
+        uses: mgwalker/action-no-root-relative-links@v1
+        with:
+          path: _methods
+          message: Internal link begins with /, but should begin with {{ site.baseurl }}/
+
+  internal-links:
+    name: verify internal links are valid
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+          bundler-cache: true
+      - name: build the site
+        run: bundle exec jekyll build
+      - name: check for broken links
+        uses: mgwalker/action-htmlproofer@v1
+        with:
+          path: _site
+          args: --disable-external --allow-missing-href
+      - name: comment on the PR
+        if: ${{ failure() }}
+        uses: actions/github-script@9ac08808f993958e9de277fe43a64532a609130e
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `At least one link is invalid. Please check the output of the tests in the checks below. For more information, see the [wiki page on automated tests](https://github.com/18F/ux-guide/wiki/Automated-testing).`
+            });

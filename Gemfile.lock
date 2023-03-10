@@ -83,7 +83,7 @@ GEM
       ffi (~> 1.0)
     redcarpet (3.6.0)
     rexml (3.2.5)
-    rouge (3.30.0)
+    rouge (4.1.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)

@@ -21,8 +21,4 @@ As with all of 18F’s products, the 18F Methods are completely open source. You
 
 ## Release notes
 
-{% for release in site.data.releases %}
-### {{ release.name }}
-<p class="site-subheading">{{ release.published_at | date: "%B %d, %Y" }}</p>
-{{ release.body | markdownify }}
-{% endfor %}
+[Releases are managed on GitHub](https://github.com/18F/methods/releases).

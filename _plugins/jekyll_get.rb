@@ -20,9 +20,7 @@ module Jekyll_Get
         begin
           target = site.data[name_of_target]
           source = JSON.load(open(d['json']))
-          if target
-            # do nothing
-          else
+          unless target
             site.data[name_of_target] = source
           end
           encoding = site.data[name_of_target]['encoding']

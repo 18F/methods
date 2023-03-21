@@ -3,3 +3,4 @@ _site/
 .DS_store
 .*.swp
 .jekyll-cache/
+.bundle

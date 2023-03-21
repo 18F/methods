@@ -1,5 +1,4 @@
 require 'json'
-require 'hash-joiner'
 require 'open-uri'
 require 'base64'
 
@@ -21,9 +20,7 @@ module Jekyll_Get
         begin
           target = site.data[name_of_target]
           source = JSON.load(open(d['json']))
-          if target
-            HashJoiner.deep_merge target, source
-          else
+          unless target
             site.data[name_of_target] = source
           end
           encoding = site.data[name_of_target]['encoding']

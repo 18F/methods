@@ -24,6 +24,8 @@ For more information on contributing to the Methods (or even making a suggestion
 
 Learn more about our goals and the way we work in our [wiki](https://github.com/18F/methods/wiki). 
 
+## Development
+
 ### Running the Methods website on your local machine
 
 #### Using Docker (recommended)
@@ -55,6 +57,10 @@ $ jekyll serve
 ```
 
 You should be able to see the site at: `http://localhost:4000/`
+
+### Deploying
+
+The Methods guide uses a webhook to deploy to Cloud.gov pages. When viewing a pull request, expand "Show all checks." If pages/build is complete, click "details" for a link to a preview for that branch.
 
 ## Current team
 

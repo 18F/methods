@@ -225,3 +225,57 @@ button,
     }
   }
 }
+
+// USWDS simple table styling
+//   This guide is being minimally maintained pending migration
+//   and rather than upgrade versions of USWDS, we have elected
+//   simply to copy in the rules we need to style an example table
+
+.usa-table-container--scrollable {
+  margin: 1.25rem 0;
+  overflow-y: hidden;
+}
+
+.usa-table-container--scrollable .usa-table {
+  margin: 0;
+}
+
+.usa-table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: #1b1b1b;
+  font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  font-size: 1.06rem;
+  line-height: 1.5;
+  margin: 1.25rem 0;
+}
+
+.usa-table, .usa-table tbody th {
+  text-align: left;
+}
+
+.usa-prose>.usa-table--striped tbody tr:nth-child(odd) td, .usa-prose>.usa-table--striped tbody tr:nth-child(odd) th, .usa-table--striped tbody tr:nth-child(odd) td, .usa-table--striped tbody tr:nth-child(odd) th {
+  background-color: #f0f0f0;
+  color: #1b1b1b;
+}
+
+.usa-table thead td, .usa-table thead th {
+  background-color: #e6e6e6;
+  color: #1b1b1b;
+}
+
+.usa-table thead th {
+  background-clip: padding-box;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.usa-prose>table td, .usa-prose>table th, .usa-table td, .usa-table th {
+  background-color: #fff;
+  border: 1px solid #1b1b1b;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+}
+
+.usa-table-container--scrollable td {
+  white-space: nowrap;
+}

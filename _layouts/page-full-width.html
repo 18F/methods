@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang='en'>
+  {% include head.html %}
+  <body class="layout--page-full-width layout--{{ page.title | slugify }}">
+    {% include category-setup.html %}
+    {% include header.html %}
+    <main id="main" role="main" class="usa-prose">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

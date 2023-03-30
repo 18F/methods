@@ -29,7 +29,8 @@ i.e.
   margin: 0 0 units(4) 0;
 }
 
-.layout--page main {
+.layout--page main,
+.layout--page-full-width main {
     max-width: 1024px;
     margin: 0 auto;
     box-sizing: border-box;
@@ -41,15 +42,13 @@ i.e.
   max-width: none;
 }
 
-
 @media screen and (min-width: 853.33px) {
 
   .layout--page main { padding-right: 25%; }
-  .layout--page.layout--methods main { padding-right: 0; }
+  .layout--page.layout--methods main, 
+  .layout--page-full-width main { padding-right: 0; }
 
 }
-
-
 
 // general
 iframe:focus,

@@ -4,11 +4,11 @@ The 18F Methods were created to describe how 18F puts human-centered design into
 
 ## Why methods?
 
-In order to function well within cross-functional teams, designers need to know a few things: which methods they might choose from, why one particular method makes more sense than another at any given moment, and, once they’ve picked a method, how to actually execute it. 18F Methods collects this essential information as a series of cards. In practice, we’ve found the Methods can provide folks with a gateway into our work and build internal alignment around a shared vocabulary.
+In order to function well within cross-functional teams, designers and other contributors need to know a few things: which methods they might choose from, why one particular method makes more sense than another at any given moment, and, once they’ve picked a method, how to actually execute it. 18F Methods collects this essential information as a series of cards. In practice, we’ve found the Methods can provide folks with a gateway into our work and build internal alignment around a shared vocabulary.
 
 ### Specific to 18F, specific to the federal government
 
-It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the [Paperwork Reduction Act](pra.digital.gov).
+It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information which designers working in the federal government may need, such as privacy and the [Paperwork Reduction Act](pra.digital.gov).
 
 ## Getting started
 
@@ -62,19 +62,20 @@ You should be able to see the site at: `http://localhost:4000/`
 
 The Methods guide uses a webhook to deploy to Cloud.gov pages. When viewing a pull request, expand "Show all checks." If pages/build is complete, click "details" for a link to a preview for that branch.
 
-## Current team
+## Current product owner
+- Melissa Braxton
+
+
+## Past contributors
 
 - Tiffany Andrews
 - Carly Jugler
 - Megan Reed
 - Peter Rowland
 - Julie Strothman
-
-## Past contributors
-
+- Anne Petersen
 - Amirah Aziz
 - Ana Monroe
-- Melissa Braxton
 - Jeremy Canfield
 - Elisa Chen
 - Erica Deahl

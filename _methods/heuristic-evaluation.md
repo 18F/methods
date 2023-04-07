@@ -27,6 +27,7 @@ timeRequired: 1–2 hours
 
 ## Additional resources
 
+- [Heuristic evaluations and expert reviews — usability.gov](https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
 - <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" class="usa-link">10 usability heuristics for user interface design — Nielsen Norman Group</a>
 - [USDA Digital strategy tools — Research — Heuristic review template](https://www.usda.gov/digital-strategy/tools)
 </section>

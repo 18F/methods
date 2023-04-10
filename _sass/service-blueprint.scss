@@ -1,9 +1,16 @@
 /* @group .service-blueprint-example */
+table.usa-table.service-blueprint {
+    margin-right: 20px;
+}
+.service-blueprint caption {
+    caption-side: bottom;
+    font-weight: normal;
+    padding: 14px;
+}
 table.service-blueprint th, table.service-blueprint td {
     border: none;
-    vertical-align: top;
-    min-width: 280px;
     padding-top: 62px;
+    vertical-align: top;
 }
 
 .service-blueprint tbody td {
@@ -17,6 +24,7 @@ table.service-blueprint th, table.service-blueprint td {
 .service-blueprint ul {
     margin-left: 0;
     padding-inline-start: 10px;
+    word-wrap: break-word;
 }
 
 .service-blueprint img {
@@ -39,6 +47,10 @@ tr.pink th, tr.pink td {
 
 .service-blueprint tbody th.steps {
     border-top: solid 8px #aeddaa;
+}
+
+.service-blueprint tbody {
+    border-bottom: 2px solid #58B84F;
 }
 .service-blueprint tbody th:first-child {
     padding-right: 40px;

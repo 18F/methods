@@ -18,7 +18,7 @@ permalink: /service-blueprint-example/
     <caption>This is a table showing an example service blueprint. The top row is the journey of a customer ordering and eating a burger at a restaurant. Each column is a different step in the customer's journey. The remaining rows describe different parts of the service and the support provided at each step in the customer’s journey.</caption>
       <tr>
         <th scope="row" class="role"> 
-        <img src="../images/18f-icons/user-check.svg" alt="user steps" width="48" height="48">
+        <img src="../images/18f-icons/user-check.svg" alt="" width="48" height="48">
         <strong>User steps</strong><br>
         The primary action someone takes when interacting with the service.</th>
         <th scope="col" class="steps"><strong>Decide and look up how to get to the restaurant</strong></th>
@@ -28,7 +28,7 @@ permalink: /service-blueprint-example/
       </tr>
       <tr>
         <th scope="row">
-        <img src="../images/18f-icons/user-network--c.svg" alt="frontstage" width="48" height="48">
+        <img src="../images/18f-icons/user-network--c.svg" alt="" width="48" height="48">
         <strong>Frontstage</strong><br>
         The online and offline interactions that users have with the service which includes the people, places, objects which users interact with.</th>
         <td>
@@ -70,7 +70,7 @@ permalink: /service-blueprint-example/
       </tr>
       <tr>
         <th scope="row">
-        <img src="../images/18f-icons/settings.svg" alt="backstage" width="48" height="48">
+        <img src="../images/18f-icons/settings.svg" alt="" width="48" height="48">
         <strong>Backstage</strong><br>
       Activities in the systems and  
       processes that support the  
@@ -106,7 +106,7 @@ permalink: /service-blueprint-example/
         </td>
       </tr>
       <tr>
-        <th scope="row"><img src="../images/18f-icons/list-to-do-checked--c.svg" alt="support processes" width="48" height="48">
+        <th scope="row"><img src="../images/18f-icons/list-to-do-checked--c.svg" alt="" width="48" height="48">
         <strong>Support processes</strong><br>  
         Activities executed by the rest of the organization or external partners — such as ongoing data management or software licensing — that don’t fall into the other rows</th>
         <td>

@@ -12,7 +12,7 @@ permalink: /service-blueprint-example/
 </style>
 <section class="example-card">
 # Service blueprint example
-<p>This simple <a href="">service blueprint</a> is an example of how you might lay out the layers of your service. There are many ways to create a service blueprint and adapt the structure to best represent and capture your context.</p>
+<p>This simple [service blueprint]({% link _methods/service-blueprint.md %}) is an example of how you might lay out the layers of your service. There are many ways to create a service blueprint and adapt the structure to best represent and capture your context.</p>
 <div class="usa-table-container--scrollable" tabindex="0">
   <table class="usa-table service-blueprint">
     <caption>This is a table showing an example service blueprint. The top row is the journey of a customer ordering and eating a burger at a restaurant. Each column is a different step in the customer's journey. The remaining rows describe different parts of the service and the support provided at each step in the customer’s journey.</caption>

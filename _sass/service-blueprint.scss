@@ -1,12 +1,13 @@
 /* @group .service-blueprint-example */
-table.usa-table.service-blueprint {
-    margin-right: 20px;
-}
+
 .service-blueprint caption {
     caption-side: bottom;
+    font-size: smaller;
     font-weight: normal;
+    max-width: 960px;
     padding: 14px;
 }
+
 table.service-blueprint th, table.service-blueprint td {
     border: none;
     padding-top: 62px;
@@ -70,8 +71,6 @@ body.layout--page-full-width.layout--service-blueprint-example {
     background-color: #58B84F;
 }
 
-@media screen and (min-width: 800px) {
-    p {
-        width: 50%;
-    }
+table.usa-table.service-blueprint {
+    margin-right: 20px;
 }

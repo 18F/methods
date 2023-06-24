@@ -18,6 +18,7 @@ Please review the Methods [content editing checklist](https://github.com/18F/met
 ## Suggesting new Methods
 We accept suggestions for additions to the Methods through a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdnW3KyP3j6EkrwKeMQ2v9n_rQRJVn7xm_5aNpyXG5w4UtEEA/viewform?usp=sf_link). We use four primary criteria to evaluate all new Method proposals. 
 18F Methods should be:
+* **Aligned:** Supports 18F design chapter strategic priorities 
 * **Tried:** It’s been used on one 18F project 
 * **Succinct how-tos:** Think activity, not philosophy
 * **Foundational:** Context-agnostic and unique

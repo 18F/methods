@@ -1,0 +1,67 @@
+name: sync milestones
+
+on:
+  milestone:
+    types: [created]
+
+jobs:
+  synchronize:
+    name: synchronize milestones
+    runs-on: ubuntu-latest
+
+    steps:
+      # Rather than use a personal access token to interact with the project, we
+      # can use this GitHub App. There's an API for exchanging app credentials
+      # for a short-term token, and we use that API here.
+      - name: get token
+        uses: tibdex/github-app-token@v1
+        id: app_token
+        with:
+          app_id: ${{ secrets.PROJECT_APP_ID }}
+          installation_id: ${{ secrets.PROJECT_INSTALLATION_ID }}
+          private_key: ${{ secrets.PROJECT_PRIVATE_KEY }}
+      
+      - name: sync milestones
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ steps.app_token.outputs.token }}
+          script: |
+            // Get the metadata about this repo from the workflow context
+            const { owner, repo } = context.repo;
+            // And remove this repo from the list of repos to sync to. No need
+            // to sync myself with myself.
+            const syncTargets = ["methods", "ux-guide"].filter((r) => r !== repo);
+
+            // Get a list of this repo's milestones
+            const myMilestones = await github
+              .paginate(`GET /repos/${owner}/${repo}/milestones`)
+              .then((milestones) =>
+                milestones.map(({ title, description, due_on, state }) => ({
+                  title,
+                  description,
+                  due_on,
+                  state,
+                }))
+              );
+
+            // Now for each sync target repo...
+            for await (const target of syncTargets) {
+              // Get the titles of their milestones, which we'll use to filter
+              // down to which milestones to synchronize
+              const theirMilestones = new Set(
+                await github
+                  .paginate(`GET /repos/${owner}/${target}/milestones`)
+                  .then((milestones) => milestones.map(({ title }) => title))
+              );
+
+              for await (const milestone of myMilestones) {
+                // If a milestone with this title does NOT exist in the target
+                // repo, then we should create one.
+                if (!theirMilestones.has(milestone.title)) {
+                  // Expand the milestone so we push the title, description, due
+                  // date, and status (open/closed) all at once.
+                  await github.rest.issues.createMilestone({ owner, repo: target, ...milestone });
+                }
+              }
+            }
+

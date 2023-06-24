@@ -30,7 +30,7 @@ timeRequired: N/A
 
 ## Considerations for use in government
 
-The government's use of information about people is subject to a number of laws and policies, including: <a href="https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition" class="usa-link">the Privacy Act of 1974</a>, the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
+The government's use of information about people is subject to a number of laws and policies, including: <a href="https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition" class="usa-link">the Privacy Act of 1974</a>, the Federal Information Security Management Act of 2002, and the eGovernment Act of 2002.
 
 Conduct a Privacy Threshold Analysis in collaboration your agency's privacy office whenever a design calls for the creation of a new data store (for example, a database).
 

@@ -1,0 +1,76 @@
+/* @group .service-blueprint-example */
+
+.service-blueprint caption {
+    caption-side: bottom;
+    font-size: smaller;
+    font-weight: normal;
+    max-width: 960px;
+    padding: 14px;
+}
+
+table.service-blueprint th, table.service-blueprint td {
+    border: none;
+    padding-top: 62px;
+    vertical-align: top;
+}
+
+.service-blueprint tbody td {
+    font-size: 0.7em;
+}
+
+.service-blueprint tbody th {
+    font-size: 0.9em;
+}
+
+.service-blueprint ul {
+    margin-left: 0;
+    padding-inline-start: 10px;
+    word-wrap: break-word;
+}
+
+.service-blueprint img {
+    display: block;
+    margin-bottom: 4px;
+}
+
+tr.blue th, tr.blue td {
+    background: #e7f1f9;
+}
+
+tr.pink th, tr.pink td {
+    background: #fdf5f6;
+}
+  
+  table.service-blueprint th.role {
+    border-top: solid #58B84F;
+    border-width: 8px;
+}
+
+.service-blueprint tbody th.steps {
+    border-top: solid 8px #aeddaa;
+}
+
+.service-blueprint tbody {
+    border-bottom: 2px solid #58B84F;
+}
+.service-blueprint tbody th:first-child {
+    padding-right: 40px;
+    padding-top: 20px;
+    min-width: 380px;
+}
+
+//optional styling
+.example-card {
+    background: white;
+    border-radius: 6px;
+    box-shadow: 1px 1px 0 rgba(0,0,0,0.08);
+    padding: 30px 0px 30px 30px;
+}
+
+body.layout--page-full-width.layout--service-blueprint-example {
+    background-color: #58B84F;
+}
+
+table.usa-table.service-blueprint {
+    margin-right: 20px;
+}

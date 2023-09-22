@@ -10,6 +10,13 @@ Jekyll::Hooks.register :site, :after_init do |site|
   # it'll just cause a 404.
   #
   # We can avoid all that by just emptying the site.url value on preview builds.
+  puts "============== Pages environment check =============="
+  puts "BRANCH: . .  #{ENV['BRANCH']}"
+  puts "OWNER: . . . #{ENV['OWNER']}"
+  puts "REPOSITORY:  #{ENV['REPOSITORY']}"
+  puts "SITE_PREFIX: #{ENV['SITE_PREFIX']}"
+  puts "BASEURL: . . #{ENV['BASEURL']}"
+
   branch = ENV['BRANCH']
   if !(branch.nil? || branch == 'main')
     site.config['url'] = nil

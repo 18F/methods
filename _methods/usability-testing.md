@@ -18,7 +18,6 @@ timeRequired: 30 minutes to 1 hour per test
 1. Recruit users and inform their consent. Provide a way for potential participants to sign up for the test. Pass along to participants an <a href="{{site.baseurl}}/participant-agreement/" class="usa-link">agreement</a> explaining what participation will entail. Clarify any logistical expectations, such as screen sharing, and how you'll share links or files of whatever it is you're testing.
 1. Run the tests. Moderators should verbally confirm with the participant that it’s okay to record the test, ask participants to think outloud, and guide the participant through the session. Observers should contribute to a <a href="{{site.baseurl}}/rolling-issues-log/" class="usa-link">rolling issues log</a> and relay any in-session questions to the moderator, refraining from interrupting the session from the participant's point of view. Engage your team in a <a href="{{site.baseurl}}/interview-debrief/" class="usa-link">post-interview debrief</a> after each test.
 1. Discuss the results. Schedule a collaborative synthesis meeting to discuss issues you observed, and any questions these tests raise concerning user needs. Conclude the meeting by determining how the team will use what it learned in service of future design decisions.
-main
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
